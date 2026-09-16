@@ -338,5 +338,53 @@
     "status": "已检索",
     "candidate_count": null,
     "notes": "2026-09-16补查有组织恐怖袭击。检出多为境外袭击中国公民、区间外案件或将个体袭击泛称恐怖主义，未检出满足组织性认定且在研究范围的可核实新增事件。"
+  },
+  {
+    "query": "https://www.court.gov.cn/zixun/xiangqing/505401.html",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "web正文部分可读；Python证书校验失败；系统curl保留证书校验成功",
+    "candidate_count": null,
+    "notes": "2026补查最终复核：逐项复核昆明、深圳、嘉禾、湖州、白沙；发现锡林浩特与曲沃遗漏并转入分季补查。"
+  },
+  {
+    "query": "https://www.spp.gov.cn/spp/zdgz/202603/t20260330_725001.shtml",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "web访问失败",
+    "candidate_count": null,
+    "notes": "2026补查最终复核：第一季度官方材料root复读失败，保留研究员成功HTTP访问与转载核验记录。"
+  },
+  {
+    "query": "https://finance.sina.com.cn/jjxw/2026-08-20/doc-ininxkrz8884709.shtml",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "正文已访问",
+    "candidate_count": null,
+    "notes": "2026补查最终复核：复核西宁先伤摊主、后伤劝架者的目击者采访引用及新黄河独立采访，扩大类依据成立。"
+  },
+  {
+    "query": "https://finance.sina.com.cn/wm/2026-05-01/doc-inhwkpte5570692.shtml",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "正文已访问",
+    "candidate_count": null,
+    "notes": "2026补查最终复核：复核广州地铁辣椒水：潇湘晨报和荔枝分别采访亲历者，派出所人员确认抓获；未将症状当精确伤者数。"
   }
 ]

@@ -3,31 +3,34 @@
   "loaded_groups": [
     "group_a",
     "group_b",
-    "group_c"
+    "group_c",
+    "update_2026_q1",
+    "update_2026_q2",
+    "update_2026_q3"
   ],
   "categories": {
-    "core": 51,
-    "excluded": 12,
-    "pending": 72,
-    "expanded": 12
+    "pending": 116,
+    "core": 56,
+    "excluded": 25,
+    "expanded": 17
   },
   "core": {
-    "events": 51,
+    "events": 56,
     "deaths_known_total": 162,
     "deaths_lower_total": 162,
-    "deaths_unknown_events": 1,
-    "injured_known_total": 455,
-    "injured_lower_total": 511,
-    "injured_unknown_events": 6
+    "deaths_unknown_events": 5,
+    "injured_known_total": 457,
+    "injured_lower_total": 519,
+    "injured_unknown_events": 10
   },
   "expanded": {
-    "events": 63,
+    "events": 73,
     "deaths_known_total": 204,
-    "deaths_lower_total": 204,
-    "deaths_unknown_events": 1,
-    "injured_known_total": 587,
-    "injured_lower_total": 646,
-    "injured_unknown_events": 7
+    "deaths_lower_total": 205,
+    "deaths_unknown_events": 10,
+    "injured_known_total": 593,
+    "injured_lower_total": 661,
+    "injured_unknown_events": 14
   },
   "annual": [
     {
@@ -418,49 +421,49 @@
       "year": 2026,
       "scope": "核心",
       "period": "截至09-16",
-      "events": 0,
+      "events": 5,
       "deaths_known_total": 0,
       "deaths_lower_total": 0,
-      "deaths_unknown_events": 0,
-      "injured_known_total": 0,
-      "injured_lower_total": 0,
-      "injured_unknown_events": 0
+      "deaths_unknown_events": 4,
+      "injured_known_total": 2,
+      "injured_lower_total": 8,
+      "injured_unknown_events": 4
     },
     {
       "year": 2026,
       "scope": "核心",
       "period": "01-01至09-16",
-      "events": 0,
+      "events": 5,
       "deaths_known_total": 0,
       "deaths_lower_total": 0,
-      "deaths_unknown_events": 0,
-      "injured_known_total": 0,
-      "injured_lower_total": 0,
-      "injured_unknown_events": 0
+      "deaths_unknown_events": 4,
+      "injured_known_total": 2,
+      "injured_lower_total": 8,
+      "injured_unknown_events": 4
     },
     {
       "year": 2026,
       "scope": "扩展",
       "period": "截至09-16",
-      "events": 0,
+      "events": 10,
       "deaths_known_total": 0,
-      "deaths_lower_total": 0,
-      "deaths_unknown_events": 0,
-      "injured_known_total": 0,
-      "injured_lower_total": 0,
-      "injured_unknown_events": 0
+      "deaths_lower_total": 1,
+      "deaths_unknown_events": 9,
+      "injured_known_total": 6,
+      "injured_lower_total": 15,
+      "injured_unknown_events": 7
     },
     {
       "year": 2026,
       "scope": "扩展",
       "period": "01-01至09-16",
-      "events": 0,
+      "events": 10,
       "deaths_known_total": 0,
-      "deaths_lower_total": 0,
-      "deaths_unknown_events": 0,
-      "injured_known_total": 0,
-      "injured_lower_total": 0,
-      "injured_unknown_events": 0
+      "deaths_lower_total": 1,
+      "deaths_unknown_events": 9,
+      "injured_known_total": 6,
+      "injured_lower_total": 15,
+      "injured_unknown_events": 7
     }
   ],
   "quarterly": [
@@ -786,23 +789,23 @@
     },
     {
       "quarter": "2026-Q1",
-      "events": 0,
+      "events": 3,
       "deaths_known_total": 0,
       "deaths_lower_total": 0,
-      "deaths_unknown_events": 0,
-      "injured_known_total": 0,
-      "injured_lower_total": 0,
-      "injured_unknown_events": 0
+      "deaths_unknown_events": 2,
+      "injured_known_total": 2,
+      "injured_lower_total": 4,
+      "injured_unknown_events": 2
     },
     {
       "quarter": "2026-Q2",
-      "events": 0,
+      "events": 2,
       "deaths_known_total": 0,
       "deaths_lower_total": 0,
-      "deaths_unknown_events": 0,
+      "deaths_unknown_events": 2,
       "injured_known_total": 0,
-      "injured_lower_total": 0,
-      "injured_unknown_events": 0
+      "injured_lower_total": 4,
+      "injured_unknown_events": 2
     },
     {
       "quarter": "2026-Q3",
@@ -963,19 +966,19 @@
     {
       "year": 2026,
       "scope": "核心",
-      "official_events": 0,
-      "all_verified_events": 0,
-      "largest_event_id": null,
+      "official_events": 4,
+      "all_verified_events": 5,
+      "largest_event_id": "LX26A12",
       "deaths_lower_total": 0,
       "deaths_without_largest": 0
     },
     {
       "year": 2026,
       "scope": "扩展",
-      "official_events": 0,
-      "all_verified_events": 0,
-      "largest_event_id": null,
-      "deaths_lower_total": 0,
+      "official_events": 8,
+      "all_verified_events": 10,
+      "largest_event_id": "LX26A10",
+      "deaths_lower_total": 1,
       "deaths_without_largest": 0
     }
   ],
@@ -992,13 +995,13 @@
     },
     {
       "province": "云南",
-      "events": 1,
+      "events": 3,
       "deaths_known_total": 0,
       "deaths_lower_total": 0,
-      "deaths_unknown_events": 0,
+      "deaths_unknown_events": 2,
       "injured_known_total": 54,
-      "injured_lower_total": 54,
-      "injured_unknown_events": 0
+      "injured_lower_total": 56,
+      "injured_unknown_events": 2
     },
     {
       "province": "北京",
@@ -1062,13 +1065,13 @@
     },
     {
       "province": "广东",
-      "events": 4,
+      "events": 5,
       "deaths_known_total": 42,
       "deaths_lower_total": 42,
-      "deaths_unknown_events": 0,
+      "deaths_unknown_events": 1,
       "injured_known_total": 46,
       "injured_lower_total": 71,
-      "injured_unknown_events": 1
+      "injured_unknown_events": 2
     },
     {
       "province": "江苏",
@@ -1132,13 +1135,13 @@
     },
     {
       "province": "湖南",
-      "events": 4,
+      "events": 5,
       "deaths_known_total": 17,
       "deaths_lower_total": 17,
-      "deaths_unknown_events": 0,
+      "deaths_unknown_events": 1,
       "injured_known_total": 79,
-      "injured_lower_total": 79,
-      "injured_unknown_events": 0
+      "injured_lower_total": 83,
+      "injured_unknown_events": 1
     },
     {
       "province": "福建",
@@ -1172,12 +1175,12 @@
     },
     {
       "province": "重庆",
-      "events": 4,
+      "events": 5,
       "deaths_known_total": 1,
       "deaths_lower_total": 1,
       "deaths_unknown_events": 0,
-      "injured_known_total": 20,
-      "injured_lower_total": 20,
+      "injured_known_total": 22,
+      "injured_lower_total": 22,
       "injured_unknown_events": 1
     },
     {
@@ -1194,13 +1197,13 @@
   "scenes": [
     {
       "scene": "公共交通",
-      "events": 6,
+      "events": 7,
       "deaths_known_total": 25,
       "deaths_lower_total": 25,
-      "deaths_unknown_events": 0,
+      "deaths_unknown_events": 1,
       "injured_known_total": 30,
       "injured_lower_total": 47,
-      "injured_unknown_events": 1
+      "injured_unknown_events": 2
     },
     {
       "scene": "公园广场",
@@ -1254,35 +1257,35 @@
     },
     {
       "scene": "社区住宅",
-      "events": 1,
+      "events": 3,
       "deaths_known_total": 1,
       "deaths_lower_total": 1,
-      "deaths_unknown_events": 0,
+      "deaths_unknown_events": 2,
       "injured_known_total": 0,
-      "injured_lower_total": 0,
-      "injured_unknown_events": 1
+      "injured_lower_total": 2,
+      "injured_unknown_events": 3
     },
     {
       "scene": "街道交通",
-      "events": 16,
+      "events": 18,
       "deaths_known_total": 41,
       "deaths_lower_total": 41,
-      "deaths_unknown_events": 1,
-      "injured_known_total": 68,
-      "injured_lower_total": 103,
-      "injured_unknown_events": 3
+      "deaths_unknown_events": 2,
+      "injured_known_total": 70,
+      "injured_lower_total": 109,
+      "injured_unknown_events": 4
     }
   ],
   "methods": [
     {
       "method": "其他",
-      "events": 4,
+      "events": 6,
       "deaths_known_total": 1,
       "deaths_lower_total": 1,
-      "deaths_unknown_events": 0,
+      "deaths_unknown_events": 2,
       "injured_known_total": 56,
-      "injured_lower_total": 56,
-      "injured_unknown_events": 0
+      "injured_lower_total": 60,
+      "injured_unknown_events": 2
     },
     {
       "method": "复合",
@@ -1296,13 +1299,13 @@
     },
     {
       "method": "持械",
-      "events": 32,
+      "events": 35,
       "deaths_known_total": 62,
       "deaths_lower_total": 62,
-      "deaths_unknown_events": 1,
-      "injured_known_total": 216,
-      "injured_lower_total": 216,
-      "injured_unknown_events": 2
+      "deaths_unknown_events": 3,
+      "injured_known_total": 218,
+      "injured_lower_total": 220,
+      "injured_unknown_events": 4
     },
     {
       "method": "爆炸",
@@ -1328,48 +1331,48 @@
   "missingness": [
     {
       "field": "动机摘要",
-      "missing": 14,
-      "n": 51
+      "missing": 19,
+      "n": 56
     },
     {
       "field": "作案者年龄",
-      "missing": 17,
-      "n": 51
+      "missing": 22,
+      "n": 56
     },
     {
       "field": "性别",
-      "missing": 0,
-      "n": 51
+      "missing": 1,
+      "n": 56
     },
     {
       "field": "职业状态",
-      "missing": 35,
-      "n": 51
+      "missing": 40,
+      "n": 56
     },
     {
       "field": "精神健康证据",
-      "missing": 40,
-      "n": 51
+      "missing": 45,
+      "n": 56
     },
     {
       "field": "既往暴力记录",
-      "missing": 49,
-      "n": 51
+      "missing": 54,
+      "n": 56
     },
     {
       "field": "事前威胁线索",
-      "missing": 42,
-      "n": 51
+      "missing": 47,
+      "n": 56
     },
     {
       "field": "干预与现场处置",
-      "missing": 13,
-      "n": 51
+      "missing": 14,
+      "n": 56
     },
     {
       "field": "重伤",
-      "missing": 38,
-      "n": 51
+      "missing": 43,
+      "n": 56
     }
   ],
   "motive_known": 37,
@@ -1710,5 +1713,180 @@
       "pearson_r": 0.7622606031599504,
       "interpretation": "描述性地区关联；检索未检出按记录数0计算；不能解释个人动机或实际犯罪率"
     }
-  ]
+  ],
+  "update_2026": {
+    "cutoff": "2026-09-16",
+    "previous_records": 10,
+    "current_records": 77,
+    "new_records": [
+      "LX26A05",
+      "LX26A06",
+      "LX26A17",
+      "LX26A15",
+      "LX26A16",
+      "LX26A12",
+      "LX26A01",
+      "LX26A02",
+      "LX26A18",
+      "LX26A03",
+      "LX26A20",
+      "LX26A04",
+      "LX26A13",
+      "LX26A19",
+      "LX26A21",
+      "LX26A22",
+      "LX26A07",
+      "LX26A08",
+      "LX26A14",
+      "LX26A09",
+      "LX26A10",
+      "LX26A23",
+      "LX26A11",
+      "LX26B05",
+      "LX26B02",
+      "LX26B14",
+      "LX26B25",
+      "LX26B01",
+      "LX26B12",
+      "LX26B18",
+      "LX26B15",
+      "LX26B13",
+      "LX26B04",
+      "LX26B19",
+      "LX26B03",
+      "LX26B11",
+      "LX26B16",
+      "LX26B17",
+      "LX26B08",
+      "LX26B09",
+      "LX26B20",
+      "LX26B21",
+      "LX26B06",
+      "LX26B10",
+      "LX26B22",
+      "LX26B23",
+      "LX26B24",
+      "LX26B07",
+      "LX26C08",
+      "LX26C01",
+      "LX26C15",
+      "LX26C10",
+      "LX26C09",
+      "LX26C05",
+      "LX26C18",
+      "LX26C13",
+      "LX26C06",
+      "LX26C19",
+      "LX26C04",
+      "LX26C11",
+      "LX26C07",
+      "LX26C14",
+      "LX26C03",
+      "LX26C02",
+      "LX26C16",
+      "LX26C17",
+      "LX26C12"
+    ],
+    "reviewed_existing": [
+      "C034",
+      "C027",
+      "C037",
+      "C044",
+      "C038",
+      "C029",
+      "C028",
+      "C041",
+      "C042",
+      "C024"
+    ],
+    "category_changes": [
+      {
+        "id": "C044",
+        "before": "excluded",
+        "after": "pending"
+      },
+      {
+        "id": "C041",
+        "before": "pending",
+        "after": "expanded"
+      }
+    ],
+    "categories": {
+      "pending": 53,
+      "excluded": 14,
+      "expanded": 5,
+      "core": 5
+    },
+    "official_occurrence": 46,
+    "core": {
+      "events": 5,
+      "deaths_known_total": 0,
+      "deaths_lower_total": 0,
+      "deaths_unknown_events": 4,
+      "injured_known_total": 2,
+      "injured_lower_total": 8,
+      "injured_unknown_events": 4
+    },
+    "expanded": {
+      "events": 10,
+      "deaths_known_total": 0,
+      "deaths_lower_total": 1,
+      "deaths_unknown_events": 9,
+      "injured_known_total": 6,
+      "injured_lower_total": 15,
+      "injured_unknown_events": 7
+    },
+    "months": [
+      {
+        "month": "2026-01",
+        "excluded": 2,
+        "pending": 3,
+        "expanded": 1,
+        "core": 2
+      },
+      {
+        "month": "2026-02",
+        "pending": 2,
+        "expanded": 1,
+        "core": 1
+      },
+      {
+        "month": "2026-03",
+        "pending": 7,
+        "excluded": 3,
+        "expanded": 1
+      },
+      {
+        "month": "2026-04",
+        "pending": 9,
+        "expanded": 1,
+        "core": 2,
+        "excluded": 1
+      },
+      {
+        "month": "2026-05",
+        "pending": 4
+      },
+      {
+        "month": "2026-06",
+        "pending": 9,
+        "excluded": 3
+      },
+      {
+        "month": "2026-07",
+        "pending": 8,
+        "excluded": 2
+      },
+      {
+        "month": "2026-08",
+        "pending": 4,
+        "excluded": 3,
+        "expanded": 1
+      },
+      {
+        "month": "2026-09",
+        "pending": 5
+      }
+    ]
+  }
 }

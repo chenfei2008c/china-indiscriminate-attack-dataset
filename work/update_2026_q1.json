@@ -1,0 +1,3442 @@
+{
+  "new_events": [
+    {
+      "district": "港口镇",
+      "urban_rural": null,
+      "deaths": null,
+      "injured": 2,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2026-01-19",
+      "casualty_note": null,
+      "involves_children": null,
+      "victim_relation": null,
+      "age": 27,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": "警方仅描述语言混乱、行为异常；不作精神病诊断",
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": null,
+      "outcome": "司机被当场控制。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2026-01-19",
+      "notes": null,
+      "deaths_lower_bound": null,
+      "injured_lower_bound": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "evidence_level": "官方转载",
+      "official_occurrence": true,
+      "official_classification": false,
+      "classification_evidence": "发生已确认，故意性待核",
+      "id": "LX26A01",
+      "date": "2026-01-19",
+      "date_precision": "day",
+      "title": "中山港口镇货车连续碰撞事件",
+      "province": "广东",
+      "city": "中山",
+      "scene": "街道交通",
+      "method": "驾车",
+      "category": "pending",
+      "classification_reason": "警方确认碰撞及2伤；重复碾压的社媒描述支持故意性疑点，但未取得可核验行车过程或独立事故调查。",
+      "source_ids": [
+        "LXS26A02",
+        "LXS26A03",
+        "LXS26A01"
+      ],
+      "field_sources": {
+        "date": [
+          "LXS26A03"
+        ],
+        "location": [
+          "LXS26A03"
+        ],
+        "casualties": [
+          "LXS26A03"
+        ],
+        "classification": [
+          "LXS26A02",
+          "LXS26A03"
+        ],
+        "motive": [],
+        "outcome": [
+          "LXS26A03"
+        ],
+        "demographics": [
+          "LXS26A03"
+        ]
+      }
+    },
+    {
+      "district": "白云区",
+      "urban_rural": "乡镇",
+      "deaths": null,
+      "injured": null,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": null,
+      "casualty_note": "网传夫妻受伤未获可靠完整确认，精确人数留空。",
+      "involves_children": null,
+      "victim_relation": null,
+      "age": null,
+      "sex": null,
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": null,
+      "outcome": null,
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2026-01-27",
+      "notes": "癌症及身体状况、动机不录为事实。",
+      "deaths_lower_bound": null,
+      "injured_lower_bound": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "evidence_level": "网传待核",
+      "official_occurrence": false,
+      "official_classification": false,
+      "classification_evidence": "网传线索，未独立核实",
+      "id": "LX26A02",
+      "date": "2026-01-26",
+      "date_precision": "day",
+      "title": "网传广州太和镇街头夫妻遭持刀袭击",
+      "province": "广东",
+      "city": "广州",
+      "scene": "街道交通",
+      "method": "持械",
+      "category": "pending",
+      "classification_reason": "原帖及媒体转述均指向突然袭击过路夫妻，但来源同为未核监控及匿名投稿；缺独立现场核实。",
+      "source_ids": [
+        "LXS26A04",
+        "LXS26A05",
+        "LXS26A01"
+      ],
+      "field_sources": {
+        "date": [
+          "LXS26A04",
+          "LXS26A05"
+        ],
+        "location": [
+          "LXS26A04",
+          "LXS26A05"
+        ],
+        "casualties": [],
+        "classification": [
+          "LXS26A04",
+          "LXS26A05"
+        ],
+        "motive": [],
+        "outcome": []
+      },
+      "dating_note": "按同期原帖1月26日；4月汇总误写1月27日。"
+    },
+    {
+      "district": "兴庆区",
+      "urban_rural": "城市",
+      "deaths": 1,
+      "injured": null,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2026-02-01",
+      "casualty_note": null,
+      "involves_children": null,
+      "victim_relation": "同小区居民，双方先有口角并约见",
+      "age": 44,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": "小区社交群琐事争执后约见，矛盾激化。",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": null,
+      "outcome": "嫌疑人刑事拘留。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2026-02-01",
+      "notes": "税费动机初帖与警方说法不一致，不采信。",
+      "deaths_lower_bound": null,
+      "injured_lower_bound": null,
+      "motive_tags": [
+        "邻里纠纷"
+      ],
+      "motive_basis": "警方初步通报",
+      "evidence_level": "官方转载",
+      "official_occurrence": true,
+      "official_classification": true,
+      "classification_evidence": "警方具体关系及作案经过",
+      "id": "LX26A03",
+      "date": "2026-01-31",
+      "date_precision": "day",
+      "title": "银川朝阳巷约见争执持刀杀人案",
+      "province": "宁夏",
+      "city": "银川",
+      "scene": "街道交通",
+      "method": "持械",
+      "category": "excluded",
+      "classification_reason": "警方明确两名同小区居民因群内争执约见后冲突，未披露扩大伤害无关者。",
+      "source_ids": [
+        "LXS26A06",
+        "LXS26A07",
+        "LXS26A01"
+      ],
+      "field_sources": {
+        "date": [
+          "LXS26A07"
+        ],
+        "location": [
+          "LXS26A07"
+        ],
+        "casualties": [
+          "LXS26A07"
+        ],
+        "classification": [
+          "LXS26A07"
+        ],
+        "motive": [
+          "LXS26A07"
+        ],
+        "outcome": [
+          "LXS26A07"
+        ],
+        "demographics": [
+          "LXS26A07"
+        ]
+      }
+    },
+    {
+      "district": "宝安区",
+      "urban_rural": null,
+      "deaths": null,
+      "injured": null,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": null,
+      "casualty_note": "女子倒地不等于死亡；数量不录入精确字段。",
+      "involves_children": null,
+      "victim_relation": null,
+      "age": null,
+      "sex": null,
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": null,
+      "outcome": null,
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2026-02-03",
+      "notes": null,
+      "deaths_lower_bound": null,
+      "injured_lower_bound": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "evidence_level": "网传待核",
+      "official_occurrence": false,
+      "official_classification": false,
+      "classification_evidence": "网传线索，未独立核实",
+      "id": "LX26A04",
+      "date": "2026-02-03",
+      "date_precision": "day",
+      "title": "网传深圳万丰海岸城持刀伤人事件",
+      "province": "广东",
+      "city": "深圳",
+      "scene": "商业场所",
+      "method": "持械",
+      "category": "pending",
+      "classification_reason": "仅单源投稿及同素材转发，缺警方事实确认，未说明双方关系和最初冲突。",
+      "source_ids": [
+        "LXS26A08",
+        "LXS26A01"
+      ],
+      "field_sources": {
+        "date": [
+          "LXS26A08"
+        ],
+        "location": [
+          "LXS26A08"
+        ],
+        "casualties": [],
+        "classification": [
+          "LXS26A08"
+        ],
+        "motive": [],
+        "outcome": []
+      }
+    },
+    {
+      "district": null,
+      "urban_rural": null,
+      "deaths": null,
+      "injured": null,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": null,
+      "casualty_note": null,
+      "involves_children": null,
+      "victim_relation": null,
+      "age": null,
+      "sex": null,
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": null,
+      "outcome": null,
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2026-02-16",
+      "notes": "具名指控不转化为已认定犯罪；不保存私宅位置。",
+      "deaths_lower_bound": null,
+      "injured_lower_bound": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "evidence_level": "网传待核",
+      "official_occurrence": false,
+      "official_classification": false,
+      "classification_evidence": "网传线索，未独立核实",
+      "id": "LX26A05",
+      "date": null,
+      "date_precision": "unknown",
+      "title": "网传郴州德润龙庭开发商车辆冲撞业主事件",
+      "province": "湖南",
+      "city": "郴州",
+      "scene": "社区住宅",
+      "method": "驾车",
+      "category": "pending",
+      "classification_reason": "举报指向开发商与维权业主一家，尚无无关公众目标证据；事件细节、故意性、处罚决定未取得独立核实。",
+      "source_ids": [
+        "LXS26A09",
+        "LXS26A10",
+        "LXS26A01"
+      ],
+      "field_sources": {
+        "date": [],
+        "location": [
+          "LXS26A09",
+          "LXS26A10"
+        ],
+        "casualties": [],
+        "classification": [
+          "LXS26A09",
+          "LXS26A10"
+        ],
+        "motive": [],
+        "outcome": []
+      },
+      "reported_date": "2026-02-12",
+      "review_year": 2026,
+      "dating_note": "原帖为举报投稿，未写案发日；汇总把发帖日写成2月12日，不据此定年或月。"
+    },
+    {
+      "district": null,
+      "urban_rural": null,
+      "deaths": null,
+      "injured": null,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": null,
+      "casualty_note": "投稿称1死与精神病，均不录为确认字段。",
+      "involves_children": null,
+      "victim_relation": null,
+      "age": null,
+      "sex": null,
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": null,
+      "outcome": null,
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2026-02-21",
+      "notes": null,
+      "deaths_lower_bound": null,
+      "injured_lower_bound": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "evidence_level": "网传待核",
+      "official_occurrence": false,
+      "official_classification": false,
+      "classification_evidence": "网传线索，未独立核实",
+      "id": "LX26A06",
+      "date": null,
+      "date_precision": "unknown",
+      "title": "网传开封街头一男子遭持刀袭击",
+      "province": "河南",
+      "city": "开封",
+      "scene": "街道交通",
+      "method": "持械",
+      "category": "pending",
+      "classification_reason": "原帖仅有近日的网络影像描述；日期、被害关系、死伤及故意袭击背景均未核实。",
+      "source_ids": [
+        "LXS26A11",
+        "LXS26A01"
+      ],
+      "field_sources": {
+        "date": [],
+        "location": [
+          "LXS26A11"
+        ],
+        "casualties": [],
+        "classification": [
+          "LXS26A11"
+        ],
+        "motive": [],
+        "outcome": []
+      },
+      "reported_date": "2026-02-21",
+      "review_year": 2026,
+      "dating_note": "原帖只写近日，汇总2月21日是发帖日而非已核案发日。"
+    },
+    {
+      "district": "横琴粤澳深度合作区",
+      "urban_rural": null,
+      "deaths": 1,
+      "injured": null,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2026-03-22",
+      "casualty_note": null,
+      "involves_children": null,
+      "victim_relation": null,
+      "age": 26,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": "警方认定实施抢劫。",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": null,
+      "outcome": "3月21日抓获嫌疑人。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2026-03-22",
+      "notes": null,
+      "deaths_lower_bound": null,
+      "injured_lower_bound": null,
+      "motive_tags": [
+        "抢劫"
+      ],
+      "motive_basis": "警方初步通报",
+      "evidence_level": "官方转载",
+      "official_occurrence": true,
+      "official_classification": false,
+      "classification_evidence": "发生已确认，受害关系待核",
+      "id": "LX26A07",
+      "date": "2026-03-20",
+      "date_precision": "day",
+      "title": "横琴小区抢劫致死案",
+      "province": "广东",
+      "city": "珠海",
+      "scene": "社区住宅",
+      "method": "其他",
+      "category": "pending",
+      "classification_reason": "警方证实入小区抢劫两人、1死；抢劫不自动排除，但未披露选择对象过程、先前关系及攻击方式，暂不能确认为随机侵害。",
+      "source_ids": [
+        "LXS26A12",
+        "LXS26A13",
+        "LXS26A01"
+      ],
+      "field_sources": {
+        "date": [
+          "LXS26A13"
+        ],
+        "location": [
+          "LXS26A13"
+        ],
+        "casualties": [
+          "LXS26A13"
+        ],
+        "classification": [
+          "LXS26A12",
+          "LXS26A13"
+        ],
+        "motive": [
+          "LXS26A13"
+        ],
+        "outcome": [
+          "LXS26A13"
+        ],
+        "demographics": [
+          "LXS26A13"
+        ]
+      },
+      "dating_note": "按警方3月20日晚；社媒初报3月22日及后续3月21日均非案发日。"
+    },
+    {
+      "district": "两江新区",
+      "urban_rural": null,
+      "deaths": 0,
+      "injured": 3,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2026-03-23",
+      "casualty_note": "通报1死3伤中的死者为司机，另3人为受伤行人；死亡司机单列driver_deaths，不计受害者或作案者死亡。",
+      "involves_children": null,
+      "victim_relation": null,
+      "age": 33,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": null,
+      "outcome": null,
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2026-03-23",
+      "notes": "警方表述为疑似，保留后续改变结论可能；不采用自媒体额外宣称已排除故意性的扩写。",
+      "deaths_lower_bound": null,
+      "injured_lower_bound": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "evidence_level": "官方转载",
+      "official_occurrence": true,
+      "official_classification": true,
+      "classification_evidence": "警方初查疑似病发失控",
+      "id": "LX26A08",
+      "date": "2026-03-22",
+      "date_precision": "day",
+      "title": "重庆观音桥司机疑发病车辆失控事故",
+      "province": "重庆",
+      "city": "重庆",
+      "scene": "街道交通",
+      "method": "驾车",
+      "category": "excluded",
+      "classification_reason": "完整警方通报初查司机疑似突发疾病后车辆失控；现场报道未提供反复选择目标等足以证明主动袭击的证据。",
+      "source_ids": [
+        "LXS26A14",
+        "LXS26A15",
+        "LXS26A01"
+      ],
+      "field_sources": {
+        "date": [
+          "LXS26A15"
+        ],
+        "location": [
+          "LXS26A15"
+        ],
+        "casualties": [
+          "LXS26A15"
+        ],
+        "classification": [
+          "LXS26A15"
+        ],
+        "motive": [],
+        "outcome": [],
+        "demographics": [
+          "LXS26A15"
+        ]
+      },
+      "driver_deaths": 1
+    },
+    {
+      "district": "龙岗区",
+      "urban_rural": null,
+      "deaths": null,
+      "injured": null,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": null,
+      "casualty_note": "网传两死或两伤等不同说法不录精确值。",
+      "involves_children": null,
+      "victim_relation": null,
+      "age": null,
+      "sex": null,
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": null,
+      "outcome": null,
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2026-03-27",
+      "notes": "与罗湖清晨案时间、区域及被述作案者均不同，暂分候选；若后续证明同一连续过程应合并。",
+      "deaths_lower_bound": null,
+      "injured_lower_bound": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "evidence_level": "网传待核",
+      "official_occurrence": false,
+      "official_classification": false,
+      "classification_evidence": "网传线索，未独立核实",
+      "id": "LX26A09",
+      "date": "2026-03-26",
+      "date_precision": "day",
+      "title": "网传深圳龙城街道爱联市场持刀伤人事件",
+      "province": "广东",
+      "city": "深圳",
+      "scene": "商业场所",
+      "method": "持械",
+      "category": "pending",
+      "classification_reason": "晚间龙岗线索尚无独立采集或正式通报；网传冲突起因、快递员身份和学生死亡人数互相矛盾。",
+      "source_ids": [
+        "LXS26A16",
+        "LXS26A31",
+        "LXS26A01"
+      ],
+      "field_sources": {
+        "date": [
+          "LXS26A16",
+          "LXS26A31"
+        ],
+        "location": [
+          "LXS26A16",
+          "LXS26A31"
+        ],
+        "casualties": [],
+        "classification": [
+          "LXS26A16",
+          "LXS26A31"
+        ],
+        "motive": [],
+        "outcome": []
+      }
+    },
+    {
+      "district": "罗湖区",
+      "urban_rural": "城市",
+      "deaths": null,
+      "injured": null,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2026-07-09",
+      "casualty_note": "只确认救助者1人死亡，不据网传填入学生伤亡；全案最终伤亡总数未见披露。",
+      "involves_children": null,
+      "victim_relation": "女学生及上前制止的路过保洁员",
+      "age": null,
+      "sex": null,
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "保洁员徒手夺刀并追赶，受致命伤；警方后抓获嫌疑人。",
+      "outcome": "嫌疑人被抓获。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2026-07-09",
+      "notes": "官方未披露施害者性别年龄；社媒女性或男子版本不采信。",
+      "deaths_lower_bound": 1,
+      "injured_lower_bound": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "evidence_level": "官方原文",
+      "official_occurrence": true,
+      "official_classification": true,
+      "classification_evidence": "官方材料直接记载持刀者转而刺伤无关救助者并致其死亡，支持扩大分类；初始被害人与作案者关系未知。",
+      "id": "LX26A10",
+      "date": "2026-03-26",
+      "date_precision": "day",
+      "title": "深圳罗湖东门女学生及救助者遭持刀袭击",
+      "province": "广东",
+      "city": "深圳",
+      "scene": "街道交通",
+      "method": "持械",
+      "category": "expanded",
+      "classification_reason": "官方确认先对女学生行凶，随后刺伤原袭击无关的路过救助者并致其死亡；按扩大至无关救助者记录，最初学生是否随机目标仍未知。",
+      "source_ids": [
+        "LXS26A17",
+        "LXS26A18",
+        "LXS26A01"
+      ],
+      "field_sources": {
+        "date": [
+          "LXS26A18"
+        ],
+        "location": [
+          "LXS26A18"
+        ],
+        "casualties": [
+          "LXS26A18"
+        ],
+        "classification": [
+          "LXS26A18"
+        ],
+        "motive": [],
+        "outcome": [
+          "LXS26A18"
+        ],
+        "intervention": [
+          "LXS26A18"
+        ]
+      },
+      "dating_note": "官方明确3月26日6时许。"
+    },
+    {
+      "district": "拱墅区",
+      "urban_rural": null,
+      "deaths": null,
+      "injured": null,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": null,
+      "casualty_note": "女伤者及施害者跳楼的说法未核；年龄和精神疾病传闻不填确认字段。",
+      "involves_children": null,
+      "victim_relation": null,
+      "age": null,
+      "sex": null,
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": null,
+      "outcome": null,
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2026-03-31",
+      "notes": null,
+      "deaths_lower_bound": null,
+      "injured_lower_bound": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "evidence_level": "网传待核",
+      "official_occurrence": false,
+      "official_classification": false,
+      "classification_evidence": "网传线索，未独立核实",
+      "id": "LX26A11",
+      "date": "2026-03-31",
+      "date_precision": "day",
+      "title": "网传杭州世嘉铭座入室持刀伤人事件",
+      "province": "浙江",
+      "city": "杭州",
+      "scene": "社区住宅",
+      "method": "持械",
+      "category": "pending",
+      "classification_reason": "单源投稿描绘敲陌生住户门后行凶，但尚未取得发生细节、关系及现场来源的独立核验。",
+      "source_ids": [
+        "LXS26A19",
+        "LXS26A01"
+      ],
+      "field_sources": {
+        "date": [
+          "LXS26A19"
+        ],
+        "location": [
+          "LXS26A19"
+        ],
+        "casualties": [],
+        "classification": [
+          "LXS26A19"
+        ],
+        "motive": [],
+        "outcome": []
+      }
+    },
+    {
+      "district": "五华区",
+      "urban_rural": null,
+      "deaths": null,
+      "injured": null,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2026-07-09",
+      "casualty_note": "事迹确认至少1名伤者，未披露全案伤亡总数。",
+      "involves_children": null,
+      "victim_relation": "路过人员",
+      "age": null,
+      "sex": null,
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "路人报警、劝阻并夺刀，警方抓获。",
+      "outcome": "嫌疑人被抓获。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2026-07-09",
+      "notes": null,
+      "deaths_lower_bound": null,
+      "injured_lower_bound": 1,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "evidence_level": "官方原文",
+      "official_occurrence": true,
+      "official_classification": true,
+      "classification_evidence": "官方明确无故伤害路人",
+      "id": "LX26A12",
+      "date": "2026-01-15",
+      "date_precision": "day",
+      "title": "昆明五华区路人遭持刀袭击并索财案",
+      "province": "云南",
+      "city": "昆明",
+      "scene": "社区住宅",
+      "method": "持械",
+      "category": "core",
+      "classification_reason": "官方明确无故持刀伤害路人，倒地后继续勒颈索财，支持针对无关公众的主动袭击。",
+      "source_ids": [
+        "LXS26A18"
+      ],
+      "field_sources": {
+        "date": [
+          "LXS26A18"
+        ],
+        "location": [
+          "LXS26A18"
+        ],
+        "casualties": [
+          "LXS26A18"
+        ],
+        "classification": [
+          "LXS26A18"
+        ],
+        "motive": [],
+        "outcome": [
+          "LXS26A18"
+        ],
+        "intervention": [
+          "LXS26A18"
+        ]
+      }
+    },
+    {
+      "district": "七坊镇",
+      "urban_rural": null,
+      "deaths": null,
+      "injured": null,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2026-07-09",
+      "casualty_note": "救助者手部伤已确认；工作人员是否受伤及总数未明。",
+      "involves_children": null,
+      "victim_relation": "工作人员及路过劝阻者",
+      "age": null,
+      "sex": null,
+      "occupation": null,
+      "motive_summary": "官方事迹称感情纠纷后饮酒行凶。",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "路过群众夺刀制止。",
+      "outcome": null,
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2026-07-09",
+      "notes": null,
+      "deaths_lower_bound": null,
+      "injured_lower_bound": 1,
+      "motive_tags": [
+        "情感纠纷"
+      ],
+      "motive_basis": "官方事迹",
+      "evidence_level": "官方原文",
+      "official_occurrence": true,
+      "official_classification": true,
+      "classification_evidence": "官方材料直接记载私人感情纠纷后持刀行凶，并主动伤害路过制止者，支持扩大分类。",
+      "id": "LX26A13",
+      "date": "2026-02-04",
+      "date_precision": "day",
+      "title": "海南白沙七坊KTV持刀袭击及救助者受伤案",
+      "province": "海南",
+      "city": "白沙黎族自治县",
+      "scene": "商业场所",
+      "method": "持械",
+      "category": "expanded",
+      "classification_reason": "官方确认因感情纠纷持刀追逼工作人员，转而挥刀对抗无关救助者并伤其手，扩大到原纠纷无关者。",
+      "source_ids": [
+        "LXS26A18"
+      ],
+      "field_sources": {
+        "date": [
+          "LXS26A18"
+        ],
+        "location": [
+          "LXS26A18"
+        ],
+        "casualties": [
+          "LXS26A18"
+        ],
+        "classification": [
+          "LXS26A18"
+        ],
+        "motive": [
+          "LXS26A18"
+        ],
+        "outcome": [],
+        "intervention": [
+          "LXS26A18"
+        ]
+      },
+      "motive_attribution": "中央政法委2026年第二季度见义勇为事迹公开材料；不是警方初报或法院认定。"
+    },
+    {
+      "district": "杨浦区",
+      "urban_rural": null,
+      "deaths": null,
+      "injured": null,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2026-07-09",
+      "casualty_note": "官方事迹确认妻子被刀伤；不是完整伤亡统计。",
+      "involves_children": null,
+      "victim_relation": "夫妻",
+      "age": null,
+      "sex": null,
+      "occupation": null,
+      "motive_summary": "家庭纠纷。",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "配送员骑车撞开施害者，与群众合力控制。",
+      "outcome": null,
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2026-07-09",
+      "notes": null,
+      "deaths_lower_bound": null,
+      "injured_lower_bound": 1,
+      "motive_tags": [
+        "家庭纠纷"
+      ],
+      "motive_basis": "官方事迹",
+      "evidence_level": "官方原文",
+      "official_occurrence": true,
+      "official_classification": true,
+      "classification_evidence": "官方明确定向家庭纠纷",
+      "id": "LX26A14",
+      "date": "2026-03-24",
+      "date_precision": "day",
+      "title": "上海平凉路男子持刀伤妻案",
+      "province": "上海",
+      "city": "上海",
+      "scene": "街道交通",
+      "method": "持械",
+      "category": "excluded",
+      "classification_reason": "官方明确家庭纠纷后持刀伤妻；他人制止成功，未披露对无关者继续攻击。",
+      "source_ids": [
+        "LXS26A18"
+      ],
+      "field_sources": {
+        "date": [
+          "LXS26A18"
+        ],
+        "location": [
+          "LXS26A18"
+        ],
+        "casualties": [
+          "LXS26A18"
+        ],
+        "classification": [
+          "LXS26A18"
+        ],
+        "motive": [
+          "LXS26A18"
+        ],
+        "outcome": [],
+        "intervention": [
+          "LXS26A18"
+        ]
+      },
+      "motive_attribution": "中央政法委2026年第二季度见义勇为事迹公开材料；不是警方初报或法院认定。"
+    },
+    {
+      "district": "红谷滩区",
+      "urban_rural": null,
+      "deaths": null,
+      "injured": 1,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2026-01-11",
+      "casualty_note": "警方仅确认女子表皮伤；不推定保安受伤。",
+      "involves_children": null,
+      "victim_relation": "初始受伤者为店员；安保参与制止，遭进一步攻击的说法待核",
+      "age": 32,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "学生、群众与保安制止。",
+      "outcome": "嫌疑人当场控制。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2026-03-30",
+      "notes": null,
+      "deaths_lower_bound": null,
+      "injured_lower_bound": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "evidence_level": "官方原文",
+      "official_occurrence": true,
+      "official_classification": false,
+      "classification_evidence": "官方确认店员受伤及群众制止；扩大事实仅来自澎湃综合网络素材标题对保安遭推搡的记载，未核得独立现场采访或完整视频。",
+      "id": "LX26A15",
+      "date": "2026-01-10",
+      "date_precision": "day",
+      "title": "南昌万象城女子遭刀划伤及制止过程",
+      "province": "江西",
+      "city": "南昌",
+      "scene": "商业场所",
+      "method": "持械",
+      "category": "pending",
+      "classification_reason": "警方确认一名女子受伤，官方事迹确认店员遇袭及群众制止。媒体标题称安保遭推搡险坠扶梯，但正文没有独立调查该过程，初始双方关系也未明；事件发生已核实，公众目标或扩大攻击仍待核。",
+      "source_ids": [
+        "LXS26A22",
+        "LXS26A23",
+        "LXS26A24"
+      ],
+      "field_sources": {
+        "date": [
+          "LXS26A23"
+        ],
+        "location": [
+          "LXS26A23"
+        ],
+        "casualties": [
+          "LXS26A23"
+        ],
+        "classification": [
+          "LXS26A22",
+          "LXS26A24"
+        ],
+        "motive": [],
+        "outcome": [
+          "LXS26A23"
+        ],
+        "demographics": [
+          "LXS26A23"
+        ]
+      }
+    },
+    {
+      "district": "沈河区",
+      "urban_rural": null,
+      "deaths": null,
+      "injured": null,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2026-03-30",
+      "casualty_note": null,
+      "involves_children": null,
+      "victim_relation": "女孩及上前救助的路人",
+      "age": null,
+      "sex": null,
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "群众持续制止并协助警察抓获。",
+      "outcome": "嫌疑人被抓获。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2026-03-30",
+      "notes": null,
+      "deaths_lower_bound": null,
+      "injured_lower_bound": 2,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "evidence_level": "官方原文",
+      "official_occurrence": true,
+      "official_classification": true,
+      "classification_evidence": "官方材料直接记载行凶者转而挥刀砍伤无关救助者，支持扩大分类。",
+      "id": "LX26A16",
+      "date": "2026-01-11",
+      "date_precision": "day",
+      "title": "沈阳南顺城路女孩与救助者遭持刀袭击",
+      "province": "辽宁",
+      "city": "沈阳",
+      "scene": "街道交通",
+      "method": "持械",
+      "category": "expanded",
+      "classification_reason": "官方明确先伤女孩，再向上前制止的路人挥刀致伤；原被害关系未知，无关救助者受袭已确认。",
+      "source_ids": [
+        "LXS26A22"
+      ],
+      "field_sources": {
+        "date": [
+          "LXS26A22"
+        ],
+        "location": [
+          "LXS26A22"
+        ],
+        "casualties": [
+          "LXS26A22"
+        ],
+        "classification": [
+          "LXS26A22"
+        ],
+        "motive": [],
+        "outcome": [
+          "LXS26A22"
+        ],
+        "intervention": [
+          "LXS26A22"
+        ]
+      }
+    },
+    {
+      "district": null,
+      "urban_rural": null,
+      "deaths": null,
+      "injured": null,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2026-03-30",
+      "casualty_note": "官方事迹确认一名教师受伤；不是完整伤亡统计。",
+      "involves_children": null,
+      "victim_relation": "定向报复教师",
+      "age": null,
+      "sex": null,
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "家长和其他教师合力制止。",
+      "outcome": "嫌疑人被抓获。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2026-03-30",
+      "notes": null,
+      "deaths_lower_bound": null,
+      "injured_lower_bound": 1,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "evidence_level": "官方原文",
+      "official_occurrence": true,
+      "official_classification": true,
+      "classification_evidence": "官方明确特定报复对象",
+      "id": "LX26A17",
+      "date": "2026-01-07",
+      "date_precision": "day",
+      "title": "中山教培中心教师遭定向持刀报复案",
+      "province": "广东",
+      "city": "中山",
+      "scene": "校园及周边",
+      "method": "持械",
+      "category": "excluded",
+      "classification_reason": "官方称行凶者将特定教师叫出教室报复；未见攻击其他学生或无关制止者。",
+      "source_ids": [
+        "LXS26A22"
+      ],
+      "field_sources": {
+        "date": [
+          "LXS26A22"
+        ],
+        "location": [
+          "LXS26A22"
+        ],
+        "casualties": [
+          "LXS26A22"
+        ],
+        "classification": [
+          "LXS26A22"
+        ],
+        "motive": [],
+        "outcome": [
+          "LXS26A22"
+        ],
+        "intervention": [
+          "LXS26A22"
+        ]
+      }
+    },
+    {
+      "district": "沙坪坝区",
+      "urban_rural": null,
+      "deaths": 0,
+      "injured": 2,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2026-03-30",
+      "casualty_note": null,
+      "involves_children": null,
+      "victim_relation": "陌生路过女子及救助代驾员",
+      "age": null,
+      "sex": null,
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "路人报警护送，随后抵挡袭击。",
+      "outcome": "当日7时许嫌疑人被抓获。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2026-07-05",
+      "notes": null,
+      "deaths_lower_bound": null,
+      "injured_lower_bound": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "evidence_level": "官方原文",
+      "official_occurrence": true,
+      "official_classification": true,
+      "classification_evidence": "官方明确陌生关系及持续追踪攻击",
+      "id": "LX26A18",
+      "date": "2026-01-27",
+      "date_precision": "day",
+      "title": "重庆凤鸣山陌生女子及救助者遇袭案",
+      "province": "重庆",
+      "city": "重庆",
+      "scene": "街道交通",
+      "method": "持械",
+      "category": "core",
+      "classification_reason": "文明办原文明确女孩遭陌生男子尾随勒颈；其脱身求救后男子继续追踪并持刀伤女孩和无关救助者。",
+      "source_ids": [
+        "LXS26A22",
+        "LXS26A27"
+      ],
+      "field_sources": {
+        "date": [
+          "LXS26A22",
+          "LXS26A27"
+        ],
+        "location": [
+          "LXS26A22",
+          "LXS26A27"
+        ],
+        "casualties": [
+          "LXS26A22"
+        ],
+        "classification": [
+          "LXS26A27"
+        ],
+        "motive": [],
+        "outcome": [
+          "LXS26A22"
+        ],
+        "intervention": [
+          "LXS26A22",
+          "LXS26A27"
+        ]
+      }
+    },
+    {
+      "district": "巧家县",
+      "urban_rural": null,
+      "deaths": null,
+      "injured": null,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2026-03-30",
+      "casualty_note": "至少1名头部伤者，非完整伤亡统计。",
+      "involves_children": null,
+      "victim_relation": null,
+      "age": null,
+      "sex": null,
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "居民追赶，辅警与群众合力制服。",
+      "outcome": "嫌疑人被控制。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2026-03-30",
+      "notes": "未披露动机，不推定精神病或报复社会。",
+      "deaths_lower_bound": null,
+      "injured_lower_bound": 1,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "evidence_level": "官方原文",
+      "official_occurrence": true,
+      "official_classification": true,
+      "classification_evidence": "官方材料直接记载作案者在社区追砍群众并转向上前喝止者，支持公众目标分类。",
+      "id": "LX26A19",
+      "date": "2026-02-15",
+      "date_precision": "day",
+      "title": "云南巧家邱家屿社区持刀追砍群众事件",
+      "province": "云南",
+      "city": "昭通",
+      "scene": "社区住宅",
+      "method": "持械",
+      "category": "core",
+      "classification_reason": "官方记录作案者先持斧破坏车辆，再出车库持刀追砍社区群众并转向制止者，支持面向在场公众持续攻击，非仅凭受伤人数归类。",
+      "source_ids": [
+        "LXS26A22"
+      ],
+      "field_sources": {
+        "date": [
+          "LXS26A22"
+        ],
+        "location": [
+          "LXS26A22"
+        ],
+        "casualties": [
+          "LXS26A22"
+        ],
+        "classification": [
+          "LXS26A22"
+        ],
+        "motive": [],
+        "outcome": [
+          "LXS26A22"
+        ],
+        "intervention": [
+          "LXS26A22"
+        ]
+      }
+    },
+    {
+      "district": null,
+      "urban_rural": null,
+      "deaths": null,
+      "injured": null,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": null,
+      "casualty_note": "传1死或2死互异，不计入精确值。",
+      "involves_children": null,
+      "victim_relation": null,
+      "age": null,
+      "sex": null,
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": null,
+      "outcome": null,
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2026-02-04",
+      "notes": "不保存影像；私人关系说法未经核实。",
+      "deaths_lower_bound": null,
+      "injured_lower_bound": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "evidence_level": "网传待核",
+      "official_occurrence": false,
+      "official_classification": false,
+      "classification_evidence": "网传线索，未独立核实",
+      "id": "LX26A20",
+      "date": "2026-02-02",
+      "date_precision": "day",
+      "title": "网传江苏扬州街头喷火伤人事件",
+      "province": "江苏",
+      "city": "扬州",
+      "scene": "街道交通",
+      "method": "纵火",
+      "category": "pending",
+      "classification_reason": "网络视频与转述称因私人关系定向袭击，地点、年月日和动机均待核；尚无充分证据认定事件全貌或无关者受袭。",
+      "source_ids": [
+        "LXS26A25",
+        "LXS26A26"
+      ],
+      "field_sources": {
+        "date": [
+          "LXS26A25",
+          "LXS26A26"
+        ],
+        "location": [
+          "LXS26A25",
+          "LXS26A26"
+        ],
+        "casualties": [],
+        "classification": [
+          "LXS26A25",
+          "LXS26A26"
+        ],
+        "motive": [],
+        "outcome": []
+      },
+      "dating_note": "2月2日由网传知情者指称，亦为视频流传日，未得到独立案发日确认。"
+    },
+    {
+      "district": "汉阳区",
+      "urban_rural": null,
+      "deaths": null,
+      "injured": null,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": null,
+      "casualty_note": "单一报道2伤，暂不写入精确数字。",
+      "involves_children": null,
+      "victim_relation": null,
+      "age": null,
+      "sex": null,
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": null,
+      "outcome": null,
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2026-03-14",
+      "notes": "不能把锦观、齐鲁、百姓关注及境外转述自动认作独立采集；需回溯原视频采访。",
+      "deaths_lower_bound": null,
+      "injured_lower_bound": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "evidence_level": "单一媒体",
+      "official_occurrence": false,
+      "official_classification": false,
+      "classification_evidence": "网传线索，未独立核实",
+      "id": "LX26A21",
+      "date": "2026-03-11",
+      "date_precision": "day",
+      "title": "武汉汉阳火锅店与广场舞冲突伤人线索",
+      "province": "湖北",
+      "city": "武汉",
+      "scene": "商业场所",
+      "method": "持械",
+      "category": "pending",
+      "classification_reason": "记者采访商户及社区称争执伤及舞者和无关劝架人，具expanded特征；尚缺正式通报或第二独立采集确认发生全貌。",
+      "source_ids": [
+        "LXS26A28"
+      ],
+      "field_sources": {
+        "date": [
+          "LXS26A28"
+        ],
+        "location": [
+          "LXS26A28"
+        ],
+        "casualties": [],
+        "classification": [
+          "LXS26A28"
+        ],
+        "motive": [],
+        "outcome": []
+      }
+    },
+    {
+      "district": "北碚区",
+      "urban_rural": null,
+      "deaths": null,
+      "injured": null,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": null,
+      "casualty_note": "学校否认持刀伤人，家长称手部手术，不据争议报道填确定死伤。",
+      "involves_children": true,
+      "victim_relation": null,
+      "age": null,
+      "sex": null,
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": null,
+      "outcome": null,
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2026-05-09",
+      "notes": "排除是依据现有对象范围；不代表已裁断家长或校方真假。",
+      "deaths_lower_bound": null,
+      "injured_lower_bound": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "evidence_level": "单一媒体",
+      "official_occurrence": false,
+      "official_classification": false,
+      "classification_evidence": "网传线索，未独立核实",
+      "id": "LX26A22",
+      "date": "2026-03-19",
+      "date_precision": "day",
+      "title": "重庆朝阳中学同学冲突及持刀说法争议",
+      "province": "重庆",
+      "city": "重庆",
+      "scene": "校园及周边",
+      "method": "持械",
+      "category": "excluded",
+      "classification_reason": "家长与校方对持刀、伤情存在矛盾，但各版本均为同班同学日常矛盾，未见主动袭击无关者；制止学生被称未受伤。",
+      "source_ids": [
+        "LXS26A29"
+      ],
+      "field_sources": {
+        "date": [
+          "LXS26A29"
+        ],
+        "location": [
+          "LXS26A29"
+        ],
+        "casualties": [],
+        "classification": [
+          "LXS26A29"
+        ],
+        "motive": [],
+        "outcome": [],
+        "demographics": [
+          "LXS26A29"
+        ]
+      }
+    },
+    {
+      "district": "锡林浩特市",
+      "urban_rural": null,
+      "deaths": null,
+      "injured": null,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": null,
+      "casualty_note": "官方事迹未披露伤亡；没有伤亡通报不等于零伤亡。",
+      "involves_children": null,
+      "victim_relation": "乘客与公交司机，既往关系未披露。",
+      "age": null,
+      "sex": null,
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": "官方事迹称癫痫发作，未取得医学资料；癫痫不是精神疾病，不据此推定诊断或刑责能力。",
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "其他乘客控制涉事乘客，车辆靠边后等待民警到场。",
+      "outcome": null,
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2026-07-09",
+      "notes": "仅保留表彰材料对该个案的归因，不采纳其疾病人群力量或攻击性的泛化描述；约16时。",
+      "deaths_lower_bound": null,
+      "injured_lower_bound": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "evidence_level": "官方原文",
+      "official_occurrence": true,
+      "official_classification": false,
+      "classification_evidence": "发生由官方确认；主动性与对象关系证据仍缺。",
+      "id": "LX26A23",
+      "date": "2026-03-26",
+      "date_precision": "day",
+      "title": "锡林浩特8路公交乘客攻击司机事件",
+      "province": "内蒙古",
+      "city": "锡林郭勒盟",
+      "scene": "公共交通",
+      "method": "其他",
+      "category": "pending",
+      "classification_reason": "官方表彰事迹确认乘客冲向驾驶区攻击司机，但将行为归因于疾病发作，未披露医学诊断、行为意识或袭击动机。发生已核实，是否符合有意识主动袭击及无关公众目标口径仍待核。",
+      "source_ids": [
+        "LXS26A18"
+      ],
+      "field_sources": {
+        "date": [
+          "LXS26A18"
+        ],
+        "location": [
+          "LXS26A18"
+        ],
+        "casualties": [],
+        "classification": [
+          "LXS26A18"
+        ],
+        "motive": [],
+        "outcome": [],
+        "intervention": [
+          "LXS26A18"
+        ],
+        "mental_health": [
+          "LXS26A18"
+        ]
+      },
+      "date_time": null,
+      "verification_gaps": "缺医学或调查资料确认行为意识、发作情况、对象关系及伤亡。"
+    }
+  ],
+  "event_updates": [
+    {
+      "event_id": "C034",
+      "set": {
+        "source_ids": [
+          "CS045",
+          "LXS26A01",
+          "LXS26A20"
+        ],
+        "field_sources": {
+          "date": [
+            "CS045"
+          ],
+          "location": [
+            "CS045"
+          ],
+          "casualties": [
+            "CS045"
+          ],
+          "classification": [
+            "CS045",
+            "LXS26A20"
+          ],
+          "motive": [],
+          "outcome": []
+        },
+        "notes": "已补3月29日李老师原帖及镜像；“举报未果”与具体死伤均为未核聊天或现场口述。"
+      },
+      "reason": "补原始社媒出处与访问状态，仍无独立确证"
+    },
+    {
+      "event_id": "C027",
+      "set": {
+        "source_ids": [
+          "CS037",
+          "RCS004",
+          "LXS26A01",
+          "LXS26A21",
+          "LXS26A30"
+        ],
+        "field_sources": {
+          "date": [
+            "CS037"
+          ],
+          "location": [
+            "CS037"
+          ],
+          "casualties": [
+            "CS037"
+          ],
+          "classification": [
+            "CS037",
+            "LXS26A21",
+            "LXS26A30"
+          ],
+          "motive": [],
+          "outcome": [
+            "CS037"
+          ],
+          "intervention": [
+            "CS037",
+            "RCS004"
+          ]
+        },
+        "classification_reason": "警方确认4伤；新增网传连续影像的媒体文字描述显示先后攻击摊贩、路中男子、路过女子，支持公众目标，但未独立核验原视频连续性及拍摄时地。现场记者未目击起因，暂保留待核并明确证据缺口。",
+        "notes": "李老师帖子把44岁误写41岁，以警方为准；新唐人与社媒影像同源，不增加独立采集数量。"
+      },
+      "reason": "补连续多目标袭击影像文字描述；缺口具体化"
+    }
+  ],
+  "sources": [
+    {
+      "id": "LXS26A01",
+      "url": "https://instalker.org/whyyoutouzhele/status/2039625155404509246",
+      "title": "李老师：2026年12起线索及往年汇总",
+      "publisher": "李老师不是你老师／Instalker",
+      "published_date": "2026-04-02",
+      "accessed_date": "2026-09-16",
+      "type": "汇编线索",
+      "independence_group": "li-2039625155404509246",
+      "supports": [
+        "LX26A01",
+        "LX26A02",
+        "LX26A03",
+        "LX26A04",
+        "LX26A05",
+        "LX26A06",
+        "LX26A07",
+        "LX26A08",
+        "LX26A09",
+        "LX26A10",
+        "LX26A11",
+        "C034",
+        "C027"
+      ],
+      "key_facts": "2026段列12项，深圳同一项含两地；名单混有交通事故、定向纠纷，部分日期与同期帖或警方通报不同，逐案复核。",
+      "access_status": "X原站访问失败；Instalker完整文字可读；Telegram 35533同源摘录可读",
+      "original_url": "https://x.com/whyyoutouzhele/status/2039625155404509246"
+    },
+    {
+      "id": "LXS26A02",
+      "url": "https://t.me/s/lilaoshibushinilaoshi/28333",
+      "title": "中山港口货车冲撞线索",
+      "publisher": "李老师不是你老师／Telegram公开镜像",
+      "published_date": "2026-01-19",
+      "accessed_date": "2026-09-16",
+      "type": "汇编线索",
+      "independence_group": "li-2013240567606464850",
+      "supports": [
+        "LX26A01"
+      ],
+      "key_facts": "称1月19日港口镇货车冲撞及重复碾压；故意性、枪声等未获独立印证。",
+      "access_status": "X仅登录外壳；Telegram文字可读",
+      "original_url": "https://x.com/whyyoutouzhele/status/2013240567606464850",
+      "published_date_basis": "X status ID时间戳所对应UTC日期，仅作发帖元数据，不代替案发日期"
+    },
+    {
+      "id": "LXS26A03",
+      "url": "https://portal.sina.com.hk/news-china/sina/2026/01/19/1453890/",
+      "title": "警方通报中山货车碰撞多车",
+      "publisher": "新黄河／新浪香港",
+      "published_date": "2026-01-19",
+      "accessed_date": "2026-09-16",
+      "type": "官方媒体",
+      "independence_group": "gangkou-police-20260119",
+      "supports": [
+        "LX26A01"
+      ],
+      "key_facts": "通报世纪西路货车碰撞汽车、电动摩托，2伤；27岁司机被控制，语言行为异常，未定性故意袭击。",
+      "access_status": "web正文访问失败；HTTP 200获取并核对完整文字"
+    },
+    {
+      "id": "LXS26A04",
+      "url": "https://t.me/s/lilaoshibushinilaoshi/28881",
+      "title": "广州太和街头夫妻遇袭投稿",
+      "publisher": "李老师不是你老师／Telegram公开镜像",
+      "published_date": "2026-01-27",
+      "accessed_date": "2026-09-16",
+      "type": "汇编线索",
+      "independence_group": "social-taihe-20260126",
+      "supports": [
+        "LX26A02"
+      ],
+      "key_facts": "原帖明确写1月26日，描述带孩子夫妻遇持刀袭击；癌症与伤情是投稿说法，汇总误写1月27日。",
+      "access_status": "X原站403；Telegram公开页文字与原帖链接可读",
+      "original_url": "https://x.com/whyyoutouzhele/status/2016096346025939186",
+      "published_date_basis": "X status ID时间戳所对应UTC日期，仅作发帖元数据，不代替案发日期"
+    },
+    {
+      "id": "LXS26A05",
+      "url": "https://www.ntdtv.com/b5/2026/01/27/a104060679.html",
+      "title": "传广州街头持刀袭击夫妻",
+      "publisher": "新唐人",
+      "published_date": "2026-01-27",
+      "accessed_date": "2026-09-16",
+      "type": "独立媒体",
+      "independence_group": "social-taihe-20260126",
+      "supports": [
+        "LX26A02"
+      ],
+      "key_facts": "转述网络监控和知情网友，案发写1月26日；没有独立采访核实癌症、关系及死伤。",
+      "access_status": "正文已打开"
+    },
+    {
+      "id": "LXS26A06",
+      "url": "https://t.me/s/lilaoshibushinilaoshi/29195",
+      "title": "银川朝阳巷持刀杀人初帖",
+      "publisher": "李老师不是你老师／Telegram公开镜像",
+      "published_date": "2026-02-01",
+      "accessed_date": "2026-09-16",
+      "type": "汇编线索",
+      "independence_group": "li-2017756836741468453",
+      "supports": [
+        "LX26A03"
+      ],
+      "key_facts": "初帖称税费口角，后续警方明确为同小区群组琐事争执约见，不能采信税费说法。",
+      "access_status": "X cache miss；Telegram文字可读",
+      "original_url": "https://x.com/whyyoutouzhele/status/2017756836741468453",
+      "published_date_basis": "X status ID时间戳所对应UTC日期，仅作发帖元数据，不代替案发日期"
+    },
+    {
+      "id": "LXS26A07",
+      "url": "https://xinwen.bjd.com.cn/content/s697ed8d6e4b0cd719e9d0524.html",
+      "title": "银川警方通报小区群争吵后持刀致1死",
+      "publisher": "平安兴庆／北京日报客户端",
+      "published_date": "2026-02-01",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "xingqing-police-20260201",
+      "supports": [
+        "LX26A03"
+      ],
+      "key_facts": "1月31日同小区两居民群内口角后约见，44岁嫌疑人持刀杀死对方，被刑拘；未见无关受害者。",
+      "access_status": "正文已打开"
+    },
+    {
+      "id": "LXS26A08",
+      "url": "https://t.me/s/lilaoshibushinilaoshi/29367",
+      "title": "深圳万丰海岸城女子遭刺线索",
+      "publisher": "李老师不是你老师／Telegram公开镜像",
+      "published_date": "2026-02-03",
+      "accessed_date": "2026-09-16",
+      "type": "汇编线索",
+      "independence_group": "li-2018738337733914646",
+      "supports": [
+        "LX26A04"
+      ],
+      "key_facts": "2月3日商场女子遭男子刺伤，群众和保安制止；关系、动机与伤亡未经警方或独立采访核实。",
+      "access_status": "X原站403；Telegram公开页文字与原帖链接可读",
+      "original_url": "https://x.com/whyyoutouzhele/status/2018738337733914646",
+      "published_date_basis": "X status ID时间戳所对应UTC日期，仅作发帖元数据，不代替案发日期"
+    },
+    {
+      "id": "LXS26A09",
+      "url": "https://t.me/s/lilaoshibushinilaoshi/30537",
+      "title": "德润龙庭业主举报车辆冲撞原帖引用",
+      "publisher": "李老师不是你老师／Telegram公开镜像",
+      "published_date": "2026-02-12",
+      "accessed_date": "2026-09-16",
+      "type": "汇编线索",
+      "independence_group": "social-derun-202602",
+      "supports": [
+        "LX26A05"
+      ],
+      "key_facts": "2月12日发布的举报未明确案发日，称开发商驾车冲撞维权一家；属于具名定向争议线索。",
+      "access_status": "X返回0行空页；Telegram后续帖中原帖引用文字可读",
+      "original_url": "https://x.com/whyyoutouzhele/status/2021957529614659891",
+      "published_date_basis": "X status ID时间戳所对应UTC日期，仅作发帖元数据，不代替案发日期"
+    },
+    {
+      "id": "LXS26A10",
+      "url": "https://t.me/s/lilaoshibushinilaoshi/30537",
+      "title": "德润龙庭车辆冲撞举报后续",
+      "publisher": "李老师不是你老师／Telegram公开镜像",
+      "published_date": "2026-02-16",
+      "accessed_date": "2026-09-16",
+      "type": "汇编线索",
+      "independence_group": "social-derun-202602",
+      "supports": [
+        "LX26A05"
+      ],
+      "key_facts": "称处罚为拘留5日，未取得处罚决定原文及独立调查；不据此认定刑事事实或无关公众受袭。",
+      "access_status": "原X未另直开；Telegram后续文字和原X链接可读",
+      "original_url": "https://x.com/whyyoutouzhele/status/2023245955009818757",
+      "published_date_basis": "X status ID时间戳所对应UTC日期，仅作发帖元数据，不代替案发日期"
+    },
+    {
+      "id": "LXS26A11",
+      "url": "https://t.me/s/lilaoshibushinilaoshi/30834",
+      "title": "河南开封街头持刀线索",
+      "publisher": "李老师不是你老师／Telegram公开镜像",
+      "published_date": "2026-02-21",
+      "accessed_date": "2026-09-16",
+      "type": "汇编线索",
+      "independence_group": "li-2025057897718124649",
+      "supports": [
+        "LX26A06"
+      ],
+      "key_facts": "原帖仅写近日，无明确案发年月日；精神病与死亡均为未印证投稿，不把2月21日发帖日当案发日。",
+      "access_status": "X仅登录外壳；Telegram文字可读",
+      "original_url": "https://x.com/whyyoutouzhele/status/2025057897718124649",
+      "published_date_basis": "X status ID时间戳所对应UTC日期，仅作发帖元数据，不代替案发日期"
+    },
+    {
+      "id": "LXS26A12",
+      "url": "https://t.me/s/lilaoshibushinilaoshi/34174",
+      "title": "横琴女大学生遇袭初帖",
+      "publisher": "李老师不是你老师／Telegram公开镜像",
+      "published_date": "2026-03-22",
+      "accessed_date": "2026-09-16",
+      "type": "汇编线索",
+      "independence_group": "li-2035510951944819083",
+      "supports": [
+        "LX26A07"
+      ],
+      "key_facts": "3月22日初帖日期和随机性为猜测；后续警方指出实际案发3月20日晚，为抢劫案。",
+      "access_status": "X原站403；Telegram公开页文字与原帖链接可读",
+      "original_url": "https://x.com/whyyoutouzhele/status/2035510951944819083",
+      "published_date_basis": "X status ID时间戳所对应UTC日期，仅作发帖元数据，不代替案发日期"
+    },
+    {
+      "id": "LXS26A13",
+      "url": "https://xinwen.bjd.com.cn/content/s69bf8e49e4b0cd719e9f5995.html",
+      "title": "横琴警方通报抢劫致1死",
+      "publisher": "横琴发布／北京日报客户端",
+      "published_date": "2026-03-22",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "hengqin-police-20260322",
+      "supports": [
+        "LX26A07"
+      ],
+      "key_facts": "警方确认3月20日晚26岁男子进入小区抢劫两人、1人死亡，3月21日抓获。受害关系和具体方式未披露。",
+      "access_status": "web打开失败；HTTP 200获取正文核对"
+    },
+    {
+      "id": "LXS26A14",
+      "url": "https://t.me/s/lilaoshibushinilaoshi/34257",
+      "title": "重庆观音桥冲撞初帖",
+      "publisher": "李老师不是你老师／Telegram公开镜像",
+      "published_date": "2026-03-22",
+      "accessed_date": "2026-09-16",
+      "type": "汇编线索",
+      "independence_group": "social-guanyinqiao-20260322",
+      "supports": [
+        "LX26A08"
+      ],
+      "key_facts": "最初称疑似报复社会；本人翌日转述官方疑似疾病说法。",
+      "access_status": "X仅登录外壳；Telegram文字可读",
+      "original_url": "https://x.com/whyyoutouzhele/status/2035710493772382393",
+      "published_date_basis": "X status ID时间戳所对应UTC日期，仅作发帖元数据，不代替案发日期"
+    },
+    {
+      "id": "LXS26A15",
+      "url": "https://k.sina.com.cn/article_1496814565_593793e502001z3i6.html",
+      "title": "重庆交通事故警方通报及现场采访",
+      "publisher": "封面新闻／新浪官方账号",
+      "published_date": "2026-03-23",
+      "accessed_date": "2026-09-16",
+      "type": "独立媒体",
+      "independence_group": "liangjiang-police-20260323",
+      "supports": [
+        "LX26A08"
+      ],
+      "key_facts": "通报3月22日33岁司机疑似发病失控，司机死亡、3行人伤；记者现场采访确认伤者送医，未证故意性。",
+      "access_status": "web cache miss；HTTP 200正文可读，包含完整警情通报"
+    },
+    {
+      "id": "LXS26A16",
+      "url": "https://t.me/s/lilaoshibushinilaoshi/34802",
+      "title": "深圳龙岗龙城街道持刀线索",
+      "publisher": "李老师不是你老师／Telegram公开镜像",
+      "published_date": "2026-03-26",
+      "accessed_date": "2026-09-16",
+      "type": "汇编线索",
+      "independence_group": "li-2037212487309742093",
+      "supports": [
+        "LX26A09"
+      ],
+      "key_facts": "称3月26日晚快递装束男子攻击两学生；身份、伤亡及冲突起因均未核实。",
+      "access_status": "X原站403；Telegram公开页文字与原帖链接可读",
+      "original_url": "https://x.com/whyyoutouzhele/status/2037212487309742093",
+      "published_date_basis": "X status ID时间戳所对应UTC日期，仅作发帖元数据，不代替案发日期"
+    },
+    {
+      "id": "LXS26A17",
+      "url": "https://t.me/s/lilaoshibushinilaoshi/34812",
+      "title": "深圳罗湖东门学生遇袭线索",
+      "publisher": "李老师不是你老师／Telegram公开镜像",
+      "published_date": "2026-03-26",
+      "accessed_date": "2026-09-16",
+      "type": "汇编线索",
+      "independence_group": "li-2037239673907535998",
+      "supports": [
+        "LX26A10"
+      ],
+      "key_facts": "称3月26日上午东门学生受袭；后续中央政法委事迹证实清晨女学生遇袭及救人者死亡。",
+      "access_status": "X原站403；Telegram公开页文字与原帖链接可读",
+      "original_url": "https://x.com/whyyoutouzhele/status/2037239673907535998",
+      "published_date_basis": "X status ID时间戳所对应UTC日期，仅作发帖元数据，不代替案发日期"
+    },
+    {
+      "id": "LXS26A18",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/505401.html",
+      "title": "2026年第二季度见义勇为勇士榜事迹",
+      "publisher": "中央政法委／最高人民法院",
+      "published_date": "2026-07-09",
+      "accessed_date": "2026-09-16",
+      "type": "官方材料",
+      "independence_group": "central-bravery-2026q2",
+      "supports": [
+        "LX26A10",
+        "LX26A12",
+        "LX26A13",
+        "LX26A14",
+        "LX26A23"
+      ],
+      "key_facts": "官方事迹确认昆明1月15日无故伤路人、白沙2月4日纠纷伤人并伤救助者、上海3月24日定向伤妻、深圳3月26日袭学生致救助者死亡。；另记载3月26日锡林浩特公交乘客攻击司机，并归因疾病发作，未披露医学诊断或行为意识。",
+      "access_status": "正文已打开"
+    },
+    {
+      "id": "LXS26A19",
+      "url": "https://t.me/s/lilaoshibushinilaoshi/35338",
+      "title": "杭州世嘉铭座入室伤人线索",
+      "publisher": "李老师不是你老师／Telegram公开镜像",
+      "published_date": "2026-03-31",
+      "accessed_date": "2026-09-16",
+      "type": "汇编线索",
+      "independence_group": "li-2038959494865313931",
+      "supports": [
+        "LX26A11"
+      ],
+      "key_facts": "原帖称3月31日凌晨敲门刺伤住户；年龄、疾病、自杀说法均未独立核实。",
+      "access_status": "X原站403；Telegram公开页文字与原帖链接可读",
+      "original_url": "https://x.com/whyyoutouzhele/status/2038959494865313931",
+      "published_date_basis": "X status ID时间戳所对应UTC日期，仅作发帖元数据，不代替案发日期"
+    },
+    {
+      "id": "LXS26A20",
+      "url": "https://t.me/s/lilaoshibushinilaoshi/35096",
+      "title": "北京大韩继集市铲车事件原帖引用",
+      "publisher": "李老师不是你老师／Telegram公开镜像",
+      "published_date": "2026-03-29",
+      "accessed_date": "2026-09-16",
+      "type": "汇编线索",
+      "independence_group": "网络视频房山20260329",
+      "supports": [
+        "C034"
+      ],
+      "key_facts": "原帖称3月29日中午铲车冲入集市；数量、动机及因果待核；与既有C034同案。",
+      "access_status": "X原站403；Telegram公开页文字与原帖链接可读",
+      "original_url": "https://x.com/whyyoutouzhele/status/2038169287744229772",
+      "published_date_basis": "X status ID时间戳所对应UTC日期，仅作发帖元数据，不代替案发日期"
+    },
+    {
+      "id": "LXS26A21",
+      "url": "https://t.me/s/lilaoshibushinilaoshi/35388",
+      "title": "武汉青松路持刀伤人帖",
+      "publisher": "李老师不是你老师／Telegram公开镜像",
+      "published_date": "2026-03-31",
+      "accessed_date": "2026-09-16",
+      "type": "汇编线索",
+      "independence_group": "social-qingsong-20260331",
+      "supports": [
+        "C027"
+      ],
+      "key_facts": "称沿街攻击路人并引警方4伤通报；帖子错写嫌疑人41岁，警方44岁为准。",
+      "access_status": "X原站403；Telegram公开页文字与原帖链接可读",
+      "original_url": "https://x.com/whyyoutouzhele/status/2039111132950962182",
+      "published_date_basis": "X status ID时间戳所对应UTC日期，仅作发帖元数据，不代替案发日期"
+    },
+    {
+      "id": "LXS26A22",
+      "url": "https://www.spp.gov.cn/spp/zdgz/202603/t20260330_725001.shtml",
+      "title": "2026年第一季度见义勇为勇士榜事迹",
+      "publisher": "中央政法委／最高人民检察院",
+      "published_date": "2026-03-30",
+      "accessed_date": "2026-09-16",
+      "type": "官方材料",
+      "independence_group": "central-bravery-2026q1",
+      "supports": [
+        "LX26A15",
+        "LX26A16",
+        "LX26A17",
+        "LX26A18",
+        "LX26A19"
+      ],
+      "key_facts": "官方事迹补得中山教培定向伤人、南昌店员伤案、沈阳伤女孩及救人者、重庆陌生女子遇袭、巧家追砍群众；明确案发日期。",
+      "access_status": "web返回403；HTTP 200原站正文可读；人民公安报新浪转载交叉核对"
+    },
+    {
+      "id": "LXS26A23",
+      "url": "https://news.southcn.com/node_17a07e5926/5380726b23.shtml",
+      "title": "南昌警方通报万象城伤人案",
+      "publisher": "南都N视频／南方网",
+      "published_date": "2026-01-11",
+      "accessed_date": "2026-09-16",
+      "type": "官方媒体",
+      "independence_group": "honggutan-police-20260110",
+      "supports": [
+        "LX26A15"
+      ],
+      "key_facts": "警方确认1月10日晚32岁男子持陶瓷水果刀划伤1女子，表皮伤，现场被控制。",
+      "access_status": "正文已打开"
+    },
+    {
+      "id": "LXS26A24",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32373915",
+      "title": "南昌万象城安保制止持刀者获奖",
+      "publisher": "澎湃新闻",
+      "published_date": "2026-01-13",
+      "accessed_date": "2026-09-16",
+      "type": "独立媒体",
+      "independence_group": "nanchang-mixc-award-20260113",
+      "supports": [
+        "LX26A15"
+      ],
+      "key_facts": "报道安保制止男子时险被推下扶梯，并核见商场奖励通报；素材注明综合网络。",
+      "access_status": "正文已打开"
+    },
+    {
+      "id": "LXS26A25",
+      "url": "https://t.me/s/lilaoshibushinilaoshi/29375",
+      "title": "江苏喷火伤人线索",
+      "publisher": "李老师不是你老师／Telegram公开镜像",
+      "published_date": "2026-02-03",
+      "accessed_date": "2026-09-16",
+      "type": "汇编线索",
+      "independence_group": "social-jiangsu-fire-20260202",
+      "supports": [
+        "LX26A20"
+      ],
+      "key_facts": "称2月2日江苏男子用喷火装置伤人；原因与死亡未独立核实。",
+      "access_status": "原X未另直开；Telegram公开页文字与原帖链接可读",
+      "original_url": "https://x.com/whyyoutouzhele/status/2018814351998918831",
+      "published_date_basis": "X status ID时间戳所对应UTC日期，仅作发帖元数据，不代替案发日期"
+    },
+    {
+      "id": "LXS26A26",
+      "url": "https://udn.com/news/story/7335/9309282",
+      "title": "江苏扬州网传喷火器伤人事件",
+      "publisher": "香港01／联合新闻网",
+      "published_date": "2026-02-04",
+      "accessed_date": "2026-09-16",
+      "type": "独立媒体",
+      "independence_group": "social-jiangsu-fire-20260202",
+      "supports": [
+        "LX26A20"
+      ],
+      "key_facts": "转述2月2日网传影像及自称知情者；扬州位置和婚外关系均未获官方确认。与多家转发同素材，不算多源核实。",
+      "access_status": "正文已打开"
+    },
+    {
+      "id": "LXS26A27",
+      "url": "https://www.wenming.cn/sbhr_pd/20260608/79715ed72bbf46df9c31f9262032df01/c.html",
+      "title": "李川：深夜挺身挡利刃",
+      "publisher": "重庆市文明办／中国文明网",
+      "published_date": "2026-07-05",
+      "accessed_date": "2026-09-16",
+      "type": "官方媒体",
+      "independence_group": "chongqing-civilization-lichuan-2026",
+      "supports": [
+        "LX26A18"
+      ],
+      "key_facts": "明确1月27日女孩遭陌生男子尾随勒颈，代驾员护送时两人再遇持刀袭击；补足陌生受害关系。",
+      "access_status": "web重定向循环；HTTP 200原站正文核对"
+    },
+    {
+      "id": "LXS26A28",
+      "url": "https://finance.sina.com.cn/wm/2026-03-14/doc-inhqxwhs7505969.shtml",
+      "title": "武汉火锅店与广场舞纠纷致2伤",
+      "publisher": "锦观新闻／新浪",
+      "published_date": "2026-03-14",
+      "accessed_date": "2026-09-16",
+      "type": "独立媒体",
+      "independence_group": "wuhan-dance-baixing-20260313",
+      "supports": [
+        "LX26A21"
+      ],
+      "key_facts": "转引记者对商户和社区采访称3月11日火锅店主伤舞者及劝架者；未取得完整警方通报和第二独立采集。",
+      "access_status": "正文已打开"
+    },
+    {
+      "id": "LXS26A29",
+      "url": "https://news.ifeng.com/c/8szHjTwGoiL",
+      "title": "重庆朝阳中学校园持刀争议与救助",
+      "publisher": "华商报大风新闻／凤凰网",
+      "published_date": "2026-05-09",
+      "accessed_date": "2026-09-16",
+      "type": "独立媒体",
+      "independence_group": "huashang-chaoyang-school-20260509",
+      "supports": [
+        "LX26A22"
+      ],
+      "key_facts": "记者访家长称3月19日同学持刀伤人，校方否认；教委被转述确认日常矛盾冲突但称无伤，信息矛盾，无无关公众受袭证据。",
+      "access_status": "正文已打开"
+    },
+    {
+      "id": "LXS26A30",
+      "url": "https://www.ntdtv.com/gb/2026/03/31/a104081779.html",
+      "title": "武汉青松路现场影像的文字描述",
+      "publisher": "新唐人",
+      "published_date": "2026-03-31",
+      "accessed_date": "2026-09-16",
+      "type": "独立媒体",
+      "independence_group": "social-qingsong-20260331",
+      "supports": [
+        "C027"
+      ],
+      "key_facts": "描述网传连续片段中嫌疑人先袭摊贩、再刺路中男子、再伤经过女子；独立现场采访部分转引封面，不能视为新增独立采访。",
+      "access_status": "正文已打开"
+    },
+    {
+      "id": "LXS26A31",
+      "url": "https://www.secretchina.com/news/gb/2026/04/09/1096914.html",
+      "title": "深圳3月26日两起持刀事件报道",
+      "publisher": "看中国",
+      "published_date": "2026-03-27",
+      "accessed_date": "2026-09-16",
+      "type": "独立媒体",
+      "independence_group": "social-shenzhen-20260326",
+      "supports": [
+        "LX26A09"
+      ],
+      "key_facts": "文本署3月27日但URL为4月9日；转述两地网络视频，罗湖上午与龙岗晚间、被述嫌疑人不同；伤亡冲突且均无独立采访核实。",
+      "access_status": "搜索结果展示文本可读；2026-09-16直开正文返回Cache miss，直接HTTP访问发生SSL连接失败，未取得正文页面。"
+    }
+  ],
+  "coverage": [
+    {
+      "query": "site:x.com/whyyoutouzhele \"2026\" \"1月\" \"砍\"",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "直接X索引稀疏，改用公开镜像与Telegram"
+    },
+    {
+      "query": "site:x.com/whyyoutouzhele \"2026\" \"2月\" \"撞\"",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "命中4月144案汇总镜像"
+    },
+    {
+      "query": "site:x.com/whyyoutouzhele \"2026\" \"3月\" \"砍\"",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "命中汇总及后续帖子"
+    },
+    {
+      "query": "2026 1月 2月 3月 持刀 伤人 李老师不是你老师",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 13,
+      "notes": "12项汇总中一项含深圳两地，全部逐案核查"
+    },
+    {
+      "query": "2026 1月19日 中山 港口 覃某 货车 警情通报",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "中山网仅图；新黄河完整通报转载可核"
+    },
+    {
+      "query": "2026 1月27日 太和 口腔癌 持刀 夫妻",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "同期报道与原帖证1月26日，未找到官方通报"
+    },
+    {
+      "query": "2026 1月31日 银川 朝阳巷 持刀",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "检得警方完整通报，定向纠纷排除"
+    },
+    {
+      "query": "2026 2月3日 万丰海岸城 伤人 警方",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "未检出警方正文，仅社媒线索"
+    },
+    {
+      "query": "\"1月27日\" \"太和\" \"持刀\"",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "NTD正文采用网传视频非独立采集"
+    },
+    {
+      "query": "\"2月3日\" \"万丰海岸城\" \"持刀\"",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 0,
+      "notes": "未检得独立确认"
+    },
+    {
+      "query": "\"2月21日\" \"开封\" \"持刀\" \"2026\"",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 0,
+      "notes": "未检得同案官方信息"
+    },
+    {
+      "query": "\"2月12日\" \"德润龙庭\" \"2026\"",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 0,
+      "notes": "未检得处罚决定或独立报道"
+    },
+    {
+      "query": "万丰海岸城 捅人 2026",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 0,
+      "notes": "结果多为无关商业信息"
+    },
+    {
+      "query": "德润龙庭 开车 撞人 2026",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 0,
+      "notes": "未检得独立核实"
+    },
+    {
+      "query": "开封 2026 2月21 捅人",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "命中2月6日毕桥村另案自媒体，定向同学纠纷线索，仅记录不混同"
+    },
+    {
+      "query": "whyyoutouzhele 太和 2026 口腔癌",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 0,
+      "notes": "通用搜索未得原帖，Telegram定词补得"
+    },
+    {
+      "query": "\"2026\" \"3月22日\" \"横琴\" 伤人",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "警方日期为3月20日，报道日不能替代案发日"
+    },
+    {
+      "query": "\"2026\" \"3月22日\" \"观音桥\" 撞人",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "找到疑似发病事故说法，后回溯封面完整通报"
+    },
+    {
+      "query": "\"2026\" \"3月31日\" \"世嘉铭座\"",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "只检得网络转发，没有官方或独立现场采集"
+    },
+    {
+      "query": "\"2026\" \"3月26日\" \"龙城\" 持刀",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 2,
+      "notes": "两地时间、身份说法不同，罗湖后得官方救助事迹，龙岗仍待核"
+    },
+    {
+      "query": "\"观音桥\" \"3月22日\" \"警方\" 2026",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "初查疑似病发"
+    },
+    {
+      "query": "\"世嘉铭座\" \"2026\" 持刀",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 0,
+      "notes": "无新增可靠正文"
+    },
+    {
+      "query": "\"万丰海岸城\" \"持刀\"",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 0,
+      "notes": "多为猎奇转载未采用"
+    },
+    {
+      "query": "\"德润龙庭\" \"撞\"",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 0,
+      "notes": "未得官方处罚材料"
+    },
+    {
+      "query": "\"2026年第一季度见义勇为勇士榜\" \"持刀\"",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 5,
+      "notes": "检得原站及完整转载，按实际案发年挑选"
+    },
+    {
+      "query": "\"2026年1月\" \"持刀\" \"路人\"",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "香港屯门1月15日事件不在大陆范围；另有泰国事件，不纳"
+    },
+    {
+      "query": "\"2026年2月\" \"随机\" \"伤人\"",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 0,
+      "notes": "未获额外可靠确认"
+    },
+    {
+      "query": "\"2026年3月\" \"纵火\" \"报复\"",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "营口案3月为判决日，未作为2026案发新增"
+    },
+    {
+      "query": "\"中山\" \"1月19日\" \"覃某\" 2026",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "完整通报已核"
+    },
+    {
+      "query": "\"观音桥\" \"2026\" \"突发疾病\" 通报",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "采用完整警方引文，不用自媒体额外断言"
+    },
+    {
+      "query": "\"横琴\" \"3月20日\" \"抢劫\" 2026",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "日期核正"
+    },
+    {
+      "query": "\"邓根仔\" \"女学生\" \"随机\"",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "官方仅支持学生和救助者遭袭，不采信网传学生死伤"
+    },
+    {
+      "query": "重庆 观音桥 3月22日 33岁 3名 行人 通报",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "封面现场走访与通报全文"
+    },
+    {
+      "query": "深圳 邓根仔 3月26 女学生 凶手",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "二次报道存在性别扩写，回到最高法原文"
+    },
+    {
+      "query": "南昌 万象城 2026 1月10 伤人 通报",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "警方1伤及商场救助过程"
+    },
+    {
+      "query": "昆明 五华 1月15日 2026 持刀 李云亚",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "官方明确无故袭击路人"
+    },
+    {
+      "query": "\"2026年1月\" \"纵火\" 中国",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "从化工厂1月6日事故报告排除人为纵火；不纳袭击"
+    },
+    {
+      "query": "\"2026年2月\" \"爆炸\" \"报复\"",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "刘某强报复女主播为2025年案，2026年处罚/报道，非新增2026事件"
+    },
+    {
+      "query": "\"2026年3月\" \"持刀伤人\" 警情",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "回收武汉等线索"
+    },
+    {
+      "query": "\"2026年2月\" \"持刀伤人\" 警情",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 0,
+      "notes": "未获额外大陆可靠个案"
+    },
+    {
+      "query": "\"2026年1月\" \"驾车\" \"冲撞\" 人群",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "美国洛杉矶集会事件属境外，排除"
+    },
+    {
+      "query": "\"2026年2月\" \"驾车\" \"冲撞\" 人群",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 0,
+      "notes": "未检得额外可信大陆事件"
+    },
+    {
+      "query": "\"2026年3月\" \"校园\" \"持刀\"",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "重庆朝阳中学冲突报道；泉州为演练、嘉义为境外"
+    },
+    {
+      "query": "\"2026年2月\" \"医院\" \"持刀\"",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 0,
+      "notes": "未检得额外可信大陆个案"
+    },
+    {
+      "query": "武汉 青松路 3月31日 2026 随机 目击者",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "新增连续目标变化影像描述；同源不重复计数"
+    },
+    {
+      "query": "北京 大韩继 3月29 2026 铲车 新京报 官方",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "未检出可核官方确认；维基/社媒互引不能升级"
+    },
+    {
+      "query": "2026 2月2 江苏 喷火器 烧死 真相",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "HK01/UDN可读，具体案情仍网传"
+    },
+    {
+      "query": "2026 2月21 开封 捅人 警方",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 0,
+      "notes": "无独立通报补充"
+    },
+    {
+      "query": "2026 3月11 武汉 火锅店 广场舞 持刀 警方",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "单一采访稿被多方转载，待核"
+    },
+    {
+      "query": "2026 1月11 沈阳 刘伟 女孩 持刀 南顺城",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "官方事迹确认无关救人者受伤"
+    },
+    {
+      "query": "2026 1月27 李川 凤鸣山 段某 女子 认识",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "文明办明确陌生关系"
+    },
+    {
+      "query": "2026 2月15 巧家 持刀 追砍 群众 单文培",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "第一季度榜确认持续追砍社区群众"
+    },
+    {
+      "query": "\"2026年1月\" \"持刀\" \"小学\" 中国",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "兴国良村小学案发2025年11月28日；2026为投诉回复日期"
+    },
+    {
+      "query": "\"2026年2月\" \"持刀\" \"幼儿园\" 中国",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 0,
+      "notes": "未检出额外可靠大陆事件"
+    },
+    {
+      "query": "\"2026年3月\" \"爆炸\" \"故意\" 中国",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "郴州勇鑫烟花实际2025年11月30日；乐山金口河村爆炸系谣言"
+    },
+    {
+      "query": "\"2026年1月\" \"医院\" \"随机\" 伤人",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 0,
+      "notes": "未检得额外可靠大陆事件"
+    },
+    {
+      "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=万丰",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+    },
+    {
+      "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=海岸城",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+    },
+    {
+      "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=德润龙庭",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+    },
+    {
+      "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=开封",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+    },
+    {
+      "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=太和",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+    },
+    {
+      "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=世嘉铭座",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+    },
+    {
+      "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=港口镇",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+    },
+    {
+      "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=观音桥",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+    },
+    {
+      "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=龙城",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+    },
+    {
+      "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=东门",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+    },
+    {
+      "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=银川",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+    },
+    {
+      "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=横琴",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+    },
+    {
+      "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=青松路",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+    },
+    {
+      "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=大韩继",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+    },
+    {
+      "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=放火",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+    },
+    {
+      "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=爆炸",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+    },
+    {
+      "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=纵火",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+    },
+    {
+      "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=口腔癌",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+    },
+    {
+      "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=鸭舌帽",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+    },
+    {
+      "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=龙岗",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+    },
+    {
+      "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=砍人",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+    },
+    {
+      "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=持刀",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+    },
+    {
+      "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=冲撞",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+    },
+    {
+      "query": "打开 https://x.com/whyyoutouzhele/status/2039625155404509246",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "访问失败",
+      "candidate_count": null,
+      "notes": "X原站访问失败；Instalker完整文字可读；Telegram 35533同源摘录可读"
+    },
+    {
+      "query": "打开 https://x.com/whyyoutouzhele/status/2013240567606464850",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "访问失败",
+      "candidate_count": null,
+      "notes": "X仅登录外壳；Telegram文字可读"
+    },
+    {
+      "query": "打开 https://x.com/whyyoutouzhele/status/2016096346025939186",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "访问失败",
+      "candidate_count": null,
+      "notes": "X原站403；Telegram公开页文字与原帖链接可读"
+    },
+    {
+      "query": "打开 https://x.com/whyyoutouzhele/status/2017756836741468453",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "访问失败",
+      "candidate_count": null,
+      "notes": "X cache miss；Telegram文字可读"
+    },
+    {
+      "query": "打开 https://x.com/whyyoutouzhele/status/2018738337733914646",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "访问失败",
+      "candidate_count": null,
+      "notes": "X原站403；Telegram公开页文字与原帖链接可读"
+    },
+    {
+      "query": "打开 https://x.com/whyyoutouzhele/status/2021957529614659891",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "访问失败",
+      "candidate_count": null,
+      "notes": "X返回0行空页；Telegram后续帖中原帖引用文字可读"
+    },
+    {
+      "query": "打开 https://x.com/whyyoutouzhele/status/2025057897718124649",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "访问失败",
+      "candidate_count": null,
+      "notes": "X仅登录外壳；Telegram文字可读"
+    },
+    {
+      "query": "打开 https://x.com/whyyoutouzhele/status/2035510951944819083",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "访问失败",
+      "candidate_count": null,
+      "notes": "X原站403；Telegram公开页文字与原帖链接可读"
+    },
+    {
+      "query": "打开 https://x.com/whyyoutouzhele/status/2035710493772382393",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "访问失败",
+      "candidate_count": null,
+      "notes": "X仅登录外壳；Telegram文字可读"
+    },
+    {
+      "query": "打开 https://x.com/whyyoutouzhele/status/2037212487309742093",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "访问失败",
+      "candidate_count": null,
+      "notes": "X原站403；Telegram公开页文字与原帖链接可读"
+    },
+    {
+      "query": "打开 https://x.com/whyyoutouzhele/status/2037239673907535998",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "访问失败",
+      "candidate_count": null,
+      "notes": "X原站403；Telegram公开页文字与原帖链接可读"
+    },
+    {
+      "query": "打开 https://x.com/whyyoutouzhele/status/2038959494865313931",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "访问失败",
+      "candidate_count": null,
+      "notes": "X原站403；Telegram公开页文字与原帖链接可读"
+    },
+    {
+      "query": "打开 https://x.com/whyyoutouzhele/status/2038169287744229772",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "访问失败",
+      "candidate_count": null,
+      "notes": "X原站403；Telegram公开页文字与原帖链接可读"
+    },
+    {
+      "query": "打开 https://x.com/whyyoutouzhele/status/2039111132950962182",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "访问失败",
+      "candidate_count": null,
+      "notes": "X原站403；Telegram公开页文字与原帖链接可读"
+    },
+    {
+      "query": "打开 https://www.spp.gov.cn/spp/zdgz/202603/t20260330_725001.shtml",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 5,
+      "notes": "web 403；直接HTTP 200可见原文，已成功核对"
+    },
+    {
+      "query": "打开 https://www.wenming.cn/sbhr_pd/20260608/79715ed72bbf46df9c31f9262032df01/c.html",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "web重定向循环；直接HTTP 200正文成功"
+    },
+    {
+      "query": "打开 https://www.secretchina.com/news/gb/2026/04/09/1096914.html",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "检索文本曾可读；直开Cache miss，HTTP回退SSL连接失败。只作未核网络转述，非独立采访。"
+    },
+    {
+      "query": "复读 https://www.thepaper.cn/newsDetail_forward_32373915",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "正文可读；标题明确安保险被推下扶梯，正文主要为商场奖励通报，素材综合网络；未确证扩大事实，南昌仍待核。"
+    },
+    {
+      "query": "\"南昌万象城\" \"保安\" \"推\" \"2026\"",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "检得既有澎湃及自媒体转载，没有检得新增独立现场采集。"
+    },
+    {
+      "query": "\"巧家\" \"2026年2月15日\" \"行凶\"",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "检得中央政法委事迹同源转载，没有额外独立信息。"
+    },
+    {
+      "query": "\"邱家屿社区\" \"持刀\" \"2026\"",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "同上，仅增加同源转载索引，不重复算证据。"
+    },
+    {
+      "query": "复读 https://www.spp.gov.cn/spp/zdgz/202603/t20260330_725001.shtml",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 5,
+      "notes": "web访问403，HTTP200原文可读；逐条再核沈阳、南昌、中山教培、重庆凤鸣山、巧家日期及过程。"
+    },
+    {
+      "query": "复读 https://udn.com/news/story/7335/9309282",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "正文可读。2月2日兼为网络流传日及匿名知情者所称案发日，独立日期证据仍缺。"
+    },
+    {
+      "query": "复扫中央政法委第二季度见义勇为榜全文中的2026年1—3月条目",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "内蒙古"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "根任务提供同一官方页面已取得HTML；复扫公交、持刀、攻击、火灾及爆炸段落。除既有昆明、海南、罗湖、上海，新增锡林浩特公交1条；其余Q1救助事迹未出现主动伤人证据，不把普通火灾与落水当袭击。"
+    },
+    {
+      "query": "\"锡林浩特\" \"2026年3月26日\" \"公交\"",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "内蒙古"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "检得锡林郭勒发改委信用网站同源转载；无新增警方调查或医学资料。"
+    },
+    {
+      "query": "\"敖千恒\" \"攻击\" 公交 2026",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "内蒙古"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "仅检得表彰稿同源内容，不能增加独立证据数量。"
+    },
+    {
+      "query": "打开 https://fgw.xlgl.gov.cn/credit/news/Ny4sNDA",
+      "scope_years": [
+        2026
+      ],
+      "scope_regions": [
+        "内蒙古"
+      ],
+      "status": "访问失败",
+      "candidate_count": 1,
+      "notes": "搜索返回同源官方转载文本，直开Cache miss；事件采用已核读的最高法刊载中央政法委榜单原文，不将此转载另计来源。"
+    }
+  ],
+  "notes": [
+    "研究窗口2026年1—3月；截至2026-09-16。新事件23条，原库C027/C034仅补丁；社媒汇总12项不是核实事件数。",
+    "原X多为403、空页或登录外壳，已逐一记录。Telegram自称官方频道，但仅作原帖文字/链接镜像，不凭频道标题赋予公安或事实认证权威。各同源转发不计独立采集。",
+    "日期未知两条保留reported_date/review_year=2026；广州按原帖1月26日、横琴按警方3月20日纠正汇总日期。江苏喷火日期属未独立核验网传，明确dating_note。",
+    "新识别官方材料证明事件发生与随机性是两个问题：昆明无故袭路人、重庆陌生女子有明确证据；罗湖等以无关救助者被进一步攻击列expanded，初始目标关系仍未知。",
+    "另行保留排除线索：2026年新帖所引深圳龙岗万达气球爆燃实为2025-12-31（https://x.com/whyyoutouzhele/status/2006727110459797829）；兴国小学实际2025-11-28；郴州勇鑫烟花实际2025-11-30；不按发帖或通报年月新增2026事件。",
+    "2026-02-01连云港狗舍起火线索（https://x.com/whyyoutouzhele/status/2018399018984825161）仅指动物和财产，未显示主动攻击人，不纳人员袭击事件；江苏2月2日喷火伤人另行保留。",
+    "开封毕桥村2月6日定向同学纠纷杀人线索仅检得中华网自媒体聚合（https://news.china.com/socialgd/10000169/20260209/49238068.html），未取得官方或独立可靠报道，未混同开封近日街头案，留待复核。",
+    "未取得这些2026新增事件可核的后续法院裁判，不推测刑责能力、职业、临床精神状态或家庭经济动机。",
+    "最终审校：南昌万象城发生有官方证据，但扩大事实仅见综合网络素材，保留pending；罗湖、白沙、沈阳和巧家分类由官方叙事直接支持。白沙及上海动机据官方事迹，不标警方初报。",
+    "末轮补漏LX26A23锡林浩特公交：官方确认攻击行为但表彰稿归因疾病发作，主动性和行为意识待核，列pending；未把未证实医疗归因当司法免责结论。"
+  ]
+}

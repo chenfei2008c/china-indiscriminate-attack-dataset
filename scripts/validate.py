@@ -11,7 +11,7 @@ db.executemany('insert into e values (?,?,?,?,?,?,?,?,?)',[(e['id'],e['date'],e[
 checks=[]
 for scope,where in [('核心',"category='core'"),('扩展',"category in ('core','expanded')")]:
  for year in range(2018,2027):
-  for period,cut in [('annual',''),('ytd',"and substr(day,6)<='09-16'")]:
+  for period,cut in [('annual',''),('ytd',"and length(day)=10 and substr(day,6)<='09-16'")]:
    row=db.execute(f"select count(*),sum(coalesce(deaths,dl,0)),sum(coalesce(injured,il,0)),sum(deaths is null),sum(injured is null) from e where {where} and substr(day,1,4)=? {cut}",(str(year),)).fetchone()
    row=tuple(x or 0 for x in row)
    target=next(x for x in analysis['annual'] if x['year']==year and x['scope']==scope and (x['period']=='01-01至09-16')==(period=='ytd'))
@@ -30,6 +30,19 @@ snapshot=json.loads((ROOT/'report/src/data.json').read_text())
 assert {e['id'] for e in snapshot['queries']['events']['rows']}=={e['id'] for e in events if e['category'] in ('core','expanded')}
 assert not set(e['id'] for e in snapshot['queries']['events']['rows'])&set(e['id'] for e in snapshot['queries']['candidates']['rows'])
 assert len(snapshot['queries']['domains']['rows'])==31*9
+# New review queue includes undated discoveries without imputing posting dates.
+recent=[e for e in events if e['year']==2026 or e.get('review_year')==2026]
+assert snapshot['queries']['recent']['rows']==recent
+assert read('review_2026')==recent
+assert len(recent)==analysis['update_2026']['current_records']
+from collections import Counter
+assert dict(Counter(e['category'] for e in recent))==analysis['update_2026']['categories']
+assert sum(e['official_occurrence'] for e in recent)==analysis['update_2026']['official_occurrence']
+for e in recent:
+ if not e['date']:
+  assert e['year'] is None and e['month'] is None and e['quarter'] is None and not e['same_period']
+  assert e['category'] in ('pending','excluded') and e.get('dating_note')
+assert sum(sum(v for k,v in m.items() if k!='month') for m in analysis['update_2026']['months'])==sum(bool(e['month'] and e['month'].startswith('2026-')) for e in recent)
 # Read cached Excel values and errors independently of the authoring library.
 book=ROOT/'exports/中国大陆随机伤人事件_2018-2026.xlsx'
 ns={'s':'http://schemas.openxmlformats.org/spreadsheetml/2006/main'}
@@ -45,7 +58,8 @@ with zipfile.ZipFile(book) as z:
  cells={c.attrib['r']:c.findtext('s:v',namespaces=ns) for c in sheet.findall('.//s:c',ns)}
  for cell,val in [('B18',analysis['core']['events']),('C18',analysis['expanded']['events']),('D18',analysis['core']['deaths_lower_total']),('E18',analysis['core']['injured_lower_total'])]:assert float(cells[cell])==val,(cell,cells[cell],val)
  assert formula_count>=500
-assert not any(e['date']>'2026-09-16' or e['date']<'2018-01-01' for e in events)
-report={'status':'passed','independent_annual_checks':len(checks),'province_year_checks':len(context),'xlsx_formula_count':formula_count,'xlsx_formula_errors':0,'core_events':analysis['core']['events'],'expanded_events':analysis['expanded']['events'],'core_deaths_min':analysis['core']['deaths_lower_total'],'core_injured_min':analysis['core']['injured_lower_total'],'event_source_integrity':'passed','date_range':'passed','note':'这些检查验证计算与结构一致性；不能证明公开来源无误或检索穷尽。浏览器与逐案抽核另有记录。'}
+assert not any(e['date'] and (e['date']>'2026-09-16' or e['date']<'2018') for e in events)
+assert all(e['date'] for e in events if e['category'] in ['core','expanded'])
+report={'status':'passed','independent_annual_checks':len(checks),'province_year_checks':len(context),'xlsx_formula_count':formula_count,'xlsx_formula_errors':0,'core_events':analysis['core']['events'],'expanded_events':analysis['expanded']['events'],'core_deaths_min':analysis['core']['deaths_lower_total'],'core_injured_min':analysis['core']['injured_lower_total'],'review_2026_records':len(recent),'undated_review_records':sum(e['date'] is None for e in recent),'event_source_integrity':'passed','date_range':'passed','note':'这些检查验证计算与结构一致性；不能证明公开来源无误或检索穷尽。浏览器与逐案抽核另有记录。'}
 (ROOT/'validation/independent_checks.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
 print(json.dumps(report,ensure_ascii=False,indent=2))

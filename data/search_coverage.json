@@ -4513,5 +4513,3627 @@
     "status": "已检索",
     "candidate_count": null,
     "notes": "2026-09-16补查有组织恐怖袭击。检出多为境外袭击中国公民、区间外案件或将个体袭击泛称恐怖主义，未检出满足组织性认定且在研究范围的可核实新增事件。"
+  },
+  {
+    "query": "https://www.court.gov.cn/zixun/xiangqing/505401.html",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "web正文部分可读；Python证书校验失败；系统curl保留证书校验成功",
+    "candidate_count": null,
+    "notes": "2026补查最终复核：逐项复核昆明、深圳、嘉禾、湖州、白沙；发现锡林浩特与曲沃遗漏并转入分季补查。"
+  },
+  {
+    "query": "https://www.spp.gov.cn/spp/zdgz/202603/t20260330_725001.shtml",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "web访问失败",
+    "candidate_count": null,
+    "notes": "2026补查最终复核：第一季度官方材料root复读失败，保留研究员成功HTTP访问与转载核验记录。"
+  },
+  {
+    "query": "https://finance.sina.com.cn/jjxw/2026-08-20/doc-ininxkrz8884709.shtml",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "正文已访问",
+    "candidate_count": null,
+    "notes": "2026补查最终复核：复核西宁先伤摊主、后伤劝架者的目击者采访引用及新黄河独立采访，扩大类依据成立。"
+  },
+  {
+    "query": "https://finance.sina.com.cn/wm/2026-05-01/doc-inhwkpte5570692.shtml",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "正文已访问",
+    "candidate_count": null,
+    "notes": "2026补查最终复核：复核广州地铁辣椒水：潇湘晨报和荔枝分别采访亲历者，派出所人员确认抓获；未将症状当精确伤者数。"
+  },
+  {
+    "query": "site:x.com/whyyoutouzhele \"2026\" \"1月\" \"砍\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "直接X索引稀疏，改用公开镜像与Telegram"
+  },
+  {
+    "query": "site:x.com/whyyoutouzhele \"2026\" \"2月\" \"撞\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "命中4月144案汇总镜像"
+  },
+  {
+    "query": "site:x.com/whyyoutouzhele \"2026\" \"3月\" \"砍\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "命中汇总及后续帖子"
+  },
+  {
+    "query": "2026 1月 2月 3月 持刀 伤人 李老师不是你老师",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 13,
+    "notes": "12项汇总中一项含深圳两地，全部逐案核查"
+  },
+  {
+    "query": "2026 1月19日 中山 港口 覃某 货车 警情通报",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "中山网仅图；新黄河完整通报转载可核"
+  },
+  {
+    "query": "2026 1月27日 太和 口腔癌 持刀 夫妻",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "同期报道与原帖证1月26日，未找到官方通报"
+  },
+  {
+    "query": "2026 1月31日 银川 朝阳巷 持刀",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "检得警方完整通报，定向纠纷排除"
+  },
+  {
+    "query": "2026 2月3日 万丰海岸城 伤人 警方",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "未检出警方正文，仅社媒线索"
+  },
+  {
+    "query": "\"1月27日\" \"太和\" \"持刀\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "NTD正文采用网传视频非独立采集"
+  },
+  {
+    "query": "\"2月3日\" \"万丰海岸城\" \"持刀\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 0,
+    "notes": "未检得独立确认"
+  },
+  {
+    "query": "\"2月21日\" \"开封\" \"持刀\" \"2026\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 0,
+    "notes": "未检得同案官方信息"
+  },
+  {
+    "query": "\"2月12日\" \"德润龙庭\" \"2026\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 0,
+    "notes": "未检得处罚决定或独立报道"
+  },
+  {
+    "query": "万丰海岸城 捅人 2026",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 0,
+    "notes": "结果多为无关商业信息"
+  },
+  {
+    "query": "德润龙庭 开车 撞人 2026",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 0,
+    "notes": "未检得独立核实"
+  },
+  {
+    "query": "开封 2026 2月21 捅人",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "命中2月6日毕桥村另案自媒体，定向同学纠纷线索，仅记录不混同"
+  },
+  {
+    "query": "whyyoutouzhele 太和 2026 口腔癌",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 0,
+    "notes": "通用搜索未得原帖，Telegram定词补得"
+  },
+  {
+    "query": "\"2026\" \"3月22日\" \"横琴\" 伤人",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "警方日期为3月20日，报道日不能替代案发日"
+  },
+  {
+    "query": "\"2026\" \"3月22日\" \"观音桥\" 撞人",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "找到疑似发病事故说法，后回溯封面完整通报"
+  },
+  {
+    "query": "\"2026\" \"3月31日\" \"世嘉铭座\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "只检得网络转发，没有官方或独立现场采集"
+  },
+  {
+    "query": "\"2026\" \"3月26日\" \"龙城\" 持刀",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 2,
+    "notes": "两地时间、身份说法不同，罗湖后得官方救助事迹，龙岗仍待核"
+  },
+  {
+    "query": "\"观音桥\" \"3月22日\" \"警方\" 2026",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "初查疑似病发"
+  },
+  {
+    "query": "\"世嘉铭座\" \"2026\" 持刀",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 0,
+    "notes": "无新增可靠正文"
+  },
+  {
+    "query": "\"万丰海岸城\" \"持刀\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 0,
+    "notes": "多为猎奇转载未采用"
+  },
+  {
+    "query": "\"德润龙庭\" \"撞\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 0,
+    "notes": "未得官方处罚材料"
+  },
+  {
+    "query": "\"2026年第一季度见义勇为勇士榜\" \"持刀\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 5,
+    "notes": "检得原站及完整转载，按实际案发年挑选"
+  },
+  {
+    "query": "\"2026年1月\" \"持刀\" \"路人\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "香港屯门1月15日事件不在大陆范围；另有泰国事件，不纳"
+  },
+  {
+    "query": "\"2026年2月\" \"随机\" \"伤人\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 0,
+    "notes": "未获额外可靠确认"
+  },
+  {
+    "query": "\"2026年3月\" \"纵火\" \"报复\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "营口案3月为判决日，未作为2026案发新增"
+  },
+  {
+    "query": "\"中山\" \"1月19日\" \"覃某\" 2026",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "完整通报已核"
+  },
+  {
+    "query": "\"观音桥\" \"2026\" \"突发疾病\" 通报",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "采用完整警方引文，不用自媒体额外断言"
+  },
+  {
+    "query": "\"横琴\" \"3月20日\" \"抢劫\" 2026",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "日期核正"
+  },
+  {
+    "query": "\"邓根仔\" \"女学生\" \"随机\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "官方仅支持学生和救助者遭袭，不采信网传学生死伤"
+  },
+  {
+    "query": "重庆 观音桥 3月22日 33岁 3名 行人 通报",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "封面现场走访与通报全文"
+  },
+  {
+    "query": "深圳 邓根仔 3月26 女学生 凶手",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "二次报道存在性别扩写，回到最高法原文"
+  },
+  {
+    "query": "南昌 万象城 2026 1月10 伤人 通报",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "警方1伤及商场救助过程"
+  },
+  {
+    "query": "昆明 五华 1月15日 2026 持刀 李云亚",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "官方明确无故袭击路人"
+  },
+  {
+    "query": "\"2026年1月\" \"纵火\" 中国",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "从化工厂1月6日事故报告排除人为纵火；不纳袭击"
+  },
+  {
+    "query": "\"2026年2月\" \"爆炸\" \"报复\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "刘某强报复女主播为2025年案，2026年处罚/报道，非新增2026事件"
+  },
+  {
+    "query": "\"2026年3月\" \"持刀伤人\" 警情",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "回收武汉等线索"
+  },
+  {
+    "query": "\"2026年2月\" \"持刀伤人\" 警情",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 0,
+    "notes": "未获额外大陆可靠个案"
+  },
+  {
+    "query": "\"2026年1月\" \"驾车\" \"冲撞\" 人群",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "美国洛杉矶集会事件属境外，排除"
+  },
+  {
+    "query": "\"2026年2月\" \"驾车\" \"冲撞\" 人群",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 0,
+    "notes": "未检得额外可信大陆事件"
+  },
+  {
+    "query": "\"2026年3月\" \"校园\" \"持刀\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "重庆朝阳中学冲突报道；泉州为演练、嘉义为境外"
+  },
+  {
+    "query": "\"2026年2月\" \"医院\" \"持刀\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 0,
+    "notes": "未检得额外可信大陆个案"
+  },
+  {
+    "query": "武汉 青松路 3月31日 2026 随机 目击者",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "新增连续目标变化影像描述；同源不重复计数"
+  },
+  {
+    "query": "北京 大韩继 3月29 2026 铲车 新京报 官方",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "未检出可核官方确认；维基/社媒互引不能升级"
+  },
+  {
+    "query": "2026 2月2 江苏 喷火器 烧死 真相",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "HK01/UDN可读，具体案情仍网传"
+  },
+  {
+    "query": "2026 2月21 开封 捅人 警方",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 0,
+    "notes": "无独立通报补充"
+  },
+  {
+    "query": "2026 3月11 武汉 火锅店 广场舞 持刀 警方",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "单一采访稿被多方转载，待核"
+  },
+  {
+    "query": "2026 1月11 沈阳 刘伟 女孩 持刀 南顺城",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "官方事迹确认无关救人者受伤"
+  },
+  {
+    "query": "2026 1月27 李川 凤鸣山 段某 女子 认识",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "文明办明确陌生关系"
+  },
+  {
+    "query": "2026 2月15 巧家 持刀 追砍 群众 单文培",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "第一季度榜确认持续追砍社区群众"
+  },
+  {
+    "query": "\"2026年1月\" \"持刀\" \"小学\" 中国",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "兴国良村小学案发2025年11月28日；2026为投诉回复日期"
+  },
+  {
+    "query": "\"2026年2月\" \"持刀\" \"幼儿园\" 中国",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 0,
+    "notes": "未检出额外可靠大陆事件"
+  },
+  {
+    "query": "\"2026年3月\" \"爆炸\" \"故意\" 中国",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "郴州勇鑫烟花实际2025年11月30日；乐山金口河村爆炸系谣言"
+  },
+  {
+    "query": "\"2026年1月\" \"医院\" \"随机\" 伤人",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 0,
+    "notes": "未检得额外可靠大陆事件"
+  },
+  {
+    "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=万丰",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+  },
+  {
+    "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=海岸城",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+  },
+  {
+    "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=德润龙庭",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+  },
+  {
+    "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=开封",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+  },
+  {
+    "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=太和",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+  },
+  {
+    "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=世嘉铭座",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+  },
+  {
+    "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=港口镇",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+  },
+  {
+    "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=观音桥",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+  },
+  {
+    "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=龙城",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+  },
+  {
+    "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=东门",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+  },
+  {
+    "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=银川",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+  },
+  {
+    "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=横琴",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+  },
+  {
+    "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=青松路",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+  },
+  {
+    "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=大韩继",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+  },
+  {
+    "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=放火",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+  },
+  {
+    "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=爆炸",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+  },
+  {
+    "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=纵火",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+  },
+  {
+    "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=口腔癌",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+  },
+  {
+    "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=鸭舌帽",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+  },
+  {
+    "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=龙岗",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+  },
+  {
+    "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=砍人",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+  },
+  {
+    "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=持刀",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+  },
+  {
+    "query": "Telegram公开搜索 https://t.me/s/lilaoshibushinilaoshi?before=35534&q=冲撞",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "实际HTTP读取匹配文字与原status链接；结果可能漏检（如万丰无结果而海岸城命中），无结果不等于无事件。未下载媒体。"
+  },
+  {
+    "query": "打开 https://x.com/whyyoutouzhele/status/2039625155404509246",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "访问失败",
+    "candidate_count": null,
+    "notes": "X原站访问失败；Instalker完整文字可读；Telegram 35533同源摘录可读"
+  },
+  {
+    "query": "打开 https://x.com/whyyoutouzhele/status/2013240567606464850",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "访问失败",
+    "candidate_count": null,
+    "notes": "X仅登录外壳；Telegram文字可读"
+  },
+  {
+    "query": "打开 https://x.com/whyyoutouzhele/status/2016096346025939186",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "访问失败",
+    "candidate_count": null,
+    "notes": "X原站403；Telegram公开页文字与原帖链接可读"
+  },
+  {
+    "query": "打开 https://x.com/whyyoutouzhele/status/2017756836741468453",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "访问失败",
+    "candidate_count": null,
+    "notes": "X cache miss；Telegram文字可读"
+  },
+  {
+    "query": "打开 https://x.com/whyyoutouzhele/status/2018738337733914646",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "访问失败",
+    "candidate_count": null,
+    "notes": "X原站403；Telegram公开页文字与原帖链接可读"
+  },
+  {
+    "query": "打开 https://x.com/whyyoutouzhele/status/2021957529614659891",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "访问失败",
+    "candidate_count": null,
+    "notes": "X返回0行空页；Telegram后续帖中原帖引用文字可读"
+  },
+  {
+    "query": "打开 https://x.com/whyyoutouzhele/status/2025057897718124649",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "访问失败",
+    "candidate_count": null,
+    "notes": "X仅登录外壳；Telegram文字可读"
+  },
+  {
+    "query": "打开 https://x.com/whyyoutouzhele/status/2035510951944819083",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "访问失败",
+    "candidate_count": null,
+    "notes": "X原站403；Telegram公开页文字与原帖链接可读"
+  },
+  {
+    "query": "打开 https://x.com/whyyoutouzhele/status/2035710493772382393",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "访问失败",
+    "candidate_count": null,
+    "notes": "X仅登录外壳；Telegram文字可读"
+  },
+  {
+    "query": "打开 https://x.com/whyyoutouzhele/status/2037212487309742093",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "访问失败",
+    "candidate_count": null,
+    "notes": "X原站403；Telegram公开页文字与原帖链接可读"
+  },
+  {
+    "query": "打开 https://x.com/whyyoutouzhele/status/2037239673907535998",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "访问失败",
+    "candidate_count": null,
+    "notes": "X原站403；Telegram公开页文字与原帖链接可读"
+  },
+  {
+    "query": "打开 https://x.com/whyyoutouzhele/status/2038959494865313931",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "访问失败",
+    "candidate_count": null,
+    "notes": "X原站403；Telegram公开页文字与原帖链接可读"
+  },
+  {
+    "query": "打开 https://x.com/whyyoutouzhele/status/2038169287744229772",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "访问失败",
+    "candidate_count": null,
+    "notes": "X原站403；Telegram公开页文字与原帖链接可读"
+  },
+  {
+    "query": "打开 https://x.com/whyyoutouzhele/status/2039111132950962182",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "访问失败",
+    "candidate_count": null,
+    "notes": "X原站403；Telegram公开页文字与原帖链接可读"
+  },
+  {
+    "query": "打开 https://www.spp.gov.cn/spp/zdgz/202603/t20260330_725001.shtml",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 5,
+    "notes": "web 403；直接HTTP 200可见原文，已成功核对"
+  },
+  {
+    "query": "打开 https://www.wenming.cn/sbhr_pd/20260608/79715ed72bbf46df9c31f9262032df01/c.html",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "web重定向循环；直接HTTP 200正文成功"
+  },
+  {
+    "query": "打开 https://www.secretchina.com/news/gb/2026/04/09/1096914.html",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "检索文本曾可读；直开Cache miss，HTTP回退SSL连接失败。只作未核网络转述，非独立采访。"
+  },
+  {
+    "query": "复读 https://www.thepaper.cn/newsDetail_forward_32373915",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "正文可读；标题明确安保险被推下扶梯，正文主要为商场奖励通报，素材综合网络；未确证扩大事实，南昌仍待核。"
+  },
+  {
+    "query": "\"南昌万象城\" \"保安\" \"推\" \"2026\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "检得既有澎湃及自媒体转载，没有检得新增独立现场采集。"
+  },
+  {
+    "query": "\"巧家\" \"2026年2月15日\" \"行凶\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "检得中央政法委事迹同源转载，没有额外独立信息。"
+  },
+  {
+    "query": "\"邱家屿社区\" \"持刀\" \"2026\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "同上，仅增加同源转载索引，不重复算证据。"
+  },
+  {
+    "query": "复读 https://www.spp.gov.cn/spp/zdgz/202603/t20260330_725001.shtml",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 5,
+    "notes": "web访问403，HTTP200原文可读；逐条再核沈阳、南昌、中山教培、重庆凤鸣山、巧家日期及过程。"
+  },
+  {
+    "query": "复读 https://udn.com/news/story/7335/9309282",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "正文可读。2月2日兼为网络流传日及匿名知情者所称案发日，独立日期证据仍缺。"
+  },
+  {
+    "query": "复扫中央政法委第二季度见义勇为榜全文中的2026年1—3月条目",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "内蒙古"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "根任务提供同一官方页面已取得HTML；复扫公交、持刀、攻击、火灾及爆炸段落。除既有昆明、海南、罗湖、上海，新增锡林浩特公交1条；其余Q1救助事迹未出现主动伤人证据，不把普通火灾与落水当袭击。"
+  },
+  {
+    "query": "\"锡林浩特\" \"2026年3月26日\" \"公交\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "内蒙古"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "检得锡林郭勒发改委信用网站同源转载；无新增警方调查或医学资料。"
+  },
+  {
+    "query": "\"敖千恒\" \"攻击\" 公交 2026",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "内蒙古"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "仅检得表彰稿同源内容，不能增加独立证据数量。"
+  },
+  {
+    "query": "打开 https://fgw.xlgl.gov.cn/credit/news/Ny4sNDA",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "内蒙古"
+    ],
+    "status": "访问失败",
+    "candidate_count": 1,
+    "notes": "搜索返回同源官方转载文本，直开Cache miss；事件采用已核读的最高法刊载中央政法委榜单原文，不将此转载另计来源。"
+  },
+  {
+    "query": "\"whyyoutouzhele\" \"2026\" \"4月\" \"伤人\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "2026年第二季度定向检索；命中结果逐条核对。"
+  },
+  {
+    "query": "\"whyyoutouzhele\" \"2026\" \"5月\" \"伤人\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "2026年第二季度定向检索；命中结果逐条核对。"
+  },
+  {
+    "query": "\"whyyoutouzhele\" \"2026\" \"6月\" \"伤人\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "2026年第二季度定向检索；命中结果逐条核对。"
+  },
+  {
+    "query": "\"2026\" \"4月\" \"随机\" \"持刀\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "2026年第二季度定向检索；命中结果逐条核对。"
+  },
+  {
+    "query": "\"whyyoutouzhele\" \"4月\" \"2026\" \"撞人\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "关键词补漏；须区分旧案重发和实际案发日。"
+  },
+  {
+    "query": "\"whyyoutouzhele\" \"5月\" \"2026\" \"砍人\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "关键词补漏；须区分旧案重发和实际案发日。"
+  },
+  {
+    "query": "\"whyyoutouzhele\" \"6月\" \"2026\" \"撞人\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "关键词补漏；须区分旧案重发和实际案发日。"
+  },
+  {
+    "query": "\"2026\" \"6月\" \"随机砍人\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "关键词补漏；须区分旧案重发和实际案发日。"
+  },
+  {
+    "query": "\"2026年4月\" \"持刀伤人\" 通报",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "警方/媒体通报检索。"
+  },
+  {
+    "query": "\"2026年5月\" \"持刀伤人\" 通报",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "警方/媒体通报检索。"
+  },
+  {
+    "query": "\"2026年6月\" \"持刀伤人\" 通报",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "警方/媒体通报检索。"
+  },
+  {
+    "query": "\"2026\" \"重庆理工\" \"6月5\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "警方/媒体通报检索。"
+  },
+  {
+    "query": "\"2026\" \"4月\" \"纵火\" \"报复\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "纵火、爆炸、驾车及车展线索补漏。"
+  },
+  {
+    "query": "\"2026\" \"5月\" \"爆炸\" \"男子\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "纵火、爆炸、驾车及车展线索补漏。"
+  },
+  {
+    "query": "\"2026\" \"6月\" \"汽车\" \"冲撞\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "纵火、爆炸、驾车及车展线索补漏。"
+  },
+  {
+    "query": "\"2026\" \"无锡\" \"程儿\" \"警方\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "纵火、爆炸、驾车及车展线索补漏。"
+  },
+  {
+    "query": "无锡 6月19日 车展 程儿 持刀 2026",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "候选逐案追索。"
+  },
+  {
+    "query": "滕州 6月28日 和馨园 砍人 2026",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "候选逐案追索。"
+  },
+  {
+    "query": "博罗 中园 4月22日 持刀 2026",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "候选逐案追索。"
+  },
+  {
+    "query": "广州 地铁 4月30日 2026 不明液体",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "候选逐案追索。"
+  },
+  {
+    "query": "广州地铁 辣椒水 2026 九派新闻",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "原始采访来源与X继续补漏。"
+  },
+  {
+    "query": "广州地铁 辣椒水 2026 荔枝新闻",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "原始采访来源与X继续补漏。"
+  },
+  {
+    "query": "\"2026\" \"4月\" \"袭击\" \"whyyoutouzhele\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "原始采访来源与X继续补漏。"
+  },
+  {
+    "query": "\"2026\" \"5月\" \"袭击\" \"whyyoutouzhele\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "原始采访来源与X继续补漏。"
+  },
+  {
+    "query": "\"2026\" \"6月\" \"纵火\" 中国",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "按月份和手段补漏；多数命中境外/旧案，不能据报道日期纳入。"
+  },
+  {
+    "query": "\"2026\" \"5月\" \"纵火\" 中国",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "按月份和手段补漏；多数命中境外/旧案，不能据报道日期纳入。"
+  },
+  {
+    "query": "\"2026\" \"4月\" \"爆炸\" \"报复社会\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "按月份和手段补漏；多数命中境外/旧案，不能据报道日期纳入。"
+  },
+  {
+    "query": "\"2026\" \"6月\" \"爆炸\" \"报复社会\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "按月份和手段补漏；多数命中境外/旧案，不能据报道日期纳入。"
+  },
+  {
+    "query": "\"2026\" \"6月\" \"随州\" \"大润发\" 撞人",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "爆炸纵火驾车候选回溯通报。"
+  },
+  {
+    "query": "\"2026\" \"6月\" \"漯河\" \"撞人\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "爆炸纵火驾车候选回溯通报。"
+  },
+  {
+    "query": "\"2026\" \"6月11日\" \"兴安\" 爆炸 通报",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "爆炸纵火驾车候选回溯通报。"
+  },
+  {
+    "query": "\"2026\" \"4月17日\" \"临沂\" \"纵火\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "爆炸纵火驾车候选回溯通报。"
+  },
+  {
+    "query": "\"2026\" \"6月5日\" \"重庆理工大学\" 警方",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "动机、受害关系、官方后续与X原帖追溯。"
+  },
+  {
+    "query": "\"2026\" \"5月19日\" \"环球金融中心\" \"日本人\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "动机、受害关系、官方后续与X原帖追溯。"
+  },
+  {
+    "query": "\"2026\" \"宏达国际车业\" \"纵火\" \"纠纷\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "动机、受害关系、官方后续与X原帖追溯。"
+  },
+  {
+    "query": "\"whyyoutouzhele\" \"广州地铁\" \"4月30日\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "动机、受害关系、官方后续与X原帖追溯。"
+  },
+  {
+    "query": "\"2026\" \"4月13日\" \"衢州\" \"路虎\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "论坛漏案候选追溯，保留故意性待核或事故排除。"
+  },
+  {
+    "query": "\"2026\" \"4月19日\" \"南安\" \"撞\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "论坛漏案候选追溯，保留故意性待核或事故排除。"
+  },
+  {
+    "query": "\"2026\" \"4月7日\" \"儋州\" \"奔驰\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "论坛漏案候选追溯，保留故意性待核或事故排除。"
+  },
+  {
+    "query": "\"2026\" \"4月17日\" \"临沂\" \"面粉厂\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "论坛漏案候选追溯，保留故意性待核或事故排除。"
+  },
+  {
+    "query": "\"2026\" \"郸城县\" \"女孩\" \"砍伤\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "按月关键词继续补漏。"
+  },
+  {
+    "query": "\"whyyoutouzhele\" \"2026\" \"6月\" \"杀人\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "按月关键词继续补漏。"
+  },
+  {
+    "query": "\"whyyoutouzhele\" \"2026\" \"5月\" \"杀人\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "按月关键词继续补漏。"
+  },
+  {
+    "query": "\"whyyoutouzhele\" \"2026\" \"4月\" \"纵火\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "按月关键词继续补漏。"
+  },
+  {
+    "query": "\"郸城\" \"2026\" \"砍伤两名\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "校园/街头及六月车辆线索补漏核对。"
+  },
+  {
+    "query": "\"滕州\" \"2026年6月28日\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "校园/街头及六月车辆线索补漏核对。"
+  },
+  {
+    "query": "\"2026\" \"随州\" \"冲撞行人\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "校园/街头及六月车辆线索补漏核对。"
+  },
+  {
+    "query": "\"2026\" \"漯河\" \"连环车祸\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "校园/街头及六月车辆线索补漏核对。"
+  },
+  {
+    "query": "2026 4月 5月 6月 学校 持刀 袭击 路人",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "按校园、医疗、公交和商业群体场景补漏；结果以案发日核对。"
+  },
+  {
+    "query": "2026 4月 5月 6月 医院 随机 伤人",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "按校园、医疗、公交和商业群体场景补漏；结果以案发日核对。"
+  },
+  {
+    "query": "2026 4月 5月 6月 公交 纵火 爆炸",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "按校园、医疗、公交和商业群体场景补漏；结果以案发日核对。"
+  },
+  {
+    "query": "2026 4月 5月 6月 商场 超市 随机 砍人",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "按校园、医疗、公交和商业群体场景补漏；结果以案发日核对。"
+  },
+  {
+    "query": "\"2026\" \"4月13日\" \"奉化\" \"火灾\" 通报",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "官方确认与纵火候选核验。"
+  },
+  {
+    "query": "\"2026\" \"4月17日\" \"临沂\" \"火灾\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "官方确认与纵火候选核验。"
+  },
+  {
+    "query": "\"2026\" \"嘉禾\" \"曾凡林\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "官方确认与纵火候选核验。"
+  },
+  {
+    "query": "\"2026\" \"张伟\" \"金某\" \"曾某\" 湖州",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "官方确认与纵火候选核验。"
+  },
+  {
+    "query": "衢州 2026 4月14日 余某某 2人受伤",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "伤亡通报正文与后续分类复核。"
+  },
+  {
+    "query": "南安市 水头镇 2026 4月19日 南方",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "伤亡通报正文与后续分类复核。"
+  },
+  {
+    "query": "嘉禾 曾凡林 2026 4月11日 精神",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "伤亡通报正文与后续分类复核。"
+  },
+  {
+    "query": "广州 地铁 辣椒水 2026 调查 结果",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "伤亡通报正文与后续分类复核。"
+  },
+  {
+    "query": "衢州 4月13日 余某某 2026 警情通报 百汇路",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "逐案补查官方正文、原始社媒与相反证据。"
+  },
+  {
+    "query": "2026 4月19日 南安 水头 2死1伤 警方 南方",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "逐案补查官方正文、原始社媒与相反证据。"
+  },
+  {
+    "query": "泰安 2026 4月29日 副市长 爆炸 造谣",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "逐案补查官方正文、原始社媒与相反证据。"
+  },
+  {
+    "query": "site:x.com/whyyoutouzhele/status/ 2026 广州 辣椒水",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "逐案补查官方正文、原始社媒与相反证据。"
+  },
+  {
+    "query": "site.twstalker.com/whyyoutouzhele \"2026\" \"4月\" 砍人",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "对X镜像及CDT定向补查；按结果正文案发日期审查，不将聚合页面标题年份等同案发年份。"
+  },
+  {
+    "query": "site.sotwe.com/whyyoutouzhele \"5月\" \"2026\" 撞人",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "对X镜像及CDT定向补查；按结果正文案发日期审查，不将聚合页面标题年份等同案发年份。"
+  },
+  {
+    "query": "site.chinadigitaltimes.net \"2026\" \"6月\" \"持刀\" 李老师",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "对X镜像及CDT定向补查；按结果正文案发日期审查，不将聚合页面标题年份等同案发年份。"
+  },
+  {
+    "query": "site.twstalker.com/whyyoutouzhele \"6月\" \"2026\" 纵火",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "对X镜像及CDT定向补查；按结果正文案发日期审查，不将聚合页面标题年份等同案发年份。"
+  },
+  {
+    "query": "天津 津南 正营路 瞬新广场 2026 6月26日 持刀",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "新增镜像线索及相反现场证据补查。"
+  },
+  {
+    "query": "北京 中信大厦 2026 6月26日 飞机 撞击 通报",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "新增镜像线索及相反现场证据补查。"
+  },
+  {
+    "query": "成都 2026 5月1日 司机 尖刀 目击者 调查 后续",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "新增镜像线索及相反现场证据补查。"
+  },
+  {
+    "query": "\"北京朝阳\" \"2026\" \"7月2日\" \"航空器\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "北京",
+      "安徽"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "末轮核查北京调查结论与寿县幼儿园网帖。"
+  },
+  {
+    "query": "\"寿县\" \"6月27日\" \"2026\" \"京师\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "北京",
+      "安徽"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "末轮核查北京调查结论与寿县幼儿园网帖。"
+  },
+  {
+    "query": "2026 6月27日 寿县 衡安 国际城 京师 幼儿园 伤人",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "安徽",
+      "天津"
+    ],
+    "status": "已检索",
+    "candidate_count": 0,
+    "notes": "未查得对应官方通报或独立媒体报道；仅社媒线索保留。"
+  },
+  {
+    "query": "2026 6月26日 天津 瞬新 广场 持刀",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "安徽",
+      "天津"
+    ],
+    "status": "已检索",
+    "candidate_count": 0,
+    "notes": "未查得对应官方通报或独立媒体报道；仅社媒线索保留。"
+  },
+  {
+    "query": "https://x.com/whyyoutouzhele/status/2068635036157644991",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "访问失败",
+    "candidate_count": null,
+    "notes": "无锡原X帖打开为空白；X-Sou仅搜索摘要可见，镜像正文打开失败，不能据此确认发生。"
+  },
+  {
+    "query": "https://x.com/whyyoutouzhele/status/2040449312027480228",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "访问失败",
+    "candidate_count": null,
+    "notes": "沈阳原X帖由媒体嵌入链接提取；原站未返回可读正文，保留可访问转载。"
+  },
+  {
+    "query": "https://x.com/whyyoutouzhele/status/2050186973680463941",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "访问失败",
+    "candidate_count": null,
+    "notes": "成都原X帖403；品葱讨论页搜索摘要可见，正文失败。后续取得中央社影像分析与大纪元原始采访，不将此与X镜像重复当独立来源。"
+  },
+  {
+    "query": "https://x.com/whyyoutouzhele/status/2070839570053095833",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "访问失败",
+    "candidate_count": null,
+    "notes": "天津原X帖0行空白；公开Telegram频道HTML取得对应文本、原URL与帖子链接。"
+  },
+  {
+    "query": "https://x.com/whyyoutouzhele/status/2070491014016520660",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "访问失败",
+    "candidate_count": null,
+    "notes": "北京飞机撞楼原X帖0行空白，Telegram镜像可读；事件另有官方通报可靠转载。"
+  },
+  {
+    "query": "https://twstalker.com/whyyoutouzhele",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "主页可读但检索结果主要为8月动态，未恢复完整4—6月档案；特定无锡详情页面未取得正文。"
+  },
+  {
+    "query": "https://chinadigitaltimes.net/chinese/chronicle-of-major-events",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "大事记全文已打开，4—6月条目多为其他社会议题；没有新增可独立证实的目标事件。"
+  },
+  {
+    "query": "site.sotwe.com/whyyoutouzhele \"5月\" \"2026\" 撞人",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "未检出可直接核验的Sotwe正文；宽泛返回成都等相关转载，不把无结果误写成不存在事件。"
+  },
+  {
+    "query": "https://www.guancha.cn/politics/2026_04_14_813610.shtml",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "Web正文连续超时；公开HTML后续成功读取警方完整文字，确认2人伤而非论坛所传死亡。"
+  },
+  {
+    "query": "https://www.sohu.com/a/1011659164_100116740",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "Web正文超时；公开HTML读取到南方+记者向当地部门核实2死1伤、逆行及原因调查中的原文。"
+  },
+  {
+    "query": "https://www.court.gov.cn/zixun/xiangqing/505401.html",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "逐项校对官方名单中的案发年份：嘉禾4/11、湖州4/2纳入核心/扩展；曲沃供电职工4/7追捕盗窃车辆碰撞列待核，需区分危险逃逸和主动攻击；珠海4/12协助抓逃犯仅逃跑挣扎、未见主动袭人，排除。部分获奖案例实际发生2025年或更早，不按获奖日期新增。"
+  },
+  {
+    "query": "\"2026\" \"郸城县\" \"女孩\" \"砍伤\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "打开相关材料发现具体案发日为2022年8月10日，属旧案重现，未加入2026。"
+  },
+  {
+    "query": "Instalker 李老师 2026年 献忠 事件 汇总",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "待核",
+    "candidate_count": null,
+    "notes": "已检查所命中聚合页：标题和多年份列表混合，上海惠南4/1、南昌4/4、温州4/7、深圳4/10、洛阳4/11位于往年部分，不凭搜索摘要邻接到2026。聚合144等计数不作为全国或本库事件总数。"
+  },
+  {
+    "query": "https://www.mem.gov.cn/xw/yjyw/202605/t20260508_602865.shtml",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "5月4日浏阳烟花厂爆炸材料指生产安全事故，未见主动袭击；未新建随机伤人事件。"
+  },
+  {
+    "query": "https://www.reddit.com/r/LOOK_CHINA/comments/1uhnk2g/",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "访问失败",
+    "candidate_count": null,
+    "notes": "检索标题保存6月27日寿县幼儿园待核线索；正文不可读，定向检索未查得原始记录，不补造伤亡。"
+  },
+  {
+    "query": "2026年7月 持刀 砍人 随机 袭击 通报",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "2026年8月 持刀 砍人 随机 袭击 通报",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "2026年9月 持刀 砍人 随机 袭击 通报",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "site:x.com/whyyoutouzhele \"2026\" (\"持刀\" OR \"撞人\" OR \"纵火\")",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"7月\" \"撞人\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"8月\" \"撞人\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"9月\" \"撞人\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"7月\" (\"纵火\" OR \"爆炸\") \"警方\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026年7月\" \"持刀伤人\" -台湾 -台北 -台南",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026年8月\" \"持刀伤人\" -台湾 -台北 -台南",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026年9月\" \"持刀伤人\" -广州 -台湾 -台北 -台南",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "site:twstalker.com/whyyoutouzhele \"2026\" \"砍人\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"9月4日\" \"锦旗\" 医生",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"7月\" \"无差别\" 中国",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"8月\" \"无差别\" 中国",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"9月\" (\"纵火\" OR \"爆炸\") \"中国\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"贵州\" \"锦旗\" \"现代快报\" \"2026\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"贵州\" \"胡某某\" \"9月6日\" \"2026\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "site:twstalker.com \"whyyoutouzhele\" \"7月\" \"持刀\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "site:twstalker.com \"whyyoutouzhele\" \"8月\" \"持刀\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "site:x.com/whyyoutouzhele \"7月\" \"2026\" \"伤人\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "site:x.com/whyyoutouzhele \"8月\" \"2026\" \"袭击\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "site:twstalker.com \"whyyoutouzhele\" \"9月\" \"持刀伤人事件\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"7月\" \"砍人\" \"中国\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"第三季度\" \"见义勇为\" \"持刀\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"于荣先\" \"歹徒\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"7月\" \"纵火\" \"报复\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"8月\" \"纵火\" \"报复\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"于荣先\" \"划伤\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"7月17日\" \"平江\" \"纵火\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"西平\" \"7月30日\" \"通报\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"9月\" \"定兴\" \"外卖员\" \"砍刀\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"于荣先\" \"青海政法\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"于荣先\" \"摊主\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"9月\" \"爆炸\" \"泄愤\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"8月\" \"爆炸\" \"报复\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"于荣先\" site:qh.chinanews.com.cn",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"于荣先\" site:qhnews.com",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"于荣先\" site:news.cn",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"于荣先\" \"北小街\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"7月\" \"献忠\" -site:reddit.com",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"8月\" \"献忠\" -site:reddit.com",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"9月\" \"献忠\" -广州 -site:reddit.com",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"玉林\" \"8月20日\" \"伤害\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"晋江\" \"鞋厂\" \"纵火\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"8月\" \"报复社会\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"7月\" \"报复社会\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"9月\" \"报复社会\" -广州",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"锦屏\" \"8月17日\" \"通报\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"辉腾鞋业\" \"火灾\" \"通报\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"7月16日\" \"晋江\" \"火灾\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"西平县\" \"7·30\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"锦屏\" \"刘某\" \"失控\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"7月15日\" \"莆田\" \"纵火\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"玉州\" \"8月21日\" \"警情通报\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"杭州\" \"7月13日\" \"甜品店\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"莆田\" \"7月15日\" \"纵火\" \"新京报\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"锦屏\" \"8月17日\" \"事故\" \"2026\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"7月\" \"校园\" \"持刀\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"8月\" \"学校\" \"持刀\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"7月15日\" \"莆田\" \"人为纵火\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"锦屏\" \"8月17日\" \"车辆失控\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"9月8日\" \"合肥\" \"纵火\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"7月14日\" \"古雷\" \"拾荒\" \"原因\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"莆田\" \"烟花\" \"新京报\" \"7月15日\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"古雷\" \"洪某\" \"张某\" \"纠纷\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"9月8日\" \"蚌埠\" \"高华\" \"火灾\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"7月26日\" \"玉屏山\" \"纵火\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "site:x.com/whyyoutouzhele/status/ \"2026\" \"7月27日\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "site:twstalker.com/whyyoutouzhele \"7月\" \"砍\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "site:twstalker.com/whyyoutouzhele \"8月\" \"撞\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "site:sotwe.com \"whyyoutouzhele\" \"9月14日\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"8月2日\" \"青岛\" \"仓库\" \"火灾\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"9月8日\" \"合肥\" \"乌鲁木齐路\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"玉屏山\" \"7月26日\" \"通报\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"于荣先\" \"劝阻\" \"划伤\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"7月26日\" \"玉屏山\" site:news.cctv.cn",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"7月\" \"爆炸\" \"持刀\" \"见义勇为\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"8月\" \"学校\" \"行凶\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"9月\" \"医院\" \"随机\" -广州 -site:reddit.com",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026年\" \"玉屏山\" \"14时30分\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"烟花爆竹仓库\" \"灵川镇\" \"纵火\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"茂名\" \"8月19日\" \"警方\" \"伤人\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"2026\" \"厦门\" \"7月11日\" \"警方\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"福建莆田\" \"烟花爆竹\" \"2026-07-15\" \"纵火\" -site:sohu.com",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"玉林\" \"2026\" \"8月20日\" \"新唐人\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"玉屏山\" \"2026-07-26\" \"通报\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "\"玉屏山\" \"2026\" \"火情通报\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "检索覆盖汇总（非单条查询）：\"2026\" \"西宁\" \"于荣先\" \"摊主\" \"制止\"",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "本轮实际网页检索，范围限定2026-07-01至2026-09-16；命中经日期、地点、同案去重后对应new_events或event_updates。未命中不代表不存在；未将外地／往年／同源转发累加。"
+  },
+  {
+    "query": "检索覆盖汇总（非单条查询）：广州9月14日大学城／小谷围／GOGO新天地／广东工业大学西区食堂，官方与X镜像追溯",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "广东"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "确认与C024同案；公安原文、财新公开导语、Sotwe正文可见。HK01主要引网图，ruibao.news打开失败，Epoch记者稿通过镜像搜索见摘要但原文与镜像均未成功，不算已核实独立证据。"
+  },
+  {
+    "query": "检索覆盖汇总（非单条查询）：X原帖检索及短链解析：t.co/f2ShrfgI6V、t.co/VMiz4obeGv、pic.twitter.com/DzeH5U8DlP",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "广东",
+      "江苏"
+    ],
+    "status": "访问失败",
+    "candidate_count": 2,
+    "notes": "短链安全错误；文学城X日期链接返回Internal Error，无status ID。仅保留实际得到的链接，不用时间推算、伪造status URL。"
+  },
+  {
+    "query": "检索覆盖汇总（非单条查询）：TwStalker／Sotwe／X读取及浏览器复核",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "web工具可读www.sotwe.com/whyyoutouzhele及w.twstalker.com/whyyoutouzhele正文；TwStalker当前时间线不断变化。Python直接HTTP403；浏览器TwStalker停安全验证，没有尝试绕过。X三个已恢复status分别为空页或403。"
+  },
+  {
+    "query": "检索覆盖汇总（非单条查询）：于荣先＋摊主／劝架／两人划伤／人民日报／青海政法／见义勇为",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "青海"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "成功取得多源采访与警方转引；原C041更新expanded。青海新闻网030602062及030602063打开重定向循环，Sohu青科新闻超时，仅辅助检索，不以访问失败页独立定案。"
+  },
+  {
+    "query": "检索覆盖汇总（非单条查询）：2026年第三季度见义勇为勇士榜／7月8月9月地方见义勇为持刀伤人",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "检出7月9日发布的第二季度榜，其案发属Q2，未列Q3新案。未查得覆盖截至9月16日的完整第三季度全国榜；补查于荣先地方认定。"
+  },
+  {
+    "query": "检索覆盖汇总（非单条查询）：厦门7月11日东浦路／汕头8月18日陈厝合／茂名8月19日电城海景明珠＋警方通报",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "福建",
+      "广东"
+    ],
+    "status": "待核",
+    "candidate_count": 3,
+    "notes": "未查得可直接对应三案的官方或独立现场采访；搜索有泛化、旧闻及色情站结果，未将后者作为可靠佐证；三条线索均保留。"
+  },
+  {
+    "query": "检索覆盖汇总（非单条查询）：莆田7月15日灵川烟花仓库＋新京报；洪雅7月26日玉屏山＋通报",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "福建",
+      "四川"
+    ],
+    "status": "访问失败",
+    "candidate_count": 2,
+    "notes": "金羊网返回空正文，新京报搜狐号Cache miss；中国网中新网洪雅稿Internal Error。搜索缓存短稿可读，事件及来源明确标注缓存层次。"
+  },
+  {
+    "query": "检索覆盖汇总（非单条查询）：2026年7月／8月／9月＋纵火／爆炸／报复社会／献忠，回查通报",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "保留晋江两火灾、莆田、平江、洪雅、青岛、蚌埠、合肥等线索。消防／公司确认火灾不等于确认纵火；没有把伤亡或官方未披露原因作为蓄意证据。"
+  },
+  {
+    "query": "检索覆盖汇总（非单条查询）：2026年7月／8月／9月＋校园／医院／商业区／地铁／驾车撞人",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "群体场景补漏覆盖贵阳医院、广州商区、南京地铁、江苏青少年赛事及锦屏交通事故。泰国、菲律宾校园枪案不在中国大陆范围；检出的旧案判决不按新闻发布日期加到2026。"
+  },
+  {
+    "query": "检索覆盖汇总（非单条查询）：9月发布的深圳工厂纵火审判、福建前男友爆炸案；7月重报郑州宏达车业纵火",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "广东",
+      "福建",
+      "河南"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "深圳厂房纵火审判新闻案发2025-10-12；福建前男友爆炸案案发2025-05，均非2026新事件。郑州宏达案发6月19日，线索已转给Q2研究，Q3不重复。"
+  },
+  {
+    "query": "检索覆盖汇总（非单条查询）：李老师9月近期帖：滕州实验中学学生被打、南宁站跳轨、小米试驾事故",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "山东",
+      "广西"
+    ],
+    "status": "待核",
+    "candidate_count": null,
+    "notes": "TwStalker搜索缓存出现滕州教师惩戒一学生暴力线索，但只写“近日”、未得到原始日期与通报，保留检索备注供跟进；南宁跳轨为自伤、试驾误踩为事故，不构成当前主动袭击公众样本。"
+  },
+  {
+    "query": "检索覆盖汇总（非单条查询）：唐厝村火灾、于荣先、7月27日乒乓球赛及广州大学城X原帖回溯",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "镜像、嵌入、同稿转载统一按来源链解释。部分帖只保留账号页面且无永久status，access_status明确不足；计数只用于检索覆盖，不是全国事件总量。"
   }
 ]

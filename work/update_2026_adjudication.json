@@ -1,0 +1,23 @@
+{
+  "LX26B02": {
+    "motive_basis": "官方事迹",
+    "motive_attribution": "中央政法委见义勇为事迹；仅确认既往工作纠纷背景，非司法认定心理动机。",
+    "response_injured": null
+  },
+  "LX26A12": {
+    "sex": "男",
+    "field_sources": {
+      "demographics": [
+        "LXS26A18"
+      ]
+    }
+  },
+  "LX26A18": {
+    "sex": "男",
+    "field_sources": {
+      "demographics": [
+        "LXS26A27"
+      ]
+    }
+  }
+}

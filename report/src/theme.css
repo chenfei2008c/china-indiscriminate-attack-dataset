@@ -3,26 +3,26 @@
   --adaptive-theme: 1;
   --font-sans-default: -apple-system-body, ui-sans-serif, -apple-system, system-ui, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
   --font-sans: var(--vscode-font-family, var(--font-sans-default));
-  --background: var(--color-token-main-surface-primary, var(--color-background-surface, light-dark(#fff, #181818)));
-  --surface: var(--color-background-elevated-secondary-opaque, light-dark(#fcfcfc, #212121));
+  --background: light-dark(#faf9f6, #172023);
+  --surface: light-dark(#fffefd, #1f2b2f);
   --surface-raised: var(--color-token-dropdown-background, light-dark(#fff, #282828));
   --muted: light-dark(#f7f7f7, #282828);
   --control: var(--color-background-control-opaque, light-dark(#fff, #212121));
   --control-hover: light-dark(#f2f2f2, #303030);
   --interaction-hover: var(--muted);
   --interaction-active: var(--control-hover);
-  --text: var(--color-token-foreground, var(--color-text-foreground, light-dark(#1a1c1f, #fff)));
-  --secondary: var(--color-token-description-foreground, light-dark(#767676, #afafaf));
-  --border: var(--color-token-border, var(--color-border, light-dark(#ededed, #303030)));
-  --border-strong: var(--color-border-heavy, light-dark(#dfdfdf, #414141));
-  --accent: var(--color-text-accent, light-dark(#339cff, #99ceff));
+  --text: light-dark(#233337, #e7eeed);
+  --secondary: light-dark(#687273, #a9bbb9);
+  --border: light-dark(#e8e7e1, #354447);
+  --border-strong: light-dark(#d9dcd6, #465b5c);
+  --accent: light-dark(#126b67, #7fd2c7);
   --positive: var(--color-text-success, light-dark(#00a240, #40c977));
   --negative: var(--color-text-error, light-dark(#e02e2a, #ff6764));
-  --chart-1: light-dark(#0285ff, #66b5ff);
-  --chart-2: light-dark(#924ff7, #ad7bf9);
-  --chart-3: light-dark(#04b84c, #40c977);
-  --chart-4: light-dark(#fb6a22, #ff8549);
-  --chart-5: light-dark(#ff66ad, #ff8cc1);
+  --chart-1: light-dark(#176f6b, #7fd2c7);
+  --chart-2: light-dark(#537a9b, #9abbd9);
+  --chart-3: light-dark(#ad8150, #d8b080);
+  --chart-4: light-dark(#7e7597, #b7a9d3);
+  --chart-5: light-dark(#698764, #a6c79c);
   --chart-6: light-dark(#ffc300, #ffd240);
   --chart-7: light-dark(#fa423e, #ff6764);
   --chart-8: light-dark(#8f8f8f, #afafaf);
@@ -39,6 +39,8 @@
   --mark-radius: 8;
   --card-shadow: 0 4px 12px rgb(0 0 0 / 1%);
   --shadow: 0 8px 16px -4px rgb(0 0 0 / 12%);
+  --data-app-chrome-background: var(--background);
+  --data-app-chrome-text: var(--text);
 }
 
 :root:not([data-app-theme]),

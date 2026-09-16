@@ -14,7 +14,8 @@ assert snapshot['buildStatus'] == 'complete'
 events = read('data/events.json')
 expected = {e['id']: e for e in events if e['category'] in ('core', 'expanded')}
 assert {e['id']: e for e in snapshot['queries']['events']['rows']} == expected
-assert len(snapshot['queries']['candidates']['rows']) == 84
+assert {e['id'] for e in snapshot['queries']['candidates']['rows']} == {e['id'] for e in events if e['category'] not in ('core','expanded')}
+assert {e['id'] for e in snapshot['queries']['recent']['rows']} == {e['id'] for e in events if e['year']==2026 or e.get('review_year')==2026}
 assert len(snapshot['queries']['sources']['rows']) == len(read('data/sources.json'))
 assert len(snapshot['queries']['coverage']['rows']) == len(read('data/search_coverage.json'))
 for path in root.rglob('*'):

@@ -4,38 +4,38 @@
   "files": [
     {
       "path": "docs/index.html",
-      "bytes": 2868522,
-      "sha256": "965f056e08eef28db6221d28d87f0302adedfbf3bbc8d5f573ca9c87cb4d1366"
+      "bytes": 2883520,
+      "sha256": "6b4b45248437cf30036955f2613fb2e8e7fe0ecf8ec8e8ccb40c3e2e61ea33a6"
     },
     {
-      "path": "docs/snapshot.279f33995c8a3402e38fff73fcce4fe419619cbc1c7b2a1e66065c05119ae31b.json",
-      "bytes": 3779883,
-      "sha256": "279f33995c8a3402e38fff73fcce4fe419619cbc1c7b2a1e66065c05119ae31b"
+      "path": "docs/snapshot.04f5f0af554a5c119bda6e31389897e15e35f688d41750d80251bfad617bcba5.json",
+      "bytes": 4613299,
+      "sha256": "04f5f0af554a5c119bda6e31389897e15e35f688d41750d80251bfad617bcba5"
     },
     {
       "path": "exports/互动报告.html",
-      "bytes": 6651783,
-      "sha256": "79fe147933d99c411ebfc365e48b65dab61743ad4d5d549e297168e506efd37a"
+      "bytes": 7501042,
+      "sha256": "a92554bc48f20653d492167b34db4309d4a9ff69e54764cf3129b98e6a9fec6e"
     },
     {
       "path": "exports/中国大陆随机伤人事件_2018-2026.xlsx",
-      "bytes": 213903,
-      "sha256": "0a5f0ee3a8bdfacaad9cd7e4583fcee1a76e933c03a74ba19c5287c1b0ae70c1"
+      "bytes": 334231,
+      "sha256": "c8e0aecdae9f4fd1bd86504c968ac2081b16dfc80d3b57ae5f10f75878762cf6"
     },
     {
       "path": "data/events.json",
-      "bytes": 365316,
-      "sha256": "09a5b14bf5d2d08695f94f82006f642e75a1f88e606583c54f5f2e7bbc3d287c"
+      "bytes": 584575,
+      "sha256": "45a50621741294e3c6d43977f6cd8fad2e822650e219d5067cfc9fea8b931e0b"
     },
     {
       "path": "data/sources.json",
-      "bytes": 110719,
-      "sha256": "03ccb979355093ad1ab3f6c5ef99e89461aec04ba4ebd206612207c8ad2b8eca"
+      "bytes": 183036,
+      "sha256": "a08a6fbd85aefa4f8f3a64eb7f6289c1de98b5b4dd00aec454e24942c1fbdd9c"
     },
     {
       "path": "data/analysis.json",
-      "bytes": 46194,
-      "sha256": "be54f3398ff96ff28fccc7205478390f8bfd31eedb2b30bb75d89203d90f9e03"
+      "bytes": 49486,
+      "sha256": "88b17780a0e719e8f59d7b182a445a37e2ee6304fbe0ac202b0245e60daabc86"
     }
   ]
 }

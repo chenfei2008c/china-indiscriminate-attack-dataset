@@ -1217,5 +1217,127 @@
     "source_ids": [
       "CS035"
     ]
+  },
+  {
+    "event_id": "LX26A03",
+    "category": "excluded",
+    "tag": "邻里纠纷",
+    "theme": "其他已披露背景",
+    "basis": "警方初步通报",
+    "summary": "小区社交群琐事争执后约见，矛盾激化。",
+    "source_ids": [
+      "LXS26A07"
+    ]
+  },
+  {
+    "event_id": "LX26A13",
+    "category": "expanded",
+    "tag": "情感纠纷",
+    "theme": "婚姻／家庭／感情问题",
+    "basis": "官方事迹",
+    "summary": "官方事迹称感情纠纷后饮酒行凶。",
+    "source_ids": [
+      "LXS26A18"
+    ]
+  },
+  {
+    "event_id": "LX26A07",
+    "category": "pending",
+    "tag": "抢劫",
+    "theme": "其他已披露背景",
+    "basis": "警方初步通报",
+    "summary": "警方认定实施抢劫。",
+    "source_ids": [
+      "LXS26A13"
+    ]
+  },
+  {
+    "event_id": "LX26A14",
+    "category": "excluded",
+    "tag": "家庭纠纷",
+    "theme": "婚姻／家庭／感情问题",
+    "basis": "官方事迹",
+    "summary": "家庭纠纷。",
+    "source_ids": [
+      "LXS26A18"
+    ]
+  },
+  {
+    "event_id": "LX26B02",
+    "category": "expanded",
+    "tag": "工作纠纷",
+    "theme": "经济／工作／财产纠纷",
+    "basis": "官方事迹",
+    "summary": "官方案例记述袭击者与老板存在既往纠纷；具体心理动机未披露。",
+    "source_ids": [
+      "LXS26B01"
+    ]
+  },
+  {
+    "event_id": "LX26B08",
+    "category": "excluded",
+    "tag": "工作纠纷",
+    "theme": "经济／工作／财产纠纷",
+    "basis": "警方初步通报",
+    "summary": "警方初查为同事矛盾。",
+    "source_ids": [
+      "LXS26B09"
+    ]
+  },
+  {
+    "event_id": "LX26B10",
+    "category": "pending",
+    "tag": "经营纠纷",
+    "theme": "其他已披露背景",
+    "basis": "警方初步通报",
+    "summary": "警方查明因经营纠纷实施放火。",
+    "source_ids": [
+      "LXS26B12",
+      "LXS26B13"
+    ]
+  },
+  {
+    "event_id": "LX26C05",
+    "category": "pending",
+    "tag": "商业纠纷",
+    "theme": "其他已披露背景",
+    "basis": "警方初步通报",
+    "summary": "警方初查称与店主存在矛盾纠纷后纵火，细节未知。",
+    "source_ids": [
+      "LXS26C14"
+    ]
+  },
+  {
+    "event_id": "LX26C06",
+    "category": "excluded",
+    "tag": "邻里纠纷",
+    "theme": "其他已披露背景",
+    "basis": "警方初步通报",
+    "summary": "警方初查为邻里矛盾引发争执。",
+    "source_ids": [
+      "LXS26C15"
+    ]
+  },
+  {
+    "event_id": "LX26C04",
+    "category": "excluded",
+    "tag": "人际纠纷",
+    "theme": "其他已披露背景",
+    "basis": "警方初步通报",
+    "summary": "警方初查：因纠纷伤害特定女子，纠纷内容未公布。",
+    "source_ids": [
+      "LXS26C13"
+    ]
+  },
+  {
+    "event_id": "C041",
+    "category": "expanded",
+    "tag": "人际纠纷",
+    "theme": "其他已披露背景",
+    "basis": "媒体调查",
+    "summary": "目击者采访称与摊主冲突，进一步起因未披露。",
+    "source_ids": [
+      "LXS26C07"
+    ]
   }
 ]

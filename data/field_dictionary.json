@@ -147,7 +147,7 @@
   {
     "field": "motive_basis",
     "label": "动机证据层级",
-    "definition": "法院认定/警方初步通报/检方指控/外交渠道转述法院/媒体调查/未知；不同层级不互换。"
+    "definition": "法院认定/警方初步通报/检方指控/外交渠道转述法院/媒体调查/官方事迹/未知；不同层级不互换。"
   },
   {
     "field": "mental_health",
@@ -263,5 +263,35 @@
     "field": "motive_themes",
     "label": "动机归并主题",
     "definition": "研究编码，按work/motive_taxonomy.json归并原始标签；允许多标签，非独立新增事实。"
+  },
+  {
+    "field": "review_batch",
+    "label": "补查批次",
+    "definition": "空值表示未查得/无法确定，不能按0解释。"
+  },
+  {
+    "field": "verification_gaps",
+    "label": "尚缺的核验要素",
+    "definition": "待核实记录尚缺的要素；未另写时引用分类依据中的核验限制。"
+  },
+  {
+    "field": "social_source_urls",
+    "label": "社交平台原帖链接",
+    "definition": "由逐案关联来源中的X/Twitter原帖链接归并得到；镜像不新增独立证据。"
+  },
+  {
+    "field": "reported_date",
+    "label": "线索发布日",
+    "definition": "原线索发布日；不自动代替案发日。"
+  },
+  {
+    "field": "review_year",
+    "label": "补查所属年份（非案发年）",
+    "definition": "补查队列所属年；不同于案发年。案发日未知的社媒投稿可归入2026补查，不能计入按案发日的年/月统计。"
+  },
+  {
+    "field": "dating_note",
+    "label": "案发日期核验说明",
+    "definition": "案发日期精度、发帖与接报警时间差异，以及尚缺证据。"
   }
 ]

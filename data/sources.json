@@ -2795,5 +2795,1675 @@
     ],
     "key_facts": "警方案发次日通报周某某男52岁，为近期从外地来苏州的无业人员。仅补人口特征，不回退后续伤亡结论。",
     "body_checked": true
+  },
+  {
+    "id": "LXS26A01",
+    "url": "https://instalker.org/whyyoutouzhele/status/2039625155404509246",
+    "title": "李老师：2026年12起线索及往年汇总",
+    "publisher": "李老师不是你老师／Instalker",
+    "published_date": "2026-04-02",
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "li-2039625155404509246",
+    "supports": [
+      "LX26A01",
+      "LX26A02",
+      "LX26A03",
+      "LX26A04",
+      "LX26A05",
+      "LX26A06",
+      "LX26A07",
+      "LX26A08",
+      "LX26A09",
+      "LX26A10",
+      "LX26A11",
+      "C034",
+      "C027"
+    ],
+    "key_facts": "2026段列12项，深圳同一项含两地；名单混有交通事故、定向纠纷，部分日期与同期帖或警方通报不同，逐案复核。",
+    "access_status": "X原站访问失败；Instalker完整文字可读；Telegram 35533同源摘录可读",
+    "original_url": "https://x.com/whyyoutouzhele/status/2039625155404509246"
+  },
+  {
+    "id": "LXS26A02",
+    "url": "https://t.me/s/lilaoshibushinilaoshi/28333",
+    "title": "中山港口货车冲撞线索",
+    "publisher": "李老师不是你老师／Telegram公开镜像",
+    "published_date": "2026-01-19",
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "li-2013240567606464850",
+    "supports": [
+      "LX26A01"
+    ],
+    "key_facts": "称1月19日港口镇货车冲撞及重复碾压；故意性、枪声等未获独立印证。",
+    "access_status": "X仅登录外壳；Telegram文字可读",
+    "original_url": "https://x.com/whyyoutouzhele/status/2013240567606464850",
+    "published_date_basis": "X status ID时间戳所对应UTC日期，仅作发帖元数据，不代替案发日期"
+  },
+  {
+    "id": "LXS26A03",
+    "url": "https://portal.sina.com.hk/news-china/sina/2026/01/19/1453890/",
+    "title": "警方通报中山货车碰撞多车",
+    "publisher": "新黄河／新浪香港",
+    "published_date": "2026-01-19",
+    "accessed_date": "2026-09-16",
+    "type": "官方媒体",
+    "independence_group": "gangkou-police-20260119",
+    "supports": [
+      "LX26A01"
+    ],
+    "key_facts": "通报世纪西路货车碰撞汽车、电动摩托，2伤；27岁司机被控制，语言行为异常，未定性故意袭击。",
+    "access_status": "web正文访问失败；HTTP 200获取并核对完整文字"
+  },
+  {
+    "id": "LXS26A04",
+    "url": "https://t.me/s/lilaoshibushinilaoshi/28881",
+    "title": "广州太和街头夫妻遇袭投稿",
+    "publisher": "李老师不是你老师／Telegram公开镜像",
+    "published_date": "2026-01-27",
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "social-taihe-20260126",
+    "supports": [
+      "LX26A02"
+    ],
+    "key_facts": "原帖明确写1月26日，描述带孩子夫妻遇持刀袭击；癌症与伤情是投稿说法，汇总误写1月27日。",
+    "access_status": "X原站403；Telegram公开页文字与原帖链接可读",
+    "original_url": "https://x.com/whyyoutouzhele/status/2016096346025939186",
+    "published_date_basis": "X status ID时间戳所对应UTC日期，仅作发帖元数据，不代替案发日期"
+  },
+  {
+    "id": "LXS26A05",
+    "url": "https://www.ntdtv.com/b5/2026/01/27/a104060679.html",
+    "title": "传广州街头持刀袭击夫妻",
+    "publisher": "新唐人",
+    "published_date": "2026-01-27",
+    "accessed_date": "2026-09-16",
+    "type": "独立媒体",
+    "independence_group": "social-taihe-20260126",
+    "supports": [
+      "LX26A02"
+    ],
+    "key_facts": "转述网络监控和知情网友，案发写1月26日；没有独立采访核实癌症、关系及死伤。",
+    "access_status": "正文已打开"
+  },
+  {
+    "id": "LXS26A06",
+    "url": "https://t.me/s/lilaoshibushinilaoshi/29195",
+    "title": "银川朝阳巷持刀杀人初帖",
+    "publisher": "李老师不是你老师／Telegram公开镜像",
+    "published_date": "2026-02-01",
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "li-2017756836741468453",
+    "supports": [
+      "LX26A03"
+    ],
+    "key_facts": "初帖称税费口角，后续警方明确为同小区群组琐事争执约见，不能采信税费说法。",
+    "access_status": "X cache miss；Telegram文字可读",
+    "original_url": "https://x.com/whyyoutouzhele/status/2017756836741468453",
+    "published_date_basis": "X status ID时间戳所对应UTC日期，仅作发帖元数据，不代替案发日期"
+  },
+  {
+    "id": "LXS26A07",
+    "url": "https://xinwen.bjd.com.cn/content/s697ed8d6e4b0cd719e9d0524.html",
+    "title": "银川警方通报小区群争吵后持刀致1死",
+    "publisher": "平安兴庆／北京日报客户端",
+    "published_date": "2026-02-01",
+    "accessed_date": "2026-09-16",
+    "type": "公安",
+    "independence_group": "xingqing-police-20260201",
+    "supports": [
+      "LX26A03"
+    ],
+    "key_facts": "1月31日同小区两居民群内口角后约见，44岁嫌疑人持刀杀死对方，被刑拘；未见无关受害者。",
+    "access_status": "正文已打开"
+  },
+  {
+    "id": "LXS26A08",
+    "url": "https://t.me/s/lilaoshibushinilaoshi/29367",
+    "title": "深圳万丰海岸城女子遭刺线索",
+    "publisher": "李老师不是你老师／Telegram公开镜像",
+    "published_date": "2026-02-03",
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "li-2018738337733914646",
+    "supports": [
+      "LX26A04"
+    ],
+    "key_facts": "2月3日商场女子遭男子刺伤，群众和保安制止；关系、动机与伤亡未经警方或独立采访核实。",
+    "access_status": "X原站403；Telegram公开页文字与原帖链接可读",
+    "original_url": "https://x.com/whyyoutouzhele/status/2018738337733914646",
+    "published_date_basis": "X status ID时间戳所对应UTC日期，仅作发帖元数据，不代替案发日期"
+  },
+  {
+    "id": "LXS26A09",
+    "url": "https://t.me/s/lilaoshibushinilaoshi/30537",
+    "title": "德润龙庭业主举报车辆冲撞原帖引用",
+    "publisher": "李老师不是你老师／Telegram公开镜像",
+    "published_date": "2026-02-12",
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "social-derun-202602",
+    "supports": [
+      "LX26A05"
+    ],
+    "key_facts": "2月12日发布的举报未明确案发日，称开发商驾车冲撞维权一家；属于具名定向争议线索。",
+    "access_status": "X返回0行空页；Telegram后续帖中原帖引用文字可读",
+    "original_url": "https://x.com/whyyoutouzhele/status/2021957529614659891",
+    "published_date_basis": "X status ID时间戳所对应UTC日期，仅作发帖元数据，不代替案发日期"
+  },
+  {
+    "id": "LXS26A10",
+    "url": "https://t.me/s/lilaoshibushinilaoshi/30537",
+    "title": "德润龙庭车辆冲撞举报后续",
+    "publisher": "李老师不是你老师／Telegram公开镜像",
+    "published_date": "2026-02-16",
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "social-derun-202602",
+    "supports": [
+      "LX26A05"
+    ],
+    "key_facts": "称处罚为拘留5日，未取得处罚决定原文及独立调查；不据此认定刑事事实或无关公众受袭。",
+    "access_status": "原X未另直开；Telegram后续文字和原X链接可读",
+    "original_url": "https://x.com/whyyoutouzhele/status/2023245955009818757",
+    "published_date_basis": "X status ID时间戳所对应UTC日期，仅作发帖元数据，不代替案发日期"
+  },
+  {
+    "id": "LXS26A11",
+    "url": "https://t.me/s/lilaoshibushinilaoshi/30834",
+    "title": "河南开封街头持刀线索",
+    "publisher": "李老师不是你老师／Telegram公开镜像",
+    "published_date": "2026-02-21",
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "li-2025057897718124649",
+    "supports": [
+      "LX26A06"
+    ],
+    "key_facts": "原帖仅写近日，无明确案发年月日；精神病与死亡均为未印证投稿，不把2月21日发帖日当案发日。",
+    "access_status": "X仅登录外壳；Telegram文字可读",
+    "original_url": "https://x.com/whyyoutouzhele/status/2025057897718124649",
+    "published_date_basis": "X status ID时间戳所对应UTC日期，仅作发帖元数据，不代替案发日期"
+  },
+  {
+    "id": "LXS26A12",
+    "url": "https://t.me/s/lilaoshibushinilaoshi/34174",
+    "title": "横琴女大学生遇袭初帖",
+    "publisher": "李老师不是你老师／Telegram公开镜像",
+    "published_date": "2026-03-22",
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "li-2035510951944819083",
+    "supports": [
+      "LX26A07"
+    ],
+    "key_facts": "3月22日初帖日期和随机性为猜测；后续警方指出实际案发3月20日晚，为抢劫案。",
+    "access_status": "X原站403；Telegram公开页文字与原帖链接可读",
+    "original_url": "https://x.com/whyyoutouzhele/status/2035510951944819083",
+    "published_date_basis": "X status ID时间戳所对应UTC日期，仅作发帖元数据，不代替案发日期"
+  },
+  {
+    "id": "LXS26A13",
+    "url": "https://xinwen.bjd.com.cn/content/s69bf8e49e4b0cd719e9f5995.html",
+    "title": "横琴警方通报抢劫致1死",
+    "publisher": "横琴发布／北京日报客户端",
+    "published_date": "2026-03-22",
+    "accessed_date": "2026-09-16",
+    "type": "公安",
+    "independence_group": "hengqin-police-20260322",
+    "supports": [
+      "LX26A07"
+    ],
+    "key_facts": "警方确认3月20日晚26岁男子进入小区抢劫两人、1人死亡，3月21日抓获。受害关系和具体方式未披露。",
+    "access_status": "web打开失败；HTTP 200获取正文核对"
+  },
+  {
+    "id": "LXS26A14",
+    "url": "https://t.me/s/lilaoshibushinilaoshi/34257",
+    "title": "重庆观音桥冲撞初帖",
+    "publisher": "李老师不是你老师／Telegram公开镜像",
+    "published_date": "2026-03-22",
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "social-guanyinqiao-20260322",
+    "supports": [
+      "LX26A08"
+    ],
+    "key_facts": "最初称疑似报复社会；本人翌日转述官方疑似疾病说法。",
+    "access_status": "X仅登录外壳；Telegram文字可读",
+    "original_url": "https://x.com/whyyoutouzhele/status/2035710493772382393",
+    "published_date_basis": "X status ID时间戳所对应UTC日期，仅作发帖元数据，不代替案发日期"
+  },
+  {
+    "id": "LXS26A15",
+    "url": "https://k.sina.com.cn/article_1496814565_593793e502001z3i6.html",
+    "title": "重庆交通事故警方通报及现场采访",
+    "publisher": "封面新闻／新浪官方账号",
+    "published_date": "2026-03-23",
+    "accessed_date": "2026-09-16",
+    "type": "独立媒体",
+    "independence_group": "liangjiang-police-20260323",
+    "supports": [
+      "LX26A08"
+    ],
+    "key_facts": "通报3月22日33岁司机疑似发病失控，司机死亡、3行人伤；记者现场采访确认伤者送医，未证故意性。",
+    "access_status": "web cache miss；HTTP 200正文可读，包含完整警情通报"
+  },
+  {
+    "id": "LXS26A16",
+    "url": "https://t.me/s/lilaoshibushinilaoshi/34802",
+    "title": "深圳龙岗龙城街道持刀线索",
+    "publisher": "李老师不是你老师／Telegram公开镜像",
+    "published_date": "2026-03-26",
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "li-2037212487309742093",
+    "supports": [
+      "LX26A09"
+    ],
+    "key_facts": "称3月26日晚快递装束男子攻击两学生；身份、伤亡及冲突起因均未核实。",
+    "access_status": "X原站403；Telegram公开页文字与原帖链接可读",
+    "original_url": "https://x.com/whyyoutouzhele/status/2037212487309742093",
+    "published_date_basis": "X status ID时间戳所对应UTC日期，仅作发帖元数据，不代替案发日期"
+  },
+  {
+    "id": "LXS26A17",
+    "url": "https://t.me/s/lilaoshibushinilaoshi/34812",
+    "title": "深圳罗湖东门学生遇袭线索",
+    "publisher": "李老师不是你老师／Telegram公开镜像",
+    "published_date": "2026-03-26",
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "li-2037239673907535998",
+    "supports": [
+      "LX26A10"
+    ],
+    "key_facts": "称3月26日上午东门学生受袭；后续中央政法委事迹证实清晨女学生遇袭及救人者死亡。",
+    "access_status": "X原站403；Telegram公开页文字与原帖链接可读",
+    "original_url": "https://x.com/whyyoutouzhele/status/2037239673907535998",
+    "published_date_basis": "X status ID时间戳所对应UTC日期，仅作发帖元数据，不代替案发日期"
+  },
+  {
+    "id": "LXS26A18",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/505401.html",
+    "title": "2026年第二季度见义勇为勇士榜事迹",
+    "publisher": "中央政法委／最高人民法院",
+    "published_date": "2026-07-09",
+    "accessed_date": "2026-09-16",
+    "type": "官方材料",
+    "independence_group": "central-bravery-2026q2",
+    "supports": [
+      "LX26A10",
+      "LX26A12",
+      "LX26A13",
+      "LX26A14",
+      "LX26A23"
+    ],
+    "key_facts": "官方事迹确认昆明1月15日无故伤路人、白沙2月4日纠纷伤人并伤救助者、上海3月24日定向伤妻、深圳3月26日袭学生致救助者死亡。；另记载3月26日锡林浩特公交乘客攻击司机，并归因疾病发作，未披露医学诊断或行为意识。",
+    "access_status": "正文已打开"
+  },
+  {
+    "id": "LXS26A19",
+    "url": "https://t.me/s/lilaoshibushinilaoshi/35338",
+    "title": "杭州世嘉铭座入室伤人线索",
+    "publisher": "李老师不是你老师／Telegram公开镜像",
+    "published_date": "2026-03-31",
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "li-2038959494865313931",
+    "supports": [
+      "LX26A11"
+    ],
+    "key_facts": "原帖称3月31日凌晨敲门刺伤住户；年龄、疾病、自杀说法均未独立核实。",
+    "access_status": "X原站403；Telegram公开页文字与原帖链接可读",
+    "original_url": "https://x.com/whyyoutouzhele/status/2038959494865313931",
+    "published_date_basis": "X status ID时间戳所对应UTC日期，仅作发帖元数据，不代替案发日期"
+  },
+  {
+    "id": "LXS26A20",
+    "url": "https://t.me/s/lilaoshibushinilaoshi/35096",
+    "title": "北京大韩继集市铲车事件原帖引用",
+    "publisher": "李老师不是你老师／Telegram公开镜像",
+    "published_date": "2026-03-29",
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "网络视频房山20260329",
+    "supports": [
+      "C034"
+    ],
+    "key_facts": "原帖称3月29日中午铲车冲入集市；数量、动机及因果待核；与既有C034同案。",
+    "access_status": "X原站403；Telegram公开页文字与原帖链接可读",
+    "original_url": "https://x.com/whyyoutouzhele/status/2038169287744229772",
+    "published_date_basis": "X status ID时间戳所对应UTC日期，仅作发帖元数据，不代替案发日期"
+  },
+  {
+    "id": "LXS26A21",
+    "url": "https://t.me/s/lilaoshibushinilaoshi/35388",
+    "title": "武汉青松路持刀伤人帖",
+    "publisher": "李老师不是你老师／Telegram公开镜像",
+    "published_date": "2026-03-31",
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "social-qingsong-20260331",
+    "supports": [
+      "C027"
+    ],
+    "key_facts": "称沿街攻击路人并引警方4伤通报；帖子错写嫌疑人41岁，警方44岁为准。",
+    "access_status": "X原站403；Telegram公开页文字与原帖链接可读",
+    "original_url": "https://x.com/whyyoutouzhele/status/2039111132950962182",
+    "published_date_basis": "X status ID时间戳所对应UTC日期，仅作发帖元数据，不代替案发日期"
+  },
+  {
+    "id": "LXS26A22",
+    "url": "https://www.spp.gov.cn/spp/zdgz/202603/t20260330_725001.shtml",
+    "title": "2026年第一季度见义勇为勇士榜事迹",
+    "publisher": "中央政法委／最高人民检察院",
+    "published_date": "2026-03-30",
+    "accessed_date": "2026-09-16",
+    "type": "官方材料",
+    "independence_group": "central-bravery-2026q1",
+    "supports": [
+      "LX26A15",
+      "LX26A16",
+      "LX26A17",
+      "LX26A18",
+      "LX26A19"
+    ],
+    "key_facts": "官方事迹补得中山教培定向伤人、南昌店员伤案、沈阳伤女孩及救人者、重庆陌生女子遇袭、巧家追砍群众；明确案发日期。",
+    "access_status": "web返回403；HTTP 200原站正文可读；人民公安报新浪转载交叉核对"
+  },
+  {
+    "id": "LXS26A23",
+    "url": "https://news.southcn.com/node_17a07e5926/5380726b23.shtml",
+    "title": "南昌警方通报万象城伤人案",
+    "publisher": "南都N视频／南方网",
+    "published_date": "2026-01-11",
+    "accessed_date": "2026-09-16",
+    "type": "官方媒体",
+    "independence_group": "honggutan-police-20260110",
+    "supports": [
+      "LX26A15"
+    ],
+    "key_facts": "警方确认1月10日晚32岁男子持陶瓷水果刀划伤1女子，表皮伤，现场被控制。",
+    "access_status": "正文已打开"
+  },
+  {
+    "id": "LXS26A24",
+    "url": "https://www.thepaper.cn/newsDetail_forward_32373915",
+    "title": "南昌万象城安保制止持刀者获奖",
+    "publisher": "澎湃新闻",
+    "published_date": "2026-01-13",
+    "accessed_date": "2026-09-16",
+    "type": "独立媒体",
+    "independence_group": "nanchang-mixc-award-20260113",
+    "supports": [
+      "LX26A15"
+    ],
+    "key_facts": "报道安保制止男子时险被推下扶梯，并核见商场奖励通报；素材注明综合网络。",
+    "access_status": "正文已打开"
+  },
+  {
+    "id": "LXS26A25",
+    "url": "https://t.me/s/lilaoshibushinilaoshi/29375",
+    "title": "江苏喷火伤人线索",
+    "publisher": "李老师不是你老师／Telegram公开镜像",
+    "published_date": "2026-02-03",
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "social-jiangsu-fire-20260202",
+    "supports": [
+      "LX26A20"
+    ],
+    "key_facts": "称2月2日江苏男子用喷火装置伤人；原因与死亡未独立核实。",
+    "access_status": "原X未另直开；Telegram公开页文字与原帖链接可读",
+    "original_url": "https://x.com/whyyoutouzhele/status/2018814351998918831",
+    "published_date_basis": "X status ID时间戳所对应UTC日期，仅作发帖元数据，不代替案发日期"
+  },
+  {
+    "id": "LXS26A26",
+    "url": "https://udn.com/news/story/7335/9309282",
+    "title": "江苏扬州网传喷火器伤人事件",
+    "publisher": "香港01／联合新闻网",
+    "published_date": "2026-02-04",
+    "accessed_date": "2026-09-16",
+    "type": "独立媒体",
+    "independence_group": "social-jiangsu-fire-20260202",
+    "supports": [
+      "LX26A20"
+    ],
+    "key_facts": "转述2月2日网传影像及自称知情者；扬州位置和婚外关系均未获官方确认。与多家转发同素材，不算多源核实。",
+    "access_status": "正文已打开"
+  },
+  {
+    "id": "LXS26A27",
+    "url": "https://www.wenming.cn/sbhr_pd/20260608/79715ed72bbf46df9c31f9262032df01/c.html",
+    "title": "李川：深夜挺身挡利刃",
+    "publisher": "重庆市文明办／中国文明网",
+    "published_date": "2026-07-05",
+    "accessed_date": "2026-09-16",
+    "type": "官方媒体",
+    "independence_group": "chongqing-civilization-lichuan-2026",
+    "supports": [
+      "LX26A18"
+    ],
+    "key_facts": "明确1月27日女孩遭陌生男子尾随勒颈，代驾员护送时两人再遇持刀袭击；补足陌生受害关系。",
+    "access_status": "web重定向循环；HTTP 200原站正文核对"
+  },
+  {
+    "id": "LXS26A28",
+    "url": "https://finance.sina.com.cn/wm/2026-03-14/doc-inhqxwhs7505969.shtml",
+    "title": "武汉火锅店与广场舞纠纷致2伤",
+    "publisher": "锦观新闻／新浪",
+    "published_date": "2026-03-14",
+    "accessed_date": "2026-09-16",
+    "type": "独立媒体",
+    "independence_group": "wuhan-dance-baixing-20260313",
+    "supports": [
+      "LX26A21"
+    ],
+    "key_facts": "转引记者对商户和社区采访称3月11日火锅店主伤舞者及劝架者；未取得完整警方通报和第二独立采集。",
+    "access_status": "正文已打开"
+  },
+  {
+    "id": "LXS26A29",
+    "url": "https://news.ifeng.com/c/8szHjTwGoiL",
+    "title": "重庆朝阳中学校园持刀争议与救助",
+    "publisher": "华商报大风新闻／凤凰网",
+    "published_date": "2026-05-09",
+    "accessed_date": "2026-09-16",
+    "type": "独立媒体",
+    "independence_group": "huashang-chaoyang-school-20260509",
+    "supports": [
+      "LX26A22"
+    ],
+    "key_facts": "记者访家长称3月19日同学持刀伤人，校方否认；教委被转述确认日常矛盾冲突但称无伤，信息矛盾，无无关公众受袭证据。",
+    "access_status": "正文已打开"
+  },
+  {
+    "id": "LXS26A30",
+    "url": "https://www.ntdtv.com/gb/2026/03/31/a104081779.html",
+    "title": "武汉青松路现场影像的文字描述",
+    "publisher": "新唐人",
+    "published_date": "2026-03-31",
+    "accessed_date": "2026-09-16",
+    "type": "独立媒体",
+    "independence_group": "social-qingsong-20260331",
+    "supports": [
+      "C027"
+    ],
+    "key_facts": "描述网传连续片段中嫌疑人先袭摊贩、再刺路中男子、再伤经过女子；独立现场采访部分转引封面，不能视为新增独立采访。",
+    "access_status": "正文已打开"
+  },
+  {
+    "id": "LXS26A31",
+    "url": "https://www.secretchina.com/news/gb/2026/04/09/1096914.html",
+    "title": "深圳3月26日两起持刀事件报道",
+    "publisher": "看中国",
+    "published_date": "2026-03-27",
+    "accessed_date": "2026-09-16",
+    "type": "独立媒体",
+    "independence_group": "social-shenzhen-20260326",
+    "supports": [
+      "LX26A09"
+    ],
+    "key_facts": "文本署3月27日但URL为4月9日；转述两地网络视频，罗湖上午与龙岗晚间、被述嫌疑人不同；伤亡冲突且均无独立采访核实。",
+    "access_status": "搜索结果展示文本可读；2026-09-16直开正文返回Cache miss，直接HTTP访问发生SSL连接失败，未取得正文页面。"
+  },
+  {
+    "id": "LXS26B01",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/505401.html",
+    "title": "中央政法委发布2026年第二季度见义勇为勇士榜",
+    "publisher": "最高人民法院（人民法院新闻传媒总社）",
+    "published_date": "2026-07-09",
+    "accessed_date": "2026-09-16",
+    "type": "官方媒体",
+    "independence_group": "central-bravery-2026q2",
+    "supports": [
+      "LX26B01",
+      "LX26B02",
+      "LX26B25"
+    ],
+    "key_facts": "官方事迹确认4月11日嘉禾外来男子无端袭击村民和过路女子；4月2日湖州员工刺负责人，救人同事被刺成重伤二级。另记4月7日山西供电职工追捕盗窃车辆时受伤，逃车危险动作与主动撞人须区分。",
+    "access_status": "正文已访问"
+  },
+  {
+    "id": "LXS26B02",
+    "url": "https://finance.sina.com.cn/wm/2026-05-01/doc-inhwkpte5570692.shtml",
+    "title": "广州地铁一男子向乘客乱喷辣椒水，多方回应",
+    "publisher": "锦观新闻转载潇湘晨报、荔枝新闻",
+    "published_date": "2026-05-01",
+    "accessed_date": "2026-09-16",
+    "type": "官方媒体",
+    "independence_group": "guangzhou-pepper-2026-xiaoxiang-lizhi",
+    "supports": [
+      "LX26B03"
+    ],
+    "key_facts": "分别转述潇湘晨报记者访问亲历者和联系地铁、公交警方，以及荔枝新闻的另一位亲历者与派出所回应。车厢乘客遭喷雾后咳嗽流泪；派出所人员称男子已被抓。",
+    "access_status": "正文已访问"
+  },
+  {
+    "id": "LXS26B03",
+    "url": "https://www.cna.com.tw/news/acn/202605010171.aspx",
+    "title": "广州地铁传辣椒水袭击，一男子车厢内无差别狂喷",
+    "publisher": "中央社",
+    "published_date": "2026-05-01",
+    "accessed_date": "2026-09-16",
+    "type": "独立媒体",
+    "independence_group": "guangzhou-pepper-2026-xiaoxiang-lizhi",
+    "supports": [
+      "LX26B03"
+    ],
+    "key_facts": "转述荔枝采访及现场视频；偷拍引发冲突仅为社交说法，与其他转述不另算独立采访。",
+    "access_status": "正文已访问"
+  },
+  {
+    "id": "LXS26B04",
+    "url": "https://jingxuan.douyin.com/m/video/7635247540539034890",
+    "title": "广州地铁车厢喷雾事件现场核实",
+    "publisher": "广东广播电视台《今日关注》",
+    "published_date": "2026-05-02",
+    "accessed_date": "2026-09-16",
+    "type": "官方媒体",
+    "independence_group": "guangdong-tv-guangzhou-pepper-2026",
+    "supports": [
+      "LX26B03"
+    ],
+    "key_facts": "广东台记者到体育西站采访核实，报道车内多人咳嗽流泪；工作人员要求等官方通报，警方尚未回复。视频发布页文字已访问，未下载影像。",
+    "access_status": "正文已访问"
+  },
+  {
+    "id": "LXS26B05",
+    "url": "https://www.epochtimes.com/gb/26/4/22/n14747616.htm",
+    "title": "广东惠州市一男子随机砍人 死伤5人",
+    "publisher": "大纪元",
+    "published_date": "2026-04-23",
+    "accessed_date": "2026-09-16",
+    "type": "独立媒体",
+    "independence_group": "epoch-huizhou-20260422",
+    "supports": [
+      "LX26B04",
+      "LX26B05"
+    ],
+    "key_facts": "记者采访当地学生转述亲友所见4月22日中园广场多人遭刀伤；另有受访者称数日前帝都酒店前发生持刀事件。精确伤亡和作案动机说法均未独立核实。",
+    "access_status": "正文已访问"
+  },
+  {
+    "id": "LXS26B06",
+    "url": "https://x.com/whyyoutouzhele/status/2068635036157644991",
+    "title": "网友投稿：6月19日无锡车展车模遭持刀袭击",
+    "publisher": "李老师不是你老师（X）",
+    "published_date": "2026-06-21",
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "li-wuxi-2068635036157644991",
+    "supports": [
+      "LX26B06"
+    ],
+    "key_facts": "原帖URL由X-Sou索引取得；本次原站未返回正文，不能视为现场独立核实。",
+    "access_status": "X原站返回空白，正文不可读",
+    "original_url": "https://x.com/whyyoutouzhele/status/2068635036157644991"
+  },
+  {
+    "id": "LXS26B07",
+    "url": "https://x-sou.com/en/u/whyyoutouzhele/2068635036157644991",
+    "title": "李老师不是你老师投稿镜像：无锡车展持刀线索",
+    "publisher": "X-Sou镜像",
+    "published_date": "2026-06-21",
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "li-wuxi-2068635036157644991",
+    "supports": [
+      "LX26B06"
+    ],
+    "key_facts": "搜索索引可见6月19日车展持刀攻击一名车模及安保制止的帖文文本；镜像正文打开失败，伤者关系、伤情与事件真实性待核。",
+    "access_status": "搜索摘要可见；镜像正文访问失败；TwStalker替代镜像也失败",
+    "original_url": "https://x.com/whyyoutouzhele/status/2068635036157644991"
+  },
+  {
+    "id": "LXS26B08",
+    "url": "https://www.ntdtv.com/b5/2026/07/03/a104111939.html",
+    "title": "山东滕州男子当街随机砍人 传7人被砍",
+    "publisher": "新唐人",
+    "published_date": "2026-07-03",
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "ntd-tengzhou-20260628",
+    "supports": [
+      "LX26B07"
+    ],
+    "key_facts": "转述6月28日和馨园附近家庭纠纷后沿街袭人及7人被砍传言，报道明确真实性不明；画面仅显示救护与控制男子，不能确定随机攻击全过程。",
+    "access_status": "正文已访问"
+  },
+  {
+    "id": "LXS26B09",
+    "url": "https://china.caixin.com/2026-06-05/102451487.html",
+    "title": "重庆理工一副校长遇刺身亡 凶手已被刑拘",
+    "publisher": "财新",
+    "published_date": "2026-06-05",
+    "accessed_date": "2026-09-16",
+    "type": "独立媒体",
+    "independence_group": "banan-police-20260605",
+    "supports": [
+      "LX26B08"
+    ],
+    "key_facts": "可见正文引警方通报称同事矛盾导致小区内持刀杀害同事，记者核实死者身份；无袭击无关公众证据。",
+    "access_status": "正文已访问"
+  },
+  {
+    "id": "LXS26B10",
+    "url": "https://gx.cnr.cn/cnrgx/gxrd/20260611/t20260611_527656349.shtml",
+    "title": "广西桂林兴安发生爆炸事件 致7死17伤",
+    "publisher": "央广网转载兴安县公安局",
+    "published_date": "2026-06-11",
+    "accessed_date": "2026-09-16",
+    "type": "公安",
+    "independence_group": "xingan-police-20260611",
+    "supports": [
+      "LX26B09"
+    ],
+    "key_facts": "通报6月11日1时40分灵湘路爆炸、7死、17人送医且另有轻伤；初步排除管道燃气，原因仍在调查，不等于确认人为袭击。",
+    "access_status": "正文已访问"
+  },
+  {
+    "id": "LXS26B11",
+    "url": "https://www.epochtimes.com/gb/26/6/11/n14786433.htm",
+    "title": "广西兴安发生爆炸事件 至少7死30余伤",
+    "publisher": "大纪元",
+    "published_date": "2026-06-11",
+    "accessed_date": "2026-09-16",
+    "type": "独立媒体",
+    "independence_group": "epoch-xingan-20260611",
+    "supports": [
+      "LX26B09"
+    ],
+    "key_facts": "附近居民接受采访描述爆炸和伤亡；老人报复、夫妻自杀、经济纠纷等多版本均被受访者标为传闻，不能确定人为性或动机。",
+    "access_status": "正文已访问"
+  },
+  {
+    "id": "LXS26B12",
+    "url": "https://www2.xinhuanet.com/20260722/4034673491c94719802e2cce2bf5f402/c.html",
+    "title": "郑州通报：宏达国际车业广场火灾系人为放火",
+    "publisher": "新华社",
+    "published_date": "2026-07-22",
+    "accessed_date": "2026-09-16",
+    "type": "公安",
+    "independence_group": "jinshui-police-20260722",
+    "supports": [
+      "LX26B10"
+    ],
+    "key_facts": "警方确认6月19日晚火灾由陆某因经营纠纷纵火造成，2死2伤，嫌疑人因涉嫌放火罪被批准逮捕。",
+    "access_status": "正文已访问"
+  },
+  {
+    "id": "LXS26B13",
+    "url": "https://www.jiemian.com/article/14808491.html",
+    "title": "郑州宏达国际车业广场火灾致2死2伤，警方：因经营纠纷纵火",
+    "publisher": "界面新闻",
+    "published_date": "2026-07-22",
+    "accessed_date": "2026-09-16",
+    "type": "独立媒体",
+    "independence_group": "jinshui-police-20260722",
+    "supports": [
+      "LX26B10"
+    ],
+    "key_facts": "完整转述警方及6月20日消防通报：三层商铺起火，疏散30人，2名轻伤者；未说明受害人与原经营纠纷关系。",
+    "access_status": "正文已访问"
+  },
+  {
+    "id": "LXS26B14",
+    "url": "https://www.epochtimes.com/gb/26/5/3/n14755714.htm",
+    "title": "五一长假 大陆连爆撞人砍人事件",
+    "publisher": "大纪元",
+    "published_date": "2026-05-05",
+    "accessed_date": "2026-09-16",
+    "type": "独立媒体",
+    "independence_group": "epoch-pingyang-liuzhou-20260504",
+    "supports": [
+      "LX26B11",
+      "C038"
+    ],
+    "key_facts": "采访称平阳5月3日临区菜市场道路车辆撞人，盗窃逃离、慌乱误踩等说法冲突；柳州采访仅补居民说法，未核实被害关系。",
+    "access_status": "正文已访问"
+  },
+  {
+    "id": "LXS26B15",
+    "url": "https://www.guancha.cn/politics/2026_04_14_813610.shtml",
+    "title": "警方通报黑色路虎街头冲撞多车：2人伤8车受损",
+    "publisher": "观察者网转载衢州公安",
+    "published_date": "2026-04-14",
+    "accessed_date": "2026-09-16",
+    "type": "公安",
+    "independence_group": "quzhou-police-20260414",
+    "supports": [
+      "LX26B12"
+    ],
+    "key_facts": "完整读取警方转述：4月13日晚2人受伤、8车受损、36岁男驾驶人刑拘；网传3死不获支持。",
+    "access_status": "浏览器正文超时；随后通过公开网页HTML成功读取完整警方通报"
+  },
+  {
+    "id": "LXS26B16",
+    "url": "https://www.sohu.com/a/1011659164_100116740",
+    "title": "福建南安水头镇发生交通事故，致2死1伤",
+    "publisher": "南方Plus客户端",
+    "published_date": "2026-04-19",
+    "accessed_date": "2026-09-16",
+    "type": "官方媒体",
+    "independence_group": "nanfang-nanan-20260419",
+    "supports": [
+      "LX26B13"
+    ],
+    "key_facts": "记者向南安市相关部门获悉逆向车辆撞倒群众2死1伤，原因仍查；酒驾仅网友说法。",
+    "access_status": "浏览器正文超时；随后通过公开网页HTML成功读取南方+记者采访正文"
+  },
+  {
+    "id": "LXS26B17",
+    "url": "https://t.me/s/tiquan87?before=40295",
+    "title": "网传海南儋州未成年人驾驶车辆连撞",
+    "publisher": "Telegram缅甸华人事件频道",
+    "published_date": null,
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "telegram-danzhou-20260407",
+    "supports": [
+      "LX26B14"
+    ],
+    "key_facts": "频道转述4月7日儋州车辆连撞线索，并注明官方未通报；年龄、用药、死亡人数皆未核。",
+    "access_status": "正文已访问"
+  },
+  {
+    "id": "LXS26B18",
+    "url": "https://pincong.rocks/article/92938",
+    "title": "论坛评论中的2026年4月事件线索",
+    "publisher": "品葱用户评论",
+    "published_date": "2026-05-02",
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "pincong-20260502-april-leads",
+    "supports": [
+      "LX26B12",
+      "LX26B13",
+      "LX26B14",
+      "LX26B15"
+    ],
+    "key_facts": "5月2日评论列4月17日临沂面粉厂疑似纵火，并列衢州、儋州、南安等线索；不是现场采集或官方确认。",
+    "access_status": "正文已访问"
+  },
+  {
+    "id": "LXS26B19",
+    "url": "https://www.ntdtv.com/gb/2026/08/17/a104124869.html",
+    "title": "新闻第一线节目中的2026年6月车辆事件回顾",
+    "publisher": "新唐人",
+    "published_date": "2026-08-17",
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "ntd-commentary-20260817",
+    "supports": [
+      "LX26B16",
+      "LX26B17"
+    ],
+    "key_facts": "节目简要提及6月随州大润发路段车辆冲撞及漯河连环车祸疑报复社会，未给案发日和原始来源；仅作低可信候选保留。",
+    "access_status": "正文已访问"
+  },
+  {
+    "id": "LXS26B20",
+    "url": "https://www.zaobao.com.sg/news/china/story20260406-8846459",
+    "title": "沈阳闹区街头发生随机砍人案 伤亡情况不明",
+    "publisher": "联合早报",
+    "published_date": "2026-04-06",
+    "accessed_date": "2026-09-16",
+    "type": "独立媒体",
+    "independence_group": "shenyang-online-videos-20260404",
+    "supports": [
+      "C037"
+    ],
+    "key_facts": "正文据网传视频描述至少三人受伤，并综合明报等；未显示独立访问现场证人，伤亡规模与凶手后续依然不明。",
+    "access_status": "正文已访问"
+  },
+  {
+    "id": "LXS26B21",
+    "url": "https://x.com/whyyoutouzhele/status/2040449312027480228",
+    "title": "4月4日沈阳太原街恶性持刀事件投稿",
+    "publisher": "李老师不是你老师（X）",
+    "published_date": "2026-04-04",
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "li-shenyang-2040449312027480228",
+    "supports": [
+      "C037"
+    ],
+    "key_facts": "原status URL从媒体内嵌引用提取，原站访问没有正文。",
+    "access_status": "原Twitter链接返回空白，无可读正文",
+    "original_url": "https://x.com/whyyoutouzhele/status/2040449312027480228"
+  },
+  {
+    "id": "LXS26B22",
+    "url": "https://info.51.ca/articles/1530102?wyacs=info-article-item-bt-related",
+    "title": "沈阳街头砍人事件报道及X内嵌帖文",
+    "publisher": "无忧资讯（自由时报等转述）",
+    "published_date": "2026-04-05",
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "li-shenyang-2040449312027480228",
+    "supports": [
+      "C037"
+    ],
+    "key_facts": "内嵌李老师4月4日帖文及原status链接，含多种未经证实伤亡说法；不将此转载与原帖计算为独立采集。",
+    "access_status": "转载页和嵌入帖文文字可读；原站返回空白",
+    "original_url": "https://x.com/whyyoutouzhele/status/2040449312027480228"
+  },
+  {
+    "id": "LXS26B23",
+    "url": "https://x.com/whyyoutouzhele/status/2050186973680463941",
+    "title": "5月1日成都剑南大道车辆冲撞帖文",
+    "publisher": "李老师不是你老师（X）",
+    "published_date": "2026-05-01",
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "li-chengdu-2050186973680463941",
+    "supports": [
+      "C044"
+    ],
+    "key_facts": "原status由当日讨论中的引用取得；原站403，不能据评论认定主动袭击。",
+    "access_status": "原站403 Forbidden",
+    "original_url": "https://x.com/whyyoutouzhele/status/2050186973680463941"
+  },
+  {
+    "id": "LXS26B24",
+    "url": "https://pincong.rocks/article/id-93529__sort_key-agree_count__sort-DESC",
+    "title": "成都剑南大道事件讨论与原帖链接",
+    "publisher": "品葱",
+    "published_date": "2026-05-01",
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "li-chengdu-2050186973680463941",
+    "supports": [
+      "C044"
+    ],
+    "key_facts": "评论保留李老师原status链接；讨论将事件称无差别，但没有独立调查可推翻警方肇事逃逸初查。",
+    "access_status": "搜索结果可见原帖引用及讨论；页面打开失败；X原站403",
+    "original_url": "https://x.com/whyyoutouzhele/status/2050186973680463941"
+  },
+  {
+    "id": "LXS26B25",
+    "url": "https://www.secretchina.com/news/gb/2026/04/13/1097711.html",
+    "title": "宁波工厂大火伴随爆炸声",
+    "publisher": "看中国",
+    "published_date": "2026-04-13",
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "secretchina-ningbo-20260413",
+    "supports": [
+      "LX26B18"
+    ],
+    "key_facts": "报道承认网传起火企业名称有误，并引述员工称焊接引燃废料；无可核实纵火证据。",
+    "access_status": "正文已访问"
+  },
+  {
+    "id": "LXS26B26",
+    "url": "https://www.jinantimes.com.cn/news-7-5242526.html",
+    "title": "宁波奉化一工业园区厂房起火，官方最新通报",
+    "publisher": "新黄河",
+    "published_date": "2026-04-13",
+    "accessed_date": "2026-09-16",
+    "type": "官方媒体",
+    "independence_group": "fenghua-government-20260413",
+    "supports": [
+      "LX26B18"
+    ],
+    "key_facts": "记者联系应急部门并全文转述奉化发布：尚桥工业园火灾扑灭，无人员伤亡，起火原因待查。",
+    "access_status": "正文已访问"
+  },
+  {
+    "id": "LXS26B27",
+    "url": "https://www.sohu.com/a/1015325759_120914498",
+    "title": "郴州70岁老人救助过路女子受重伤，当地拟申报见义勇为",
+    "publisher": "潇湘晨报·晨视频",
+    "published_date": "2026-04-27",
+    "accessed_date": "2026-09-16",
+    "type": "独立媒体",
+    "independence_group": "xiaoxiang-jiahe-20260427",
+    "supports": [
+      "LX26B01"
+    ],
+    "key_facts": "记者采访救人村民、其家人及县政法委；记述陌生男子先伤村民一家3人，再追打和拦截陌生路人，救援者也受伤。",
+    "access_status": "正文已访问"
+  },
+  {
+    "id": "LXS26B28",
+    "url": "https://chinanewscenter.com/archives/54597",
+    "title": "网传泰安住宅楼爆炸线索",
+    "publisher": "中国新闻中心转载X用户罗翔——破幕推墙",
+    "published_date": "2026-04-29",
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "luoxiang-taian-20260429",
+    "supports": [
+      "LX26B19"
+    ],
+    "key_facts": "文章仅转引匿名投稿称住宅楼爆炸，未给地点或采访；事件本身、所谓干部身份与大规模伤亡均未获证实。",
+    "access_status": "转载正文可读；原X帖经twitter链接打开失败（Cache miss）",
+    "original_url": "https://x.com/LUOXIANG_PMTQ/status/2049510723479335144"
+  },
+  {
+    "id": "LXS26B29",
+    "url": "https://www.cqnews.net/web/content_1516186385103147008.html",
+    "title": "江苏如东倒车冲撞丧事现场，当地政府称操作不当",
+    "publisher": "第1眼TV-华龙网",
+    "published_date": "2026-06-15",
+    "accessed_date": "2026-09-16",
+    "type": "官方媒体",
+    "independence_group": "rudong-government-20260615",
+    "supports": [
+      "LX26B20"
+    ],
+    "key_facts": "全文转述政府情况通报：倒车操作不当，1人死亡7人受伤，其中1人伤势较重。",
+    "access_status": "正文已访问"
+  },
+  {
+    "id": "LXS26B30",
+    "url": "https://m.thepaper.cn/newsDetail_forward_33391579",
+    "title": "灌南警方通报醉驾交通事故造成2人死亡",
+    "publisher": "光明网（澎湃号）",
+    "published_date": "2026-06-16",
+    "accessed_date": "2026-09-16",
+    "type": "公安",
+    "independence_group": "guannan-police-20260616",
+    "supports": [
+      "LX26B21"
+    ],
+    "key_facts": "完整警方通报指23岁女子醉驾造成2人死亡、同车1人轻微伤，已刑拘；未表明主动袭人。",
+    "access_status": "浏览器抓取失败；随后通过公开网页HTML成功读取完整警方通报"
+  },
+  {
+    "id": "LXS26B31",
+    "url": "https://www.epochtimes.com/b5/26/5/1/n14754503.htm",
+    "title": "成都车辆碰撞事件现场目击者采访",
+    "publisher": "大纪元",
+    "published_date": "2026-05-02",
+    "accessed_date": "2026-09-16",
+    "type": "独立媒体",
+    "independence_group": "epoch-chengdu-interviews-20260502",
+    "supports": [
+      "C044"
+    ],
+    "key_facts": "两名化名目击者接受记者采访，描述多个路段连续碰撞及司机停车后取刀；其判断动机和推测死伤部分未经证实。",
+    "access_status": "正文已访问"
+  },
+  {
+    "id": "LXS26B32",
+    "url": "https://www.cna.com.tw/news/acn/202605010246.aspx",
+    "title": "成都闹区开车冲撞多人，警方通报1死11伤",
+    "publisher": "中央社",
+    "published_date": "2026-05-01",
+    "accessed_date": "2026-09-16",
+    "type": "独立媒体",
+    "independence_group": "li-chengdu-2050186973680463941",
+    "supports": [
+      "C044"
+    ],
+    "key_facts": "记者梳理李老师发布的行车记录影像，描述加速右转撞行人、逆上人行道后倒车再撞机车；并列警方事故后逃逸初查，影像来自同一X传播链。",
+    "access_status": "正文已访问",
+    "original_url": "https://x.com/whyyoutouzhele/status/2050186973680463941"
+  },
+  {
+    "id": "LXS26B33",
+    "url": "https://t.me/lilaoshibushinilaoshi/44470",
+    "title": "天津津南6月26日疑似持刀斗殴帖文",
+    "publisher": "李老师不是你老师官方电报频道（自称）",
+    "published_date": "2026-06-27",
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "li-tianjin-2070839570053095833",
+    "supports": [
+      "LX26B22"
+    ],
+    "key_facts": "镜像称正营路瞬新广场附近发生多人斗殴，有人疑持刀；原因及伤亡待警方通报，尚未独立验证。",
+    "access_status": "Telegram公开频道HTML正文及2026-06-27时间戳可读；单帖嵌入页打开失败；X原站打开为0行空白",
+    "original_url": "https://x.com/whyyoutouzhele/status/2070839570053095833"
+  },
+  {
+    "id": "LXS26B34",
+    "url": "https://amp.dw.com/zh/北京官方通报小飞机撞击中国尊调查结果/a-77798673",
+    "title": "北京官方通报小飞机撞击中国尊调查结果",
+    "publisher": "德国之声",
+    "published_date": "2026-07-02",
+    "accessed_date": "2026-09-16",
+    "type": "独立媒体",
+    "independence_group": "chaoyang-government-20260702",
+    "supports": [
+      "LX26B23"
+    ],
+    "key_facts": "转述7月2日调查：66岁男驾驶员偏离飞行区域后撞楼死亡，日记多次表露自杀想法；认定个人原因造成危害公共安全案件，未具体披露对楼内公众的伤害意图。",
+    "access_status": "正文已访问"
+  },
+  {
+    "id": "LXS26B35",
+    "url": "https://www.cna.com.tw/news/acn/202606270161.aspx",
+    "title": "北京官方证实小飞机撞高楼，驾驶死亡13人伤",
+    "publisher": "中央社",
+    "published_date": "2026-06-27",
+    "accessed_date": "2026-09-16",
+    "type": "独立媒体",
+    "independence_group": "chaoyang-government-20260627",
+    "supports": [
+      "LX26B23"
+    ],
+    "key_facts": "转述官方6月27日通报：6月26日17时55分航空器碰撞高层建筑，驾驶员1人死亡，现场13人受伤。",
+    "access_status": "正文已访问"
+  },
+  {
+    "id": "LXS26B36",
+    "url": "https://t.me/lilaoshibushinilaoshi/44453",
+    "title": "北京中信大厦飞机撞击帖文转述",
+    "publisher": "李老师不是你老师官方电报频道（自称）",
+    "published_date": "2026-06-27",
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "li-beijing-plane-2070491014016520660",
+    "supports": [
+      "LX26B23"
+    ],
+    "key_facts": "公开电报镜像保存事件网络传播线索与原status链接；不据其推断动机。",
+    "access_status": "Telegram公开频道HTML正文及2026-06-27时间戳可读；所引用X原帖打开0行空白",
+    "original_url": "https://x.com/whyyoutouzhele/status/2070491014016520660"
+  },
+  {
+    "id": "LXS26B37",
+    "url": "https://www.reddit.com/r/LOOK_CHINA/comments/1uhnk2g/",
+    "title": "6月27日寿县京师幼儿园事件标题线索",
+    "publisher": "Reddit用户",
+    "published_date": "2026-06-28",
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "reddit-shouxian-1uhnk2g",
+    "supports": [
+      "LX26B24"
+    ],
+    "key_facts": "检索索引中帖子标题列举寿县衡安国际城京师幼儿园疑似袭击；无可读经过、可靠伤亡或原始来源。",
+    "access_status": "搜索结果标题可见；帖子打开失败"
+  },
+  {
+    "id": "LXS26C01",
+    "url": "https://gaj.gz.gov.cn/gaxw/qktb/content/post_11005903.html",
+    "title": "警情通报（2026年9月14日）",
+    "publisher": "广州市公安局／番禺分局",
+    "published_date": "2026-09-14",
+    "accessed_date": "2026-09-16",
+    "type": "公安",
+    "independence_group": "广州番禺公安20260914",
+    "supports": [
+      "C024"
+    ],
+    "key_facts": "9月14日17:20小谷围街火锅店门口持刀伤人；35岁李某被抓，伤者均无生命危险，人数和关系未公布。",
+    "original_url": null,
+    "access_status": "正文已打开核对。"
+  },
+  {
+    "id": "LXS26C02",
+    "url": "https://china.caixin.com/2026-09-15/102484932.html",
+    "title": "广州大学城商业区发生持刀伤人案 警方称伤者均无生命危险",
+    "publisher": "财新／王婧",
+    "published_date": "2026-09-15",
+    "accessed_date": "2026-09-16",
+    "type": "独立媒体",
+    "independence_group": "财新广州20260915",
+    "supports": [
+      "C024"
+    ],
+    "key_facts": "可见导语定位大学城GOGO新天地；结合通报及网传现场照片描述伤者。未见独立确认攻击对象关系的采访。",
+    "original_url": null,
+    "access_status": "页面已打开；仅公开导语及付费墙前内容可见，不能将未读全文视作已验证。"
+  },
+  {
+    "id": "LXS26C03",
+    "url": "https://www.sotwe.com/whyyoutouzhele",
+    "title": "李老师不是你老师：广州大学城持刀伤人及后续帖文镜像",
+    "publisher": "Sotwe／李老师不是你老师",
+    "published_date": null,
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "李老师广州20260914社交影像",
+    "supports": [
+      "C024"
+    ],
+    "key_facts": "镜像可见9月14日持刀袭击路人、多名伤者及逃至广东工业大学西区食堂被抓的投稿；后续转警方通报。现场影像链与身份关系仍需核验。",
+    "original_url": null,
+    "access_status": "2026-09-16网页工具读到多条镜像正文；原X具体status链接未成功解析；t.co/f2ShrfgI6V与t.co/VMiz4obeGv打开失败，不能提供未经核实的status ID。"
+  },
+  {
+    "id": "LXS26C04",
+    "url": "https://www.cqnews.net/web/content_1541387025069985792.html",
+    "title": "路遇持刀伤人事件，外卖员于荣先的3步操作令人赞叹",
+    "publisher": "华龙网／人民日报",
+    "published_date": "2026-08-24",
+    "accessed_date": "2026-09-16",
+    "type": "官方媒体",
+    "independence_group": "人民日报于荣先采访20260824",
+    "supports": [
+      "C041"
+    ],
+    "key_facts": "人民日报采访确认8月18日晚北小街持刀案、19日凌晨上传视频；于荣先与市民制止，警方立案，省委政法委拟认定表彰。",
+    "original_url": "https://www.peopleapp.com/column/30052996577-500007664120",
+    "access_status": "转载正文已读；页面标出人民日报客户端原文链接。"
+  },
+  {
+    "id": "LXS26C05",
+    "url": "https://www.ctdsb.net/c1716_202608/2835537.html",
+    "title": "极目新闻采访西宁制止持刀者的外卖骑手",
+    "publisher": "极目新闻／张皓",
+    "published_date": "2026-08-20",
+    "accessed_date": "2026-09-16",
+    "type": "官方媒体",
+    "independence_group": "极目于荣先采访20260820",
+    "supports": [
+      "C041"
+    ],
+    "key_facts": "记者独立采访于荣先，确认北小街持刀者与群众对峙、骑手用车撞倒后共同控制；未披露原始纠纷细节。",
+    "original_url": null,
+    "access_status": "正文已打开核对。"
+  },
+  {
+    "id": "LXS26C06",
+    "url": "https://finance.sina.com.cn/roll/2026-08-21/doc-ininzyev8204676.shtml",
+    "title": "20岁外卖员甩电动车撞倒持刀醉汉，被网友称为“国服孙策”",
+    "publisher": "新浪／观察者网综合新京报等",
+    "published_date": "2026-08-21",
+    "accessed_date": "2026-09-16",
+    "type": "官方媒体",
+    "independence_group": "新京报西宁警方20260820",
+    "supports": [
+      "C041"
+    ],
+    "key_facts": "引新京报：8月18日两人被划伤；8月20日从青海警方获悉嫌疑人已采取强制措施。其余内容综合潇湘晨报、华商报，不重复视作独立采集。",
+    "original_url": null,
+    "access_status": "正文已打开核对。"
+  },
+  {
+    "id": "LXS26C07",
+    "url": "https://finance.sina.com.cn/jjxw/2026-08-20/doc-ininxkrz8884709.shtml",
+    "title": "外卖小哥用电动车将持刀伤人男子撞翻，获奖5000元",
+    "publisher": "新浪／扬子晚报／新黄河",
+    "published_date": "2026-08-20",
+    "accessed_date": "2026-09-16",
+    "type": "官方媒体",
+    "independence_group": "华商大风西宁目击者20260819",
+    "supports": [
+      "C041"
+    ],
+    "key_facts": "明确引华商报大风新闻对多名目击者采访：先与摊主冲突并刺伤，后刺伤劝架者；新黄河记者阎小雨采访骑手确认18日晚21时及处置过程。",
+    "original_url": null,
+    "access_status": "正文已打开核对。"
+  },
+  {
+    "id": "LXS26C08",
+    "url": "https://www.ntdtv.com/gb/mkt_ipad/2026/07/13/a104114966.html",
+    "title": "传厦门两男随机砍人 公安开枪只抓到一个",
+    "publisher": "新唐人",
+    "published_date": "2026-07-14",
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "厦门东浦路社交影像20260711",
+    "supports": [
+      "LX26C01",
+      "C028"
+    ],
+    "key_facts": "网传7月11日下午思明区东浦路持刀现场，人数、死伤、是否开枪均未证实；同文杭州7月13日传言与警方已核实身份不符。",
+    "original_url": null,
+    "access_status": "正文已读。页面显示7月14日发布，URL中的7月13日不作案发日期。"
+  },
+  {
+    "id": "LXS26C09",
+    "url": "https://news.cnr.cn/rebang/20260906/t20260906_527805734.shtml",
+    "title": "警方通报贵州中医大二附院刑事案件",
+    "publisher": "央广网／贵阳公安南明分局",
+    "published_date": "2026-09-06",
+    "accessed_date": "2026-09-16",
+    "type": "官方媒体",
+    "independence_group": "贵阳南明公安20260906",
+    "supports": [
+      "LX26C02"
+    ],
+    "key_facts": "警方确认9月4日9时红岩院区刑事案，一人受伤病情稳定，胡某当场控制并刑拘；未公布作案原因及关系。",
+    "original_url": null,
+    "access_status": "正文已打开核对。"
+  },
+  {
+    "id": "LXS26C10",
+    "url": "https://news.hsw.cn/system/2026/0906/1957483.shtml",
+    "title": "警方通报贵州中医大二附院刑事案件",
+    "publisher": "华商网／现代快报、贵阳公安",
+    "published_date": "2026-09-06",
+    "accessed_date": "2026-09-16",
+    "type": "官方媒体",
+    "independence_group": "现代快报贵阳采访20260905",
+    "supports": [
+      "LX26C02"
+    ],
+    "key_facts": "现代快报记者联系院内知情者及市卫健委确认伤医事件。患者未找到原医生而刺伤另一科医生的说法在稿中仍归为网传，不能将所有细节视为采访确认。",
+    "original_url": null,
+    "access_status": "正文已打开核对。"
+  },
+  {
+    "id": "LXS26C11",
+    "url": "https://finance.sina.com.cn/wm/2026-08-21/doc-ininzyev8230902.shtml",
+    "title": "玉林市公安局玉州分局发布警情通报",
+    "publisher": "新浪／广西台新闻910／玉州公安",
+    "published_date": "2026-08-21",
+    "accessed_date": "2026-09-16",
+    "type": "官方媒体",
+    "independence_group": "玉林玉州公安20260821",
+    "supports": [
+      "LX26C03"
+    ],
+    "key_facts": "8月20日21时玉州路故意伤害案，韦某被当场控制，一伤者送医无生命危险；未给关系动机。",
+    "original_url": null,
+    "access_status": "正文已打开核对。"
+  },
+  {
+    "id": "LXS26C12",
+    "url": "https://www.ntdtv.com/gb/mkt_ipad/2026/08/21/a104126044.html",
+    "title": "广西玉林传随机砍人 带孩女子被偷袭砍伤",
+    "publisher": "新唐人",
+    "published_date": "2026-08-21",
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "玉林五灯坡社交影像20260820",
+    "supports": [
+      "LX26C03"
+    ],
+    "key_facts": "网传女子带孩子扫车时被从后袭击，店员称双方不认识；文字依据网民爆料和截图，未交代记者采访或身份核验。",
+    "original_url": null,
+    "access_status": "正文已打开核对。"
+  },
+  {
+    "id": "LXS26C13",
+    "url": "https://www.ctdsb.net/c1716_202608/2827203.html",
+    "title": "广西通报一起持刀伤人事件：男子已被抓获，伤者暂无生命危险",
+    "publisher": "极目新闻／南宁青秀警方",
+    "published_date": "2026-08-11",
+    "accessed_date": "2026-09-16",
+    "type": "官方媒体",
+    "independence_group": "南宁青秀公安20260811",
+    "supports": [
+      "LX26C04"
+    ],
+    "key_facts": "8月10日21:57民族大道商场旁，39岁黄某因纠纷伤害32岁谢某，11日凌晨抓获；一伤者暂无生命危险。",
+    "original_url": null,
+    "access_status": "正文已打开核对。"
+  },
+  {
+    "id": "LXS26C14",
+    "url": "https://finance.sina.com.cn/wm/2026-07-17/doc-iniicqkw1428778.shtml",
+    "title": "刚刚｜警方通报男子在店铺纵火",
+    "publisher": "新浪／天津广播／平江公安",
+    "published_date": "2026-07-17",
+    "accessed_date": "2026-09-16",
+    "type": "官方媒体",
+    "independence_group": "平江公安20260717",
+    "supports": [
+      "LX26C05"
+    ],
+    "key_facts": "7月17日16:30老城区店铺起火；42岁寻某因与店主纠纷纵火，寻某当场死亡，店内另两人送医后死亡；遇害者与原纠纷关系未明。",
+    "original_url": null,
+    "access_status": "正文已打开核对。"
+  },
+  {
+    "id": "LXS26C15",
+    "url": "https://finance.sina.com.cn/wm/2026-08-02/doc-inikxwic6601543.shtml",
+    "title": "河南西平县发生重大刑事案件，嫌犯在逃，警方发布协查通报",
+    "publisher": "新浪／政知见／西平7·30案件工作专班",
+    "published_date": "2026-08-02",
+    "accessed_date": "2026-09-16",
+    "type": "官方媒体",
+    "independence_group": "西平公安20260802",
+    "supports": [
+      "LX26C06"
+    ],
+    "key_facts": "7月30日柏城街道西关社区，51岁租户夏某因邻里矛盾刺伤侯某及亲属；侯某死亡，亲属伤情稳定，人数未公布。",
+    "original_url": null,
+    "access_status": "正文已打开核对。"
+  },
+  {
+    "id": "LXS26C16",
+    "url": "https://news.cctv.cn/2026/08/08/ARTIGuMFRYkdfcvrAJ2cAQye260808.shtml",
+    "title": "河南驻马店市西平县“7·30”故意伤害案件犯罪嫌疑人夏某钢被抓获",
+    "publisher": "央视网",
+    "published_date": "2026-08-08",
+    "accessed_date": "2026-09-16",
+    "type": "官方媒体",
+    "independence_group": "西平公安20260808",
+    "supports": [
+      "LX26C06"
+    ],
+    "key_facts": "页面标题确认嫌疑人被抓获。",
+    "original_url": null,
+    "access_status": "页面可打开，正文图文通报未解析为文本；仅标题用于抓获这一结局，不扩写抓获地点或经过。"
+  },
+  {
+    "id": "LXS26C17",
+    "url": "https://m.thepaper.cn/newsDetail_forward_33799413",
+    "title": "贵州锦屏警方：男子驾车失控致路人受伤，已排除酒驾毒驾嫌疑",
+    "publisher": "澎湃新闻／锦屏公安",
+    "published_date": "2026-08-17",
+    "accessed_date": "2026-09-16",
+    "type": "官方媒体",
+    "independence_group": "锦屏公安20260817",
+    "supports": [
+      "LX26C07"
+    ],
+    "key_facts": "8月17日三江镇越野车失控致路人受伤，警方按道路交通事故通报；伤者均无生命危险，人数未公布。",
+    "original_url": null,
+    "access_status": "正文已打开核对。"
+  },
+  {
+    "id": "LXS26C18",
+    "url": "https://www.quanzhou.gov.cn/zfb/xxgk/ztxxgk/xwfbh/202607/t20260714_3309122.htm",
+    "title": "泉州市人民政府召开晋江市陈埭镇辉腾鞋业有限公司火灾事故新闻发布会",
+    "publisher": "泉州市人民政府／泉州晚报社",
+    "published_date": "2026-07-10",
+    "accessed_date": "2026-09-16",
+    "type": "官方媒体",
+    "independence_group": "泉州市政府辉腾火灾发布会20260710",
+    "supports": [
+      "LX26C08"
+    ],
+    "key_facts": "7月9日12:04辉腾鞋业厂房火灾28人死亡；调查原因，未认定纵火。死亡总数已包括两名送医不治者，不能再加算。",
+    "original_url": null,
+    "access_status": "政府页面全文已读；显示发布时间7月10日，URL路径7月14日不作案发或发布日期。"
+  },
+  {
+    "id": "LXS26C19",
+    "url": "https://www.chinanews.com/sh/2026/07-16/10660941.shtml",
+    "title": "福建晋江一废品收购站发生火灾 暂无人员被困或受伤",
+    "publisher": "中新网／孙虹／池店镇安委办",
+    "published_date": "2026-07-16",
+    "accessed_date": "2026-09-16",
+    "type": "官方媒体",
+    "independence_group": "晋江池店安委办20260716",
+    "supports": [
+      "LX26C09"
+    ],
+    "key_facts": "7月16日下午池店镇唐厝村废品收购站火灾，通报暂无人员被困或受伤，未给起火原因。",
+    "original_url": null,
+    "access_status": "正文已打开核对。"
+  },
+  {
+    "id": "LXS26C20",
+    "url": "https://www.secretchina.com/news/gb/2026/07/17/1102127.html",
+    "title": "福建晋江又发生火灾 火势凶猛场面骇人",
+    "publisher": "看中国／蔡思云综合",
+    "published_date": "2026-07-17",
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "晋江火灾社交传言202607",
+    "supports": [
+      "LX26C08",
+      "LX26C09"
+    ],
+    "key_facts": "汇集7月9日鞋厂和16日火灾相关社交说法，未提供可验证纵火证据；将16日废品站称为工厂的说法与官方地点类型不同。",
+    "original_url": null,
+    "access_status": "正文已打开核对。"
+  },
+  {
+    "id": "LXS26C21",
+    "url": "https://news.ycwb.com/ikimvkltjn/content_54230617.htm",
+    "title": "福建莆田一烟花爆竹厂遭人为纵火，嫌疑人已被警方控制",
+    "publisher": "羊城晚报金羊网／新京报",
+    "published_date": "2026-07-15",
+    "accessed_date": "2026-09-16",
+    "type": "官方媒体",
+    "independence_group": "新京报莆田采访20260715",
+    "supports": [
+      "LX26C10"
+    ],
+    "key_facts": "搜索缓存可读完整短稿：7月15日凌晨灵川镇烟花仓库起火，政府称无人伤亡，记者从城厢区部门获悉人为纵火、嫌疑人被控。",
+    "original_url": null,
+    "access_status": "直接打开返回空正文；仅搜索引擎完整短文可见。新京报搜狐号同文打开Cache miss，尚需可访问原文复核。"
+  },
+  {
+    "id": "LXS26C22",
+    "url": "https://m.secretchina.com/news/gb/2026/08/18/amp1103597.html",
+    "title": "南京男子突然拉停地铁 狂踹门喊“想死”“报复社会”",
+    "publisher": "看中国",
+    "published_date": "2026-08-18",
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "南京地铁社交影像20260816",
+    "supports": [
+      "LX26C11"
+    ],
+    "key_facts": "网传8月16日南京地铁3号线男子拉紧急制动、踹门喊话，乘客控制后警察到场；未描述实际攻击他人。",
+    "original_url": null,
+    "access_status": "正文已打开核对。"
+  },
+  {
+    "id": "LXS26C23",
+    "url": "https://w.twstalker.com/whyyoutouzhele",
+    "title": "李老师不是你老师：9月13日定兴火锅店外卖员持刀冲突",
+    "publisher": "TwStalker／李老师不是你老师",
+    "published_date": null,
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "李老师定兴20260913",
+    "supports": [
+      "LX26C12"
+    ],
+    "key_facts": "镜像正文称9月13日保定定兴一火锅店内外卖员手持砍刀与店家冲突；未说明实际伤害动作、伤亡或陌生旁人受害。",
+    "original_url": null,
+    "access_status": "网页工具成功读到正文；View Details点击Internal Error且未返回status地址；浏览器实际访问停在Cloudflare安全验证，未绕过。"
+  },
+  {
+    "id": "LXS26C24",
+    "url": "https://bbs.wenxuecity.com/currentevent/4042453.html",
+    "title": "7月27日江苏国青国少乒乓球选拔赛半决赛暴力事件转载",
+    "publisher": "文学城论坛／转李老师不是你老师",
+    "published_date": "2026-07-29",
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "李老师江苏乒乓球20260729",
+    "supports": [
+      "LX26C13"
+    ],
+    "key_facts": "论坛嵌入李老师7月29日帖，指27日赛后失利选手拳踢获胜对手，并转述取消成绩和禁赛；针对比赛对手，无旁人受袭描述。",
+    "original_url": null,
+    "access_status": "论坛正文及X署名日期可读；X日期链接点击失败未解析status，pic.twitter.com/DzeH5U8DlP也打开失败；浏览器论坛访问Tunnel failed。"
+  },
+  {
+    "id": "LXS26C25",
+    "url": "https://x.com/newszg_official/status/2090085905876795776",
+    "title": "中国悲剧档案：茂名电城海景明珠持刀案网帖",
+    "publisher": "X／中国悲剧档案",
+    "published_date": "2026-08-19",
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "茂名电城社交影像20260819",
+    "supports": [
+      "LX26C14"
+    ],
+    "key_facts": "新唐人可访问正文嵌入此原帖：茂名电城当街男子袭击女子，情感及钱款原因未经核实。",
+    "original_url": "https://x.com/newszg_official/status/2090085905876795776",
+    "access_status": "原X页面HTTP 403；经既有来源CS053嵌入正文取得帖文URL与日期，同一传言不视作独立佐证。"
+  },
+  {
+    "id": "LXS26C26",
+    "url": "https://www.chinanews.com/sh/2026/07-17/10661042.shtml",
+    "title": "女子持拖把殴打八旬拾荒老人 福建警方：当场控制嫌疑人",
+    "publisher": "中新网／漳州古雷公安",
+    "published_date": "2026-07-17",
+    "accessed_date": "2026-09-16",
+    "type": "官方媒体",
+    "independence_group": "漳州古雷公安20260717",
+    "supports": [
+      "LX26C15"
+    ],
+    "key_facts": "7月14日9时古雷新港城殴打案，35岁女子被当场控制，87岁伤者稳定；通报未给双方关系及起因。",
+    "original_url": null,
+    "access_status": "正文已打开核对。"
+  },
+  {
+    "id": "LXS26C27",
+    "url": "https://www.secretchina.com/news/gb/2026/09/09/1104595.html",
+    "title": "安徽合肥园区发生大火 现场一片火海",
+    "publisher": "看中国／蔡思云综合",
+    "published_date": "2026-09-09",
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "2026夏季火灾纵火传言汇编",
+    "supports": [
+      "LX26C16",
+      "LX26C17",
+      "LX26C18",
+      "LX26C19"
+    ],
+    "key_facts": "汇集合肥、蚌埠、青岛、洪雅火灾及未核实蓄意纵火说法；只有火灾事实另有通报。合肥嵌入帖自称9月10日，与通报9月8日晚不符。",
+    "original_url": null,
+    "access_status": "www主站正文成功读取；search子站Cache miss；嵌入X日期链接点击未返回status URL。"
+  },
+  {
+    "id": "LXS26C28",
+    "url": "https://news.cnr.cn/local/dftj/20260909/t20260909_527808760.shtml",
+    "title": "合肥发布火情通报",
+    "publisher": "央广网／合肥市消防救援局",
+    "published_date": "2026-09-09",
+    "accessed_date": "2026-09-16",
+    "type": "官方媒体",
+    "independence_group": "合肥消防20260909",
+    "supports": [
+      "LX26C16"
+    ],
+    "key_facts": "9月8日23:03乌鲁木齐路与北京路口西北仓库起火，9日0:40火势受控，无人伤亡；未给起火原因。",
+    "original_url": null,
+    "access_status": "正文已打开核对。"
+  },
+  {
+    "id": "LXS26C29",
+    "url": "https://www.cnr.cn/ah/news/20260908/t20260908_527807564.shtml",
+    "title": "蚌埠发布火情通报",
+    "publisher": "央广网／蚌埠市消防救援局",
+    "published_date": "2026-09-08",
+    "accessed_date": "2026-09-16",
+    "type": "官方媒体",
+    "independence_group": "蚌埠消防20260908",
+    "supports": [
+      "LX26C17"
+    ],
+    "key_facts": "9月8日5:13高新区高华电子厂房火灾，正在扑救、火势有效控制，暂未发现人员伤亡；未给起因。",
+    "original_url": null,
+    "access_status": "正文已打开核对。"
+  },
+  {
+    "id": "LXS26C30",
+    "url": "https://news.china.com.cn/2026-07/27/content_118618785.shtml",
+    "title": "四川洪雅玉屏山突发森林火情 未造成人员被困和伤亡",
+    "publisher": "中国网／中新网刘忠俊",
+    "published_date": "2026-07-27",
+    "accessed_date": "2026-09-16",
+    "type": "官方媒体",
+    "independence_group": "洪雅玉屏山管护站20260726",
+    "supports": [
+      "LX26C18"
+    ],
+    "key_facts": "缓存稿引管护站：7月26日14:30玉屏山火情，无人被困和伤亡，原因调查。",
+    "original_url": null,
+    "access_status": "搜索摘要包含通报内容；正文打开Internal Error，事实来源降级注明而不视为全文核验。"
+  },
+  {
+    "id": "LXS26C31",
+    "url": "https://finance.sina.com.cn/roll/2026-08-02/doc-inikxrzi9861025.shtml",
+    "title": "官方通报青岛大火：无人员被困和伤亡，起火原因正在调查中",
+    "publisher": "新浪／现代快报／黄岛发布",
+    "published_date": "2026-08-02",
+    "accessed_date": "2026-09-16",
+    "type": "官方媒体",
+    "independence_group": "青岛黄岛发布20260802",
+    "supports": [
+      "LX26C19"
+    ],
+    "key_facts": "8月2日17时青岛象屿速传供应链仓库火灾，无人被困伤亡，起因调查；另引大河报记者联系消防的确认。",
+    "original_url": null,
+    "access_status": "正文已打开核对。"
+  },
+  {
+    "id": "LXS26C32",
+    "url": "https://x.com/MKBKCOM/status/2090022453246382399",
+    "title": "玛卡巴卡：汕头陈厝合持刀案网帖",
+    "publisher": "X／玛卡巴卡",
+    "published_date": "2026-08-19",
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "社交视频汕头西宁20260818",
+    "supports": [
+      "C042"
+    ],
+    "key_facts": "既有来源CS053嵌入的原X帖，称案发8月18日晚；伤者人数及随机性没有独立印证。",
+    "original_url": "https://x.com/MKBKCOM/status/2090022453246382399",
+    "access_status": "原X打开仅空页面、无可读正文；通过CS053嵌入文字确认URL。"
+  },
+  {
+    "id": "LXS26C33",
+    "url": "https://x.com/MIYESAC/status/2089830704477548850",
+    "title": "明月：西宁持刀案社交视频",
+    "publisher": "X／明月",
+    "published_date": "2026-08-18",
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "社交视频汕头西宁20260818",
+    "supports": [
+      "C041"
+    ],
+    "key_facts": "原帖正文称19日凌晨及多人受伤，既有CS053为同源转载；人民日报和警方采访已将时间修正为18日晚，人数采用两伤报道。",
+    "original_url": "https://x.com/MIYESAC/status/2089830704477548850",
+    "access_status": "原X打开空页面；原URL及显示日期经CS053嵌入取得；时区日期与文本日期不一致。"
+  },
+  {
+    "id": "LXS26C34",
+    "url": "https://mnewstv.com/finance.php?id=37519",
+    "title": "湖南平江店铺纵火线索转载",
+    "publisher": "MNewsTV",
+    "published_date": null,
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "平江纵火社交传言20260717",
+    "supports": [
+      "LX26C05"
+    ],
+    "key_facts": "搜索缓存转述店主儿女遇害、退车纠纷等细节，未独立确认。",
+    "original_url": null,
+    "access_status": "仅搜索摘要；页面标注发布时间早于事发时刻，不能据此确定日期或关系；不用于确定字段。"
+  },
+  {
+    "id": "LXS26C35",
+    "url": "https://www.qhnews.com/newscenter/system/2026/08/26/030602062.shtml",
+    "title": "青海西宁外卖小哥于荣先获见义勇为认定",
+    "publisher": "青海新闻网／青海日报魏爽",
+    "published_date": "2026-08-26",
+    "accessed_date": "2026-09-16",
+    "type": "官方媒体",
+    "independence_group": "青海日报于荣先20260826",
+    "supports": [
+      "C041"
+    ],
+    "key_facts": "搜索缓存报道于荣先获见义勇为认定，补充官方处置的后续线索。",
+    "original_url": null,
+    "access_status": "https及http打开均Redirect loop，仅搜索摘要可见；不靠该失败页面单独认定案情。"
+  },
+  {
+    "id": "LXS26C36",
+    "url": "https://mnewstv.com/article.php?id=41223",
+    "title": "广西玉林街头发生无差别袭击 带孩女子遭偷袭受伤",
+    "publisher": "MNewsTV／中国观察",
+    "published_date": "2026-08-21",
+    "accessed_date": "2026-09-16",
+    "type": "汇编线索",
+    "independence_group": "玉林五灯坡社交影像20260820",
+    "supports": [
+      "LX26C03"
+    ],
+    "key_facts": "与新唐人使用同组图像和网传叙事，转述从后袭击及双方不识，不能当作独立第二来源。",
+    "original_url": null,
+    "access_status": "无www页面正文成功，www版本安全错误；未发现X原status链接。"
   }
 ]

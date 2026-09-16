@@ -11,6 +11,8 @@ CATEGORIES = {'core':'核心', 'expanded':'纠纷扩大', 'pending':'待核实',
 FIELDS = dict(id='事件编号',date='案发日期',date_precision='日期精度',title='事件名称',province='省级地区',city='城市',district='区县',urban_rural='城乡属性',scene='场景',method='方式',category='分类代码',classification_reason='分类依据',deaths='受害者死亡',injured='受害者受伤',injured_reported='受伤原口径',injured_lower_bound='受伤保守下限',deaths_lower_bound='死亡保守下限',serious_injuries='重伤',attacker_deaths='作案者死亡',attacker_injured='作案者受伤',casualty_asof='伤亡口径日期',casualty_note='伤亡修订说明',involves_children='涉及儿童',victim_relation='受害者关系',age='作案者年龄',sex='性别',occupation='职业状态',motive_summary='动机摘要',motive_tags='动机标签',motive_basis='动机证据层级',mental_health='精神健康证据',prior_violence='既往暴力记录',warning_signals='事前威胁线索',intervention='干预与现场处置',outcome='司法及处置结果',judgment_date='判决日期',execution_date='执行日期',last_source_date='最后来源日期',evidence_level='事件证据等级',source_ids='来源编号',field_sources='分字段来源',series_id='关联系列',notes='补充说明')
 FIELDS.update(additional_collision_injured='故意性未明的碰撞伤者',response_injured='警方处置伤者',event_total_injured_reported='事件总伤者原口径',motive_attribution='动机归因说明')
 FIELDS.update(date_time='已核实案发时间',continuous_attack='连续袭击过程',official_occurrence='发生获官方确认',official_classification='官方材料直接支持分类',classification_evidence='分类证据分层说明',motive_themes='动机归并主题')
+FIELDS.update(review_batch='补查批次',verification_gaps='尚缺的核验要素',social_source_urls='社交平台原帖链接')
+FIELDS.update(reported_date='线索发布日',review_year='补查所属年份（非案发年）',dating_note='案发日期核验说明')
 
 def read(path):
     return json.loads((ROOT/path).read_text())
@@ -68,6 +70,18 @@ def main():
         patches=read('work/review_findings.json').get('source_metadata_suggested_overrides',{})
         for s in sources:s.update(patches.get(s['id'],{}))
     coverage+=read('work/root_coverage.json')
+    updates=[]
+    for path in sorted((ROOT/'work').glob('update_2026_q*.json')):
+        batch=json.loads(path.read_text())
+        for event in batch.get('new_events',[]):
+            event.setdefault('review_batch','2026-X补查')
+            event.setdefault('review_year',2026)
+            events.append(event)
+        sources+=batch.get('sources',[])
+        coverage+=batch.get('coverage',[])
+        notes+=batch.get('notes',[])
+        updates+=batch.get('event_updates',[])
+        loaded.append(path.stem)
     # Corrections are explicit, versioned and never overwrite the researchers' raw records.
     overrides={}
     def merge_changes(eid, changes, path):
@@ -85,6 +99,13 @@ def main():
                 for item in patch['overrides']:merge_changes(item['event_id'],item['set'],path)
             else:
                 for eid,changes in patch.items():merge_changes(eid,changes,path)
+    for item in updates:
+        merge_changes(item['event_id'],item['set'],'2026_update')
+        merge_changes(item['event_id'],{'review_batch':'2026-X补查'},'2026_update')
+    if (ROOT/'work/update_2026_adjudication.json').exists():
+        for eid,changes in read('work/update_2026_adjudication.json').items():
+            merge_changes(eid,changes,'2026_final_review')
+    source_map={s['id']:s for s in sources}
     for e in events:
         patch=overrides.get(e['id'],{})
         for key,val in patch.items():
@@ -94,15 +115,20 @@ def main():
         if e.get('basis'):e['classification_evidence']=e.get('classification_evidence','')+'；'+e.pop('basis')
         e.pop('category_unchanged',None);e.pop('review_scope',None)
         for f in FIELDS:e.setdefault(f,None)
+        if e.get('review_batch'):
+            if e['category']=='pending' and not e.get('verification_gaps'):e['verification_gaps']=e['classification_reason']
+            original_links=[u for sid in e['source_ids'] for u in [source_map[sid].get('original_url'),source_map[sid].get('url')] if u and ('x.com/' in u or 'twitter.com/' in u)]
+            e['social_source_urls']=list(dict.fromkeys((e.get('social_source_urls') or [])+original_links))
         e['year']=int(e['date'][:4]) if e['date'] else None
+        e['month']=e['date'][:7] if e['date'] and len(e['date'])>=7 else None
         e['quarter']=e['date'][:4]+'-Q'+str((int(e['date'][5:7])-1)//3+1) if e['date'] and len(e['date'])>=7 else None
         e['category_label']=CATEGORIES[e['category']]
-        e['official_occurrence']=e['evidence_level'] in ['官方原文','官方转载']
+        if e['official_occurrence'] is None:e['official_occurrence']=e['evidence_level'] in ['官方原文','官方转载']
         if e['official_classification'] is None:e['official_classification']=e['official_occurrence'] and e['category'] in ['core','expanded']
         if e['classification_evidence'] is None:e['classification_evidence']=e.get('classification_evidence_basis') or ('官方事实直接支持' if e['official_classification'] else '媒体调查／研究推断')
         e['official']=e['official_classification']
         e['same_period']=len(e['date'] or '')==10 and e['date'][5:]<='09-16'
-        e['motive_known']=known(e['motive_summary']) and e['motive_basis'] in ['法院认定','警方初步通报','媒体调查','检方指控','外交渠道转述法院']
+        e['motive_known']=known(e['motive_summary']) and e['motive_basis'] in ['法院认定','警方初步通报','媒体调查','检方指控','外交渠道转述法院','官方事迹']
         e['deaths_min']=e['deaths'] if e['deaths'] is not None else e.get('deaths_lower_bound') or 0
         e['injured_min']=e['injured'] if e['injured'] is not None else e.get('injured_lower_bound') or 0
         e['motive_tags']=e.get('motive_tags') or []
@@ -116,7 +142,7 @@ def main():
     assert len({e['id'] for e in events})==len(events),'Duplicate event IDs'
     assert all(e['province'] in PROVINCES for e in events),'Invalid province'
     for e in events:
-        assert e['date'] and '2018-01-01'<=e['date']<=CUTOFF, e['id']+' event date outside scope'
+        assert (e['date'] and '2018'<=e['date']<=CUTOFF) or (e['date'] is None and e['category'] in ['pending','excluded']), e['id']+' event date outside scope'
         assert e['source_ids'] and all(s in sourceids for s in e['source_ids']),e['id']+' missing source'
         assert all(s in sourceids for ids in e['field_sources'].values() for s in ids), e['id']+' field source missing'
         assert all(set(ids)<=set(e['source_ids']) for ids in e['field_sources'].values()), e['id']+' field source not linked to event'
@@ -128,10 +154,12 @@ def main():
         if e['category'] in ['core','expanded']:
             assert e['classification_reason'] and e['field_sources']['classification'],e['id']+' no classification support'
             if not e['official_occurrence'] and e['evidence_level']!='多源媒体':issues.append({'id':e['id'],'issue':'纳入事件未标记官方发生或多源媒体，需复核'})
-    duplicates=Counter((e['date'],e['province'],e['city']) for e in events)
+    duplicates=Counter((e['date'],e['province'],e['city']) for e in events if e['date'] and len(e['date'])==10)
     for (d,p,c),n in duplicates.items():
         same=[e for e in events if (e['date'],e['province'],e['city'])==(d,p,c)]
-        if n>1 and not (all(e.get('series_id') and e.get('date_time') for e in same) and len({e['date_time'] for e in same})==n):
+        reviewed=read('work/duplicate_reviews.json') if (ROOT/'work/duplicate_reviews.json').exists() else []
+        decision=next((x for x in reviewed if set(x['event_ids'])=={e['id'] for e in same} and x.get('reason')),None)
+        if n>1 and not decision and not (all(e.get('series_id') and e.get('date_time') for e in same) and len({e['date_time'] for e in same})==n):
             issues.append({'id':f'{d}|{p}|{c}','issue':'同日同城市候选重复，人工复核'})
     verified=[e for e in events if e['category'] in ['core','expanded']]
     core=[e for e in events if e['category']=='core']
@@ -161,9 +189,23 @@ def main():
         for tag in e['motive_tags']:motive.append({'event_id':e['id'],'category':e['category'],'tag':tag,'theme':taxonomy.get(tag,'其他已披露背景'),'basis':e['motive_basis'],'summary':e['motive_summary'],'source_ids':e['field_sources']['motive']})
     missing=[{'field':FIELDS[f],'missing':sum(not known(e.get(f)) for e in core),'n':len(core)} for f in ['motive_summary','age','sex','occupation','mental_health','prior_violence','warning_signals','intervention','serious_injuries']]
     summary={'cutoff':CUTOFF,'loaded_groups':loaded,'categories':dict(Counter(e['category'] for e in events)),'core':count_stats(core),'expanded':count_stats(verified),'annual':annual,'quarterly':quarterly,'sensitivity':sens,'geography':groups(core,'province'),'scenes':groups(core,'scene'),'methods':groups(core,'method'),'missingness':missing,'motive_known':sum(e['motive_known'] for e in core),'correlations':correlations}
-    explanations={'category':'核心core；扩展新增expanded；待核pending；排除excluded；恐袭organized_terror另列。','injured':'受害者受伤人数，尽可能采用最新结局；作案者另列；不含已转死亡者；若来源不能证明去重则详见casualty_note。','deaths':'公开可核实的受害者死亡人数，作案者死亡另列。','official_occurrence':'事件发生是否获官方原文或可靠完整转载支持，不代表官方确认随机性。','official_classification':'严格敏感性标记：官方材料的事实直接支持随机/扩大关系。媒体采集、外交渠道转述及研究推断另层，不计此子集。','motive_themes':'研究编码，按work/motive_taxonomy.json归并原始标签；允许多标签，非独立新增事实。','field_sources':'日期、地点、伤亡、分类、动机、处置及人口特征分别对应来源ID；应回查来源正文与关键事实摘要。','date_time':'少数案件可核实到时间，ISO8601含中国时区+08:00；未知为空，不以报道时间填补。','continuous_attack':'明确为同一连续过程时为true；未核实为空。跨时段重新启动的袭击独立计件，即使在同一天。','motive_basis':'法院认定/警方初步通报/检方指控/外交渠道转述法院/媒体调查/未知；不同层级不互换。','series_id':'同一作案系列的关联编号；件数不等于独立作案者人数。','classification_evidence':'分类所依赖的事实层与研究解释，避免将媒体判断误写成官方定性。'}
+    current=[e for e in events if e['year']==2026 or e.get('review_year')==2026]
+    baseline=read('work/baseline_2026_v1.json') if (ROOT/'work/baseline_2026_v1.json').exists() else {'events_2026':[]}
+    previous={e['id']:e for e in baseline['events_2026']}
+    summary['update_2026']={
+        'cutoff':CUTOFF,'previous_records':len(previous),'current_records':len(current),
+        'new_records':[e['id'] for e in current if e['id'] not in previous],
+        'reviewed_existing':[e['id'] for e in current if e['id'] in previous and e.get('review_batch')],
+        'category_changes':[{'id':e['id'],'before':previous[e['id']]['category'],'after':e['category']} for e in current if e['id'] in previous and previous[e['id']]['category']!=e['category']],
+        'categories':dict(Counter(e['category'] for e in current)),
+        'official_occurrence':sum(e['official_occurrence'] for e in current),
+        'core':count_stats([e for e in current if e['category']=='core']),
+        'expanded':count_stats([e for e in current if e['category'] in ['core','expanded']]),
+        'months':[{'month':f'2026-{m:02}',**dict(Counter(e['category'] for e in current if (e['date'] or '').startswith(f'2026-{m:02}')))} for m in range(1,10)]
+    }
+    explanations={'category':'核心core；扩展新增expanded；待核pending；排除excluded；恐袭organized_terror另列。','injured':'受害者受伤人数，尽可能采用最新结局；作案者另列；不含已转死亡者；若来源不能证明去重则详见casualty_note。','deaths':'公开可核实的受害者死亡人数，作案者死亡另列。','official_occurrence':'事件发生是否获官方原文或可靠完整转载支持，不代表官方确认随机性。','official_classification':'严格敏感性标记：官方材料的事实直接支持随机/扩大关系。媒体采集、外交渠道转述及研究推断另层，不计此子集。','motive_themes':'研究编码，按work/motive_taxonomy.json归并原始标签；允许多标签，非独立新增事实。','field_sources':'日期、地点、伤亡、分类、动机、处置及人口特征分别对应来源ID；应回查来源正文与关键事实摘要。','date_time':'少数案件可核实到时间，ISO8601含中国时区+08:00；未知为空，不以报道时间填补。','continuous_attack':'明确为同一连续过程时为true；未核实为空。跨时段重新启动的袭击独立计件，即使在同一天。','motive_basis':'法院认定/警方初步通报/检方指控/外交渠道转述法院/媒体调查/官方事迹/未知；不同层级不互换。','series_id':'同一作案系列的关联编号；件数不等于独立作案者人数。','review_year':'补查队列所属年；不同于案发年。案发日未知的社媒投稿可归入2026补查，不能计入按案发日的年/月统计。','reported_date':'原线索发布日；不自动代替案发日。','dating_note':'案发日期精度、发帖与接报警时间差异，以及尚缺证据。','verification_gaps':'待核实记录尚缺的要素；未另写时引用分类依据中的核验限制。','social_source_urls':'由逐案关联来源中的X/Twitter原帖链接归并得到；镜像不新增独立证据。','classification_evidence':'分类所依赖的事实层与研究解释，避免将媒体判断误写成官方定性。'}
     dictionary=[{'field':k,'label':v,'definition':explanations.get(k,'空值表示未查得/无法确定，不能按0解释。')} for k,v in FIELDS.items()]
-    outputs={'events':events,'sources':sources,'search_coverage':coverage,'motive_tags':motive,'field_dictionary':dictionary,'analysis':summary,'province_year_panel':panel,'excluded_pending':[e for e in events if e['category'] not in ['core','expanded']]}
+    outputs={'events':events,'sources':sources,'search_coverage':coverage,'motive_tags':motive,'field_dictionary':dictionary,'analysis':summary,'province_year_panel':panel,'excluded_pending':[e for e in events if e['category'] not in ['core','expanded']],'review_2026':current}
     for name,obj in outputs.items():
         write('data/'+name+'.json',obj)
         if isinstance(obj,list):csvwrite('data/'+name+'.csv',obj)
@@ -175,6 +217,8 @@ def main():
         return {'rows':rows,'source':{'label':label,'links':[{'label':s['title'],'url':s['url']} for s in selected], 'filters':['案发日期2018-01-01至2026-09-16','中国大陆31省级地区'], 'caveats':['这是公开信息可核实事件库，记录密度不等于实际发生率。','未知数保持空值；伤亡合计使用已知值或明确下限。']}}
     snapshot['queries']={'events':query(verified,'逐案核验的核心与扩展事件',set(s for e in verified for s in e['source_ids'])),'candidates':query(outputs['excluded_pending'],'待核实与排除记录'),'sources':query(sources,'逐字段可追溯来源'),'context':query(panel,'国家统计局2018—2024同版资料及2025省级人口披露汇总',set(s['id'] for s in read('work/context_sources.json'))),'prevention':query([s for s in sources if s['id'].startswith('R_SAFETY') or s['id']=='R_NTAC2024'],'公共安全原始指引'),'coverage':query(coverage,'实际检索与访问记录'),'geography':query(read('data/provinces.geojson')['features'],'地理边界，仅大陆31省着色',{'R_GEO'})}
     snapshot['researchSummary']=summary
+    snapshot['queries']['recent']=query(current,'2026补查：已核实、待核和排除线索分别展示',set(s for e in current for s in e['source_ids']))
+    snapshot['queries']['recent']['source']['filters']=['2026年案发记录及2026年发现但案发日待核的线索','中国大陆31省级地区','待核与排除不计入核心趋势']
     snapshot['queries']['domains']=query([{'year':y,'province':p} for y in range(2018,2027) for p in PROVINCES],'用户指定的观察范围；只用于筛选选项，不是事件记录',set())
     write('report/src/data.json',snapshot)
     print(json.dumps({'events':len(events),'sources':len(sources),'categories':summary['categories'],'issues':issues},ensure_ascii=False))

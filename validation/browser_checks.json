@@ -1,68 +1,44 @@
 {
-  "checked_date": "2026-09-16",
-  "environment": "Codex in-app browser; local HTTP; desktop and 390 × 844 viewport",
+  "date": "2026-09-16",
   "status": "passed",
-  "checks": [
+  "environment": "Codex in-app browser；响应式视窗模拟，非实体iPhone/Safari硬件测试",
+  "views": [
     {
-      "case": "default core",
-      "result": "51 events; deaths known/minimum 162 with 1 unknown; injuries known/minimum 511 with 6 unknown; 37 disclosed motives"
+      "width": 1920,
+      "height": 1080,
+      "result": "内容居中；三列补查卡片；页面无横向溢出"
     },
     {
-      "case": "expanded scope",
-      "result": "63 events; deaths 204; injuries 646; 47 disclosed motives"
+      "width": 390,
+      "height": 844,
+      "result": "单列卡片；筛选换行；详情字段上下排列；页面无横向溢出"
     },
     {
-      "case": "2024 annual core",
-      "result": "cards and annual table: 10 events, 50 deaths, 128 injuries"
+      "width": 375,
+      "height": 812,
+      "result": "地图可见；窄屏无页面横向溢出"
     },
     {
-      "case": "2024 Jan 1–Sep 16 core",
-      "result": "cards, annual table and event table: 2 events, 3 deaths, 12 injuries; map: Jiangxi 1, Jiangsu 1"
-    },
-    {
-      "case": "Beijing expanded",
-      "result": "5 events, 1 death, 45 injuries; 5 corresponding detail rows"
-    },
-    {
-      "case": "2026 core empty",
-      "result": "zero result state and explicit non-zero-risk caveat; charts do not crash; reset restores all years"
-    },
-    {
-      "case": "filter reset",
-      "result": "All dates and All regions plus core restore 51 events"
-    },
-    {
-      "case": "B04 unknown injury value",
-      "result": "table shows 未披露; detail shows precise count unknown, confirmed minimum 25, source links, revision note and execution date"
-    },
-    {
-      "case": "event detail",
-      "result": "row opens dialog; field-level source URLs and source metadata visible; Close returns to report"
-    },
-    {
-      "case": "native source inspection",
-      "result": "View data source opens current card source panel and filters; source links visible"
-    },
-    {
-      "case": "desktop rendering",
-      "result": "chart paths, axes, legends and statistic cards visually inspected; page gutters visible"
-    },
-    {
-      "case": "390px viewport",
-      "result": "cards form two columns; filters wrap; map and bar chart visible; document clientWidth and scrollWidth both 390; override reset"
-    },
-    {
-      "case": "completion state",
-      "result": "Creating indicator cleared; As of 2026年9月16日 visible"
-    },
-    {
-      "case": "console errors",
-      "result": "no error logs returned during final interaction checks"
-    },
-    {
-      "case": "packaged single-file HTML",
-      "result": "Loaded exports/互动报告.html over local HTTP; embedded data returned 51 core, 162 deaths, 511 injuries; 2026 empty and All dates reset both passed"
+      "width": 430,
+      "height": 932,
+      "result": "最终单文件HTML内容宽394px、边距18px、正文16px；页面无横向溢出"
     }
   ],
-  "limitations": "Representative interaction checks, not an exhaustive browser/device test. Does not assert that every external source remains accessible or that research coverage is exhaustive."
+  "checks": [
+    "2026专题77条：核心5、扩大5、待核53、排除14，与JSON一致",
+    "核心筛选5条；核心+2026-04为2条；再选云南为空结果，恢复All后77条",
+    "嘉禾详情显示受伤至少4，未知死亡未补零，来源与分字段依据可见",
+    "郴州日期未知案例显示案发日期待核、发布日2026-02-12、原帖与镜像访问说明",
+    "全局2026扩展10件、死亡下限1、受伤下限15，与年表和分页明细一致",
+    "全局2026核心5件、死亡下限0（4件人数未知）、受伤下限8",
+    "2024同期扩展3件、死亡3、受伤17，核心子集2件；时间窗口作用于全局统计",
+    "主筛选恢复用户原先All；全期扩展73件、死亡下限205、受伤下限661",
+    "最终单文件HTML内含73核实事件、141候选、77专题、298来源、646覆盖、248省年数据，buildStatus=complete",
+    "最终单文件HTML分类筛选可用，检查期间无浏览器error日志；未测试实体Safari或系统文件预览器",
+    "已恢复浏览器正常视窗并保留报告预览与HTML导出页"
+  ],
+  "limitations": [
+    "来源访问限制及检索遗漏不能由界面测试消除",
+    "单文件通过本地HTTP打开核验，未模拟断网或iOS文件管理器；导出工具已内嵌数据和应用。"
+  ]
 }

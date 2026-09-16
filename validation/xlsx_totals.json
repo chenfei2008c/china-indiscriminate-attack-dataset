@@ -1,9 +1,9 @@
 {
   "status": "passed",
-  "core": 51,
-  "expanded": 63,
+  "core": 56,
+  "expanded": 73,
   "deaths_min": 162,
-  "injured_min": 511,
+  "injured_min": 519,
   "sheets": [
     "统计汇总",
     "事件主表",
@@ -13,6 +13,7 @@
     "敏感性",
     "季度统计",
     "描述性关联",
+    "2026补查",
     "待核实与排除",
     "检索覆盖",
     "字段字典",
