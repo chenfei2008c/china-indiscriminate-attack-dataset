@@ -1,0 +1,1742 @@
+{
+  "review_date": "2026-09-16",
+  "scope": "仅审阅group_c.json的47条记录，不增加范围外事件",
+  "input_sha256": "4256e193fd2614381b081a5811147eb6ff8efc49480aa494674ce1fb7e13bc91",
+  "original_counts": {
+    "core": 11,
+    "pending": 28,
+    "expanded": 2,
+    "excluded": 6
+  },
+  "proposed_counts": {
+    "core": 11,
+    "pending": 28,
+    "expanded": 2,
+    "excluded": 6
+  },
+  "category_change_count": 0,
+  "method": [
+    "对47条结构化记录进行边界筛查。",
+    "对所列成功来源重新打开正文，以完整官方事实优先；媒体采访用于检验分类证据层。",
+    "不以伤亡多、陌生地理环境、精神障碍、国籍或没有披露私人纠纷单独认定随机。",
+    "没有将同源转载计为不同独立调查。"
+  ],
+  "official_classification_definition": "严格证据标签：本轮已打开的官方正文或完整官方通报明确不特定公众目标或原纠纷之外受害者。false仅表示随机性不属于该严格官方子集，不否定事件官方属实；境外官员向媒体转述司法事实单列。",
+  "successful_source_read_count": 37,
+  "deep_review_event_count": 25,
+  "source_reads": [
+    {
+      "source_id": "CS001",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/451251.html",
+      "title": "樊维秋以危险方法危害公共安全案一审宣判",
+      "supports": [
+        "C001"
+      ],
+      "access_status": "正文已打开",
+      "accessed_date": "2026-09-16",
+      "facts": "法院认定因婚姻破裂、生活失意及不满财产分割，故意撞击锻炼人群；一审死刑。"
+    },
+    {
+      "source_id": "CS004",
+      "url": "https://news.cctv.cn/2025/01/20/ARTIRKFXD34m4R9THppujfJO250120.shtml",
+      "title": "致8死17伤 无锡一学院持刀伤人案凶手徐加金被执行死刑",
+      "supports": [
+        "C002"
+      ],
+      "access_status": "正文已打开",
+      "accessed_date": "2026-09-16",
+      "facts": "11月16日案致8死17伤；12月17日一审死刑；2025年1月20日执行。"
+    },
+    {
+      "source_id": "CS005",
+      "url": "https://www.thepaper.cn/newsDetail_forward_29374300",
+      "title": "徐某金回校发泄行凶，致8死17伤，警方通报",
+      "supports": [
+        "C002"
+      ],
+      "access_status": "正文已打开",
+      "accessed_date": "2026-09-16",
+      "facts": "嫌疑人男21岁，为2024届毕业生；警方初查称未获毕业证及不满实习报酬，返校发泄行凶。"
+    },
+    {
+      "source_id": "CS006",
+      "url": "https://www.spp.gov.cn/zdgz/202412/t20241223_677165.shtml",
+      "title": "湖南常德撞人案一审宣判 被告人黄文被判死缓",
+      "supports": [
+        "C003"
+      ],
+      "access_status": "正文已打开",
+      "accessed_date": "2026-09-16",
+      "facts": "11月19日黄文因投资亏损、家庭矛盾驾车冲撞不特定小学生等人群后持械攻击；30人受伤，含18名学生，判死缓。"
+    },
+    {
+      "source_id": "CS007",
+      "url": "https://news.sina.com.cn/s/2024-10-01/doc-incqyxry4462222.shtml",
+      "title": "上海松江警方：一男子超市内持刀伤人被当场抓获，3人抢救无效死亡",
+      "supports": [
+        "C004"
+      ],
+      "access_status": "正文已打开",
+      "accessed_date": "2026-09-16",
+      "facts": "9月30日松汇中路超市林某某37岁持刀伤18人，其中3人死亡；警方初查个人经济纠纷后来沪泄愤。"
+    },
+    {
+      "source_id": "CS008",
+      "url": "https://www.news.cn/20240301/ee8b277f478c4a2fbfa81522cc7cada5/c.html",
+      "title": "山东德州交通肇事已致2人死亡6人重伤",
+      "supports": [
+        "C005"
+      ],
+      "access_status": "正文已打开",
+      "accessed_date": "2026-09-16",
+      "facts": "3月1日安居苑小区南侧道路车辆撞人，2死6重伤，驾驶人被抓；未披露故意性。"
+    },
+    {
+      "source_id": "CS012",
+      "url": "https://m.thepaper.cn/newsDetail_forward_27295726",
+      "title": "官方人士称镇雄医院行凶者朋友圈动机信息不实",
+      "supports": [
+        "C007"
+      ],
+      "access_status": "正文已打开",
+      "accessed_date": "2026-09-16",
+      "facts": "警方续报40岁男子李某当日下午被抓；相关部门否认网传朋友圈动机。患者描述与袭击者对峙及追赶。"
+    },
+    {
+      "source_id": "CS013",
+      "url": "https://www.thepaper.cn/newsDetail_forward_27445134",
+      "title": "贵溪明德小学持刀伤人案警方通报",
+      "supports": [
+        "C008"
+      ],
+      "access_status": "正文已打开",
+      "accessed_date": "2026-09-16",
+      "facts": "45岁女子持水果刀伤人，2死4名直接伤者另6人躲闪擦伤。"
+    },
+    {
+      "source_id": "CS014",
+      "url": "https://news.sina.com.cn/c/2024-05-21/doc-inavyuwi5410331.shtml",
+      "title": "江西贵溪小学伤人案凶手系村中医护",
+      "supports": [
+        "C008"
+      ],
+      "access_status": "正文已打开",
+      "accessed_date": "2026-09-16",
+      "facts": "采访家长、学生及居民，案发于小学低年级教室，涉及多名学生；未确认作案动机。"
+    },
+    {
+      "source_id": "CS017",
+      "url": "https://xinwen.bjd.com.cn/content/s666825b1e4b035c6ca5ea1ee.html",
+      "title": "4名外籍人士和1名中国游客被刺伤，吉林警方通报",
+      "supports": [
+        "C011"
+      ],
+      "access_status": "正文已打开",
+      "accessed_date": "2026-09-16",
+      "facts": "55岁男子走路与外籍游客碰撞后刺伤其及3同行者、1劝阻中国游客；当日被抓。"
+    },
+    {
+      "source_id": "CS019",
+      "url": "https://www.jiangsu.gov.cn/art/2024/6/29/art_84324_11283716.html",
+      "title": "苏州市认定校车工作人员见义勇为行为（原题姓名略）",
+      "supports": [
+        "C013"
+      ],
+      "access_status": "正文已打开",
+      "accessed_date": "2026-09-16",
+      "facts": "6月24日新地中心公交站日本母子及救人者受伤；救人者6月26日死亡；2日籍伤者存活。"
+    },
+    {
+      "source_id": "CS020",
+      "url": "https://www.thepaper.cn/newsDetail_forward_28800862",
+      "title": "深圳日本人学校被刺学生不幸去世，警方通报称嫌犯单人作案",
+      "supports": [
+        "C014"
+      ],
+      "access_status": "正文已打开",
+      "accessed_date": "2026-09-16",
+      "facts": "9月18日10岁男童上学途中被44岁无固定职业男子刺伤，19日凌晨死亡；嫌犯当场被抓。"
+    },
+    {
+      "source_id": "CS023",
+      "url": "https://china.caixin.com/m/2024-10-08/102243146.html",
+      "title": "刑释男子在广州一小学门口持刀伤人 伤者含两名小学生",
+      "supports": [
+        "C015"
+      ],
+      "access_status": "正文已打开",
+      "accessed_date": "2026-09-16",
+      "facts": "3名伤者含2名小学生；60岁嫌疑人当场制服。司法旧案证实曾因持刀攻击前女友获刑。"
+    },
+    {
+      "source_id": "CS024",
+      "url": "https://news.cctv.cn/2024/10/28/ARTIaGmYW8QmzQqhgVIepwzP241028.shtml",
+      "title": "北京海淀发生持刀伤人案件，5人受伤",
+      "supports": [
+        "C016"
+      ],
+      "access_status": "正文已打开",
+      "accessed_date": "2026-09-16",
+      "facts": "5名路人包括3名未成年人受伤，50岁唐某某当场被控。"
+    },
+    {
+      "source_id": "CS025",
+      "url": "https://china.caixin.com/m/2024-10-28/102250558.html",
+      "title": "北京一小学放学时发生伤害事件 五人受伤含三名学生",
+      "supports": [
+        "C016"
+      ],
+      "access_status": "正文已打开",
+      "accessed_date": "2026-09-16",
+      "facts": "案发于中关村三小北校区门外，一名家长和棒球教练因阻止行凶受伤。"
+    },
+    {
+      "source_id": "CS026",
+      "url": "https://www.ngzb.com.cn/news/2024/12/11/chengdu-xingju-yibei-xianyiren-qingwei-3ren-jingfang-shangren-ji.html",
+      "title": "成都地铁站外男子持剪刀伤人，警方：3人轻微伤",
+      "supports": [
+        "C017"
+      ],
+      "access_status": "正文已打开",
+      "accessed_date": "2026-09-16",
+      "facts": "警方证实29岁曲某某持剪刀伤3人；目击者称对路过女子刺击，视频伤者称不认识袭击者。"
+    },
+    {
+      "source_id": "CS028",
+      "url": "https://news.cnr.cn/rebang/20250606/t20250606_527198591.shtml",
+      "title": "警方通报武汉大学伤人事件：犯罪嫌疑人被当场控制",
+      "supports": [
+        "C019"
+      ],
+      "access_status": "正文已打开",
+      "accessed_date": "2026-09-16",
+      "facts": "全文转述警方通报：6月4日武汉大学食堂，23岁朱某因学业不顺行凶，3伤；未披露被害关系。"
+    },
+    {
+      "source_id": "CS031",
+      "url": "https://china.caixin.com/2025-10-25/102375498.html",
+      "title": "湖北十堰男子驾车撞人致一死多伤 事发两天后警方回应",
+      "supports": [
+        "C022"
+      ],
+      "access_status": "正文已打开",
+      "accessed_date": "2026-09-16",
+      "facts": "记者核实事发重庆路小学附近路口，视频显示车冲向等候人群；通报危险方法危害公共安全1死4人伤较重及多人轻伤。"
+    },
+    {
+      "source_id": "CS032",
+      "url": "https://news.ycwb.com/ikinvjktin/content_53752479.htm",
+      "title": "湖北十堰警方通报：致1人遇难4人重伤，陈某被刑拘",
+      "supports": [
+        "C022"
+      ],
+      "access_status": "正文已打开",
+      "accessed_date": "2026-09-16",
+      "facts": "完整通报：10月22日事件，48岁陈某以危险方法危害公共安全；1死4人伤情较重，多人轻微伤，不能将伤者总数写成4。"
+    },
+    {
+      "source_id": "CS033",
+      "url": "https://news.cnr.cn/native/gd/kx/20250530/t20250530_527190837.shtml",
+      "title": "成都警方通报一起持刀伤人案件：2名伤者和嫌犯均无生命危险",
+      "supports": [
+        "C023"
+      ],
+      "access_status": "正文已打开",
+      "accessed_date": "2026-09-16",
+      "facts": "完整通报26岁陆某因感情纠纷刺伤前女友及其上前劝阻同事，后自伤颈；受害者2伤与嫌疑人自伤分开。"
+    },
+    {
+      "source_id": "CS034",
+      "url": "https://news.cnr.cn/native/gd/kx/20260914/t20260914_527813785.shtml",
+      "title": "广州警方通报男子持刀伤人事件",
+      "supports": [
+        "C024"
+      ],
+      "access_status": "正文已打开",
+      "accessed_date": "2026-09-16",
+      "facts": "小谷围街火锅店门口李某35岁持刀伤人；均无生命危险，未公布人数与动机。"
+    },
+    {
+      "source_id": "CS035",
+      "url": "https://focus.scol.com.cn/zgsz/202506/83064620.html",
+      "title": "男子鸣笛引路人不满，驾车强行驶离致1死4伤，重庆警方通报",
+      "supports": [
+        "C025"
+      ],
+      "access_status": "正文已打开",
+      "accessed_date": "2026-09-16",
+      "facts": "完整通报：6月14日38岁熊某鸣笛与围车群众争执，强行离开伤及阻拦者1死4伤。"
+    },
+    {
+      "source_id": "CS037",
+      "url": "https://www.cnr.cn/hubei/jcgd/20260331/t20260331_527568472.shtml",
+      "title": "武汉发生一起持刀伤人事件 警方通报",
+      "supports": [
+        "C027"
+      ],
+      "access_status": "正文已打开",
+      "accessed_date": "2026-09-16",
+      "facts": "青松路吴某某44岁持水果刀伤4人，均无生命危险，未披露被害关系。"
+    },
+    {
+      "source_id": "CS038",
+      "url": "https://zj.cnr.cn/zjyw/20260713/t20260713_527708145.shtml",
+      "title": "浙江杭州警方通报一起持刀伤人警情",
+      "supports": [
+        "C028"
+      ],
+      "access_status": "正文已打开",
+      "accessed_date": "2026-09-16",
+      "facts": "钱塘54岁纺织厂员工金某某刺伤甜品店27岁店主，店主死亡；未披露关系与原因。"
+    },
+    {
+      "source_id": "CS039",
+      "url": "https://www.nippon.com/hk/news/yjj2026051900961/",
+      "title": "上海日系大楼内发生持刀伤人事件＝2名日本人受伤皆无生命危险",
+      "supports": [
+        "C029"
+      ],
+      "access_status": "正文已打开",
+      "accessed_date": "2026-09-16",
+      "facts": "上海环球金融中心餐厅3人受伤，59岁男性被制服；警方称有精神病治疗史，附近店员转述现场经过。"
+    },
+    {
+      "source_id": "CS040",
+      "url": "https://www.fmprc.gov.cn/fyrbt_673021/jzhsl_673025/202605/t20260520_11914508.shtml",
+      "title": "2026年5月20日外交部发言人郭嘉昆主持例行记者会",
+      "supports": [
+        "C029"
+      ],
+      "access_status": "正文已打开",
+      "accessed_date": "2026-09-16",
+      "facts": "原文确认上海餐厅持刀案3伤、嫌犯被抓获、精神障碍患者；未说明随机性或针对国籍。"
+    },
+    {
+      "source_id": "CS041",
+      "url": "https://www.thepaper.cn/newsDetail_forward_26990155",
+      "title": "江西吉安警方：男子持刀划伤两名路人后逃匿，已被抓捕归案",
+      "supports": [
+        "C030"
+      ],
+      "access_status": "正文已打开",
+      "accessed_date": "2026-09-16",
+      "facts": "通报4月10日翠岭路38岁余某伤2名路人，均无生命危险。"
+    },
+    {
+      "source_id": "CS049",
+      "url": "https://wz.jschina.com.cn/jrgc/202605/t20260503_s69f6b72ee4b0d4f4536434af.shtml",
+      "title": "广西柳州警方深夜通报：一小区发生刑事案件，造成4人死亡（其中1人有重大嫌疑），1人受伤",
+      "supports": [
+        "C038"
+      ],
+      "access_status": "正文已打开",
+      "accessed_date": "2026-09-16",
+      "facts": "官方通报4名死者含1名重大嫌疑人；受害者记3死1伤、嫌疑人死亡另列，关系和作案方法未知。"
+    },
+    {
+      "source_id": "CS052",
+      "url": "https://hunan.voc.com.cn/news/202608/33525425.html",
+      "title": "外卖小哥骑车撞翻持刀伤人醉酒男子",
+      "supports": [
+        "C041"
+      ],
+      "access_status": "正文已打开",
+      "accessed_date": "2026-09-16",
+      "facts": "报道8月18日西宁持刀者被外卖员和群众制服、警方强制措施；未披露伤亡数字与关系。"
+    },
+    {
+      "source_id": "CS055",
+      "url": "https://www.jiemian.com/article/14379624.html",
+      "title": "成都车祸致人死伤，警方通报",
+      "supports": [
+        "C044"
+      ],
+      "access_status": "正文已打开",
+      "accessed_date": "2026-09-16",
+      "facts": "完整通报31岁李某某转弯撞人后逃逸继续碰撞；1死11伤，初查交通肇事逃逸。"
+    },
+    {
+      "source_id": "CS059",
+      "url": "https://www.fnn.jp/articles/-/818910",
+      "title": "苏州日本母子遇袭案判死刑，日本外务省说明判决",
+      "supports": [
+        "C013"
+      ],
+      "access_status": "正文已打开",
+      "accessed_date": "2026-09-16",
+      "facts": "记者援引日本外务省说明：1月23日故意杀人罪死刑，无业被告因债务厌世杀伤3人，判决未谈是否针对日本人。"
+    },
+    {
+      "source_id": "CS060",
+      "url": "https://www.zaobao.com.sg/news/china/story20250124-5786878",
+      "title": "为博关注行凶 深圳日本孩童遇袭案嫌犯被判死刑",
+      "supports": [
+        "C013",
+        "C014"
+      ],
+      "access_status": "正文已打开",
+      "accessed_date": "2026-09-16",
+      "facts": "驻深圳记者核实1月24日深圳宣判；援引日驻华大使介绍判决称买刀杀儿童为网络关注。亦记苏州1月23日死刑。"
+    },
+    {
+      "source_id": "RCS001",
+      "url": "https://m.bjnews.com.cn/detail/1715079361168094.html",
+      "title": "云南镇雄医院持刀伤人男子已被抓获",
+      "supports": [
+        "C007"
+      ],
+      "access_status": "正文已打开",
+      "accessed_date": "2026-09-16",
+      "facts": "记者闫沫琛、赵敏从当地官方渠道核实嫌犯被捕及伤者含儿童；正文转载警方2死21伤，未披露攻击选择方式。"
+    },
+    {
+      "source_id": "RCS002",
+      "url": "https://www.ctdsb.net/c1716_202410/2273430.html",
+      "title": "广州一小学附近发生持刀伤人事件 三人受伤",
+      "supports": [
+        "C015"
+      ],
+      "access_status": "正文已打开",
+      "accessed_date": "2026-09-16",
+      "facts": "完整转载天河公安：华强路持刀伤害路人，3名群众受伤；记者联系辖区派出所确认发生。网友所述2儿童1女性与财新身份核实分开，不当独立现场采集。"
+    },
+    {
+      "source_id": "RCS003",
+      "url": "https://finance.sina.com.cn/wm/2024-05-08/doc-inaunxuw9473291.shtml",
+      "title": "刑释男子，在医院随机杀人",
+      "supports": [
+        "C007"
+      ],
+      "access_status": "正文已打开",
+      "accessed_date": "2026-09-16",
+      "facts": "独立采访伤者之女，母亲陪儿童就诊时受伤；标题使用随机，但正文未明确施害者与伤者是否相识。记者比对旧案姓名、户籍、年龄，称匹配，不能推定旧案不满即本案动机。"
+    },
+    {
+      "source_id": "RCS004",
+      "url": "https://k.sina.com.cn/article_1496814565_m593793e503301zdlw.html",
+      "title": "警方通报街头持刀伤人致4伤",
+      "supports": [
+        "C027"
+      ],
+      "access_status": "正文已打开",
+      "accessed_date": "2026-09-16",
+      "facts": "封面记者现场走访店主：施害者平日住附近，目击者没有看到事情起因；见其水果刀伤人后又去另一店拿裁纸刀，民警与群众制服。没有明确证实受害者关系，不改变pending；不将异常观感写成精神医学诊断。"
+    },
+    {
+      "source_id": "CS011",
+      "url": "https://ntrd.jsjc.gov.cn/zt/fzxw/202405/t20240514_1624128.shtml",
+      "title": "云南镇雄警方通报医院持刀行凶案件：造成2死21伤",
+      "supports": [
+        "C007"
+      ],
+      "access_status": "web打开失败；普通HTTP取回返回404",
+      "accessed_date": "2026-09-16",
+      "facts": "本轮未取得正文；CS012和RCS001均包含警方通报事实，可用作可访问补证。"
+    },
+    {
+      "source_id": null,
+      "url": "https://china.caixin.com/m/2024-11-17/102258537.html",
+      "title": "江苏宜兴一高职毕业生返校泄愤行凶 已致8死17伤",
+      "supports": [
+        "C002"
+      ],
+      "access_status": "打开公开正文，只有通报重述，未据此假定阅读订阅内容",
+      "facts": "公开部分与CS005同源，不能作为第二份独立随机性证据。"
+    },
+    {
+      "source_id": null,
+      "url": "https://www.infzm.com/contents/271110?source=131",
+      "title": "死伤23人，镇雄医院行凶者曾服刑，亲邻称其常打骂父母妻子",
+      "supports": [
+        "C007"
+      ],
+      "access_status": "搜索发现；正文打开Cache miss",
+      "facts": "未用搜索摘要补充分类，不计入成功原源抽读数。"
+    }
+  ],
+  "findings": [
+    {
+      "event_id": "C001",
+      "field": "category",
+      "current": "core",
+      "proposed": "core",
+      "recommendation": "retain",
+      "basis": "法院明确因私人生活挫折选择正在锻炼的人群故意冲撞，核心分类充分。",
+      "source_ids": [
+        "CS001"
+      ],
+      "urls": [
+        "https://www.court.gov.cn/zixun/xiangqing/451251.html"
+      ],
+      "confidence": "高"
+    },
+    {
+      "event_id": "C002",
+      "field": "category",
+      "current": "core",
+      "proposed": "core",
+      "recommendation": "retain",
+      "basis": "警方的返校发泄与故意杀人执行事实支持保留；但现有官方摘要没有逐项公开被害关系，分类证据应标研究推断，不放入官方明确随机性子集。",
+      "source_ids": [
+        "CS004",
+        "CS005"
+      ],
+      "urls": [
+        "https://news.cctv.cn/2025/01/20/ARTIRKFXD34m4R9THppujfJO250120.shtml",
+        "https://www.thepaper.cn/newsDetail_forward_29374300"
+      ],
+      "confidence": "中"
+    },
+    {
+      "event_id": "C003",
+      "field": "category",
+      "current": "core",
+      "proposed": "core",
+      "recommendation": "retain",
+      "basis": "法院明确不特定多数无辜小学生为主要对象。",
+      "source_ids": [
+        "CS006"
+      ],
+      "urls": [
+        "https://www.spp.gov.cn/zdgz/202412/t20241223_677165.shtml"
+      ],
+      "confidence": "高"
+    },
+    {
+      "event_id": "C004",
+      "field": "classification_evidence",
+      "current": null,
+      "proposed": "警方事实基础上的研究推断：个人经济纠纷后来沪在超市泄愤。通报未逐一公布受害关系，随机性不是法院判定。",
+      "recommendation": "clarify",
+      "basis": "经济纠纷、来沪泄愤是警方初查事实；顾客均与原纠纷无涉不是通报原句，须标推断。",
+      "source_ids": [
+        "CS007"
+      ],
+      "urls": [
+        "https://news.sina.com.cn/s/2024-10-01/doc-incqyxry4462222.shtml"
+      ],
+      "confidence": "高"
+    },
+    {
+      "event_id": "C005",
+      "field": "category",
+      "current": "pending",
+      "proposed": "pending",
+      "recommendation": "retain",
+      "basis": "新华社引警方只确认机动车冲撞行人及2死6重伤，标题称交通肇事；检索未找到本案司法故意认定。2023同名危险驾驶判决案发时间与年龄均不合，不拼接。",
+      "source_ids": [
+        "CS008"
+      ],
+      "urls": [
+        "https://www.news.cn/20240301/ee8b277f478c4a2fbfa81522cc7cada5/c.html"
+      ],
+      "confidence": "高"
+    },
+    {
+      "event_id": "C007",
+      "field": "category",
+      "current": "pending",
+      "proposed": "pending",
+      "recommendation": "retain",
+      "basis": "官方确认医院持刀和伤亡；南风窗有独立伤者家属采访且标题称随机，正文尚未明确双方无关或攻击选择方式。红星的对峙者未被指为受伤者，不能以其见义勇为反推所有受害关系。",
+      "source_ids": [
+        "CS012",
+        "RCS001",
+        "RCS003"
+      ],
+      "urls": [
+        "https://m.thepaper.cn/newsDetail_forward_27295726",
+        "https://m.bjnews.com.cn/detail/1715079361168094.html",
+        "https://finance.sina.com.cn/wm/2024-05-08/doc-inaunxuw9473291.shtml"
+      ],
+      "confidence": "高"
+    },
+    {
+      "event_id": "C007",
+      "field": "involves_children",
+      "current": null,
+      "proposed": true,
+      "recommendation": "change",
+      "basis": "新京报记者引述本地官方渠道确认伤者中包含儿童。",
+      "source_ids": [
+        "RCS001"
+      ],
+      "urls": [
+        "https://m.bjnews.com.cn/detail/1715079361168094.html"
+      ],
+      "confidence": "高"
+    },
+    {
+      "event_id": "C008",
+      "field": "classification_reason",
+      "current": "警方确认成人持刀校园袭击，媒体采访证实在低年级教室攻击多名儿童，属于针对学生群体的主动袭击；未发现特定私人纠纷指向。",
+      "proposed": "警方确认小学持刀案；南风窗对家长和学生的采访确认低年级教室及多名儿童遇袭。按校园学生群体受袭行为归入核心，随机性不作为警方通报的直接结论。",
+      "recommendation": "clarify",
+      "basis": "保留校园群体受袭分类，但删除“未发现私人纠纷”作为积极证据的表述，并标媒体依据。",
+      "source_ids": [
+        "CS013",
+        "CS014"
+      ],
+      "urls": [
+        "https://www.thepaper.cn/newsDetail_forward_27445134",
+        "https://news.sina.com.cn/c/2024-05-21/doc-inavyuwi5410331.shtml"
+      ],
+      "confidence": "中"
+    },
+    {
+      "event_id": "C011",
+      "field": "category",
+      "current": "expanded",
+      "proposed": "expanded",
+      "recommendation": "retain",
+      "basis": "碰撞一名游客后攻击其3同行者与上前制止的中国游客，官方明确原纠纷之外受害者。",
+      "source_ids": [
+        "CS017"
+      ],
+      "urls": [
+        "https://xinwen.bjd.com.cn/content/s666825b1e4b035c6ca5ea1ee.html"
+      ],
+      "confidence": "高"
+    },
+    {
+      "event_id": "C013",
+      "field": "official_classification",
+      "current": null,
+      "proposed": false,
+      "recommendation": "clarify",
+      "basis": "政府见义勇为文证实持续袭击；不特定动机还依赖日本官方向媒体说明判决，未直接取得中国裁判书，不与法院原文子集混同。",
+      "source_ids": [
+        "CS019",
+        "CS059"
+      ],
+      "urls": [
+        "https://www.jiangsu.gov.cn/art/2024/6/29/art_84324_11283716.html",
+        "https://www.fnn.jp/articles/-/818910"
+      ],
+      "confidence": "高"
+    },
+    {
+      "event_id": "C014",
+      "field": "official_classification",
+      "current": null,
+      "proposed": false,
+      "recommendation": "clarify",
+      "basis": "警方偶发个案/单人作案不等于随机；法院博关注动机来自媒体转述日本大使说明，应单列司法事实转述。",
+      "source_ids": [
+        "CS020",
+        "CS060"
+      ],
+      "urls": [
+        "https://www.thepaper.cn/newsDetail_forward_28800862",
+        "https://www.zaobao.com.sg/news/china/story20250124-5786878"
+      ],
+      "confidence": "高"
+    },
+    {
+      "event_id": "C015",
+      "field": "official_classification",
+      "current": null,
+      "proposed": false,
+      "recommendation": "clarify",
+      "basis": "警方完整通报证实伤害路人；两名学生和成人身份来自财新核实，面向校外人群的分类含媒体与研究判断。",
+      "source_ids": [
+        "CS023",
+        "RCS002"
+      ],
+      "urls": [
+        "https://china.caixin.com/m/2024-10-08/102243146.html",
+        "https://www.ctdsb.net/c1716_202410/2273430.html"
+      ],
+      "confidence": "高"
+    },
+    {
+      "event_id": "C016",
+      "field": "official_classification",
+      "current": null,
+      "proposed": false,
+      "recommendation": "clarify",
+      "basis": "警方证实5路人受伤、含3未成年人；3学生及2名制止者来自财新采访，核心分类使用该行为结构。",
+      "source_ids": [
+        "CS024",
+        "CS025"
+      ],
+      "urls": [
+        "https://news.cctv.cn/2024/10/28/ARTIaGmYW8QmzQqhgVIepwzP241028.shtml",
+        "https://china.caixin.com/m/2024-10-28/102250558.html"
+      ],
+      "confidence": "高"
+    },
+    {
+      "event_id": "C017",
+      "field": "official_classification",
+      "current": null,
+      "proposed": false,
+      "recommendation": "clarify",
+      "basis": "警方称持剪刀乱挥；媒体引述伤者不认识施害者及目击者对过路女子遇袭的描述，补足随机性依据。",
+      "source_ids": [
+        "CS026"
+      ],
+      "urls": [
+        "https://www.ngzb.com.cn/news/2024/12/11/chengdu-xingju-yibei-xianyiren-qingwei-3ren-jingfang-shangren-ji.html"
+      ],
+      "confidence": "高"
+    },
+    {
+      "event_id": "C022",
+      "field": "official_classification",
+      "current": null,
+      "proposed": false,
+      "recommendation": "clarify",
+      "basis": "警方认定以危险方法危害公共安全；不特定公众目标依据财新对行车记录仪及现场影像的核查。罪名本身不等于随机性。",
+      "source_ids": [
+        "CS031",
+        "CS032"
+      ],
+      "urls": [
+        "https://china.caixin.com/2025-10-25/102375498.html",
+        "https://news.ycwb.com/ikinvjktin/content_53752479.htm"
+      ],
+      "confidence": "高"
+    },
+    {
+      "event_id": "C019",
+      "field": "category",
+      "current": "pending",
+      "proposed": "pending",
+      "recommendation": "retain",
+      "basis": "警方只说明学业不顺和食堂3伤；网上预告尚未核实，未取得能明确伤者非特定对象的独立采集正文。",
+      "source_ids": [
+        "CS028"
+      ],
+      "urls": [
+        "https://news.cnr.cn/rebang/20250606/t20250606_527198591.shtml"
+      ],
+      "confidence": "高"
+    },
+    {
+      "event_id": "C023",
+      "field": "category",
+      "current": "expanded",
+      "proposed": "expanded",
+      "recommendation": "retain",
+      "basis": "警方明确前女友与上前劝阻男同事两人受伤，符合纠纷扩展。",
+      "source_ids": [
+        "CS033"
+      ],
+      "urls": [
+        "https://news.cnr.cn/native/gd/kx/20250530/t20250530_527190837.shtml"
+      ],
+      "confidence": "高"
+    },
+    {
+      "event_id": "C025",
+      "field": "category",
+      "current": "excluded",
+      "proposed": "excluded",
+      "recommendation": "retain",
+      "basis": "警方说受害者均为围车指责并阻拦离开的争执参与者；不能把鸣笛前不相识等同随机攻击，不发现另伤无关经过者证据。",
+      "source_ids": [
+        "CS035"
+      ],
+      "urls": [
+        "https://focus.scol.com.cn/zgsz/202506/83064620.html"
+      ],
+      "confidence": "高"
+    },
+    {
+      "event_id": "C030",
+      "field": "category",
+      "current": "pending",
+      "proposed": "pending",
+      "recommendation": "retain",
+      "basis": "两名路人被划伤能证明发生，不能独立排除既有特定关系；未发现进一步行为描述，保留待核。",
+      "source_ids": [
+        "CS041"
+      ],
+      "urls": [
+        "https://www.thepaper.cn/newsDetail_forward_26990155"
+      ],
+      "confidence": "高"
+    },
+    {
+      "event_id": "C024",
+      "field": "category",
+      "current": "pending",
+      "proposed": "pending",
+      "recommendation": "retain",
+      "basis": "火锅店门口持刀伤人得到警方确认；人数与被害关系未披露，且距截止仅2日。",
+      "source_ids": [
+        "CS034"
+      ],
+      "urls": [
+        "https://news.cnr.cn/native/gd/kx/20260914/t20260914_527813785.shtml"
+      ],
+      "confidence": "高"
+    },
+    {
+      "event_id": "C027",
+      "field": "category",
+      "current": "pending",
+      "proposed": "pending",
+      "recommendation": "retain",
+      "basis": "警方确认4伤；补充现场采访的店主未见起因，也未核实被害关系。",
+      "source_ids": [
+        "CS037",
+        "RCS004"
+      ],
+      "urls": [
+        "https://www.cnr.cn/hubei/jcgd/20260331/t20260331_527568472.shtml",
+        "https://k.sina.com.cn/article_1496814565_m593793e503301zdlw.html"
+      ],
+      "confidence": "高"
+    },
+    {
+      "event_id": "C028",
+      "field": "category",
+      "current": "pending",
+      "proposed": "pending",
+      "recommendation": "retain",
+      "basis": "警方只确认纺织厂员工刺杀甜品店主；未说明关系，单人受害不排除随机也不证明随机。",
+      "source_ids": [
+        "CS038"
+      ],
+      "urls": [
+        "https://zj.cnr.cn/zjyw/20260713/t20260713_527708145.shtml"
+      ],
+      "confidence": "高"
+    },
+    {
+      "event_id": "C029",
+      "field": "category",
+      "current": "pending",
+      "proposed": "pending",
+      "recommendation": "retain",
+      "basis": "外交部原文确认1中国公民、2日本公民受伤和精神障碍；精神状况、涉外国籍均不是攻击选择证据。",
+      "source_ids": [
+        "CS040"
+      ],
+      "urls": [
+        "https://www.fmprc.gov.cn/fyrbt_673021/jzhsl_673025/202605/t20260520_11914508.shtml"
+      ],
+      "confidence": "高"
+    },
+    {
+      "event_id": "C038",
+      "field": "category",
+      "current": "pending",
+      "proposed": "pending",
+      "recommendation": "retain",
+      "basis": "通报仅刑案4死含1嫌疑者及1伤；未披露方法、关系，保持pending。",
+      "source_ids": [
+        "CS049"
+      ],
+      "urls": [
+        "https://wz.jschina.com.cn/jrgc/202605/t20260503_s69f6b72ee4b0d4f4536434af.shtml"
+      ],
+      "confidence": "高"
+    },
+    {
+      "event_id": "C041",
+      "field": "category",
+      "current": "pending",
+      "proposed": "pending",
+      "recommendation": "retain",
+      "basis": "红星报道有群众与持刀者对峙和骑手制止，无被害关系和确切伤亡，暂不升级。",
+      "source_ids": [
+        "CS052"
+      ],
+      "urls": [
+        "https://hunan.voc.com.cn/news/202608/33525425.html"
+      ],
+      "confidence": "高"
+    },
+    {
+      "event_id": "C044",
+      "field": "category",
+      "current": "excluded",
+      "proposed": "excluded",
+      "recommendation": "retain",
+      "basis": "完整通报是转弯碰撞后驾车逃逸，未确认故意袭击；维持excluded。",
+      "source_ids": [
+        "CS055"
+      ],
+      "urls": [
+        "https://www.jiemian.com/article/14379624.html"
+      ],
+      "confidence": "高"
+    },
+    {
+      "event_id": "C001",
+      "field": "official_classification",
+      "current": null,
+      "proposed": true,
+      "recommendation": "clarify",
+      "basis": "法院公开事实明确：为泄私愤故意冲撞正在锻炼的人群。",
+      "source_ids": [
+        "CS001"
+      ],
+      "urls": [
+        "https://www.court.gov.cn/zixun/xiangqing/451251.html"
+      ],
+      "confidence": "高"
+    },
+    {
+      "event_id": "C002",
+      "field": "official_classification",
+      "current": null,
+      "proposed": false,
+      "recommendation": "clarify",
+      "basis": "官方确认行凶、毕业证及实习报酬不满后返校发泄；核心分类含研究推断。执行公告未披露逐名被害关系，不等于法院明确认定随机。",
+      "source_ids": [
+        "CS004",
+        "CS005"
+      ],
+      "urls": [
+        "https://news.cctv.cn/2025/01/20/ARTIRKFXD34m4R9THppujfJO250120.shtml",
+        "https://www.thepaper.cn/newsDetail_forward_29374300"
+      ],
+      "confidence": "高"
+    },
+    {
+      "event_id": "C003",
+      "field": "official_classification",
+      "current": null,
+      "proposed": true,
+      "recommendation": "clarify",
+      "basis": "法院公开事实明确选择不特定多数无辜小学生，并连续冲撞后持械攻击群众。",
+      "source_ids": [
+        "CS006"
+      ],
+      "urls": [
+        "https://www.spp.gov.cn/zdgz/202412/t20241223_677165.shtml"
+      ],
+      "confidence": "高"
+    },
+    {
+      "event_id": "C004",
+      "field": "official_classification",
+      "current": null,
+      "proposed": false,
+      "recommendation": "clarify",
+      "basis": "警方事实基础上的研究推断：个人经济纠纷后来沪在超市泄愤。通报未逐一公布受害关系，随机性不是法院判定。",
+      "source_ids": [
+        "CS007"
+      ],
+      "urls": [
+        "https://news.sina.com.cn/s/2024-10-01/doc-incqyxry4462222.shtml"
+      ],
+      "confidence": "高"
+    },
+    {
+      "event_id": "C008",
+      "field": "official_classification",
+      "current": null,
+      "proposed": false,
+      "recommendation": "clarify",
+      "basis": "发生与伤亡获警方确认；校园低年级学生群体受袭的分类依据来自南风窗家长、学生等采访。",
+      "source_ids": [
+        "CS013",
+        "CS014"
+      ],
+      "urls": [
+        "https://www.thepaper.cn/newsDetail_forward_27445134",
+        "https://news.sina.com.cn/c/2024-05-21/doc-inavyuwi5410331.shtml"
+      ],
+      "confidence": "高"
+    },
+    {
+      "event_id": "C011",
+      "field": "official_classification",
+      "current": null,
+      "proposed": true,
+      "recommendation": "clarify",
+      "basis": "完整警方通报明确：与一名游客碰撞后，刺伤其同行者和上前制止的中国游客，超出原碰撞对象。",
+      "source_ids": [
+        "CS017"
+      ],
+      "urls": [
+        "https://xinwen.bjd.com.cn/content/s666825b1e4b035c6ca5ea1ee.html"
+      ],
+      "confidence": "高"
+    },
+    {
+      "event_id": "C023",
+      "field": "official_classification",
+      "current": null,
+      "proposed": true,
+      "recommendation": "clarify",
+      "basis": "完整警方通报明确原目标为前女友，男同事因上前劝阻另被划伤。",
+      "source_ids": [
+        "CS033"
+      ],
+      "urls": [
+        "https://news.cnr.cn/native/gd/kx/20250530/t20250530_527190837.shtml"
+      ],
+      "confidence": "高"
+    }
+  ],
+  "event_audit": [
+    {
+      "event_id": "C001",
+      "title": "珠海体育中心驾车冲撞人群案",
+      "current_category": "core",
+      "proposed_category": "core",
+      "review_depth": "原源正文抽读及边界复核",
+      "decision": "维持类别",
+      "basis": "法院明确因私人生活挫折选择正在锻炼的人群故意冲撞，核心分类充分。",
+      "urls": [
+        "https://www.court.gov.cn/zixun/xiangqing/451251.html"
+      ],
+      "caution": null
+    },
+    {
+      "event_id": "C002",
+      "title": "宜兴无锡工艺职业技术学院持刀袭击案",
+      "current_category": "core",
+      "proposed_category": "core",
+      "review_depth": "原源正文抽读及边界复核",
+      "decision": "维持类别",
+      "basis": "警方的返校发泄与故意杀人执行事实支持保留；但现有官方摘要没有逐项公开被害关系，分类证据应标研究推断，不放入官方明确随机性子集。",
+      "urls": [
+        "https://news.cctv.cn/2025/01/20/ARTIRKFXD34m4R9THppujfJO250120.shtml",
+        "https://www.thepaper.cn/newsDetail_forward_29374300"
+      ],
+      "caution": null
+    },
+    {
+      "event_id": "C003",
+      "title": "常德永安小学周边驾车及持械袭击案",
+      "current_category": "core",
+      "proposed_category": "core",
+      "review_depth": "原源正文抽读及边界复核",
+      "decision": "维持类别",
+      "basis": "法院明确不特定多数无辜小学生为主要对象。",
+      "urls": [
+        "https://www.spp.gov.cn/zdgz/202412/t20241223_677165.shtml"
+      ],
+      "caution": null
+    },
+    {
+      "event_id": "C004",
+      "title": "上海松江超市持刀袭击案",
+      "current_category": "core",
+      "proposed_category": "core",
+      "review_depth": "原源正文抽读及边界复核",
+      "decision": "维持类别",
+      "basis": "警方认定个人经济纠纷后专程来沪在超市泄愤，受害人系在场顾客等，与原纠纷无涉。",
+      "urls": [
+        "https://news.sina.com.cn/s/2024-10-01/doc-incqyxry4462222.shtml"
+      ],
+      "caution": null
+    },
+    {
+      "event_id": "C005",
+      "title": "德州安居苑道路车辆撞人事件",
+      "current_category": "pending",
+      "proposed_category": "pending",
+      "review_depth": "原源正文抽读及边界复核",
+      "decision": "维持类别",
+      "basis": "新华社引警方只确认机动车冲撞行人及2死6重伤，标题称交通肇事；检索未找到本案司法故意认定。2023同名危险驾驶判决案发时间与年龄均不合，不拼接。",
+      "urls": [
+        "https://www.news.cn/20240301/ee8b277f478c4a2fbfa81522cc7cada5/c.html"
+      ],
+      "caution": null
+    },
+    {
+      "event_id": "C006",
+      "title": "台州职业技术学院车辆冲撞事件",
+      "current_category": "pending",
+      "proposed_category": "pending",
+      "review_depth": "结构化记录与来源摘要边界筛查；未在本轮重开其全部原源",
+      "decision": "维持类别",
+      "basis": "媒体有学生访谈和疑似威胁聊天截图，但尚未取得明确故意性及随机性司法认定；保守待核。",
+      "urls": [
+        "https://www.lifeweek.com.cn/h5/article/detail.do?artId=222951",
+        "https://www.xhby.net/content/s65f991e0e4b0a2749b86e065.html"
+      ],
+      "caution": "未独立重验全部事实；不把元数据筛查当完整逐案重新取证。"
+    },
+    {
+      "event_id": "C007",
+      "title": "镇雄城南医院持刀伤人案",
+      "current_category": "pending",
+      "proposed_category": "pending",
+      "review_depth": "原源正文抽读及边界复核",
+      "decision": "维持类别",
+      "basis": "官方确认医院持刀和伤亡；南风窗有独立伤者家属采访且标题称随机，正文尚未明确双方无关或攻击选择方式。红星的对峙者未被指为受伤者，不能以其见义勇为反推所有受害关系。",
+      "urls": [
+        "https://ntrd.jsjc.gov.cn/zt/fzxw/202405/t20240514_1624128.shtml",
+        "https://m.thepaper.cn/newsDetail_forward_27295726"
+      ],
+      "caution": null
+    },
+    {
+      "event_id": "C008",
+      "title": "贵溪文坊明德小学持刀袭击案",
+      "current_category": "core",
+      "proposed_category": "core",
+      "review_depth": "原源正文抽读及边界复核",
+      "decision": "维持类别",
+      "basis": "警方确认成人持刀校园袭击，媒体采访证实在低年级教室攻击多名儿童，属于针对学生群体的主动袭击；未发现特定私人纠纷指向。",
+      "urls": [
+        "https://www.thepaper.cn/newsDetail_forward_27445134",
+        "https://news.sina.com.cn/c/2024-05-21/doc-inavyuwi5410331.shtml"
+      ],
+      "caution": null
+    },
+    {
+      "event_id": "C009",
+      "title": "祁东三友小学持刀袭击报道",
+      "current_category": "pending",
+      "proposed_category": "pending",
+      "review_depth": "结构化记录与来源摘要边界筛查；未在本轮重开其全部原源",
+      "decision": "维持类别",
+      "basis": "独立记者采访的单一报道可见存档，缺第二独立采集来源及完整官方确认。",
+      "urls": [
+        "https://chinadigitaltimes.net/chinese/705851.html"
+      ],
+      "caution": "未独立重验全部事实；不把元数据筛查当完整逐案重新取证。"
+    },
+    {
+      "event_id": "C010",
+      "title": "郴州苏仙区公园刑事案件",
+      "current_category": "pending",
+      "proposed_category": "pending",
+      "review_depth": "结构化记录与来源摘要边界筛查；未在本轮重开其全部原源",
+      "decision": "维持类别",
+      "basis": "通报仅称刑事案件及伤亡，未披露行为方式、动机或被害关系，不能凭多人伤亡认定随机袭击。",
+      "urls": [
+        "https://news.cnr.cn/dj/20240521/t20240521_526712688.shtml"
+      ],
+      "caution": "未独立重验全部事实；不把元数据筛查当完整逐案重新取证。"
+    },
+    {
+      "event_id": "C011",
+      "title": "吉林北山公园持刀伤人案",
+      "current_category": "expanded",
+      "proposed_category": "expanded",
+      "review_depth": "原源正文抽读及边界复核",
+      "decision": "维持类别",
+      "basis": "碰撞一名游客后攻击其3同行者与上前制止的中国游客，官方明确原纠纷之外受害者。",
+      "urls": [
+        "https://xinwen.bjd.com.cn/content/s666825b1e4b035c6ca5ea1ee.html"
+      ],
+      "caution": null
+    },
+    {
+      "event_id": "C012",
+      "title": "上海合川路地铁站持刀伤人案",
+      "current_category": "pending",
+      "proposed_category": "pending",
+      "review_depth": "结构化记录与来源摘要边界筛查；未在本轮重开其全部原源",
+      "decision": "维持类别",
+      "basis": "官方确认3人受伤，但未披露关系或随机选择过程，不能仅因公共场所多人被刺列核心。",
+      "urls": [
+        "https://www.guancha.cn/politics/2024_06_19_738469.shtml"
+      ],
+      "caution": "未独立重验全部事实；不把元数据筛查当完整逐案重新取证。"
+    },
+    {
+      "event_id": "C013",
+      "title": "苏州日本学校校车站持刀袭击案",
+      "current_category": "core",
+      "proposed_category": "core",
+      "review_depth": "原源正文抽读及边界复核",
+      "decision": "维持类别",
+      "basis": "袭击候车妇女儿童并攻击阻拦者，官方追授说明其阻止了对无辜者的持续袭击；后续报道判决指生活绝望及债务。",
+      "urls": [
+        "https://www.jiangsu.gov.cn/art/2024/6/29/art_84324_11283716.html",
+        "https://www.the-independent.com/asia/china/suzhou-stabbing-japan-school-bus-stop-death-sentence-b2735645.html",
+        "https://www.fnn.jp/articles/-/818910",
+        "https://www.zaobao.com.sg/news/china/story20250124-5786878"
+      ],
+      "caution": null
+    },
+    {
+      "event_id": "C014",
+      "title": "深圳日本学校学童遭持刀袭击案",
+      "current_category": "core",
+      "proposed_category": "core",
+      "review_depth": "原源正文抽读及边界复核",
+      "decision": "维持类别",
+      "basis": "无辜上学儿童遭陌生成人主动袭击，官方确认单人作案；日方庭审信息指为引发网络关注，非已知私人定向纠纷。",
+      "urls": [
+        "https://www.thepaper.cn/newsDetail_forward_28800862",
+        "https://www.mofa.go.jp/mofaj/press/kaiken/kaikenit_000001_00080.html",
+        "https://www.zaobao.com.sg/news/china/story20250124-5786878"
+      ],
+      "caution": null
+    },
+    {
+      "event_id": "C015",
+      "title": "广州天河华强路小学周边持刀袭击案",
+      "current_category": "core",
+      "proposed_category": "core",
+      "review_depth": "原源正文抽读及边界复核",
+      "decision": "维持类别",
+      "basis": "警方称持刀伤害路人；记者证实受害者含两名不同学生及成人，属面向校门附近人群主动袭击。",
+      "urls": [
+        "https://china.caixin.com/m/2024-10-08/102243146.html"
+      ],
+      "caution": null
+    },
+    {
+      "event_id": "C016",
+      "title": "北京海淀中关村三小周边持刀袭击案",
+      "current_category": "core",
+      "proposed_category": "core",
+      "review_depth": "原源正文抽读及边界复核",
+      "decision": "维持类别",
+      "basis": "警方通报伤及5名路人，媒体确认3名学生及2名阻止行凶者，属于主动袭击校外儿童人群。",
+      "urls": [
+        "https://news.cctv.cn/2024/10/28/ARTIaGmYW8QmzQqhgVIepwzP241028.shtml",
+        "https://china.caixin.com/m/2024-10-28/102250558.html"
+      ],
+      "caution": null
+    },
+    {
+      "event_id": "C017",
+      "title": "成都三河场地铁站外持剪刀伤人案",
+      "current_category": "core",
+      "proposed_category": "core",
+      "review_depth": "原源正文抽读及边界复核",
+      "decision": "维持类别",
+      "basis": "警方持剪刀乱挥通报与受害者不认识袭击者、目击者描述对过路人攻击的资料相符。",
+      "urls": [
+        "https://www.ngzb.com.cn/news/2024/12/11/chengdu-xingju-yibei-xianyiren-qingwei-3ren-jingfang-shangren-ji.html"
+      ],
+      "caution": null
+    },
+    {
+      "event_id": "C018",
+      "title": "中山横栏厨卫工厂车辆撞人事件",
+      "current_category": "pending",
+      "proposed_category": "pending",
+      "review_depth": "结构化记录与来源摘要边界筛查；未在本轮重开其全部原源",
+      "decision": "维持类别",
+      "basis": "官方仅证实车辆碰撞及8人受伤，开除后泄愤说法未获可靠核实。",
+      "urls": [
+        "https://news.cnr.cn/native/gd/kx/20240813/t20240813_526850173.shtml"
+      ],
+      "caution": "未独立重验全部事实；不把元数据筛查当完整逐案重新取证。"
+    },
+    {
+      "event_id": "C019",
+      "title": "武汉大学食堂持刀伤人案",
+      "current_category": "pending",
+      "proposed_category": "pending",
+      "review_depth": "原源正文抽读及边界复核",
+      "decision": "维持类别",
+      "basis": "警方只说明学业不顺和食堂3伤；网上预告尚未核实，未取得能明确伤者非特定对象的独立采集正文。",
+      "urls": [
+        "https://news.cnr.cn/rebang/20250606/t20250606_527198591.shtml"
+      ],
+      "caution": null
+    },
+    {
+      "event_id": "C020",
+      "title": "耒阳蔡子池街道持刀伤人案",
+      "current_category": "pending",
+      "proposed_category": "pending",
+      "review_depth": "结构化记录与来源摘要边界筛查；未在本轮重开其全部原源",
+      "decision": "维持类别",
+      "basis": "故意伤害及伤亡有官方通报；目击者称在路口与麻将馆连续伤人，但被害关系未明确，尚不能确认随机。",
+      "urls": [
+        "https://www.thepaper.cn/newsDetail_forward_31292390"
+      ],
+      "caution": "未独立重验全部事实；不把元数据筛查当完整逐案重新取证。"
+    },
+    {
+      "event_id": "C021",
+      "title": "网传天津医院医护人员遇袭案",
+      "current_category": "pending",
+      "proposed_category": "pending",
+      "review_depth": "结构化记录与来源摘要边界筛查；未在本轮重开其全部原源",
+      "decision": "维持类别",
+      "basis": "可访问单一媒体报道援引所谓警方通报但未给原件，缺少第二独立可靠采集源及受害关系核实。",
+      "urls": [
+        "https://hk.on.cc/cnt/news/20250501/bkn-20250501084137284-0501_00822_001_cn.html"
+      ],
+      "caution": "未独立重验全部事实；不把元数据筛查当完整逐案重新取证。"
+    },
+    {
+      "event_id": "C022",
+      "title": "十堰重庆路小学附近车辆冲撞人群案",
+      "current_category": "core",
+      "proposed_category": "core",
+      "review_depth": "原源正文抽读及边界复核",
+      "decision": "维持类别",
+      "basis": "警方认定危险方法危害公共安全，财新现场视频核查描述车辆径直冲向等红灯的人群，可支持不特定公众目标，非仅凭伤亡人数。",
+      "urls": [
+        "https://china.caixin.com/2025-10-25/102375498.html",
+        "https://news.ycwb.com/ikinvjktin/content_53752479.htm"
+      ],
+      "caution": null
+    },
+    {
+      "event_id": "C023",
+      "title": "成都中纱帽街感情纠纷扩大伤人案",
+      "current_category": "expanded",
+      "proposed_category": "expanded",
+      "review_depth": "原源正文抽读及边界复核",
+      "decision": "维持类别",
+      "basis": "警方明确前女友与上前劝阻男同事两人受伤，符合纠纷扩展。",
+      "urls": [
+        "https://news.cnr.cn/native/gd/kx/20250530/t20250530_527190837.shtml"
+      ],
+      "caution": null
+    },
+    {
+      "event_id": "C024",
+      "title": "广州小谷围街火锅店门口持刀伤人案",
+      "current_category": "pending",
+      "proposed_category": "pending",
+      "review_depth": "原源正文抽读及边界复核",
+      "decision": "维持类别",
+      "basis": "火锅店门口持刀伤人得到警方确认；人数与被害关系未披露，且距截止仅2日。",
+      "urls": [
+        "https://news.cnr.cn/native/gd/kx/20260914/t20260914_527813785.shtml"
+      ],
+      "caution": null
+    },
+    {
+      "event_id": "C025",
+      "title": "重庆李家沱争执后驾车伤人案",
+      "current_category": "excluded",
+      "proposed_category": "excluded",
+      "review_depth": "原源正文抽读及边界复核",
+      "decision": "维持类别",
+      "basis": "警方说受害者均为围车指责并阻拦离开的争执参与者；不能把鸣笛前不相识等同随机攻击，不发现另伤无关经过者证据。",
+      "urls": [
+        "https://focus.scol.com.cn/zgsz/202506/83064620.html"
+      ],
+      "caution": null
+    },
+    {
+      "event_id": "C026",
+      "title": "广州南站安检区外持刀伤人案",
+      "current_category": "pending",
+      "proposed_category": "pending",
+      "review_depth": "结构化记录与来源摘要边界筛查；未在本轮重开其全部原源",
+      "decision": "维持类别",
+      "basis": "有官方案情与伤亡，但无被害关系或随机性证据。",
+      "urls": [
+        "https://www.cnr.cn/gd/dwqgc/20250515/t20250515_527170600.shtml"
+      ],
+      "caution": "未独立重验全部事实；不把元数据筛查当完整逐案重新取证。"
+    },
+    {
+      "event_id": "C027",
+      "title": "武汉青松路持刀伤人案",
+      "current_category": "pending",
+      "proposed_category": "pending",
+      "review_depth": "原源正文抽读及边界复核",
+      "decision": "维持类别",
+      "basis": "警方确认4伤；补充现场采访的店主未见起因，也未核实被害关系。",
+      "urls": [
+        "https://www.cnr.cn/hubei/jcgd/20260331/t20260331_527568472.shtml"
+      ],
+      "caution": null
+    },
+    {
+      "event_id": "C028",
+      "title": "杭州钱塘甜品店门口持刀杀人案",
+      "current_category": "pending",
+      "proposed_category": "pending",
+      "review_depth": "原源正文抽读及边界复核",
+      "decision": "维持类别",
+      "basis": "警方只确认纺织厂员工刺杀甜品店主；未说明关系，单人受害不排除随机也不证明随机。",
+      "urls": [
+        "https://zj.cnr.cn/zjyw/20260713/t20260713_527708145.shtml"
+      ],
+      "caution": null
+    },
+    {
+      "event_id": "C029",
+      "title": "上海环球金融中心日本料理店持刀伤人案",
+      "current_category": "pending",
+      "proposed_category": "pending",
+      "review_depth": "原源正文抽读及边界复核",
+      "decision": "维持类别",
+      "basis": "外交部原文确认1中国公民、2日本公民受伤和精神障碍；精神状况、涉外国籍均不是攻击选择证据。",
+      "urls": [
+        "https://www.nippon.com/hk/news/yjj2026051900961/",
+        "https://www.fmprc.gov.cn/fyrbt_673021/jzhsl_673025/202605/t20260520_11914508.shtml"
+      ],
+      "caution": null
+    },
+    {
+      "event_id": "C030",
+      "title": "吉安翠岭路持刀伤人案",
+      "current_category": "pending",
+      "proposed_category": "pending",
+      "review_depth": "原源正文抽读及边界复核",
+      "decision": "维持类别",
+      "basis": "两名路人被划伤能证明发生，不能独立排除既有特定关系；未发现进一步行为描述，保留待核。",
+      "urls": [
+        "https://www.thepaper.cn/newsDetail_forward_26990155"
+      ],
+      "caution": null
+    },
+    {
+      "event_id": "C031",
+      "title": "北京密云育才路车辆碰撞行人事故",
+      "current_category": "excluded",
+      "proposed_category": "excluded",
+      "review_depth": "结构化记录与来源摘要边界筛查；未在本轮重开其全部原源",
+      "decision": "维持类别",
+      "basis": "警方初查明确操作不当，未获反证确认故意冲撞；网络汇编所称夫妻争吵不采信。",
+      "urls": [
+        "https://www.thepaper.cn/newsDetail_forward_31046919"
+      ],
+      "caution": "未独立重验全部事实；不把元数据筛查当完整逐案重新取证。"
+    },
+    {
+      "event_id": "C032",
+      "title": "北京海淀健安西路车辆刮碰行人事件",
+      "current_category": "pending",
+      "proposed_category": "pending",
+      "review_depth": "结构化记录与来源摘要边界筛查；未在本轮重开其全部原源",
+      "decision": "维持类别",
+      "basis": "官方仅称刮碰行人事故且仍调查，未确认主动攻击；网传故意亦无独立证据。",
+      "urls": [
+        "https://www.thepaper.cn/newsDetail_forward_30822710"
+      ],
+      "caution": "未独立重验全部事实；不把元数据筛查当完整逐案重新取证。"
+    },
+    {
+      "event_id": "C033",
+      "title": "青岛悦荟广场附近搅拌车碰撞多车事件",
+      "current_category": "pending",
+      "proposed_category": "pending",
+      "review_depth": "结构化记录与来源摘要边界筛查；未在本轮重开其全部原源",
+      "decision": "维持类别",
+      "basis": "官方初查涉嫌醉驾；网络影片所称主动报复意图未经身份与真实性核验，保留冲突待核。",
+      "urls": [
+        "https://xinwen.bjd.com.cn/content/s671989e0e4b01a5d71ca5efa.html"
+      ],
+      "caution": "未独立重验全部事实；不把元数据筛查当完整逐案重新取证。"
+    },
+    {
+      "event_id": "C034",
+      "title": "网传北京房山大韩继集市铲车冲撞事件",
+      "current_category": "pending",
+      "proposed_category": "pending",
+      "review_depth": "结构化记录与来源摘要边界筛查；未在本轮重开其全部原源",
+      "decision": "维持类别",
+      "basis": "报道主要来自网络影像，无官方确认或独立可靠实地核实；发生细节、意图及伤亡均待核。",
+      "urls": [
+        "https://www.hk01.com/article/60335629"
+      ],
+      "caution": "未独立重验全部事实；不把元数据筛查当完整逐案重新取证。"
+    },
+    {
+      "event_id": "C035",
+      "title": "网传泉港永嘉天地持刀伤人事件",
+      "current_category": "pending",
+      "proposed_category": "pending",
+      "review_depth": "结构化记录与来源摘要边界筛查；未在本轮重开其全部原源",
+      "decision": "维持类别",
+      "basis": "仅找到网传影像汇编，未取得可靠现场独立报道或官方通报。",
+      "urls": [
+        "https://www.secretchina.com/news/gb/2025/10/07/1089077.html"
+      ],
+      "caution": "未独立重验全部事实；不把元数据筛查当完整逐案重新取证。"
+    },
+    {
+      "event_id": "C036",
+      "title": "网传金华苏孟小学门口车辆冲撞事件",
+      "current_category": "pending",
+      "proposed_category": "pending",
+      "review_depth": "结构化记录与来源摘要边界筛查；未在本轮重开其全部原源",
+      "decision": "维持类别",
+      "basis": "社交视频线索被多媒体转述，但未取得官方通报及独立采集的充分核实；不按转载数提升可靠度。",
+      "urls": [
+        "https://www.ntdtv.com/gb/2025/04/22/a103978828.html"
+      ],
+      "caution": "未独立重验全部事实；不把元数据筛查当完整逐案重新取证。"
+    },
+    {
+      "event_id": "C037",
+      "title": "网传沈阳太原街持刀伤人事件",
+      "current_category": "pending",
+      "proposed_category": "pending",
+      "review_depth": "结构化记录与来源摘要边界筛查；未在本轮重开其全部原源",
+      "decision": "维持类别",
+      "basis": "媒体明确表示真实性未明，未见官方通报；网络影像及口述不足以确认随机性。",
+      "urls": [
+        "https://www.ntdtv.com/gb/2026/04/04/a104083185.html"
+      ],
+      "caution": "未独立重验全部事实；不把元数据筛查当完整逐案重新取证。"
+    },
+    {
+      "event_id": "C038",
+      "title": "柳州高新南路小区刑事案件",
+      "current_category": "pending",
+      "proposed_category": "pending",
+      "review_depth": "原源正文抽读及边界复核",
+      "decision": "维持类别",
+      "basis": "通报仅刑案4死含1嫌疑者及1伤；未披露方法、关系，保持pending。",
+      "urls": [
+        "https://wz.jschina.com.cn/jrgc/202605/t20260503_s69f6b72ee4b0d4f4536434af.shtml"
+      ],
+      "caution": null
+    },
+    {
+      "event_id": "C039",
+      "title": "封开江口街道汽车碰撞摩托车事件",
+      "current_category": "pending",
+      "proposed_category": "pending",
+      "review_depth": "结构化记录与来源摘要边界筛查；未在本轮重开其全部原源",
+      "decision": "维持类别",
+      "basis": "警方通报交通事故，未明原因；先持刀行凶再撞人等说法未获证实。",
+      "urls": [
+        "https://news.dayoo.com/guangdong/202404/26/139996_54661857.htm"
+      ],
+      "caution": "未独立重验全部事实；不把元数据筛查当完整逐案重新取证。"
+    },
+    {
+      "event_id": "C040",
+      "title": "长沙月湖街道车辆撞人案",
+      "current_category": "pending",
+      "proposed_category": "pending",
+      "review_depth": "结构化记录与来源摘要边界筛查；未在本轮重开其全部原源",
+      "decision": "维持类别",
+      "basis": "官方确认刑事案件和伤亡，未明主动冲撞过程及被害关系，不能仅依8死认定随机。",
+      "urls": [
+        "https://news.cnr.cn/native/gd/kx/20240727/t20240727_526818744.shtml"
+      ],
+      "caution": "未独立重验全部事实；不把元数据筛查当完整逐案重新取证。"
+    },
+    {
+      "event_id": "C041",
+      "title": "西宁街头持刀伤人及群众制止事件",
+      "current_category": "pending",
+      "proposed_category": "pending",
+      "review_depth": "原源正文抽读及边界复核",
+      "decision": "维持类别",
+      "basis": "红星报道有群众与持刀者对峙和骑手制止，无被害关系和确切伤亡，暂不升级。",
+      "urls": [
+        "https://hunan.voc.com.cn/news/202608/33525425.html",
+        "https://www.ntdtv.com/b5/mkt_ipad/2026/08/19/a104125555.html"
+      ],
+      "caution": null
+    },
+    {
+      "event_id": "C042",
+      "title": "网传汕头陈厝合持刀伤人事件",
+      "current_category": "pending",
+      "proposed_category": "pending",
+      "review_depth": "结构化记录与来源摘要边界筛查；未在本轮重开其全部原源",
+      "decision": "维持类别",
+      "basis": "只取得网络影像汇编，事件关系、人数及随机性均未独立证实。",
+      "urls": [
+        "https://www.ntdtv.com/b5/mkt_ipad/2026/08/19/a104125555.html"
+      ],
+      "caution": "未独立重验全部事实；不把元数据筛查当完整逐案重新取证。"
+    },
+    {
+      "event_id": "C043",
+      "title": "成都新津四处纵火焚毁财物案",
+      "current_category": "excluded",
+      "proposed_category": "excluded",
+      "review_depth": "结构化记录与来源摘要边界筛查；未在本轮重开其全部原源",
+      "decision": "维持类别",
+      "basis": "有报复社会及放火罪判决，但本报道只确认烧毁财物，无直接袭击人员或人员伤害，未满足本研究随机伤人条件。",
+      "urls": [
+        "https://www.nanchongpeace.gov.cn/yasf/20250514/2970328.html"
+      ],
+      "caution": "未独立重验全部事实；不把元数据筛查当完整逐案重新取证。"
+    },
+    {
+      "event_id": "C044",
+      "title": "成都剑南大道交通肇事逃逸案",
+      "current_category": "excluded",
+      "proposed_category": "excluded",
+      "review_depth": "原源正文抽读及边界复核",
+      "decision": "维持类别",
+      "basis": "完整通报是转弯碰撞后驾车逃逸，未确认故意袭击；维持excluded。",
+      "urls": [
+        "https://www.jiemian.com/article/14379624.html"
+      ],
+      "caution": null
+    },
+    {
+      "event_id": "C045",
+      "title": "沈阳大东副食品商场外不明爆炸事件",
+      "current_category": "pending",
+      "proposed_category": "pending",
+      "review_depth": "结构化记录与来源摘要边界筛查；未在本轮重开其全部原源",
+      "decision": "维持类别",
+      "basis": "公开影像及报道显示爆炸，但原因、人为故意性与袭击目标均不明；不采信政治动机猜测。",
+      "urls": [
+        "https://www.rfa.org/mandarin/shehui/2025/01/27/shenyang-food-shopping-mall-explosion-xi-jinping-inspection/"
+      ],
+      "caution": "未独立重验全部事实；不把元数据筛查当完整逐案重新取证。"
+    },
+    {
+      "event_id": "C046",
+      "title": "东平佛山中学附近公交车失控事故",
+      "current_category": "excluded",
+      "proposed_category": "excluded",
+      "review_depth": "结构化记录与来源摘要边界筛查；未在本轮重开其全部原源",
+      "decision": "维持类别",
+      "basis": "完整警方通报为接送学生车辆失控交通事故；没有支持故意袭击的核实材料。",
+      "urls": [
+        "https://www.jiemian.com/article/11670636.html"
+      ],
+      "caution": "未独立重验全部事实；不把元数据筛查当完整逐案重新取证。"
+    },
+    {
+      "event_id": "C047",
+      "title": "昆明金碧路交通肇事逃逸案",
+      "current_category": "excluded",
+      "proposed_category": "excluded",
+      "review_depth": "结构化记录与来源摘要边界筛查；未在本轮重开其全部原源",
+      "decision": "维持类别",
+      "basis": "官方初查为交通肇事逃逸，未确认故意攻击随机人群；传播时常误将通报日7月21日作案发日。",
+      "urls": [
+        "https://society.yunnan.cn/system/2025/07/21/033552544.shtml"
+      ],
+      "caution": "未独立重验全部事实；不把元数据筛查当完整逐案重新取证。"
+    }
+  ],
+  "search_coverage": [
+    {
+      "query": "镇雄 2024 医院 持刀 李某 判决 无差别",
+      "result": "发现独立媒体采访，未获本案可核实判决。",
+      "accessed_date": "2026-09-16"
+    },
+    {
+      "query": "德州 2024 3月1日 撞人 判决 安居苑",
+      "result": "未获确定故意/随机的后续；同名旧案排除。",
+      "accessed_date": "2026-09-16"
+    },
+    {
+      "query": "上海 2024 9月30日 林某 超市 判决 死刑",
+      "result": "未获可核实本案判决；保留警方初查。",
+      "accessed_date": "2026-09-16"
+    },
+    {
+      "query": "武汉大学 2025 食堂 持刀 朱某 无差别",
+      "result": "无差别多来自网传预告和转述，警方正文仅学业不顺。",
+      "accessed_date": "2026-09-16"
+    },
+    {
+      "query": "徐加金 12月17日 法院 随机 杀害 学生",
+      "result": "官方执行正文缺少逐名受害关系。",
+      "accessed_date": "2026-09-16"
+    },
+    {
+      "query": "镇雄 医院 李某 随机 患者 2024 5月7日",
+      "result": "补南风窗独立采访与新京报官方渠道。",
+      "accessed_date": "2026-09-16"
+    },
+    {
+      "query": "武汉 青松路 2026 3月31日 纠纷 随机",
+      "result": "网络视频称随机，官方只人数；补封面现场走访，起因仍未知。",
+      "accessed_date": "2026-09-16"
+    },
+    {
+      "query": "2026 上海 环球金融中心 伤人 餐厅 59 随机",
+      "result": "外交部与时事通讯确认发生，未确认选择机制。",
+      "accessed_date": "2026-09-16"
+    },
+    {
+      "query": "镇雄 医院 李某 判处 2025",
+      "result": "未找到本案裁判，避免拼旧案。",
+      "accessed_date": "2026-09-16"
+    },
+    {
+      "query": "德州 王某涛 判刑",
+      "result": "同名2023危险驾驶案年龄时间不合。",
+      "accessed_date": "2026-09-16"
+    },
+    {
+      "query": "无锡 徐加金 学生 财新",
+      "result": "财新公开部分仅重述警方，未计独立佐证。",
+      "accessed_date": "2026-09-16"
+    },
+    {
+      "query": "贵溪 明德小学 潘 判决",
+      "result": "未获司法后续；保留采访行为证据。",
+      "accessed_date": "2026-09-16"
+    },
+    {
+      "query": "2024 10月8日 广州 赵某 持刀 路人 小学",
+      "result": "补大皖完整警方通报转载。",
+      "accessed_date": "2026-09-16"
+    },
+    {
+      "query": "2024 镇雄 医院 持刀 无差别 患者 目击者 封面 新闻",
+      "result": "随机标题与网民见人就砍不能当官方定性。",
+      "accessed_date": "2026-09-16"
+    },
+    {
+      "query": "2024 贵溪 明德小学 持刀 潘某 学生 纠纷",
+      "result": "未获明确私人关系或司法事实。",
+      "accessed_date": "2026-09-16"
+    },
+    {
+      "query": "镇雄 医院 见人 2024",
+      "result": "相关说法多为网民/汇编，未升级。",
+      "accessed_date": "2026-09-16"
+    },
+    {
+      "query": "青松路 2026 目击",
+      "result": "定位封面独立走访，并打开新浪正文。",
+      "accessed_date": "2026-09-16"
+    }
+  ],
+  "year_2026": {
+    "event_count": 10,
+    "categories": {
+      "pending": 9,
+      "excluded": 1
+    },
+    "evidence_partition": [
+      {
+        "group": "官方已确认暴力发生，随机性不足",
+        "ids": [
+          "C024",
+          "C027",
+          "C028",
+          "C029",
+          "C038"
+        ]
+      },
+      {
+        "group": "单一媒体可核实线索，随机性/伤亡仍不足",
+        "ids": [
+          "C041"
+        ]
+      },
+      {
+        "group": "主要网传，发生细节及随机性均待核",
+        "ids": [
+          "C034",
+          "C037",
+          "C042"
+        ]
+      },
+      {
+        "group": "官方初查交通事故及逃逸，未确认故意袭击",
+        "ids": [
+          "C044"
+        ]
+      }
+    ],
+    "conclusion": "0 core是截至2026-09-16本公开证据集通过严格随机性筛选的数量，不是全国全年真实事件数或发生率为零。9条pending已保留，其中5条暴力发生有官方确认。年内观察期未完，后续侦查、裁判披露尚可能补足；这些是可能的观测限制，不作已经证实的漏报原因。",
+    "recommended_chart_label": "2026年截至9月16日：核心确认0条、待核9条；不可解读为未发生。"
+  },
+  "limitations": [
+    "这是一轮跨期边界复核，未重新穷尽检索每一案的所有媒体与司法后续。",
+    "大部分核心事件官方确认发生，但随机性依据含采访和研究推断，应展示证据层。",
+    "CS011于本轮404；其他部分网站web提取缺正文时以普通公开HTML取回补读，没有越过登录或付费限制。",
+    "镇雄南方周末正文未取回，仅保留检索记录，不据摘要加入事实。"
+  ],
+  "companion_files": [
+    "review_c_sources.json",
+    "review_c_overrides.json"
+  ]
+}

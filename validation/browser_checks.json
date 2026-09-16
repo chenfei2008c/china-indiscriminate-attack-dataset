@@ -1,0 +1,68 @@
+{
+  "checked_date": "2026-09-16",
+  "environment": "Codex in-app browser; local HTTP; desktop and 390 × 844 viewport",
+  "status": "passed",
+  "checks": [
+    {
+      "case": "default core",
+      "result": "51 events; deaths known/minimum 162 with 1 unknown; injuries known/minimum 511 with 6 unknown; 37 disclosed motives"
+    },
+    {
+      "case": "expanded scope",
+      "result": "63 events; deaths 204; injuries 646; 47 disclosed motives"
+    },
+    {
+      "case": "2024 annual core",
+      "result": "cards and annual table: 10 events, 50 deaths, 128 injuries"
+    },
+    {
+      "case": "2024 Jan 1–Sep 16 core",
+      "result": "cards, annual table and event table: 2 events, 3 deaths, 12 injuries; map: Jiangxi 1, Jiangsu 1"
+    },
+    {
+      "case": "Beijing expanded",
+      "result": "5 events, 1 death, 45 injuries; 5 corresponding detail rows"
+    },
+    {
+      "case": "2026 core empty",
+      "result": "zero result state and explicit non-zero-risk caveat; charts do not crash; reset restores all years"
+    },
+    {
+      "case": "filter reset",
+      "result": "All dates and All regions plus core restore 51 events"
+    },
+    {
+      "case": "B04 unknown injury value",
+      "result": "table shows 未披露; detail shows precise count unknown, confirmed minimum 25, source links, revision note and execution date"
+    },
+    {
+      "case": "event detail",
+      "result": "row opens dialog; field-level source URLs and source metadata visible; Close returns to report"
+    },
+    {
+      "case": "native source inspection",
+      "result": "View data source opens current card source panel and filters; source links visible"
+    },
+    {
+      "case": "desktop rendering",
+      "result": "chart paths, axes, legends and statistic cards visually inspected; page gutters visible"
+    },
+    {
+      "case": "390px viewport",
+      "result": "cards form two columns; filters wrap; map and bar chart visible; document clientWidth and scrollWidth both 390; override reset"
+    },
+    {
+      "case": "completion state",
+      "result": "Creating indicator cleared; As of 2026年9月16日 visible"
+    },
+    {
+      "case": "console errors",
+      "result": "no error logs returned during final interaction checks"
+    },
+    {
+      "case": "packaged single-file HTML",
+      "result": "Loaded exports/互动报告.html over local HTTP; embedded data returned 51 core, 162 deaths, 511 injuries; 2026 empty and All dates reset both passed"
+    }
+  ],
+  "limitations": "Representative interaction checks, not an exhaustive browser/device test. Does not assert that every external source remains accessible or that research coverage is exhaustive."
+}

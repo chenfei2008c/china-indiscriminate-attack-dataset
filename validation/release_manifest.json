@@ -1,0 +1,41 @@
+{
+  "status": "passed",
+  "date": "2026-09-16",
+  "files": [
+    {
+      "path": "docs/index.html",
+      "bytes": 2868522,
+      "sha256": "965f056e08eef28db6221d28d87f0302adedfbf3bbc8d5f573ca9c87cb4d1366"
+    },
+    {
+      "path": "docs/snapshot.279f33995c8a3402e38fff73fcce4fe419619cbc1c7b2a1e66065c05119ae31b.json",
+      "bytes": 3779883,
+      "sha256": "279f33995c8a3402e38fff73fcce4fe419619cbc1c7b2a1e66065c05119ae31b"
+    },
+    {
+      "path": "exports/互动报告.html",
+      "bytes": 6651783,
+      "sha256": "79fe147933d99c411ebfc365e48b65dab61743ad4d5d549e297168e506efd37a"
+    },
+    {
+      "path": "exports/中国大陆随机伤人事件_2018-2026.xlsx",
+      "bytes": 213903,
+      "sha256": "0a5f0ee3a8bdfacaad9cd7e4583fcee1a76e933c03a74ba19c5287c1b0ae70c1"
+    },
+    {
+      "path": "data/events.json",
+      "bytes": 365316,
+      "sha256": "09a5b14bf5d2d08695f94f82006f642e75a1f88e606583c54f5f2e7bbc3d287c"
+    },
+    {
+      "path": "data/sources.json",
+      "bytes": 110719,
+      "sha256": "03ccb979355093ad1ab3f6c5ef99e89461aec04ba4ebd206612207c8ad2b8eca"
+    },
+    {
+      "path": "data/analysis.json",
+      "bytes": 46194,
+      "sha256": "be54f3398ff96ff28fccc7205478390f8bfd31eedb2b30bb75d89203d90f9e03"
+    }
+  ]
+}

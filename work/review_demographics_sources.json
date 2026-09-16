@@ -1,0 +1,47 @@
+[
+  {
+    "id": "RSD001",
+    "url": "https://www.sohu.com/a/826134372_355825",
+    "title": "珠海警方通报重大恶性案件：35人死亡，43人受伤",
+    "publisher": "南海融媒／搜狐转载珠海公安",
+    "published_date": "2024-11-12",
+    "accessed_date": "2026-09-16",
+    "type": "公安",
+    "independence_group": "zhuhai-police-20241112",
+    "supports": [
+      "C001"
+    ],
+    "key_facts": "完整警情文字明确樊某男、62岁、离异；未披露职业。用于补年龄性别，不据司机一词推定以驾驶为职业。",
+    "body_checked": true
+  },
+  {
+    "id": "RSD002",
+    "url": "https://china.caixin.com/m/2024-12-23/102271255.html",
+    "title": "案发一个月后落槌 湖南常德驾车撞人凶手获判死缓",
+    "publisher": "财新",
+    "published_date": "2024-12-23",
+    "accessed_date": "2026-09-16",
+    "type": "独立媒体",
+    "independence_group": "changde-police-20241119",
+    "supports": [
+      "C003"
+    ],
+    "key_facts": "正文引用11月19日鼎城区公安警情：黄某男39岁，并明确与后来被判死缓的黄文为同一人；未披露职业。",
+    "body_checked": true
+  },
+  {
+    "id": "RSD003",
+    "url": "https://www.thepaper.cn/newsDetail_forward_27849958",
+    "title": "苏州警方通报日本公民遇袭事件：嫌犯已被刑拘",
+    "publisher": "澎湃新闻转载高新公安微警务",
+    "published_date": "2024-06-25",
+    "accessed_date": "2026-09-16",
+    "type": "公安",
+    "independence_group": "suzhou-police-20240625",
+    "supports": [
+      "C013"
+    ],
+    "key_facts": "警方案发次日通报周某某男52岁，为近期从外地来苏州的无业人员。仅补人口特征，不回退后续伤亡结论。",
+    "body_checked": true
+  }
+]

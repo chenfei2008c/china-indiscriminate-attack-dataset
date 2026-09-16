@@ -1,0 +1,390 @@
+{
+  "category_changes": [],
+  "overrides": [
+    {
+      "event_id": "C001",
+      "set": {
+        "official_classification": true,
+        "classification_evidence": "法院公开事实明确：为泄私愤故意冲撞正在锻炼的人群。"
+      },
+      "reason": "区分发生已获官方确认与随机性是否在官方正文中明确成立；保留现有类别。",
+      "source_ids": [
+        "CS001"
+      ],
+      "urls": [
+        "https://www.court.gov.cn/zixun/xiangqing/451251.html"
+      ]
+    },
+    {
+      "event_id": "C002",
+      "set": {
+        "official_classification": false,
+        "classification_evidence": "官方确认行凶、毕业证及实习报酬不满后返校发泄；核心分类含研究推断。执行公告未披露逐名被害关系，不等于法院明确认定随机。"
+      },
+      "reason": "区分发生已获官方确认与随机性是否在官方正文中明确成立；保留现有类别。",
+      "source_ids": [
+        "CS004",
+        "CS005"
+      ],
+      "urls": [
+        "https://news.cctv.cn/2025/01/20/ARTIRKFXD34m4R9THppujfJO250120.shtml",
+        "https://www.thepaper.cn/newsDetail_forward_29374300"
+      ]
+    },
+    {
+      "event_id": "C003",
+      "set": {
+        "official_classification": true,
+        "classification_evidence": "法院公开事实明确选择不特定多数无辜小学生，并连续冲撞后持械攻击群众。"
+      },
+      "reason": "区分发生已获官方确认与随机性是否在官方正文中明确成立；保留现有类别。",
+      "source_ids": [
+        "CS006"
+      ],
+      "urls": [
+        "https://www.spp.gov.cn/zdgz/202412/t20241223_677165.shtml"
+      ]
+    },
+    {
+      "event_id": "C004",
+      "set": {
+        "official_classification": false,
+        "classification_evidence": "警方事实基础上的研究推断：个人经济纠纷后来沪在超市泄愤。通报未逐一公布受害关系，随机性不是法院判定。"
+      },
+      "reason": "区分发生已获官方确认与随机性是否在官方正文中明确成立；保留现有类别。",
+      "source_ids": [
+        "CS007"
+      ],
+      "urls": [
+        "https://news.sina.com.cn/s/2024-10-01/doc-incqyxry4462222.shtml"
+      ]
+    },
+    {
+      "event_id": "C008",
+      "set": {
+        "official_classification": false,
+        "classification_evidence": "发生与伤亡获警方确认；校园低年级学生群体受袭的分类依据来自南风窗家长、学生等采访。"
+      },
+      "reason": "区分发生已获官方确认与随机性是否在官方正文中明确成立；保留现有类别。",
+      "source_ids": [
+        "CS013",
+        "CS014"
+      ],
+      "urls": [
+        "https://www.thepaper.cn/newsDetail_forward_27445134",
+        "https://news.sina.com.cn/c/2024-05-21/doc-inavyuwi5410331.shtml"
+      ]
+    },
+    {
+      "event_id": "C011",
+      "set": {
+        "official_classification": true,
+        "classification_evidence": "完整警方通报明确：与一名游客碰撞后，刺伤其同行者和上前制止的中国游客，超出原碰撞对象。"
+      },
+      "reason": "区分发生已获官方确认与随机性是否在官方正文中明确成立；保留现有类别。",
+      "source_ids": [
+        "CS017"
+      ],
+      "urls": [
+        "https://xinwen.bjd.com.cn/content/s666825b1e4b035c6ca5ea1ee.html"
+      ]
+    },
+    {
+      "event_id": "C013",
+      "set": {
+        "official_classification": false,
+        "classification_evidence": "官方见义勇为材料说明持续袭击妇女儿童及阻拦者；核心分类还使用FNN转述日本外务省对判决债务动机的说明。未直接取得完整中国裁判书。"
+      },
+      "reason": "区分发生已获官方确认与随机性是否在官方正文中明确成立；保留现有类别。",
+      "source_ids": [
+        "CS019",
+        "CS022",
+        "CS059",
+        "CS060"
+      ],
+      "urls": [
+        "https://www.jiangsu.gov.cn/art/2024/6/29/art_84324_11283716.html",
+        "https://www.the-independent.com/asia/china/suzhou-stabbing-japan-school-bus-stop-death-sentence-b2735645.html",
+        "https://www.fnn.jp/articles/-/818910",
+        "https://www.zaobao.com.sg/news/china/story20250124-5786878"
+      ]
+    },
+    {
+      "event_id": "C014",
+      "set": {
+        "official_classification": false,
+        "classification_evidence": "警方确认上学男童遇害；核心分类的非私人定向性质主要依赖媒体转述日本驻华大使对判决博取关注动机的说明。未直接取得完整中国裁判书。"
+      },
+      "reason": "区分发生已获官方确认与随机性是否在官方正文中明确成立；保留现有类别。",
+      "source_ids": [
+        "CS020",
+        "CS021",
+        "CS060"
+      ],
+      "urls": [
+        "https://www.thepaper.cn/newsDetail_forward_28800862",
+        "https://www.mofa.go.jp/mofaj/press/kaiken/kaikenit_000001_00080.html",
+        "https://www.zaobao.com.sg/news/china/story20250124-5786878"
+      ]
+    },
+    {
+      "event_id": "C015",
+      "set": {
+        "official_classification": false,
+        "classification_evidence": "警方完整通报证实伤害路人；两名学生和成人身份来自财新核实，面向校外人群的分类含媒体与研究判断。"
+      },
+      "reason": "区分发生已获官方确认与随机性是否在官方正文中明确成立；保留现有类别。",
+      "source_ids": [
+        "CS023"
+      ],
+      "urls": [
+        "https://china.caixin.com/m/2024-10-08/102243146.html"
+      ]
+    },
+    {
+      "event_id": "C016",
+      "set": {
+        "official_classification": false,
+        "classification_evidence": "警方证实5路人受伤、含3未成年人；3学生及2名制止者来自财新采访，核心分类使用该行为结构。"
+      },
+      "reason": "区分发生已获官方确认与随机性是否在官方正文中明确成立；保留现有类别。",
+      "source_ids": [
+        "CS024",
+        "CS025"
+      ],
+      "urls": [
+        "https://news.cctv.cn/2024/10/28/ARTIaGmYW8QmzQqhgVIepwzP241028.shtml",
+        "https://china.caixin.com/m/2024-10-28/102250558.html"
+      ]
+    },
+    {
+      "event_id": "C017",
+      "set": {
+        "official_classification": false,
+        "classification_evidence": "警方称持剪刀乱挥；媒体引述伤者不认识施害者及目击者对过路女子遇袭的描述，补足随机性依据。"
+      },
+      "reason": "区分发生已获官方确认与随机性是否在官方正文中明确成立；保留现有类别。",
+      "source_ids": [
+        "CS026"
+      ],
+      "urls": [
+        "https://www.ngzb.com.cn/news/2024/12/11/chengdu-xingju-yibei-xianyiren-qingwei-3ren-jingfang-shangren-ji.html"
+      ]
+    },
+    {
+      "event_id": "C022",
+      "set": {
+        "official_classification": false,
+        "classification_evidence": "警方认定以危险方法危害公共安全；不特定公众目标依据财新对行车记录仪及现场影像的核查。罪名本身不等于随机性。"
+      },
+      "reason": "区分发生已获官方确认与随机性是否在官方正文中明确成立；保留现有类别。",
+      "source_ids": [
+        "CS031",
+        "CS032"
+      ],
+      "urls": [
+        "https://china.caixin.com/2025-10-25/102375498.html",
+        "https://news.ycwb.com/ikinvjktin/content_53752479.htm"
+      ]
+    },
+    {
+      "event_id": "C023",
+      "set": {
+        "official_classification": true,
+        "classification_evidence": "完整警方通报明确原目标为前女友，男同事因上前劝阻另被划伤。"
+      },
+      "reason": "区分发生已获官方确认与随机性是否在官方正文中明确成立；保留现有类别。",
+      "source_ids": [
+        "CS033"
+      ],
+      "urls": [
+        "https://news.cnr.cn/native/gd/kx/20250530/t20250530_527190837.shtml"
+      ]
+    },
+    {
+      "event_id": "C002",
+      "set": {
+        "victim_relation": "校园遇袭人员；已打开的官方公开摘要未逐一披露受害者与施害者关系。",
+        "classification_reason": "警方通报因毕业证及实习报酬不满返校发泄；依据校园群体受袭的行为背景归入核心。此为基于官方事实的研究分类，不能写成法院已明确认定受害者均与原纠纷无关。"
+      },
+      "reason": "收窄超出原文的断言，保留可审查的推断层。",
+      "source_ids": [
+        "CS004",
+        "CS005"
+      ],
+      "urls": [
+        "https://news.cctv.cn/2025/01/20/ARTIRKFXD34m4R9THppujfJO250120.shtml",
+        "https://www.thepaper.cn/newsDetail_forward_29374300"
+      ]
+    },
+    {
+      "event_id": "C004",
+      "set": {
+        "classification_reason": "警方初查为个人经济纠纷后来沪、在超市持刀泄愤；依据该行为背景归入核心。随机性为官方事实基础上的研究判断，通报未逐一披露受害关系。"
+      },
+      "reason": "收窄超出原文的断言，保留可审查的推断层。",
+      "source_ids": [
+        "CS007"
+      ],
+      "urls": [
+        "https://news.sina.com.cn/s/2024-10-01/doc-incqyxry4462222.shtml"
+      ]
+    },
+    {
+      "event_id": "C008",
+      "set": {
+        "classification_reason": "警方确认小学持刀案；南风窗对家长和学生的采访确认低年级教室及多名儿童遇袭。按校园学生群体受袭行为归入核心，随机性不作为警方通报的直接结论。"
+      },
+      "reason": "收窄超出原文的断言，保留可审查的推断层。",
+      "source_ids": [
+        "CS013",
+        "CS014"
+      ],
+      "urls": [
+        "https://www.thepaper.cn/newsDetail_forward_27445134",
+        "https://news.sina.com.cn/c/2024-05-21/doc-inavyuwi5410331.shtml"
+      ]
+    },
+    {
+      "event_id": "C015",
+      "set": {
+        "classification_reason": "警方完整通报证实在华强路持刀伤害路人；财新核实伤者含两名小学生。根据校门附近群体受袭的行为证据归入核心，官方没有直接使用随机或无差别的定性。"
+      },
+      "reason": "收窄超出原文的断言，保留可审查的推断层。",
+      "source_ids": [
+        "CS023"
+      ],
+      "urls": [
+        "https://china.caixin.com/m/2024-10-08/102243146.html"
+      ]
+    },
+    {
+      "event_id": "C007",
+      "set": {
+        "involves_children": true,
+        "classification_evidence": "警方确认医院持刀案及2死21伤，未披露受害关系；南风窗标题称随机但正文未明确关系，仍待核。",
+        "official_classification": false,
+        "source_ids": [
+          "CS011",
+          "CS012",
+          "RCS001",
+          "RCS003"
+        ],
+        "field_sources": {
+          "date": [
+            "CS011",
+            "CS012"
+          ],
+          "location": [
+            "CS011",
+            "CS012"
+          ],
+          "casualties": [
+            "CS011",
+            "CS012"
+          ],
+          "classification": [
+            "CS011",
+            "CS012"
+          ],
+          "motive": [],
+          "outcome": [
+            "CS011",
+            "CS012"
+          ],
+          "involves_children": [
+            "RCS001"
+          ]
+        }
+      },
+      "reason": "新京报记者从官方渠道确认伤者含儿童；随机性仍不充分，类别维持pending。",
+      "source_ids": [
+        "CS012",
+        "RCS001",
+        "RCS003"
+      ],
+      "urls": [
+        "https://m.thepaper.cn/newsDetail_forward_27295726",
+        "https://m.bjnews.com.cn/detail/1715079361168094.html",
+        "https://finance.sina.com.cn/wm/2024-05-08/doc-inaunxuw9473291.shtml"
+      ]
+    },
+    {
+      "event_id": "C015",
+      "set": {
+        "source_ids": [
+          "CS023",
+          "RCS002"
+        ],
+        "field_sources": {
+          "date": [
+            "CS023"
+          ],
+          "location": [
+            "CS023"
+          ],
+          "casualties": [
+            "CS023"
+          ],
+          "classification": [
+            "CS023",
+            "RCS002"
+          ],
+          "motive": [],
+          "outcome": []
+        }
+      },
+      "reason": "原CS023公开正文未完整刊出“伤害路人”的警方原句；补上大皖完整通报转载。",
+      "source_ids": [
+        "RCS002",
+        "CS023"
+      ],
+      "urls": [
+        "https://www.ctdsb.net/c1716_202410/2273430.html",
+        "https://china.caixin.com/m/2024-10-08/102243146.html"
+      ]
+    },
+    {
+      "event_id": "C027",
+      "set": {
+        "source_ids": [
+          "CS037",
+          "RCS004"
+        ],
+        "intervention": "民警与群众合力制服；封面新闻现场走访称其水果刀脱手后曾去另一家店拿裁纸刀。",
+        "field_sources": {
+          "date": [
+            "CS037"
+          ],
+          "location": [
+            "CS037"
+          ],
+          "casualties": [
+            "CS037"
+          ],
+          "classification": [
+            "CS037"
+          ],
+          "motive": [],
+          "outcome": [
+            "CS037"
+          ],
+          "intervention": [
+            "CS037",
+            "RCS004"
+          ]
+        }
+      },
+      "reason": "独立走访补充制止经过，但受访者明确未见起因，不能凭此升级核心。",
+      "source_ids": [
+        "CS037",
+        "RCS004"
+      ],
+      "urls": [
+        "https://www.cnr.cn/hubei/jcgd/20260331/t20260331_527568472.shtml",
+        "https://k.sina.com.cn/article_1496814565_m593793e503301zdlw.html"
+      ]
+    }
+  ],
+  "application_note": "按顺序逐项更新set内字段；不修改原group_c.json。应与review_c_sources.json来源同时合并。"
+}

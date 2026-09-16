@@ -1,0 +1,10 @@
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+*.inspect.ndjson
+report/dist/
+report/.data-app-offline/
+validation/*.png
+evidence/*
+!evidence/README.md

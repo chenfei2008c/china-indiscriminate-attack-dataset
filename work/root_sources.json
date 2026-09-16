@@ -1,0 +1,86 @@
+[
+  {
+    "id": "R_SAFETY_SZ",
+    "url": "https://ga.sz.gov.cn/gkmlpt/content/11/11134/post_11134265.html",
+    "title": "遇到有人企图持刀行凶怎么办？",
+    "publisher": "深圳市公安局",
+    "published_date": "2024-02-08",
+    "accessed_date": "2026-09-16",
+    "type": "公安",
+    "independence_group": "SZPSB20240208",
+    "supports": [
+      "prevention"
+    ],
+    "key_facts": "确保自身安全后报警；脱险后在力所能及范围提醒其他人远离，并通知附近巡逻力量。检索工具呈现完整短文，直接打开曾超时。"
+  },
+  {
+    "id": "R_SAFETY_MOE",
+    "url": "https://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2025/2025_zt09/nwwd/202505/t20250519_1191192.html",
+    "title": "幼儿园应如何加强安全管理？",
+    "publisher": "教育部",
+    "published_date": "2025-05-19",
+    "accessed_date": "2026-09-16",
+    "type": "公共安全指引",
+    "independence_group": "MOE20250519",
+    "supports": [
+      "prevention"
+    ],
+    "key_facts": "提出定期培训演练、门口硬质防冲撞设施、专职保安、一键紧急报警、视频监控和护学岗等措施。检索工具呈现完整正文，直接打开曾发生重定向循环。"
+  },
+  {
+    "id": "R_SAFETY_UK",
+    "url": "https://www.protectuk.police.uk/advice-and-guidance/response/run-hide-tell",
+    "title": "RUN HIDE TELL",
+    "publisher": "英国反恐警务 ProtectUK",
+    "published_date": "2026-05-21",
+    "accessed_date": "2026-09-16",
+    "type": "公共安全指引",
+    "independence_group": "PROTECTUK20260521",
+    "supports": [
+      "prevention"
+    ],
+    "key_facts": "安全路线撤离，无法撤离时躲藏并减少暴露，在安全后报告事件、位置和伤亡。中国情境须使用110/120，不沿用英国报警号码。"
+  },
+  {
+    "id": "R_NTAC2024",
+    "url": "https://www.secretservice.gov/sites/default/files/reports/2024-10/Behavioral-Threat-Assessment-Units-A-Guide-for-State-and-Local-Law-Enforcement-to-Prevent-Targeted-Violence.pdf",
+    "title": "Behavioral Threat Assessment Units: A Guide for State and Local Law Enforcement to Prevent Targeted Violence",
+    "publisher": "美国特勤局国家威胁评估中心",
+    "published_date": "2024-10-16",
+    "accessed_date": "2026-09-16",
+    "type": "研究与防范指引",
+    "independence_group": "NTAC2024",
+    "supports": [
+      "prevention"
+    ],
+    "key_facts": "第12页强调无法以特定人口画像识别施袭者，关注行为与沟通线索、旁观者报告和干预。第16页列出评估、管理和持续改进步骤。公共PDF已下载并用pypdf核对，研究背景为美国定向暴力，不可直接推为中国统计因果。"
+  },
+  {
+    "id": "R_NBS_UNEMP",
+    "url": "https://www.stats.gov.cn/zs/tjws/tjzb/202301/t20230101_1903672.html",
+    "title": "什么是调查失业率",
+    "publisher": "国家统计局",
+    "published_date": null,
+    "accessed_date": "2026-09-16",
+    "type": "统计",
+    "independence_group": "NBS_METHOD",
+    "supports": [
+      "context_method"
+    ],
+    "key_facts": "区分调查失业率口径；本研究未取得覆盖全研究期的同口径省级失业率面板，保留缺失，不用登记失业率替代。"
+  },
+  {
+    "id": "R_GEO",
+    "url": "https://geo.datav.aliyun.com/areas_v3/bound/100000_full.json",
+    "title": "中国省级行政区地理边界",
+    "publisher": "阿里云DataV",
+    "published_date": null,
+    "accessed_date": "2026-09-16",
+    "type": "地图",
+    "independence_group": "DATAV",
+    "supports": [
+      "map"
+    ],
+    "key_facts": "仅作为行政区可视化边界；分析范围为大陆31省级地区，港澳台不着统计色。"
+  }
+]

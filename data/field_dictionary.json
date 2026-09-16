@@ -1,0 +1,267 @@
+[
+  {
+    "field": "id",
+    "label": "事件编号",
+    "definition": "空值表示未查得/无法确定，不能按0解释。"
+  },
+  {
+    "field": "date",
+    "label": "案发日期",
+    "definition": "空值表示未查得/无法确定，不能按0解释。"
+  },
+  {
+    "field": "date_precision",
+    "label": "日期精度",
+    "definition": "空值表示未查得/无法确定，不能按0解释。"
+  },
+  {
+    "field": "title",
+    "label": "事件名称",
+    "definition": "空值表示未查得/无法确定，不能按0解释。"
+  },
+  {
+    "field": "province",
+    "label": "省级地区",
+    "definition": "空值表示未查得/无法确定，不能按0解释。"
+  },
+  {
+    "field": "city",
+    "label": "城市",
+    "definition": "空值表示未查得/无法确定，不能按0解释。"
+  },
+  {
+    "field": "district",
+    "label": "区县",
+    "definition": "空值表示未查得/无法确定，不能按0解释。"
+  },
+  {
+    "field": "urban_rural",
+    "label": "城乡属性",
+    "definition": "空值表示未查得/无法确定，不能按0解释。"
+  },
+  {
+    "field": "scene",
+    "label": "场景",
+    "definition": "空值表示未查得/无法确定，不能按0解释。"
+  },
+  {
+    "field": "method",
+    "label": "方式",
+    "definition": "空值表示未查得/无法确定，不能按0解释。"
+  },
+  {
+    "field": "category",
+    "label": "分类代码",
+    "definition": "核心core；扩展新增expanded；待核pending；排除excluded；恐袭organized_terror另列。"
+  },
+  {
+    "field": "classification_reason",
+    "label": "分类依据",
+    "definition": "空值表示未查得/无法确定，不能按0解释。"
+  },
+  {
+    "field": "deaths",
+    "label": "受害者死亡",
+    "definition": "公开可核实的受害者死亡人数，作案者死亡另列。"
+  },
+  {
+    "field": "injured",
+    "label": "受害者受伤",
+    "definition": "受害者受伤人数，尽可能采用最新结局；作案者另列；不含已转死亡者；若来源不能证明去重则详见casualty_note。"
+  },
+  {
+    "field": "injured_reported",
+    "label": "受伤原口径",
+    "definition": "空值表示未查得/无法确定，不能按0解释。"
+  },
+  {
+    "field": "injured_lower_bound",
+    "label": "受伤保守下限",
+    "definition": "空值表示未查得/无法确定，不能按0解释。"
+  },
+  {
+    "field": "deaths_lower_bound",
+    "label": "死亡保守下限",
+    "definition": "空值表示未查得/无法确定，不能按0解释。"
+  },
+  {
+    "field": "serious_injuries",
+    "label": "重伤",
+    "definition": "空值表示未查得/无法确定，不能按0解释。"
+  },
+  {
+    "field": "attacker_deaths",
+    "label": "作案者死亡",
+    "definition": "空值表示未查得/无法确定，不能按0解释。"
+  },
+  {
+    "field": "attacker_injured",
+    "label": "作案者受伤",
+    "definition": "空值表示未查得/无法确定，不能按0解释。"
+  },
+  {
+    "field": "casualty_asof",
+    "label": "伤亡口径日期",
+    "definition": "空值表示未查得/无法确定，不能按0解释。"
+  },
+  {
+    "field": "casualty_note",
+    "label": "伤亡修订说明",
+    "definition": "空值表示未查得/无法确定，不能按0解释。"
+  },
+  {
+    "field": "involves_children",
+    "label": "涉及儿童",
+    "definition": "空值表示未查得/无法确定，不能按0解释。"
+  },
+  {
+    "field": "victim_relation",
+    "label": "受害者关系",
+    "definition": "空值表示未查得/无法确定，不能按0解释。"
+  },
+  {
+    "field": "age",
+    "label": "作案者年龄",
+    "definition": "空值表示未查得/无法确定，不能按0解释。"
+  },
+  {
+    "field": "sex",
+    "label": "性别",
+    "definition": "空值表示未查得/无法确定，不能按0解释。"
+  },
+  {
+    "field": "occupation",
+    "label": "职业状态",
+    "definition": "空值表示未查得/无法确定，不能按0解释。"
+  },
+  {
+    "field": "motive_summary",
+    "label": "动机摘要",
+    "definition": "空值表示未查得/无法确定，不能按0解释。"
+  },
+  {
+    "field": "motive_tags",
+    "label": "动机标签",
+    "definition": "空值表示未查得/无法确定，不能按0解释。"
+  },
+  {
+    "field": "motive_basis",
+    "label": "动机证据层级",
+    "definition": "法院认定/警方初步通报/检方指控/外交渠道转述法院/媒体调查/未知；不同层级不互换。"
+  },
+  {
+    "field": "mental_health",
+    "label": "精神健康证据",
+    "definition": "空值表示未查得/无法确定，不能按0解释。"
+  },
+  {
+    "field": "prior_violence",
+    "label": "既往暴力记录",
+    "definition": "空值表示未查得/无法确定，不能按0解释。"
+  },
+  {
+    "field": "warning_signals",
+    "label": "事前威胁线索",
+    "definition": "空值表示未查得/无法确定，不能按0解释。"
+  },
+  {
+    "field": "intervention",
+    "label": "干预与现场处置",
+    "definition": "空值表示未查得/无法确定，不能按0解释。"
+  },
+  {
+    "field": "outcome",
+    "label": "司法及处置结果",
+    "definition": "空值表示未查得/无法确定，不能按0解释。"
+  },
+  {
+    "field": "judgment_date",
+    "label": "判决日期",
+    "definition": "空值表示未查得/无法确定，不能按0解释。"
+  },
+  {
+    "field": "execution_date",
+    "label": "执行日期",
+    "definition": "空值表示未查得/无法确定，不能按0解释。"
+  },
+  {
+    "field": "last_source_date",
+    "label": "最后来源日期",
+    "definition": "空值表示未查得/无法确定，不能按0解释。"
+  },
+  {
+    "field": "evidence_level",
+    "label": "事件证据等级",
+    "definition": "空值表示未查得/无法确定，不能按0解释。"
+  },
+  {
+    "field": "source_ids",
+    "label": "来源编号",
+    "definition": "空值表示未查得/无法确定，不能按0解释。"
+  },
+  {
+    "field": "field_sources",
+    "label": "分字段来源",
+    "definition": "日期、地点、伤亡、分类、动机、处置及人口特征分别对应来源ID；应回查来源正文与关键事实摘要。"
+  },
+  {
+    "field": "series_id",
+    "label": "关联系列",
+    "definition": "同一作案系列的关联编号；件数不等于独立作案者人数。"
+  },
+  {
+    "field": "notes",
+    "label": "补充说明",
+    "definition": "空值表示未查得/无法确定，不能按0解释。"
+  },
+  {
+    "field": "additional_collision_injured",
+    "label": "故意性未明的碰撞伤者",
+    "definition": "空值表示未查得/无法确定，不能按0解释。"
+  },
+  {
+    "field": "response_injured",
+    "label": "警方处置伤者",
+    "definition": "空值表示未查得/无法确定，不能按0解释。"
+  },
+  {
+    "field": "event_total_injured_reported",
+    "label": "事件总伤者原口径",
+    "definition": "空值表示未查得/无法确定，不能按0解释。"
+  },
+  {
+    "field": "motive_attribution",
+    "label": "动机归因说明",
+    "definition": "空值表示未查得/无法确定，不能按0解释。"
+  },
+  {
+    "field": "date_time",
+    "label": "已核实案发时间",
+    "definition": "少数案件可核实到时间，ISO8601含中国时区+08:00；未知为空，不以报道时间填补。"
+  },
+  {
+    "field": "continuous_attack",
+    "label": "连续袭击过程",
+    "definition": "明确为同一连续过程时为true；未核实为空。跨时段重新启动的袭击独立计件，即使在同一天。"
+  },
+  {
+    "field": "official_occurrence",
+    "label": "发生获官方确认",
+    "definition": "事件发生是否获官方原文或可靠完整转载支持，不代表官方确认随机性。"
+  },
+  {
+    "field": "official_classification",
+    "label": "官方材料直接支持分类",
+    "definition": "严格敏感性标记：官方材料的事实直接支持随机/扩大关系。媒体采集、外交渠道转述及研究推断另层，不计此子集。"
+  },
+  {
+    "field": "classification_evidence",
+    "label": "分类证据分层说明",
+    "definition": "分类所依赖的事实层与研究解释，避免将媒体判断误写成官方定性。"
+  },
+  {
+    "field": "motive_themes",
+    "label": "动机归并主题",
+    "definition": "研究编码，按work/motive_taxonomy.json归并原始标签；允许多标签，非独立新增事实。"
+  }
+]

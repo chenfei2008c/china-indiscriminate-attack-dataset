@@ -1,0 +1,4517 @@
+[
+  {
+    "query": "2018 中国 砍人 随机 伤人 事件；2019 中国 随机伤人 驾车 冲撞 事件；2020 中国 随机伤人 砍人 事件",
+    "scope_years": [
+      2018,
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "广义发现检索，维基/CDT仅作线索。CDT存在米脂日期、苍梧省份等明显错误，不作为事件事实依据。"
+  },
+  {
+    "query": "https://www.pincong.rocks/article/215",
+    "scope_years": [
+      2018
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "访问失败",
+    "candidate_count": null,
+    "notes": "搜索命中个人汇编，正文打开失败，不采用事实。"
+  },
+  {
+    "query": "赵泽伟 2018 9月27日 9人 11人 死刑",
+    "scope_years": [
+      2018
+    ],
+    "scope_regions": [
+      "陕西",
+      "上海",
+      "湖南",
+      "福建"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "重大候选案法院及最终伤亡核验"
+  },
+  {
+    "query": "黄一川 2020 12月3日 执行死刑 2人 2人",
+    "scope_years": [
+      2018
+    ],
+    "scope_regions": [
+      "陕西",
+      "上海",
+      "湖南",
+      "福建"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "重大候选案法院及最终伤亡核验"
+  },
+  {
+    "query": "阳赞云 2019 1月29日 15人 43人",
+    "scope_years": [
+      2018
+    ],
+    "scope_regions": [
+      "陕西",
+      "上海",
+      "湖南",
+      "福建"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "重大候选案法院及最终伤亡核验"
+  },
+  {
+    "query": "龙岩 卢某 2018 12月25日 死刑 8人 22人",
+    "scope_years": [
+      2018
+    ],
+    "scope_regions": [
+      "陕西",
+      "上海",
+      "湖南",
+      "福建"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "重大候选案法院及最终伤亡核验"
+  },
+  {
+    "query": "阳赞云 执行死刑 15人 43人",
+    "scope_years": [
+      2018
+    ],
+    "scope_regions": [
+      "湖南",
+      "福建",
+      "辽宁",
+      "北京"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "法院后续及最终伤亡"
+  },
+  {
+    "query": "邱日辉 执行死刑 2019",
+    "scope_years": [
+      2018
+    ],
+    "scope_regions": [
+      "湖南",
+      "福建",
+      "辽宁",
+      "北京"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "法院后续及最终伤亡"
+  },
+  {
+    "query": "葫芦岛 韩继华 2018 执行死刑",
+    "scope_years": [
+      2018
+    ],
+    "scope_regions": [
+      "湖南",
+      "福建",
+      "辽宁",
+      "北京"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "法院后续及最终伤亡"
+  },
+  {
+    "query": "北京 西单 大悦城 朱纪业 判决",
+    "scope_years": [
+      2018
+    ],
+    "scope_regions": [
+      "湖南",
+      "福建",
+      "辽宁",
+      "北京"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "法院后续及最终伤亡"
+  },
+  {
+    "query": "米脂 赵泽伟 9人 4人重伤 7人轻伤 1人轻微伤 法院 2018",
+    "scope_years": [
+      2018
+    ],
+    "scope_regions": [
+      "陕西",
+      "上海",
+      "福建",
+      "北京"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "补齐法院全文与结案状态"
+  },
+  {
+    "query": "黄一川 执行死刑 2020 12 3 新华网",
+    "scope_years": [
+      2018
+    ],
+    "scope_regions": [
+      "陕西",
+      "上海",
+      "福建",
+      "北京"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "补齐法院全文与结案状态"
+  },
+  {
+    "query": "邱日辉 2019 8月1日 26人",
+    "scope_years": [
+      2018
+    ],
+    "scope_regions": [
+      "陕西",
+      "上海",
+      "福建",
+      "北京"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "补齐法院全文与结案状态"
+  },
+  {
+    "query": "朱纪业 执行死刑 2020 2021",
+    "scope_years": [
+      2018
+    ],
+    "scope_regions": [
+      "陕西",
+      "上海",
+      "福建",
+      "北京"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "补齐法院全文与结案状态"
+  },
+  {
+    "query": "2018 西安 公交 持刀 6月22日 10人 判决",
+    "scope_years": [
+      2018
+    ],
+    "scope_regions": [
+      "陕西",
+      "重庆",
+      "广东",
+      "河北"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "公交、校园、纵火、驾车候选核验"
+  },
+  {
+    "query": "2018 重庆 幼儿园 刘小玲 14人 判决",
+    "scope_years": [
+      2018
+    ],
+    "scope_regions": [
+      "陕西",
+      "重庆",
+      "广东",
+      "河北"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "公交、校园、纵火、驾车候选核验"
+  },
+  {
+    "query": "2018 英德 刘纯露 执行死刑 动机",
+    "scope_years": [
+      2018
+    ],
+    "scope_regions": [
+      "陕西",
+      "重庆",
+      "广东",
+      "河北"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "公交、校园、纵火、驾车候选核验"
+  },
+  {
+    "query": "2018 唐山 六月六日 王志伟 7人 判决",
+    "scope_years": [
+      2018
+    ],
+    "scope_regions": [
+      "陕西",
+      "重庆",
+      "广东",
+      "河北"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "公交、校园、纵火、驾车候选核验"
+  },
+  {
+    "query": "2018 唐山 6月6日 开车 冲撞 7死 李",
+    "scope_years": [
+      2018
+    ],
+    "scope_regions": [
+      "河北",
+      "重庆",
+      "浙江",
+      "四川"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "线索逐案交叉核验"
+  },
+  {
+    "query": "2018 重庆 巴南 幼儿园 持刀 14名 学生 刘 39",
+    "scope_years": [
+      2018
+    ],
+    "scope_regions": [
+      "河北",
+      "重庆",
+      "浙江",
+      "四川"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "线索逐案交叉核验"
+  },
+  {
+    "query": "2018 杭州 11月 随机 砍人 39",
+    "scope_years": [
+      2018
+    ],
+    "scope_regions": [
+      "河北",
+      "重庆",
+      "浙江",
+      "四川"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "线索逐案交叉核验"
+  },
+  {
+    "query": "2018 成都 盐市口 越野车 冲撞 周 62岁",
+    "scope_years": [
+      2018
+    ],
+    "scope_regions": [
+      "河北",
+      "重庆",
+      "浙江",
+      "四川"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "线索逐案交叉核验"
+  },
+  {
+    "query": "2018 唐山 驾车 冲撞 7人 死亡",
+    "scope_years": [
+      2018,
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "补漏检索含中小规模事件及非持械方式"
+  },
+  {
+    "query": "2018 杭州 女子 随机 砍伤 路人",
+    "scope_years": [
+      2018,
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "补漏检索含中小规模事件及非持械方式"
+  },
+  {
+    "query": "2018 随机 伤人 郑州 深圳 武汉 合肥",
+    "scope_years": [
+      2018,
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "补漏检索含中小规模事件及非持械方式"
+  },
+  {
+    "query": "2019 2020 随机 伤人 纵火 爆炸",
+    "scope_years": [
+      2018,
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "补漏检索含中小规模事件及非持械方式"
+  },
+  {
+    "query": "2019 北京 宣师一附小 维修人员 手锤 通报",
+    "scope_years": [
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "北京",
+      "河北",
+      "云南",
+      "贵州"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "校园与公交候选；法院后续"
+  },
+  {
+    "query": "2019 唐山 崔振江 17人 判决",
+    "scope_years": [
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "北京",
+      "河北",
+      "云南",
+      "贵州"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "校园与公交候选；法院后续"
+  },
+  {
+    "query": "2019 开远 孔 氢氧化钠 54 判决",
+    "scope_years": [
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "北京",
+      "河北",
+      "云南",
+      "贵州"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "校园与公交候选；法院后续"
+  },
+  {
+    "query": "2020 安顺 公交 坠湖 21 15 张包钢",
+    "scope_years": [
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "北京",
+      "河北",
+      "云南",
+      "贵州"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "校园与公交候选；法院后续"
+  },
+  {
+    "query": "崔振江 2019 光华道 17 学生",
+    "scope_years": [
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "河北",
+      "江西",
+      "辽宁",
+      "广西"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "事件事实及司法后续"
+  },
+  {
+    "query": "2019 南昌 红谷滩 万小宝 执行死刑",
+    "scope_years": [
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "河北",
+      "江西",
+      "辽宁",
+      "广西"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "事件事实及司法后续"
+  },
+  {
+    "query": "2020 开原 杨某峰 7人 判决",
+    "scope_years": [
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "河北",
+      "江西",
+      "辽宁",
+      "广西"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "事件事实及司法后续"
+  },
+  {
+    "query": "2020 广西 苍梧 李小文 41人 死刑",
+    "scope_years": [
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "河北",
+      "江西",
+      "辽宁",
+      "广西"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "事件事实及司法后续"
+  },
+  {
+    "query": "2019 福州 红江路 侯某锋 1死19伤 通报",
+    "scope_years": [
+      2019
+    ],
+    "scope_regions": [
+      "福建",
+      "广东",
+      "广西",
+      "湖南"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "补漏候选事实、随机性、后续"
+  },
+  {
+    "query": "2019 东莞 虎门 怀德 持刀 1死8伤",
+    "scope_years": [
+      2019
+    ],
+    "scope_regions": [
+      "福建",
+      "广东",
+      "广西",
+      "湖南"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "补漏候选事实、随机性、后续"
+  },
+  {
+    "query": "2019 南宁 安吉大道 1月11日 持刀 5人",
+    "scope_years": [
+      2019
+    ],
+    "scope_regions": [
+      "福建",
+      "广东",
+      "广西",
+      "湖南"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "补漏候选事实、随机性、后续"
+  },
+  {
+    "query": "2019 湖南 宁远 郑艳军 2死2伤",
+    "scope_years": [
+      2019
+    ],
+    "scope_regions": [
+      "福建",
+      "广东",
+      "广西",
+      "湖南"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "补漏候选事实、随机性、后续"
+  },
+  {
+    "query": "\"2019\" \"南宁\" \"安吉大道\" \"持刀\"",
+    "scope_years": [
+      2018,
+      2019
+    ],
+    "scope_regions": [
+      "广西",
+      "浙江",
+      "江苏"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "中小规模案件定向补漏"
+  },
+  {
+    "query": "\"2018\" \"杭州\" \"11月12日\" \"持刀\"",
+    "scope_years": [
+      2018,
+      2019
+    ],
+    "scope_regions": [
+      "广西",
+      "浙江",
+      "江苏"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "中小规模案件定向补漏"
+  },
+  {
+    "query": "\"2018\" \"镇江\" \"8月21日\" \"伤人\"",
+    "scope_years": [
+      2018,
+      2019
+    ],
+    "scope_regions": [
+      "广西",
+      "浙江",
+      "江苏"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "中小规模案件定向补漏"
+  },
+  {
+    "query": "南宁 安吉大道 砍伤 5人 2019 1月",
+    "scope_years": [
+      2019
+    ],
+    "scope_regions": [
+      "广西",
+      "重庆",
+      "北京",
+      "上海"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "广义随机袭击线索核验"
+  },
+  {
+    "query": "2019 重庆 南岸 7月31日 随机 杀人",
+    "scope_years": [
+      2019
+    ],
+    "scope_regions": [
+      "广西",
+      "重庆",
+      "北京",
+      "上海"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "广义随机袭击线索核验"
+  },
+  {
+    "query": "2019 北京 马家堡 孙某 工程车 2死7伤",
+    "scope_years": [
+      2019
+    ],
+    "scope_regions": [
+      "广西",
+      "重庆",
+      "北京",
+      "上海"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "广义随机袭击线索核验"
+  },
+  {
+    "query": "2019 上海 新闸路 西康路 12月19日 持刀",
+    "scope_years": [
+      2019
+    ],
+    "scope_regions": [
+      "广西",
+      "重庆",
+      "北京",
+      "上海"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "广义随机袭击线索核验"
+  },
+  {
+    "query": "2019 番禺 地铁 8月28日 持刀 3人",
+    "scope_years": [
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "广东",
+      "天津",
+      "上海"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "街道与交通节点候选及后续核验"
+  },
+  {
+    "query": "2020 广州 番禺 王某 9月21日 2死3伤",
+    "scope_years": [
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "广东",
+      "天津",
+      "上海"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "街道与交通节点候选及后续核验"
+  },
+  {
+    "query": "2020 天津 8月12日 刘某某 路人 死刑",
+    "scope_years": [
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "广东",
+      "天津",
+      "上海"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "街道与交通节点候选及后续核验"
+  },
+  {
+    "query": "2020 上海 建国西路 沈某 10人 6月17日",
+    "scope_years": [
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "广东",
+      "天津",
+      "上海"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "街道与交通节点候选及后续核验"
+  },
+  {
+    "query": "2020 福建 仙游 枫亭 张某 3死7伤 6月4日",
+    "scope_years": [
+      2020
+    ],
+    "scope_regions": [
+      "福建",
+      "湖南",
+      "陕西",
+      "辽宁"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "候选后续核验"
+  },
+  {
+    "query": "2020 湖南 桑植 学生 9月7日 持刀",
+    "scope_years": [
+      2020
+    ],
+    "scope_regions": [
+      "福建",
+      "湖南",
+      "陕西",
+      "辽宁"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "候选后续核验"
+  },
+  {
+    "query": "2020 凤翔 张涛 判处 死刑 2死1伤",
+    "scope_years": [
+      2020
+    ],
+    "scope_regions": [
+      "福建",
+      "湖南",
+      "陕西",
+      "辽宁"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "候选后续核验"
+  },
+  {
+    "query": "2020 开原 杨峰 执行死刑 7死",
+    "scope_years": [
+      2020
+    ],
+    "scope_regions": [
+      "福建",
+      "湖南",
+      "陕西",
+      "辽宁"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "候选后续核验"
+  },
+  {
+    "query": "李小文 故意杀人 二审 2020 12月30日 41",
+    "scope_years": [
+      2018,
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "广西",
+      "辽宁",
+      "河北"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "仍缺官方正文之候选"
+  },
+  {
+    "query": "开原 2020 12月28日 杨某峰 随机 警方",
+    "scope_years": [
+      2018,
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "广西",
+      "辽宁",
+      "河北"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "仍缺官方正文之候选"
+  },
+  {
+    "query": "2019 唐山 光华道 小学 17人 中国新闻网",
+    "scope_years": [
+      2018,
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "广西",
+      "辽宁",
+      "河北"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "仍缺官方正文之候选"
+  },
+  {
+    "query": "2018 南宁 昆仑大道 4月16日 1死3伤",
+    "scope_years": [
+      2018,
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "广西",
+      "辽宁",
+      "河北"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "仍缺官方正文之候选"
+  },
+  {
+    "query": "\"河北唐山发生一起伤害学生案件\"",
+    "scope_years": [
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "河北",
+      "辽宁",
+      "广西",
+      "福建"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "最终口径/司法后续；同名结果不直接合并"
+  },
+  {
+    "query": "\"开原\" \"随机捅刺\"",
+    "scope_years": [
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "河北",
+      "辽宁",
+      "广西",
+      "福建"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "最终口径/司法后续；同名结果不直接合并"
+  },
+  {
+    "query": "\"广西李小文\" \"执行死刑\"",
+    "scope_years": [
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "河北",
+      "辽宁",
+      "广西",
+      "福建"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "最终口径/司法后续；同名结果不直接合并"
+  },
+  {
+    "query": "\"2019\" \"侯某锋\" \"死亡\"",
+    "scope_years": [
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "河北",
+      "辽宁",
+      "广西",
+      "福建"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "最终口径/司法后续；同名结果不直接合并"
+  },
+  {
+    "query": "\"2018\" \"随机\" \"伤人\" -site:reddit.com -site:laqingdan.org",
+    "scope_years": [
+      2018,
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "非预设名单再检索"
+  },
+  {
+    "query": "\"2019\" \"随机\" \"伤人\" -site:reddit.com -site:laqingdan.org",
+    "scope_years": [
+      2018,
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "非预设名单再检索"
+  },
+  {
+    "query": "\"2020\" \"随机\" \"伤人\" -site:reddit.com -site:laqingdan.org",
+    "scope_years": [
+      2018,
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "非预设名单再检索"
+  },
+  {
+    "query": "2018 报复社会 持刀 行人 法院",
+    "scope_years": [
+      2018,
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "司法判决措辞及多方式补漏"
+  },
+  {
+    "query": "2019 报复社会 持刀 行人 法院",
+    "scope_years": [
+      2018,
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "司法判决措辞及多方式补漏"
+  },
+  {
+    "query": "2020 报复社会 持刀 行人 法院",
+    "scope_years": [
+      2018,
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "司法判决措辞及多方式补漏"
+  },
+  {
+    "query": "2018 2019 2020 报复社会 纵火 公交 爆炸",
+    "scope_years": [
+      2018,
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "司法判决措辞及多方式补漏"
+  },
+  {
+    "query": "2019 枣阳 太平 崔立冬 7死 7伤 妻子 女儿",
+    "scope_years": [
+      2018,
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "补查地方案件与裁判后续。"
+  },
+  {
+    "query": "厦门中院 一审 两起 故意杀人 彭某 2020 4 10",
+    "scope_years": [
+      2018,
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "补查地方案件与裁判后续。"
+  },
+  {
+    "query": "2018 隆回 罗良武 1死6伤 通报",
+    "scope_years": [
+      2018,
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "补查地方案件与裁判后续。"
+  },
+  {
+    "query": "2019 唐山 丰润 崔振江 学生 判决 17",
+    "scope_years": [
+      2018,
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "补查地方案件与裁判后续。"
+  },
+  {
+    "query": "湖北枣阳 突发案件续报 查明嫌疑人身份 妥善处置善后 2019",
+    "scope_years": [
+      2018,
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "边界与后续核实。"
+  },
+  {
+    "query": "\"罗良武\" \"2018\"",
+    "scope_years": [
+      2018,
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "边界与后续核实。"
+  },
+  {
+    "query": "\"崔振江\" \"法院\"",
+    "scope_years": [
+      2018,
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "边界与后续核实。"
+  },
+  {
+    "query": "\"2019\" \"深圳\" \"癫痫\" \"3死\"",
+    "scope_years": [
+      2018,
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "边界与后续核实。"
+  },
+  {
+    "query": "北京 西单大悦城 朱纪业 2019 6 13 一审",
+    "scope_years": [
+      2018,
+      2020
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "寻找可访问正文或后续。"
+  },
+  {
+    "query": "安顺 7月12日 公安 通报 张某钢 21 15",
+    "scope_years": [
+      2018,
+      2020
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "寻找可访问正文或后续。"
+  },
+  {
+    "query": "成都 盐市口 姚某 2018 5月13日 3人",
+    "scope_years": [
+      2018,
+      2020
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "寻找可访问正文或后续。"
+  },
+  {
+    "query": "2018 隆回 桃洪 7月5日 持刀",
+    "scope_years": [
+      2018,
+      2020
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "寻找可访问正文或后续。"
+  },
+  {
+    "query": "2018 9 12 西山壹号院 廖某 两人 驾车 判决",
+    "scope_years": [
+      2018,
+      2019
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "检索已发现线索的官方来源。"
+  },
+  {
+    "query": "2018 11 12 上城 陌生女子 持刀 赵维达",
+    "scope_years": [
+      2018,
+      2019
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "检索已发现线索的官方来源。"
+  },
+  {
+    "query": "2019 3 14 唐山 伤害 学生 已被控制 光华道",
+    "scope_years": [
+      2018,
+      2019
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "检索已发现线索的官方来源。"
+  },
+  {
+    "query": "邱日辉 执行死刑 2019 8 1 法制网",
+    "scope_years": [
+      2018,
+      2019
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "检索已发现线索的官方来源。"
+  },
+  {
+    "query": "朝阳医院 崔振国 2021 2月2日 死缓 陶勇 三人",
+    "scope_years": [
+      2018,
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "补核来源与模糊线索。"
+  },
+  {
+    "query": "安顺 公安 7月12日 21 15 2020 site:cctv.com",
+    "scope_years": [
+      2018,
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "补核来源与模糊线索。"
+  },
+  {
+    "query": "南宁 2018 4 16 大乌村 韦 抓获",
+    "scope_years": [
+      2018,
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "补核来源与模糊线索。"
+  },
+  {
+    "query": "2019 2 21 吉安 八中 砍人 官方",
+    "scope_years": [
+      2018,
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "补核来源与模糊线索。"
+  },
+  {
+    "query": "2019 吉安 郭开滨 公安 11人",
+    "scope_years": [
+      2018,
+      2019
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "官方初报与排除事件检索。"
+  },
+  {
+    "query": "2019 唐山 丰润 伤害学生 案件 通报 3月14日",
+    "scope_years": [
+      2018,
+      2019
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "官方初报与排除事件检索。"
+  },
+  {
+    "query": "2018 11月12日 赵维达 陌生女子",
+    "scope_years": [
+      2018,
+      2019
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "官方初报与排除事件检索。"
+  },
+  {
+    "query": "重庆 万州 公交 坠江 15人 调查 2018 11月2日",
+    "scope_years": [
+      2018,
+      2019
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "官方初报与排除事件检索。"
+  },
+  {
+    "query": "2019 2月5日 白银 郭某 8死7伤 警方",
+    "scope_years": [
+      2018,
+      2019
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "补漏和排除核实。"
+  },
+  {
+    "query": "2018 隆回 7月5日 一死 六伤 警方",
+    "scope_years": [
+      2018,
+      2019
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "补漏和排除核实。"
+  },
+  {
+    "query": "2018 11 12 杭州 女子 商务楼 持刀",
+    "scope_years": [
+      2018,
+      2019
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "补漏和排除核实。"
+  },
+  {
+    "query": "2019 南宁 安吉大道 1月11日 5人 伤",
+    "scope_years": [
+      2018,
+      2019
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "补漏和排除核实。"
+  },
+  {
+    "query": "龙岩 邱日辉 居委会 干部 2018 12月26日 公安",
+    "scope_years": [
+      2018,
+      2019
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "核对随机性及工具细节。"
+  },
+  {
+    "query": "恩施 于华 2019 持刀 学生 杀害",
+    "scope_years": [
+      2018,
+      2019
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "核对随机性及工具细节。"
+  },
+  {
+    "query": "唐山 丰润 光华道 2019 3 14 site:guancha.cn",
+    "scope_years": [
+      2018,
+      2019
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "核对随机性及工具细节。"
+  },
+  {
+    "query": "2018 10月10日 891路 公交 榔头 女孩 劫持 樊",
+    "scope_years": [
+      2018,
+      2019
+    ],
+    "scope_regions": [
+      "重庆",
+      "湖北"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "跟进交叉检索发现的边界候选。"
+  },
+  {
+    "query": "2019 天门 华泰中学 陈某 捅伤 8名 同学 判决",
+    "scope_years": [
+      2018,
+      2019
+    ],
+    "scope_regions": [
+      "重庆",
+      "湖北"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "跟进交叉检索发现的边界候选。"
+  },
+  {
+    "query": "重庆一公交司机勇斗行凶歹徒救女孩 2018；李某 锦龙路 2018 警方",
+    "scope_years": [
+      2018
+    ],
+    "scope_regions": [
+      "重庆"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "澎湃搜索索引误配到2020年历史文章；弃用错配URL，另核警方通报转载及重庆晨报记者现场稿。"
+  },
+  {
+    "query": "上城年鉴2019 2018年11月12日 赵维达 持刀 陌生女子",
+    "scope_years": [
+      2018
+    ],
+    "scope_regions": [
+      "浙江"
+    ],
+    "status": "待核",
+    "candidate_count": 1,
+    "notes": "搜索命中杭州上城区政府年鉴PDF；URL https://www.hzsc.gov.cn/module/download/downfile.jsp?classid=0&filename=905f346d19c8469a9a991640e703ac05.pdf 多次正文下载超时，未作为已核实事件入表。"
+  },
+  {
+    "query": "2019-01-11 南宁 高新区 安吉大道 持刀 5人",
+    "scope_years": [
+      2019
+    ],
+    "scope_regions": [
+      "广西"
+    ],
+    "status": "待核",
+    "candidate_count": 1,
+    "notes": "汇编有条目，独立检索未找到足以核实的可靠正文，不纳入已核实事件。"
+  },
+  {
+    "query": "2019-08-28 广州番禺 持刀 三人 郑某",
+    "scope_years": [
+      2019
+    ],
+    "scope_regions": [
+      "广东"
+    ],
+    "status": "已检索",
+    "candidate_count": 1,
+    "notes": "汇编错置案发年份；原事件为2021-08-28，已交B组核对，不在本组重复。"
+  },
+  {
+    "query": "公开来源HTTP正文访问恢复",
+    "scope_years": [
+      2018,
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "人民网部分HTTPS域名证书失配，改公开HTTP读取；最高检、山东法院、澎湃、搜狐和新浪部分web打开失败，使用公开HTML读取成功。"
+  },
+  {
+    "query": "官方通报之外的来源发现：CDT无差别杀人、拉清单恶性伤害案件、维基校园袭击案列表",
+    "scope_years": [
+      2018,
+      2019,
+      2020
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "仅用为候选发现入口；事件逐案回查正文。检出汇编伤亡、日期、省份等错误，未把汇编等同事实来源。"
+  },
+  {
+    "query": "2021 中国 随机伤人 无差别 持刀 事件",
+    "scope_years": [
+      2021
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "发现大连、安庆、昆明、北流、南阳、郴州、任丘等线索后逐案回查；不能据汇编标题直接纳入。"
+  },
+  {
+    "query": "2022 中国 随机伤人 持刀 驾车 事件",
+    "scope_years": [
+      2022
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "发现瑞金、安福、上海威海路、东莞、舞阳等并核实。"
+  },
+  {
+    "query": "2023 中国 无差别 随机伤人 事件",
+    "scope_years": [
+      2023
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "发现广州、山科大、兴县、长春、罗平等，逐案区分核心和待核。"
+  },
+  {
+    "query": "2021 2022 2023 中国 校园 袭击 案件",
+    "scope_years": [
+      2021,
+      2022,
+      2023
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "校园袭击汇编只用作线索，回查昆明、北流、安福、廉江等官方和媒体。"
+  },
+  {
+    "query": "2021 2022 2023 持刀 驾车 纵火 爆炸 公交 报复社会",
+    "scope_years": [
+      2021,
+      2022,
+      2023
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "多轮场景补漏；多名伤亡与随机性的证据门槛分别判断。"
+  },
+  {
+    "query": "大连 2021 5月22日 刘东 判决 执行死刑",
+    "scope_years": [
+      2021
+    ],
+    "scope_regions": [
+      "辽宁"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "法院执行报道确认5死8伤，替代初报；2023-04-07执行。"
+  },
+  {
+    "query": "安庆 7死13伤 吴亮 2021 11月15日 宣判",
+    "scope_years": [
+      2021
+    ],
+    "scope_regions": [
+      "安徽"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "宣判日及最终伤亡核实，2022-02-15执行。"
+  },
+  {
+    "query": "广州 2023 温庆运 二审 执行死刑 伤亡",
+    "scope_years": [
+      2023
+    ],
+    "scope_regions": [
+      "广东"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "判决采访与执行通报明确6死，伤者称20余；司法伤情评估29人不等同精确受伤者数。"
+  },
+  {
+    "query": "上海 瑞金 侯晓飞 判决 2023",
+    "scope_years": [
+      2022
+    ],
+    "scope_regions": [
+      "上海"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "完整一审通报核实15伤，其中6重伤；0死亡。"
+  },
+  {
+    "query": "\"侯晓飞\" \"执行死刑\"",
+    "scope_years": [
+      2022
+    ],
+    "scope_regions": [
+      "上海"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "未检出可核实执行或二审结果；不可将死刑判决写成执行。"
+  },
+  {
+    "query": "\"浙医一院\" \"卢某\" \"判\" \"2021\"",
+    "scope_years": [
+      2021
+    ],
+    "scope_regions": [
+      "浙江"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "检出警方情况和既往2014年案件，未检出2021本案公开裁判。"
+  },
+  {
+    "query": "南京 2021 5月29日 吉某 判决 死刑 胖哥",
+    "scope_years": [
+      2021
+    ],
+    "scope_regions": [
+      "江苏"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "2025媒体公布最高法裁定，确认7名受害者、3司法重伤；修正年龄并补一审二审核准。"
+  },
+  {
+    "query": "\"吉某\" \"2025\" \"执行死刑\" \"南京\"",
+    "scope_years": [
+      2021
+    ],
+    "scope_regions": [
+      "江苏"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "仅找到核准死刑，尚未找到执行证明。"
+  },
+  {
+    "query": "北流 2021 幼儿园 曾某 判决",
+    "scope_years": [
+      2021
+    ],
+    "scope_regions": [
+      "广西"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "仅检出官方初步司法精神鉴定与2死16伤通报，无可核实后续裁判。"
+  },
+  {
+    "query": "昆明 2021 1月22日 王某 劫持 伤亡",
+    "scope_years": [
+      2021
+    ],
+    "scope_regions": [
+      "云南"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "警方1死7伤、嫌疑人击毙；汇编2死说法没有可靠后续来源。"
+  },
+  {
+    "query": "\"昆明\" \"1月22日\" \"7人\" \"6人\"；\"昆明\" \"2021\" \"2人死亡\" \"劫持\"",
+    "scope_years": [
+      2021
+    ],
+    "scope_regions": [
+      "云南"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "对照官网转载，2名受害者死亡仅见网传，不采纳。"
+  },
+  {
+    "query": "2021 南阳 杨某禄 66 棍棒 判决",
+    "scope_years": [
+      2021
+    ],
+    "scope_regions": [
+      "河南"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "警方确认因生活失意报复社会14伤；未检出裁判。"
+  },
+  {
+    "query": "2021 郴州 白露塘 学生 5人 伤人",
+    "scope_years": [
+      2021
+    ],
+    "scope_regions": [
+      "湖南"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "生活报现场采访确认事件；确切最终伤亡未获得官方材料，留空。"
+  },
+  {
+    "query": "2021 任丘 华北油田 采一中学 持刀",
+    "scope_years": [
+      2021
+    ],
+    "scope_regions": [
+      "河北"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "极目采访教育部门及医院确认事件，伤亡人数和随机性不足。"
+  },
+  {
+    "query": "2021 成都 华阳 伏龙小区 持刀 4伤",
+    "scope_years": [
+      2021
+    ],
+    "scope_regions": [
+      "四川"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "警方称与母亲争吵后伤害他人，关系未明，pending。"
+  },
+  {
+    "query": "2021 东莞 清溪 李某 持刀 6伤",
+    "scope_years": [
+      2021
+    ],
+    "scope_regions": [
+      "广东"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "找到平安清溪通报，动机关系未披露。"
+  },
+  {
+    "query": "2021 临洮 洮阳镇 2死1伤 张某某",
+    "scope_years": [
+      2021
+    ],
+    "scope_regions": [
+      "甘肃"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "县政府通报加财新采访；三名女孩遇袭，随机性仍不能充分确认。"
+  },
+  {
+    "query": "广州 番禺 清河中路 郑某 43 8月28日",
+    "scope_years": [
+      2021
+    ],
+    "scope_regions": [
+      "广东"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "核实案发2021-08-28；部分2019汇编错年。"
+  },
+  {
+    "query": "2021 河津 东关 商务酒店 持刀 3人",
+    "scope_years": [
+      2021
+    ],
+    "scope_regions": [
+      "山西"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "警方明确三名劝阻群众受伤，expanded。"
+  },
+  {
+    "query": "2021 上海 博山路 刘某 26岁 判决",
+    "scope_years": [
+      2021
+    ],
+    "scope_regions": [
+      "上海"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "官方通报和现场采访，未检出后续裁判；死者数量无最终确认。"
+  },
+  {
+    "query": "2021 长沙 望城 工厂 持刀 3人死亡 警方 通报",
+    "scope_years": [
+      2021
+    ],
+    "scope_regions": [
+      "湖南"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "工友争执后的定向伤害，排除随机核心。"
+  },
+  {
+    "query": "广州 番禺 爆炸案 5死5伤 新华网 2021-03-23",
+    "scope_years": [
+      2021
+    ],
+    "scope_regions": [
+      "广东"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "回查警方完整转载，5死亡含嫌疑人，受害者死亡4人；随机性待核。"
+  },
+  {
+    "query": "2022 沈阳 232 公交 爆炸 原因",
+    "scope_years": [
+      2022
+    ],
+    "scope_regions": [
+      "辽宁"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "原因未确认，1死42伤保留pending。"
+  },
+  {
+    "query": "2022 福建 南靖 货车 撞人 3死9伤",
+    "scope_years": [
+      2022
+    ],
+    "scope_regions": [
+      "福建"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "警方通报未确认故意性，pending。"
+  },
+  {
+    "query": "\"2022\" \"邯郸\" \"超量\" \"4人\"",
+    "scope_years": [
+      2022
+    ],
+    "scope_regions": [
+      "河北"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "官方称超量服药，4死10伤；刑拘罪名不能直接作为随机袭击证据。"
+  },
+  {
+    "query": "2022 岷县 4月 7人 孩子 伤害",
+    "scope_years": [
+      2022
+    ],
+    "scope_regions": [
+      "甘肃"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "官方日期4/14、同院住户争吵；非4/1幼儿园案，关系不足保守待核。"
+  },
+  {
+    "query": "2022 东莞 东城 万达 6月2日 持刀",
+    "scope_years": [
+      2022
+    ],
+    "scope_regions": [
+      "广东"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "警方证实6伤，随机说法主要网述，pending。"
+  },
+  {
+    "query": "2022 上海 7月4日 威海路 持刀 6人",
+    "scope_years": [
+      2022
+    ],
+    "scope_regions": [
+      "上海"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "警方确认与原单位纠纷，财新独立调查称随机攻击进出员工；core群体中的不特定个体。"
+  },
+  {
+    "query": "2022 沐川 李强 持枪 3死2伤",
+    "scope_years": [
+      2022
+    ],
+    "scope_regions": [
+      "四川"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "警方及财新亲属采访确认受害者为同一家族，excluded。"
+  },
+  {
+    "query": "2022 舞阳 7月28日 撞人 28伤 刑事",
+    "scope_years": [
+      2022
+    ],
+    "scope_regions": [
+      "河南"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "官方为交通肇事逃逸，未找到足以证实故意随机袭击的裁判。"
+  },
+  {
+    "query": "安福 幼儿园 刘小辉 2022 车祸 死亡",
+    "scope_years": [
+      2022
+    ],
+    "scope_regions": [
+      "江西"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "警方后续确认逃亡车祸死亡，受害者修订4死5伤。"
+  },
+  {
+    "query": "\"林伊豪\" \"记者\" \"2026\"；\"曾某彬\" \"法院\" \"2026\"",
+    "scope_years": [
+      2022
+    ],
+    "scope_regions": [
+      "福建"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "找到新晚报完整判决报道，随意选择对象、1死亡；2025按案发17岁重审无期。"
+  },
+  {
+    "query": "\"2022年8月8日\" \"郸城\" \"伤\"",
+    "scope_years": [
+      2022
+    ],
+    "scope_regions": [
+      "河南"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "人民网完整警方通报，2伤，关系不明。"
+  },
+  {
+    "query": "\"吴英杰\" \"何某\" \"2023\"",
+    "scope_years": [
+      2023
+    ],
+    "scope_regions": [
+      "重庆"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "找到封面采访与重庆日报人物报道，明确警方认定地铁随机伤害，1伤。"
+  },
+  {
+    "query": "\"2023\" \"邯郸\" \"3月31日\" \"撞人\" \"爆炸\"",
+    "scope_years": [
+      2023
+    ],
+    "scope_regions": [
+      "河北"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "顶端采访应急部门确认事件，否认爆炸物，伤亡动机未核实。"
+  },
+  {
+    "query": "2023 重庆 建新西路 淦某 菜刀 4路人",
+    "scope_years": [
+      2023
+    ],
+    "scope_regions": [
+      "重庆"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "完整警方通报，4路人伤，core。"
+  },
+  {
+    "query": "2023 平顶山 4月8日 梁某 7人 3人",
+    "scope_years": [
+      2023
+    ],
+    "scope_regions": [
+      "河南"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "伤亡重叠口径和目标关系皆存在空白，pending、伤者数留空。"
+  },
+  {
+    "query": "\"山东科技大学\" \"付某\" \"12月26日\" \"死刑\"",
+    "scope_years": [
+      2023
+    ],
+    "scope_regions": [
+      "山东"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "获取紫牛新闻起诉与判决内容；1死6伤，一审死刑，未检出上诉结果。"
+  },
+  {
+    "query": "\"付圣峰\" \"2023\" \"死刑\"",
+    "scope_years": [
+      2023
+    ],
+    "scope_regions": [
+      "山东"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "找到一审转载；未发现额外二审或执行结果。"
+  },
+  {
+    "query": "\"2023\" \"中山\" \"铲车\" \"5月12\"",
+    "scope_years": [
+      2023
+    ],
+    "scope_regions": [
+      "广东"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "警方4伤，没有故意袭击结论，pending。"
+  },
+  {
+    "query": "2023 兴县 郭某亮 7死11伤 判决",
+    "scope_years": [
+      2023
+    ],
+    "scope_regions": [
+      "山西"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "找到县政府与央视事实，未检出后续判决。"
+  },
+  {
+    "query": "2023 贵阳 盐务街 百草巷 剪刀",
+    "scope_years": [
+      2023
+    ],
+    "scope_regions": [
+      "贵州"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "官方确认数名路过行人受伤，未给确切数。"
+  },
+  {
+    "query": "2023 南部 桂博路 雍某 8人 持刀",
+    "scope_years": [
+      2023
+    ],
+    "scope_regions": [
+      "四川"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "警方8伤，关系未明；木棒阻止报道不足确认所有伤者身份。"
+  },
+  {
+    "query": "2023 天津 山西路 孙某 剪刀",
+    "scope_years": [
+      2023
+    ],
+    "scope_regions": [
+      "天津"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "警方单人受害事件，随机性不足，pending。"
+  },
+  {
+    "query": "2023 长沙 6月6日 兰某 滨河路 9人",
+    "scope_years": [
+      2023
+    ],
+    "scope_regions": [
+      "湖南"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "警方撞人逃逸确认，故意随机袭击结论未找到。"
+  },
+  {
+    "query": "2023 秦皇岛 建国路 持刀 6月16日",
+    "scope_years": [
+      2023
+    ],
+    "scope_regions": [
+      "河北"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "警方采访确认控制嫌疑人，人数及起因未知。"
+  },
+  {
+    "query": "长春 2023 高空抛物 6月17 6月22 判决 执行",
+    "scope_years": [
+      2023
+    ],
+    "scope_regions": [
+      "吉林"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "最高检转载法治日报逐人事实1死2伤，按两个日期拆分；界面执行报道简写1死1伤不用于覆盖法院逐人事实。"
+  },
+  {
+    "query": "\"临高\" \"6月30日\" \"2023\" \"持刀\"",
+    "scope_years": [
+      2023
+    ],
+    "scope_regions": [
+      "海南"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "警方只称伤者均无生命危险，人数随机性未知。"
+  },
+  {
+    "query": "廉江 2023 吴某杰 幼儿园 判决 死刑",
+    "scope_years": [
+      2023
+    ],
+    "scope_regions": [
+      "广东"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "仅找到警方及教育部门确认6死1伤，随机性及后续裁判未核实。"
+  },
+  {
+    "query": "罗平 2023 陈某赢 判决",
+    "scope_years": [
+      2023
+    ],
+    "scope_regions": [
+      "云南"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "警方先伤母后逃窜伤8人，总2死7伤；未检出后续裁判。"
+  },
+  {
+    "query": "\"枣阳\" \"8月17日\" \"2023\" \"4人\"",
+    "scope_years": [
+      2023
+    ],
+    "scope_regions": [
+      "湖北"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "湖北经视目击采访4伤；独立官方或第二采访来源未检出。"
+  },
+  {
+    "query": "\"深圳\" \"2023年11月9日\" \"唐某\" \"18时\"",
+    "scope_years": [
+      2023
+    ],
+    "scope_regions": [
+      "广东"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "官方明确18时而非汇编20时；1死3伤，未披露随机性。"
+  },
+  {
+    "query": "2023 成都 新都 同福路 12月24日 持刀",
+    "scope_years": [
+      2023
+    ],
+    "scope_regions": [
+      "四川"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "官方没给伤者人数，未采信汇编5伤。"
+  },
+  {
+    "query": "\"2023\" \"青岛\" \"李沧\" \"9月23日\" \"持刀\"",
+    "scope_years": [
+      2023
+    ],
+    "scope_regions": [
+      "山东"
+    ],
+    "status": "待核",
+    "candidate_count": null,
+    "notes": "只命中无来源汇编的2伤说法，未形成事件入库。"
+  },
+  {
+    "query": "2023 重庆 4月8日 公园 持刀 1死3伤",
+    "scope_years": [
+      2023
+    ],
+    "scope_regions": [
+      "重庆"
+    ],
+    "status": "待核",
+    "candidate_count": null,
+    "notes": "汇编线索未找到可靠原始通报；可能日期混淆，未入事件表。"
+  },
+  {
+    "query": "2023 长沙 5月6日 幼儿园 2死14伤",
+    "scope_years": [
+      2023
+    ],
+    "scope_regions": [
+      "湖南"
+    ],
+    "status": "待核",
+    "candidate_count": null,
+    "notes": "汇编线索未找到可靠原始报道，不与另一个母女交通事故合并。"
+  },
+  {
+    "query": "\"2021\" \"福州\" \"随机\" \"伤人\"",
+    "scope_years": [
+      2021
+    ],
+    "scope_regions": [
+      "福建"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "未检出可新增可靠事件，检索主要噪声为随机试验等。"
+  },
+  {
+    "query": "\"2022\" \"公交\" \"纵火\" \"刑\"；\"2021\" \"2022\" \"2023\" \"公交车纵火\"",
+    "scope_years": [
+      2021,
+      2022,
+      2023
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "检出旧年公交纵火和小说，不以网页更新时间当案发年份。"
+  },
+  {
+    "query": "\"2021\" \"随机伤人\" \"法院\"；\"2022\" \"随机伤人\" \"法院\"；\"2023\" \"随机伤人\" \"法院\"",
+    "scope_years": [
+      2021,
+      2022,
+      2023
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "多数结果为境外案件或不相关判决；不纳入中国大陆样本。"
+  },
+  {
+    "query": "正文访问：搜狐青岛判决转载、人民日报若干HTTPS、最高检长春转载、凤凰清溪等",
+    "scope_years": [
+      2021,
+      2022,
+      2023
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "访问失败",
+    "candidate_count": null,
+    "notes": "web.open多次Cache miss或SSL错误；随后对同一公开页面用普通HTTP读取并解析正文，成功者用于核实；青岛改用新浪紫牛全文。"
+  },
+  {
+    "query": "星岛2026福建案 https://www.stheadline.com/zh-hans/realtime-china/3560896/",
+    "scope_years": [
+      2022
+    ],
+    "scope_regions": [
+      "福建"
+    ],
+    "status": "访问失败",
+    "candidate_count": null,
+    "notes": "该入口访问失败；找到新晚报2026-04-07完整判决报道，已核实替代来源。"
+  },
+  {
+    "query": "2024 随机伤人 持刀 驾车 事件 通报 汇总",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "全国宽泛发现检索；后续逐案打开核验。"
+  },
+  {
+    "query": "2025 随机伤人 持刀 驾车 事件 警方 通报",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "全国宽泛发现检索；后续逐案打开核验。"
+  },
+  {
+    "query": "2026 随机伤人 持刀 驾车 事件 警方 通报",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "全国宽泛发现检索；后续逐案打开核验。"
+  },
+  {
+    "query": "2024 报复社会 袭击 案件 判决 2025",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "全国宽泛发现检索；后续逐案打开核验。"
+  },
+  {
+    "query": "2025 中国 持刀 伤人 警方通报",
+    "scope_years": [
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "中英文近期发现检索。"
+  },
+  {
+    "query": "2026 中国 持刀 伤人 警方通报",
+    "scope_years": [
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "中英文近期发现检索。"
+  },
+  {
+    "query": "2025 China stabbing attack car rammed crowds police",
+    "scope_years": [
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "中英文近期发现检索。"
+  },
+  {
+    "query": "2026 China stabbing attack car rammed crowds police",
+    "scope_years": [
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "中英文近期发现检索。"
+  },
+  {
+    "query": "樊维秋 判决 35 45 2024 12 27",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "广东",
+      "江苏",
+      "湖南",
+      "上海"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "案件判决与伤亡修订检索。"
+  },
+  {
+    "query": "徐加金 2024 12 17 判决 动机",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "广东",
+      "江苏",
+      "湖南",
+      "上海"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "案件判决与伤亡修订检索。"
+  },
+  {
+    "query": "黄文 常德 2024 12 23 判决 30",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "广东",
+      "江苏",
+      "湖南",
+      "上海"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "案件判决与伤亡修订检索。"
+  },
+  {
+    "query": "上海 林卫虎 2024 9 30 判决",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "广东",
+      "江苏",
+      "湖南",
+      "上海"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "案件判决与伤亡修订检索。"
+  },
+  {
+    "query": "珠海 樊维秋 执行死刑 35 43 2025 1 20",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "广东",
+      "江苏",
+      "山东",
+      "浙江"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "官方案情及法院后续检索。"
+  },
+  {
+    "query": "宜兴 2024 11 16 徐某金 考试 实习报酬",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "广东",
+      "江苏",
+      "山东",
+      "浙江"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "官方案情及法院后续检索。"
+  },
+  {
+    "query": "德州 2024 3 1 王某涛 判决",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "广东",
+      "江苏",
+      "山东",
+      "浙江"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "官方案情及法院后续检索。"
+  },
+  {
+    "query": "台州职业技术学院 张某某 2024 3 19 判决 故意",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "广东",
+      "江苏",
+      "山东",
+      "浙江"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "官方案情及法院后续检索。"
+  },
+  {
+    "query": "樊维秋 被执行死刑 site:news.cn",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "广东",
+      "江苏",
+      "山东",
+      "浙江"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "查找原始警情与裁判后续；同名判决不直接匹配。"
+  },
+  {
+    "query": "宜兴 无锡 工艺 2024 11 16 警情通报 实习报酬 site:thepaper.cn",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "广东",
+      "江苏",
+      "山东",
+      "浙江"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "查找原始警情与裁判后续；同名判决不直接匹配。"
+  },
+  {
+    "query": "德州 2024 3 1 警情通报 2 6 site:news.cn",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "广东",
+      "江苏",
+      "山东",
+      "浙江"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "查找原始警情与裁判后续；同名判决不直接匹配。"
+  },
+  {
+    "query": "台州职业技术学院 张凯翔 危害公共安全 判决",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "广东",
+      "江苏",
+      "山东",
+      "浙江"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "查找原始警情与裁判后续；同名判决不直接匹配。"
+  },
+  {
+    "query": "镇雄 医院 李伟 2024 5 7 判决 原因",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "云南",
+      "江西",
+      "湖南"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "逐案动机、对象与后续核查。"
+  },
+  {
+    "query": "贵溪 潘某某 2024 5 20 判决 动机",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "云南",
+      "江西",
+      "湖南"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "逐案动机、对象与后续核查。"
+  },
+  {
+    "query": "郴州 石榴湾 黄某朋 2024 5 20 通报",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "云南",
+      "江西",
+      "湖南"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "逐案动机、对象与后续核查。"
+  },
+  {
+    "query": "祁东 三友小学 2024 3 4 嫌疑人 通报",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "云南",
+      "江西",
+      "湖南"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "逐案动机、对象与后续核查。"
+  },
+  {
+    "query": "\"镇雄\" \"无差别\" \"2024\" 医院",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "云南",
+      "湖南",
+      "浙江"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "补充随机性及完整通报依据。"
+  },
+  {
+    "query": "\"三友小学\" \"3月4日\" 2024",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "云南",
+      "湖南",
+      "浙江"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "补充随机性及完整通报依据。"
+  },
+  {
+    "query": "\"苏仙\" \"黄某朋\" \"2024\"",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "云南",
+      "湖南",
+      "浙江"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "补充随机性及完整通报依据。"
+  },
+  {
+    "query": "\"台州职业技术学院\" \"3人死亡\" \"16人\" \"公安\"",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "云南",
+      "湖南",
+      "浙江"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "补充随机性及完整通报依据。"
+  },
+  {
+    "query": "2024 \"北山公园\" \"崔某\" 通报",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "吉林",
+      "上海",
+      "江苏",
+      "广东",
+      "云南"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "案件事实、对象关系及裁判检索。"
+  },
+  {
+    "query": "2024 \"合川路\" \"持刀\" 通报",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "吉林",
+      "上海",
+      "江苏",
+      "广东",
+      "云南"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "案件事实、对象关系及裁判检索。"
+  },
+  {
+    "query": "2025 \"周加胜\" \"钟长春\" 判决 执行",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "吉林",
+      "上海",
+      "江苏",
+      "广东",
+      "云南"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "案件事实、对象关系及裁判检索。"
+  },
+  {
+    "query": "\"2024\" \"镇雄\" \"随机\" \"澎湃\"",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "吉林",
+      "上海",
+      "江苏",
+      "广东",
+      "云南"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "案件事实、对象关系及裁判检索。"
+  },
+  {
+    "query": "\"吉林市警方通报北山公园伤人案件\"",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "吉林",
+      "上海",
+      "江苏",
+      "广东"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "原通报及执行死刑后续检索。"
+  },
+  {
+    "query": "\"上海地铁合川路站54岁男子持刀伤3人\"",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "吉林",
+      "上海",
+      "江苏",
+      "广东"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "原通报及执行死刑后续检索。"
+  },
+  {
+    "query": "\"周加胜\" \"执行死刑\"",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "吉林",
+      "上海",
+      "江苏",
+      "广东"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "原通报及执行死刑后续检索。"
+  },
+  {
+    "query": "\"钟长春\" \"执行死刑\"",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "吉林",
+      "上海",
+      "江苏",
+      "广东"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "原通报及执行死刑后续检索。"
+  },
+  {
+    "query": "Suzhou Shenzhen Japanese attacks executed April 2025 Zhou Zhong Reuters",
+    "scope_years": [
+      2024,
+      2025
+    ],
+    "scope_regions": [
+      "江苏",
+      "广东",
+      "吉林",
+      "湖南"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "使用外事官方资料补充涉及外籍受害者案件后续。"
+  },
+  {
+    "query": "site:mofa.go.jp 蘇州 深圳 死刑 2025",
+    "scope_years": [
+      2024,
+      2025
+    ],
+    "scope_regions": [
+      "江苏",
+      "广东",
+      "吉林",
+      "湖南"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "使用外事官方资料补充涉及外籍受害者案件后续。"
+  },
+  {
+    "query": "\"北山公园\" \"2024-06-11\" site:cctv.com",
+    "scope_years": [
+      2024,
+      2025
+    ],
+    "scope_regions": [
+      "江苏",
+      "广东",
+      "吉林",
+      "湖南"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "使用外事官方资料补充涉及外籍受害者案件后续。"
+  },
+  {
+    "query": "\"祁东\" \"三友小学\" \"顶端\"",
+    "scope_years": [
+      2024,
+      2025
+    ],
+    "scope_regions": [
+      "江苏",
+      "广东",
+      "吉林",
+      "湖南"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "使用外事官方资料补充涉及外籍受害者案件后续。"
+  },
+  {
+    "query": "北山公园 刺伤 五人 央视",
+    "scope_years": [
+      2024
+    ],
+    "scope_regions": [
+      "吉林",
+      "湖南",
+      "江苏",
+      "广东"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "通报正文补查。"
+  },
+  {
+    "query": "苏仙 公园 3死2伤 2024 央视",
+    "scope_years": [
+      2024
+    ],
+    "scope_regions": [
+      "吉林",
+      "湖南",
+      "江苏",
+      "广东"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "通报正文补查。"
+  },
+  {
+    "query": "苏州 日本母子 [校车工作人员姓名略] 6月24日 通报",
+    "scope_years": [
+      2024
+    ],
+    "scope_regions": [
+      "吉林",
+      "湖南",
+      "江苏",
+      "广东"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "通报正文补查。"
+  },
+  {
+    "query": "深圳 日本人学校 男童 2024 9 19 通报",
+    "scope_years": [
+      2024
+    ],
+    "scope_regions": [
+      "吉林",
+      "湖南",
+      "江苏",
+      "广东"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "通报正文补查。"
+  },
+  {
+    "query": "吉林 北山 公园 刺伤 通报 2024",
+    "scope_years": [
+      2024
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "逐案补查。"
+  },
+  {
+    "query": "郴州 苏仙 公园 黄某朋 2024",
+    "scope_years": [
+      2024
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "逐案补查。"
+  },
+  {
+    "query": "苏州 6月24日 [校车工作人员姓名略] 通报 2024",
+    "scope_years": [
+      2024
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "逐案补查。"
+  },
+  {
+    "query": "广州 天河 10月8日 60岁 北京 10月28日 50岁 2024 持刀",
+    "scope_years": [
+      2024
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "逐案补查。"
+  },
+  {
+    "query": "北京 海淀 10月28日 50岁 持刀 2024",
+    "scope_years": [
+      2024
+    ],
+    "scope_regions": [
+      "北京",
+      "四川",
+      "湖南",
+      "广东"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "逐案核实伤亡和非定向袭击特征。"
+  },
+  {
+    "query": "成都 2024 12月10日 曲某某 剪刀 3人",
+    "scope_years": [
+      2024
+    ],
+    "scope_regions": [
+      "北京",
+      "四川",
+      "湖南",
+      "广东"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "逐案核实伤亡和非定向袭击特征。"
+  },
+  {
+    "query": "长沙 2024 7月27日 粟某某 8人 死亡",
+    "scope_years": [
+      2024
+    ],
+    "scope_regions": [
+      "北京",
+      "四川",
+      "湖南",
+      "广东"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "逐案核实伤亡和非定向袭击特征。"
+  },
+  {
+    "query": "中山 2024 8月13日 黄某 失业 撞人 8人",
+    "scope_years": [
+      2024
+    ],
+    "scope_regions": [
+      "北京",
+      "四川",
+      "湖南",
+      "广东"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "逐案核实伤亡和非定向袭击特征。"
+  },
+  {
+    "query": "2025 持刀 随机 伤人 警方 通报",
+    "scope_years": [
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "近期跨场景检索，网络传言仅列线索。"
+  },
+  {
+    "query": "2026 持刀 随机 伤人 警方 通报",
+    "scope_years": [
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "近期跨场景检索，网络传言仅列线索。"
+  },
+  {
+    "query": "2025 纵火 公交 爆炸 报复社会 案件",
+    "scope_years": [
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "近期跨场景检索，网络传言仅列线索。"
+  },
+  {
+    "query": "2026 驾车 冲撞 行人 警方 通报",
+    "scope_years": [
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "全国"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "近期跨场景检索，网络传言仅列线索。"
+  },
+  {
+    "query": "2026 房山 大韩继 大集 铲车 撞人 3月29",
+    "scope_years": [
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "北京",
+      "辽宁",
+      "浙江",
+      "重庆"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "集中核对近年社会传播较广的撞人及持刀线索。"
+  },
+  {
+    "query": "2026 沈阳 太原街 4月4日 砍人",
+    "scope_years": [
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "北京",
+      "辽宁",
+      "浙江",
+      "重庆"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "集中核对近年社会传播较广的撞人及持刀线索。"
+  },
+  {
+    "query": "2025 金华 苏孟 小学 4月22日 通报",
+    "scope_years": [
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "北京",
+      "辽宁",
+      "浙江",
+      "重庆"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "集中核对近年社会传播较广的撞人及持刀线索。"
+  },
+  {
+    "query": "2025 重庆 铜梁 6月14日 撞人 通报",
+    "scope_years": [
+      2025,
+      2026
+    ],
+    "scope_regions": [
+      "北京",
+      "辽宁",
+      "浙江",
+      "重庆"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "集中核对近年社会传播较广的撞人及持刀线索。"
+  },
+  {
+    "query": "2025 武汉大学 6月4日 朱某 持刀 通报",
+    "scope_years": [
+      2025
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "定向核查案件及警方通报；检索结果仅作线索，正文另行打开。"
+  },
+  {
+    "query": "2025 耒阳 8月3日 段某 2死3伤 通报",
+    "scope_years": [
+      2025
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "定向核查案件及警方通报；检索结果仅作线索，正文另行打开。"
+  },
+  {
+    "query": "2025 天津医院 4月28日 简某 警方 通报",
+    "scope_years": [
+      2025
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "定向核查案件及警方通报；检索结果仅作线索，正文另行打开。"
+  },
+  {
+    "query": "2025 十堰 10月22日 重庆路小学 驾车 通报",
+    "scope_years": [
+      2025
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "定向核查案件及警方通报；检索结果仅作线索，正文另行打开。"
+  },
+  {
+    "query": "2025 重庆 巴南 熊某 6月14日 鸣笛 纠纷 通报",
+    "scope_years": [
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "补查官方通报、受害关系及媒体采访。"
+  },
+  {
+    "query": "2025 10月24日 十堰 陈某 危险方法 警情通报",
+    "scope_years": [
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "补查官方通报、受害关系及媒体采访。"
+  },
+  {
+    "query": "2025 武汉大学 持刀 随机 食堂 学生 记者",
+    "scope_years": [
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "补查官方通报、受害关系及媒体采访。"
+  },
+  {
+    "query": "上海 环球金融中心 银平 5月19日 日本人 刺 2025 2026",
+    "scope_years": [
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "补查官方通报、受害关系及媒体采访。"
+  },
+  {
+    "query": "site:mfa.gov.cn 2026年5月20日 郭嘉昆 上海 精神",
+    "scope_years": [
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "定向核查新增线索。"
+  },
+  {
+    "query": "2026 3月31日 武汉 青松路 伤人 通报",
+    "scope_years": [
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "定向核查新增线索。"
+  },
+  {
+    "query": "2026 7月13日 杭州 甜品 金某 警方",
+    "scope_years": [
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "定向核查新增线索。"
+  },
+  {
+    "query": "2025 金华 苏孟 小学 4月22日 scmp",
+    "scope_years": [
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "定向核查新增线索。"
+  },
+  {
+    "query": "\"2026年5月20日\" \"精神障碍\" \"外交部\"",
+    "scope_years": [
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "定向核查通报与媒体原始报道。"
+  },
+  {
+    "query": "\"Jinhua\" \"school\" \"April 2025\" \"car\"",
+    "scope_years": [
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "定向核查通报与媒体原始报道。"
+  },
+  {
+    "query": "2025 5月15日 北京 健安西路 四人 通报",
+    "scope_years": [
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "定向核查通报与媒体原始报道。"
+  },
+  {
+    "query": "2026 3月29日 房山 铲车 路透 法新",
+    "scope_years": [
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "定向核查通报与媒体原始报道。"
+  },
+  {
+    "query": "2025 6月26日 密云 韩某某 35岁 争吵 学生 通报",
+    "scope_years": [
+      2024,
+      2025
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "定向核查地区补漏及传言与官方差异。"
+  },
+  {
+    "query": "2025 10月6日 泉港 永嘉天地 持刀 通报",
+    "scope_years": [
+      2024,
+      2025
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "定向核查地区补漏及传言与官方差异。"
+  },
+  {
+    "query": "2024 4月13日 吉安 持刀 2人 伤 警方",
+    "scope_years": [
+      2024,
+      2025
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "定向核查地区补漏及传言与官方差异。"
+  },
+  {
+    "query": "2024 10月23日 青岛 水泥罐车 醉酒 警方",
+    "scope_years": [
+      2024,
+      2025
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "定向核查地区补漏及传言与官方差异。"
+  },
+  {
+    "query": "2024 纵火 公交车 报复社会 放火 判决",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "纵火和公交场景补漏；区分案发年与宣判年。"
+  },
+  {
+    "query": "2025 纵火 公交车 报复社会 放火 判决",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "纵火和公交场景补漏；区分案发年与宣判年。"
+  },
+  {
+    "query": "2026 纵火 公交车 报复社会 放火 判决",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "纵火和公交场景补漏；区分案发年与宣判年。"
+  },
+  {
+    "query": "2026 柳州 5月2日 峻岭 伤人 4死",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "纵火和公交场景补漏；区分案发年与宣判年。"
+  },
+  {
+    "query": "2024 7月27日 长沙 月湖 8死 粟某 判决",
+    "scope_years": [
+      2024,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "补漏并查后续。"
+  },
+  {
+    "query": "2024 广东 封开 4月26日 持刀 开车 2人 通报",
+    "scope_years": [
+      2024,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "补漏并查后续。"
+  },
+  {
+    "query": "2024 油麻 中学 持刀 7月4日 通报",
+    "scope_years": [
+      2024,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "补漏并查后续。"
+  },
+  {
+    "query": "2026 5月3日 平阳 昆阳 撞人 通报",
+    "scope_years": [
+      2024,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "补漏并查后续。"
+  },
+  {
+    "query": "site:mofa.go.jp \"2025年1月24日\" \"蘇州\" \"深セン\"",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "后续判决执行与最终伤亡复核。"
+  },
+  {
+    "query": "site:mofa.go.jp \"2025年4月18日\" \"蘇州\" \"死刑\"",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "后续判决执行与最终伤亡复核。"
+  },
+  {
+    "query": "2024 镇雄 李某娜医院 卢某斌 判决 死刑",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "后续判决执行与最终伤亡复核。"
+  },
+  {
+    "query": "2024 贵溪 潘某 展 某 明德 小学 判决 死刑",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "后续判决执行与最终伤亡复核。"
+  },
+  {
+    "query": "2026 西宁 8月19日 街头 持刀 伤人",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "宽口径补漏；未见同案可靠来源则留待核。"
+  },
+  {
+    "query": "2026 汕头 8月19日 持刀 伤人",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "宽口径补漏；未见同案可靠来源则留待核。"
+  },
+  {
+    "query": "2025 杭州 报复社会 放火 任某 四处",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "宽口径补漏；未见同案可靠来源则留待核。"
+  },
+  {
+    "query": "2024 随意 伤人 路人 判刑 2025 2026",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "宽口径补漏；未见同案可靠来源则留待核。"
+  },
+  {
+    "query": "\"任某\" \"四\" \"纵火\" \"2025\" 新津",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "后续判决与纵火补漏。"
+  },
+  {
+    "query": "\"蘇州\" \"死刑執行\" site:mofa.go.jp",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "后续判决与纵火补漏。"
+  },
+  {
+    "query": "\"深セン\" \"死刑判決\" \"令和7年1月\" site:mofa.go.jp",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "后续判决与纵火补漏。"
+  },
+  {
+    "query": "2026 5月1日 成都 李某某 1死11伤 逃逸 通报",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "高传播事故或爆炸线索核实，防止将交通事故等同随机袭击。"
+  },
+  {
+    "query": "2025 7月21日 昆明 刘某 2死9伤 警方 通报",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "高传播事故或爆炸线索核实，防止将交通事故等同随机袭击。"
+  },
+  {
+    "query": "2024 9月3日 东平 校车 11死13伤 通报",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "高传播事故或爆炸线索核实，防止将交通事故等同随机袭击。"
+  },
+  {
+    "query": "2025 1月26日 沈阳 大东 副食品 爆炸 官方",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "高传播事故或爆炸线索核实，防止将交通事故等同随机袭击。"
+  },
+  {
+    "query": "苏州 校车 持刀 周加胜 2025 1月23日 判决",
+    "scope_years": [
+      2024,
+      2025
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "判决/事故性质收尾核对。"
+  },
+  {
+    "query": "深圳 日本 男童 钟长春 2025 1月24日 引人 关注 判决",
+    "scope_years": [
+      2024,
+      2025
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "判决/事故性质收尾核对。"
+  },
+  {
+    "query": "昆明 7月20日 李某某 49岁 交通肇事逃逸 2025 通报",
+    "scope_years": [
+      2024,
+      2025
+    ],
+    "scope_regions": [],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "判决/事故性质收尾核对。"
+  },
+  {
+    "query": "https://www.sdgbxh.sdu.edu.cn/info/1018/3677.htm",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "访问失败",
+    "candidate_count": null,
+    "notes": "台州职业技术学院3·19事故保卫案例；多次超时，仅检索摘要，未据摘要升级分类。"
+  },
+  {
+    "query": "https://mnewstv.com/article.php?id=40904",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "访问失败",
+    "candidate_count": null,
+    "notes": "跳转系统维护页；汕头、西宁改查原始媒体来源。"
+  },
+  {
+    "query": "https://www.ctdsb.net/c1476_202608/2834621.html",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "访问失败",
+    "candidate_count": null,
+    "notes": "西宁报道正文两次超时，已取得华声在线转载红星正文，未把极目搜索摘要当第二独立正文。"
+  },
+  {
+    "query": "https://www.jl.nanchongpeace.gov.cn/ajzj/20250514/2971597.html",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "访问失败",
+    "candidate_count": null,
+    "notes": "抓取失败，换南充长安网同稿正文成功。"
+  },
+  {
+    "query": "https://news.cnr.cn/native/gd/kx/20250615/t20250615_527211866.shtml",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "访问失败",
+    "candidate_count": null,
+    "notes": "Unicode解码失败，换四川在线完整警方通报。"
+  },
+  {
+    "query": "https://news.cnr.cn/kuaixun/20260503/t20260503_527608591.shtml",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "访问失败",
+    "candidate_count": null,
+    "notes": "Unicode解码失败，换中国江苏网完整警方通报。"
+  },
+  {
+    "query": "https://hn.people.com.cn/n2/2024/0727/c336521-40925663.html",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "访问失败",
+    "candidate_count": null,
+    "notes": "超时，换央广网长沙月湖案完整通报。"
+  },
+  {
+    "query": "https://sc.people.com.cn/n2/2026/0501/c345509-41569755.html",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "访问失败",
+    "candidate_count": null,
+    "notes": "502，换界面新闻成都通报正文。"
+  },
+  {
+    "query": "https://news.cnr.cn/local/dftj/20250721/t20250721_527274945.shtml",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "访问失败",
+    "candidate_count": null,
+    "notes": "Unicode解码失败，换云南网昆明通报。"
+  },
+  {
+    "query": "https://yn.people.com.cn/n2/2025/0721/c361322-41297752.html",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "访问失败",
+    "candidate_count": null,
+    "notes": "超时，换云南网昆明通报。"
+  },
+  {
+    "query": "https://news.cnhubei.com/content/2025-07/21/content_19352135.html",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "访问失败",
+    "candidate_count": null,
+    "notes": "正文抓取未成功，换云南网。"
+  },
+  {
+    "query": "https://global.hk01.com/article/60335629",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "访问失败",
+    "candidate_count": null,
+    "notes": "访问失败，改www.hk01.com文章成功。"
+  },
+  {
+    "query": "https://www.chinanews.com/sh/2024/07-27/10258593.shtml",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "访问失败",
+    "candidate_count": null,
+    "notes": "长沙月湖案访问失败；央广网替代。"
+  },
+  {
+    "query": "https://www.infzm.com/contents/271110?source=131",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "访问失败",
+    "candidate_count": null,
+    "notes": "镇雄医院调查报道访问失败；无法追加其中个人经历细节。"
+  },
+  {
+    "query": "https://www.japantimes.co.jp/news/2025/01/24/japan/crime-legal/chinese-man-japan-boy-stabbing-case/",
+    "scope_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "scope_regions": [],
+    "status": "访问失败",
+    "candidate_count": null,
+    "notes": "访问失败；改用联合早报驻场报道与FNN引用日方判决说明。"
+  },
+  {
+    "query": "线索待核：莒县洛河镇宅科村2024-02-10杀人网传",
+    "scope_years": [
+      2024
+    ],
+    "scope_regions": [
+      "山东"
+    ],
+    "status": "待核",
+    "candidate_count": null,
+    "notes": "仅汇编/社交线索，未核实发生规模及是否超出特定对象。"
+  },
+  {
+    "query": "线索待核：沈阳铁西2024-03-19车辆冲撞、4-24持刀、7-4街头伤人",
+    "scope_years": [
+      2024
+    ],
+    "scope_regions": [
+      "辽宁"
+    ],
+    "status": "待核",
+    "candidate_count": null,
+    "notes": "事件日期及具体被害关系仍需官方原文核对，防混同多起事件。"
+  },
+  {
+    "query": "线索待核：桂平油麻一中2024-07-04持刀线索",
+    "scope_years": [
+      2024
+    ],
+    "scope_regions": [
+      "广西"
+    ],
+    "status": "待核",
+    "candidate_count": null,
+    "notes": "定向搜索主要命中网络汇编，无可靠正文与正式通报。"
+  },
+  {
+    "query": "线索待核：长沙2024-07-21五一广场车辆碰撞、宜章8-25持刀",
+    "scope_years": [
+      2024
+    ],
+    "scope_regions": [
+      "湖南"
+    ],
+    "status": "待核",
+    "candidate_count": null,
+    "notes": "从汇编发现，缺逐案官方原文核实。"
+  },
+  {
+    "query": "线索待核：深圳2024-08-02吉祥地铁站车辆碰撞、佛山8-3商场持刀",
+    "scope_years": [
+      2024
+    ],
+    "scope_regions": [
+      "广东"
+    ],
+    "status": "待核",
+    "candidate_count": null,
+    "notes": "汇编候选，尚无可审计随机性证据。"
+  },
+  {
+    "query": "线索待核：渠县2024-08-17土溪镇车辆碰撞",
+    "scope_years": [
+      2024
+    ],
+    "scope_regions": [
+      "四川"
+    ],
+    "status": "待核",
+    "candidate_count": null,
+    "notes": "汇编线索，需确认交通事故或故意。"
+  },
+  {
+    "query": "线索待核：苏州2024-09-11平江路持刀、泗洪9-19泗州学校车辆碰撞",
+    "scope_years": [
+      2024
+    ],
+    "scope_regions": [
+      "江苏"
+    ],
+    "status": "待核",
+    "candidate_count": null,
+    "notes": "汇编候选，未取得可靠逐案正文。"
+  },
+  {
+    "query": "线索待核：景德镇学院2024-10-24车辆碰撞",
+    "scope_years": [
+      2024
+    ],
+    "scope_regions": [
+      "江西"
+    ],
+    "status": "待核",
+    "candidate_count": null,
+    "notes": "汇编候选，需确认故意及伤亡。"
+  },
+  {
+    "query": "线索待核：宝丰第四小学2024-12-19车辆碰撞",
+    "scope_years": [
+      2024
+    ],
+    "scope_regions": [
+      "河南"
+    ],
+    "status": "待核",
+    "candidate_count": null,
+    "notes": "汇编候选，未取得可靠逐案正文。"
+  },
+  {
+    "query": "线索待核：利辛2025-01-27刘安桥车辆碰撞",
+    "scope_years": [
+      2025
+    ],
+    "scope_regions": [
+      "安徽"
+    ],
+    "status": "待核",
+    "candidate_count": null,
+    "notes": "社交汇编线索，伤亡及故意性未核。"
+  },
+  {
+    "query": "线索待核：南京六合程桥2025-01-31持刀线索",
+    "scope_years": [
+      2025
+    ],
+    "scope_regions": [
+      "江苏"
+    ],
+    "status": "待核",
+    "candidate_count": null,
+    "notes": "社交汇编线索，伤亡及被害关系未核。"
+  },
+  {
+    "query": "线索待核：诸暨大唐大润发2025-03-23持刀",
+    "scope_years": [
+      2025
+    ],
+    "scope_regions": [
+      "浙江"
+    ],
+    "status": "待核",
+    "candidate_count": null,
+    "notes": "社交汇编线索，未纳确认事件。"
+  },
+  {
+    "query": "线索待核：石家庄益东商场2025-04-03爆炸线索",
+    "scope_years": [
+      2025
+    ],
+    "scope_regions": [
+      "河北"
+    ],
+    "status": "待核",
+    "candidate_count": null,
+    "notes": "爆炸原因及人为性未核。"
+  },
+  {
+    "query": "线索待核：武汉江夏2025-04-25面馆持刀",
+    "scope_years": [
+      2025
+    ],
+    "scope_regions": [
+      "湖北"
+    ],
+    "status": "待核",
+    "candidate_count": null,
+    "notes": "社交汇编线索，未核实是否定向雇佣纠纷。"
+  },
+  {
+    "query": "线索待核：温州平阳2026-05-03车辆冲撞",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "浙江"
+    ],
+    "status": "待核",
+    "candidate_count": null,
+    "notes": "定向搜索见网传，故意与逃逸说法冲突，伤亡未经核实。"
+  },
+  {
+    "query": "线索待核：深圳2026-03-26两起伤人、广州地铁2026-04-30喷液线索",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "广东"
+    ],
+    "status": "待核",
+    "candidate_count": null,
+    "notes": "均从汇编或网媒关联报道发现，缺直接可信确认。"
+  },
+  {
+    "query": "线索待核：两江2026-03-22车辆碰撞",
+    "scope_years": [
+      2026
+    ],
+    "scope_regions": [
+      "重庆"
+    ],
+    "status": "待核",
+    "candidate_count": null,
+    "notes": "汇编候选，未取得可靠正文。"
+  },
+  {
+    "query": "北京 随机伤人 砍人",
+    "scope_years": "2018–2026（宽泛地区补漏，无搜索引擎日期限制）",
+    "scope_regions": [
+      "北京"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "2026-09-16执行。与分年及既有清单交叉检索互补；无检出不表示实际零发生。"
+  },
+  {
+    "query": "天津 无差别 袭击 伤人",
+    "scope_years": "2018–2026（宽泛地区补漏，无搜索引擎日期限制）",
+    "scope_regions": [
+      "天津"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "2026-09-16执行。与分年及既有清单交叉检索互补；无检出不表示实际零发生。"
+  },
+  {
+    "query": "河北 报复社会 驾车 伤人",
+    "scope_years": "2018–2026（宽泛地区补漏，无搜索引擎日期限制）",
+    "scope_regions": [
+      "河北"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "2026-09-16执行。与分年及既有清单交叉检索互补；无检出不表示实际零发生。"
+  },
+  {
+    "query": "山西 随机伤人",
+    "scope_years": "2018–2026（宽泛地区补漏，无搜索引擎日期限制）",
+    "scope_regions": [
+      "山西"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "2026-09-16执行。与分年及既有清单交叉检索互补；无检出不表示实际零发生。"
+  },
+  {
+    "query": "内蒙古 持刀 伤人 随机",
+    "scope_years": "2018–2026（宽泛地区补漏，无搜索引擎日期限制）",
+    "scope_regions": [
+      "内蒙古"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "2026-09-16执行。与分年及既有清单交叉检索互补；无检出不表示实际零发生。"
+  },
+  {
+    "query": "辽宁 无差别 伤人 袭击",
+    "scope_years": "2018–2026（宽泛地区补漏，无搜索引擎日期限制）",
+    "scope_regions": [
+      "辽宁"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "2026-09-16执行。与分年及既有清单交叉检索互补；无检出不表示实际零发生。"
+  },
+  {
+    "query": "吉林 随机 伤人 警方",
+    "scope_years": "2018–2026（宽泛地区补漏，无搜索引擎日期限制）",
+    "scope_regions": [
+      "吉林"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "2026-09-16执行。与分年及既有清单交叉检索互补；无检出不表示实际零发生。"
+  },
+  {
+    "query": "黑龙江 随机伤人",
+    "scope_years": "2018–2026（宽泛地区补漏，无搜索引擎日期限制）",
+    "scope_regions": [
+      "黑龙江"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "2026-09-16执行。与分年及既有清单交叉检索互补；无检出不表示实际零发生。"
+  },
+  {
+    "query": "上海 随机伤人",
+    "scope_years": "2018–2026（宽泛地区补漏，无搜索引擎日期限制）",
+    "scope_regions": [
+      "上海"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "2026-09-16执行。与分年及既有清单交叉检索互补；无检出不表示实际零发生。"
+  },
+  {
+    "query": "江苏 随机伤人",
+    "scope_years": "2018–2026（宽泛地区补漏，无搜索引擎日期限制）",
+    "scope_regions": [
+      "江苏"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "2026-09-16执行。与分年及既有清单交叉检索互补；无检出不表示实际零发生。"
+  },
+  {
+    "query": "浙江 随机伤人",
+    "scope_years": "2018–2026（宽泛地区补漏，无搜索引擎日期限制）",
+    "scope_regions": [
+      "浙江"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "2026-09-16执行。与分年及既有清单交叉检索互补；无检出不表示实际零发生。"
+  },
+  {
+    "query": "安徽 随机伤人",
+    "scope_years": "2018–2026（宽泛地区补漏，无搜索引擎日期限制）",
+    "scope_regions": [
+      "安徽"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "2026-09-16执行。与分年及既有清单交叉检索互补；无检出不表示实际零发生。"
+  },
+  {
+    "query": "福建 \"持刀\" \"随机\"",
+    "scope_years": "2018–2026（宽泛地区补漏，无搜索引擎日期限制）",
+    "scope_regions": [
+      "福建"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "2026-09-16执行。与分年及既有清单交叉检索互补；无检出不表示实际零发生。"
+  },
+  {
+    "query": "江西 \"持刀\" \"随机\"",
+    "scope_years": "2018–2026（宽泛地区补漏，无搜索引擎日期限制）",
+    "scope_regions": [
+      "江西"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "2026-09-16执行。与分年及既有清单交叉检索互补；无检出不表示实际零发生。"
+  },
+  {
+    "query": "山东 \"驾车\" \"报复社会\"",
+    "scope_years": "2018–2026（宽泛地区补漏，无搜索引擎日期限制）",
+    "scope_regions": [
+      "山东"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "2026-09-16执行。与分年及既有清单交叉检索互补；无检出不表示实际零发生。"
+  },
+  {
+    "query": "河南 \"随机伤人\"",
+    "scope_years": "2018–2026（宽泛地区补漏，无搜索引擎日期限制）",
+    "scope_regions": [
+      "河南"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "2026-09-16执行。与分年及既有清单交叉检索互补；无检出不表示实际零发生。"
+  },
+  {
+    "query": "湖北 \"随机伤人\"",
+    "scope_years": "2018–2026（宽泛地区补漏，无搜索引擎日期限制）",
+    "scope_regions": [
+      "湖北"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "2026-09-16执行。与分年及既有清单交叉检索互补；无检出不表示实际零发生。"
+  },
+  {
+    "query": "湖南 \"随机伤人\"",
+    "scope_years": "2018–2026（宽泛地区补漏，无搜索引擎日期限制）",
+    "scope_regions": [
+      "湖南"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "2026-09-16执行。与分年及既有清单交叉检索互补；无检出不表示实际零发生。"
+  },
+  {
+    "query": "广东 \"随机伤人\"",
+    "scope_years": "2018–2026（宽泛地区补漏，无搜索引擎日期限制）",
+    "scope_regions": [
+      "广东"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "2026-09-16执行。与分年及既有清单交叉检索互补；无检出不表示实际零发生。"
+  },
+  {
+    "query": "广西 \"随机伤人\"",
+    "scope_years": "2018–2026（宽泛地区补漏，无搜索引擎日期限制）",
+    "scope_regions": [
+      "广西"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "2026-09-16执行。与分年及既有清单交叉检索互补；无检出不表示实际零发生。"
+  },
+  {
+    "query": "海南 \"随机伤人\"",
+    "scope_years": "2018–2026（宽泛地区补漏，无搜索引擎日期限制）",
+    "scope_regions": [
+      "海南"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "2026-09-16执行。与分年及既有清单交叉检索互补；无检出不表示实际零发生。"
+  },
+  {
+    "query": "重庆 \"随机伤人\"",
+    "scope_years": "2018–2026（宽泛地区补漏，无搜索引擎日期限制）",
+    "scope_regions": [
+      "重庆"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "2026-09-16执行。与分年及既有清单交叉检索互补；无检出不表示实际零发生。"
+  },
+  {
+    "query": "四川 \"随机伤人\"",
+    "scope_years": "2018–2026（宽泛地区补漏，无搜索引擎日期限制）",
+    "scope_regions": [
+      "四川"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "2026-09-16执行。与分年及既有清单交叉检索互补；无检出不表示实际零发生。"
+  },
+  {
+    "query": "贵州 \"随机伤人\"",
+    "scope_years": "2018–2026（宽泛地区补漏，无搜索引擎日期限制）",
+    "scope_regions": [
+      "贵州"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "2026-09-16执行。与分年及既有清单交叉检索互补；无检出不表示实际零发生。"
+  },
+  {
+    "query": "云南 \"无差别\" \"伤人\"",
+    "scope_years": "2018–2026（宽泛地区补漏，无搜索引擎日期限制）",
+    "scope_regions": [
+      "云南"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "2026-09-16执行。与分年及既有清单交叉检索互补；无检出不表示实际零发生。"
+  },
+  {
+    "query": "西藏 \"持刀伤人\"",
+    "scope_years": "2018–2026（宽泛地区补漏，无搜索引擎日期限制）",
+    "scope_regions": [
+      "西藏"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "2026-09-16执行。与分年及既有清单交叉检索互补；无检出不表示实际零发生。"
+  },
+  {
+    "query": "陕西 \"随机\" \"伤人\"",
+    "scope_years": "2018–2026（宽泛地区补漏，无搜索引擎日期限制）",
+    "scope_regions": [
+      "陕西"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "2026-09-16执行。与分年及既有清单交叉检索互补；无检出不表示实际零发生。"
+  },
+  {
+    "query": "甘肃 \"无差别\" \"伤人\"",
+    "scope_years": "2018–2026（宽泛地区补漏，无搜索引擎日期限制）",
+    "scope_regions": [
+      "甘肃"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "2026-09-16执行。与分年及既有清单交叉检索互补；无检出不表示实际零发生。"
+  },
+  {
+    "query": "青海 \"持刀\" \"随机\"",
+    "scope_years": "2018–2026（宽泛地区补漏，无搜索引擎日期限制）",
+    "scope_regions": [
+      "青海"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "2026-09-16执行。与分年及既有清单交叉检索互补；无检出不表示实际零发生。"
+  },
+  {
+    "query": "宁夏 \"随机伤人\"",
+    "scope_years": "2018–2026（宽泛地区补漏，无搜索引擎日期限制）",
+    "scope_regions": [
+      "宁夏"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "2026-09-16执行。与分年及既有清单交叉检索互补；无检出不表示实际零发生。"
+  },
+  {
+    "query": "新疆 \"随机伤人\"",
+    "scope_years": "2018–2026（宽泛地区补漏，无搜索引擎日期限制）",
+    "scope_regions": [
+      "新疆"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "2026-09-16执行。与分年及既有清单交叉检索互补；无检出不表示实际零发生。"
+  },
+  {
+    "query": "2018 2019 2020 中国 境内 恐怖袭击 事件",
+    "scope_years": "2018 2019 2020",
+    "scope_regions": [
+      "中国大陆"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "2026-09-16补查有组织恐怖袭击。检出多为境外袭击中国公民、区间外案件或将个体袭击泛称恐怖主义，未检出满足组织性认定且在研究范围的可核实新增事件。"
+  },
+  {
+    "query": "2021 2022 2023 中国大陆 恐怖袭击 事件",
+    "scope_years": "2021 2022 2023",
+    "scope_regions": [
+      "中国大陆"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "2026-09-16补查有组织恐怖袭击。检出多为境外袭击中国公民、区间外案件或将个体袭击泛称恐怖主义，未检出满足组织性认定且在研究范围的可核实新增事件。"
+  },
+  {
+    "query": "2024 2025 2026 中国大陆 恐怖袭击 事件",
+    "scope_years": "2024 2025 2026",
+    "scope_regions": [
+      "中国大陆"
+    ],
+    "status": "已检索",
+    "candidate_count": null,
+    "notes": "2026-09-16补查有组织恐怖袭击。检出多为境外袭击中国公民、区间外案件或将个体袭击泛称恐怖主义，未检出满足组织性认定且在研究范围的可核实新增事件。"
+  }
+]

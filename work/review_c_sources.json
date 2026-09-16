@@ -1,0 +1,75 @@
+{
+  "sources": [
+    {
+      "id": "RCS001",
+      "url": "https://m.bjnews.com.cn/detail/1715079361168094.html",
+      "title": "云南镇雄医院持刀伤人男子已被抓获",
+      "publisher": "新京报",
+      "published_date": "2024-05-07",
+      "accessed_date": "2026-09-16",
+      "type": "独立媒体（引述官方渠道）",
+      "independence_group": "zhenxiong-bjnews-20240507",
+      "supports": [
+        "C007"
+      ],
+      "key_facts": "记者闫沫琛、赵敏从当地官方渠道核实嫌犯被捕及伤者含儿童；正文转载警方2死21伤，未披露攻击选择方式。",
+      "access_status": "正文已打开"
+    },
+    {
+      "id": "RCS002",
+      "url": "https://www.ctdsb.net/c1716_202410/2273430.html",
+      "title": "广州一小学附近发生持刀伤人事件 三人受伤",
+      "publisher": "大皖新闻（极目新闻转载）",
+      "published_date": "2024-10-08",
+      "accessed_date": "2026-09-16",
+      "type": "公安与记者核实",
+      "independence_group": "tianhe-police-20241008",
+      "supports": [
+        "C015"
+      ],
+      "key_facts": "完整转载天河公安：华强路持刀伤害路人，3名群众受伤；记者联系辖区派出所确认发生。网友所述2儿童1女性与财新身份核实分开，不当独立现场采集。",
+      "access_status": "正文已打开"
+    },
+    {
+      "id": "RCS003",
+      "url": "https://finance.sina.com.cn/wm/2024-05-08/doc-inaunxuw9473291.shtml",
+      "title": "刑释男子，在医院随机杀人",
+      "publisher": "南风窗（新浪转载）",
+      "published_date": "2024-05-08",
+      "accessed_date": "2026-09-16",
+      "type": "独立媒体",
+      "independence_group": "zhenxiong-nanfeng-20240508",
+      "supports": [
+        "C007"
+      ],
+      "key_facts": "独立采访伤者之女，母亲陪儿童就诊时受伤；标题使用随机，但正文未明确施害者与伤者是否相识。记者比对旧案姓名、户籍、年龄，称匹配，不能推定旧案不满即本案动机。",
+      "access_status": "正文已打开"
+    },
+    {
+      "id": "RCS004",
+      "url": "https://k.sina.com.cn/article_1496814565_m593793e503301zdlw.html",
+      "title": "警方通报街头持刀伤人致4伤",
+      "publisher": "封面新闻（新浪官方账号）",
+      "published_date": "2026-03-31",
+      "accessed_date": "2026-09-16",
+      "type": "独立媒体",
+      "independence_group": "wuhan-qingsong-cover-20260331",
+      "supports": [
+        "C027"
+      ],
+      "key_facts": "封面记者现场走访店主：施害者平日住附近，目击者没有看到事情起因；见其水果刀伤人后又去另一店拿裁纸刀，民警与群众制服。没有明确证实受害者关系，不改变pending；不将异常观感写成精神医学诊断。",
+      "access_status": "正文已打开"
+    }
+  ],
+  "source_updates": [
+    {
+      "id": "CS011",
+      "access_status": "2026-09-16复核404",
+      "replacement_support": [
+        "CS012",
+        "RCS001"
+      ],
+      "note": "保留原记录供审计；不再作为唯一可访问事实入口。"
+    }
+  ]
+}

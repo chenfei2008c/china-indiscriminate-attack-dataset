@@ -1,0 +1,617 @@
+{
+  "review_id": "AB_CODE_NBS_REVIEW_20260916",
+  "cutoff": "2026-09-16",
+  "scope": "最终A49案/B50案独立只读审查，兼核146案结构与统计代码、四张NBS表；未编辑原A/B文件、统计代码或背景数据。",
+  "status": "changes_recommended",
+  "file_snapshots": {
+    "work/group_a.json": "5d51de61fad68364b0dcb4e159a5efcb6a39d0e0085247422c6f5e95e0984c4a",
+    "work/group_b.json": "17aebf9d13b15fae176669176dfdd429d2320b7ccef1be09eb89c7dd21558268",
+    "scripts/analyze.py": "39ddbee69c0c48b1090fc5a09dcbf41625c5c12ee7c422c1d1d098584817419f",
+    "scripts/build_context.py": "9e31dbf106c1374a2fe9e5ecf3c8d96c0c94da77d842adf27f459e5931f292ae",
+    "data/provincial_context.json": "26d26f1bab21be7f8b55668a4c33a3059bb00a456414b4825adcdb5ff0b29d28"
+  },
+  "summary": {
+    "case_checks": 17,
+    "A_case_bodies_checked": 7,
+    "B_case_bodies_checked": 9,
+    "NBS_images_checked": 4,
+    "NBS_cells_checked": 20,
+    "NBS_cell_mismatches": 0,
+    "findings": 7
+  },
+  "findings": [
+    {
+      "id": "REV01",
+      "severity": "high",
+      "status": "proposed_override",
+      "event_ids": [
+        "A010"
+      ],
+      "issue": "伤者仍用初报5人，后续警方已修订7人。",
+      "evidence_urls": [
+        "https://ijs.ifeng.com/6823540/news.shtml"
+      ],
+      "recommendation": "合并RS001与review_overrides.A010；保留core并更新分类依据、伤亡日期和嫌疑人伤。"
+    },
+    {
+      "id": "REV02",
+      "severity": "high",
+      "status": "proposed_override",
+      "event_ids": [
+        "B30",
+        "B35"
+      ],
+      "issue": "仅凭多人被称为路人认定随机，与C030/B37等待目标关系证据的口径不一致。",
+      "recommendation": "两案降为pending；事件与伤亡仍为已核实，不将精神状态当随机性证据。"
+    },
+    {
+      "id": "REV03",
+      "severity": "medium",
+      "status": "proposed_override",
+      "event_ids": [
+        "B04"
+      ],
+      "issue": "20是有效但偏松下限；同一判决细目可确认至少25名非死亡伤者。",
+      "recommendation": "injured维持null，injured_lower_bound=25；保留25分项的计算依据。"
+    },
+    {
+      "id": "REV04",
+      "severity": "high",
+      "status": "code_change_required",
+      "location": "scripts/analyze.py official assignment and sensitivity",
+      "event_ids": [
+        "B11",
+        "B23",
+        "C008",
+        "C015",
+        "C016",
+        "C017",
+        "C022",
+        "C013",
+        "C014"
+      ],
+      "issue": "事件级evidence_level只能说明发生得到官方确认，不能保证分类依据也是官方直接认定。媒体独立采访与外交转述法院被混入官方分类敏感性。",
+      "recommendation": "official_occurrence与official_classification分列。敏感性只计后者为true的明确记录；本次例外见review_overrides。未逐案核准的剩余记录不要仅凭来源type自动视为官方认定。"
+    },
+    {
+      "id": "REV05",
+      "severity": "low",
+      "status": "latent_code_bug",
+      "location": "scripts/analyze.py groups",
+      "issue": "键缺失时集合将None映射未披露，但过滤保留原始None，合成1行缺scene生成未披露events=0。",
+      "current_impact": "目前146案province/scene/method完整，当前统计未受影响。",
+      "recommendation": "生成键与过滤时使用相同归一化函数，或预先分桶。"
+    },
+    {
+      "id": "REV06",
+      "severity": "low",
+      "status": "validation_hardening",
+      "location": "scripts/analyze.py source and numeric validation",
+      "issue": "校验只检查source_id存在，未检查field_sources是否属于本事件source_ids/反向supports，且缺少精确值>=下限及重伤<=伤者检查。",
+      "current_impact": "本轮146案未发现这些异常；没有重复source_id。",
+      "recommendation": "补充集合包含与反向引用校验、finite非负整数和伤亡内部约束；来源ID冲突不宜静默last-wins。"
+    },
+    {
+      "id": "REV07",
+      "severity": "medium",
+      "status": "source_metadata_correction",
+      "location": "BS11.type/publisher",
+      "event_ids": [
+        "B11"
+      ],
+      "issue": "BS11标为法院，但正文是法院账号转载齐鲁晚报警情与目击采访，没有审判或法院事实认定。",
+      "recommendation": "保留实际发布账号，并注明原稿齐鲁晚报；type建议官方媒体/独立媒体，另以分字段provenance说明公安通报和媒体采访。不从发布账号推导司法证据。"
+    }
+  ],
+  "case_checks": [
+    {
+      "event_id": "A008",
+      "group": "A",
+      "source_urls": [
+        "https://www.yantai.gov.cn/art/2018/6/25/art_44443_2893743.html"
+      ],
+      "body_checked": true,
+      "status": "pass",
+      "result": "警方正文确认主动驾驶叉车撞人，受害者1死、10余伤，嫌疑人另被击毙；精确受伤null/下限10未把模糊数强行精确。"
+    },
+    {
+      "event_id": "A010",
+      "group": "A",
+      "source_urls": [
+        "https://www.chinanews.com/m/sh/2018/08-21/8606061.shtml",
+        "https://ijs.ifeng.com/6823540/news.shtml"
+      ],
+      "body_checked": true,
+      "status": "change_required",
+      "result": "初报5伤应改后续7伤；主动沿途袭击过程补强core，嫌疑人伤另列。"
+    },
+    {
+      "event_id": "A023",
+      "group": "A",
+      "source_urls": [
+        "https://news.sina.com.cn/c/2019-03-22/doc-ihtxyzsk9594100.shtml"
+      ],
+      "body_checked": true,
+      "status": "pass",
+      "result": "政府通告明确6名受害者死亡、8伤含妻女，另嫌疑人被击毙；expanded和受害者/作案者分列正确。"
+    },
+    {
+      "event_id": "A036",
+      "group": "A",
+      "source_urls": [
+        "https://news.sina.cn/gn/2020-06-18/detail-iirczymk7692553.d.html"
+      ],
+      "body_checked": true,
+      "status": "pass",
+      "result": "警方分列交通碰撞3伤、主动刀伤女友及5名路人、另打伤1人；主动伤害7伤、额外碰撞3伤，事件送医10人。无重复。"
+    },
+    {
+      "event_id": "A017",
+      "group": "A",
+      "source_urls": [
+        "https://mil.sina.cn/2019-01-29/detail-ihqfskcp1570856.d.html"
+      ],
+      "body_checked": true,
+      "status": "pass",
+      "result": "法院后续8死25伤、一审2019-01-28与数据一致；初始定向关系本轮未重新打开AS055，expanded沿用组内证据。"
+    },
+    {
+      "event_id": "A003",
+      "group": "A",
+      "source_urls": [
+        "https://www.hkcd.com/content/2019-12/24/content_1171226.html"
+      ],
+      "body_checked": true,
+      "status": "pass",
+      "result": "原AS004本轮访问失败，替代完整转载核实18死及1重伤2轻伤和12/24执行；伤者至少3人合理，精确值仍因组内先后口径差异留空。"
+    },
+    {
+      "event_id": "A038",
+      "group": "A",
+      "source_urls": [
+        "https://m.news.cctv.com/2020/07/07/ARTIPD2xADSoxWTdej41iWzI200707.shtml"
+      ],
+      "body_checked": true,
+      "status": "pass_with_limitation",
+      "result": "央视证实总死21含司机且司机死亡，受害者20与作案者1分列正确；7/8正文区分生还16与仍住院15，后续警方15伤值沿用原AS042，复核不据住院数擅自重算伤者。"
+    },
+    {
+      "event_id": "B04",
+      "group": "B",
+      "source_urls": [
+        "https://www.thepaper.cn/newsDetail_forward_23055693"
+      ],
+      "body_checked": true,
+      "status": "change_required",
+      "result": "6名死者与另有伤者分列，10+2+13=25为互斥伤情级别。至少25伤可明确，其他4份伤情描述不强行计为精确受伤。"
+    },
+    {
+      "event_id": "B10",
+      "group": "B",
+      "source_urls": [
+        "https://finance.sina.com.cn/wm/2025-08-19/doc-infmpuqz5930493.shtml?froms=ggmp"
+      ],
+      "body_checked": true,
+      "status": "pass",
+      "result": "最高法裁定转述明确除本人外7伤、3重伤二级；案发40岁算式正确。2025为公开文书日，非新增案发日或已执行证明。"
+    },
+    {
+      "event_id": "B11",
+      "group": "B",
+      "source_urls": [
+        "https://m.thepaper.cn/newsDetail_forward_15729518"
+      ],
+      "body_checked": true,
+      "status": "source_tier_fix",
+      "result": "9伤包括7群众2民警均被袭击；不含嫌疑人，数值正确。随机性为商户采访，BS11不能因转载账号属法院而把其采访部分算法院认定。"
+    },
+    {
+      "event_id": "B23",
+      "group": "B",
+      "source_urls": [
+        "https://china.caixin.com/2022-07-05/101908062.html"
+      ],
+      "body_checked": true,
+      "status": "source_tier_fix",
+      "result": "警方部分确认原单位纠纷；财新独立采访说明随机袭击进出员工、6伤、2人在ICU。core可保留但official_classification=false，ICU不等于司法重伤。"
+    },
+    {
+      "event_id": "B30",
+      "group": "B",
+      "source_urls": [
+        "https://mil.news.sina.com.cn/2023-04-03/doc-imypaaar3376321.shtml",
+        "https://www.sohu.com/a/662385901_355825"
+      ],
+      "body_checked": true,
+      "status": "change_required",
+      "result": "通报和极目现场采访均未确立起始目标选择；路人身份及被群众制止不足以证明随机性，建议pending。"
+    },
+    {
+      "event_id": "B35",
+      "group": "B",
+      "source_urls": [
+        "https://www.guancha.cn/politics/2023_05_15_692336.shtml",
+        "https://k.sina.com.cn/article_1895096900_70f4e24402001kbjj.html"
+      ],
+      "body_checked": false,
+      "status": "change_required",
+      "result": "两网址本轮open失败，搜索索引全文均仅转述路过几名行人，未见关系或随机选择新证据。原组已打开；独立复核不声称本轮正文成功。建议pending。"
+    },
+    {
+      "event_id": "B40",
+      "group": "B",
+      "source_urls": [
+        "https://nx.jcy.gov.cn/hlxy/ajjj/202401/t20240105_821183.html",
+        "https://www.jiemian.com/article/11855265.html"
+      ],
+      "body_checked": true,
+      "status": "pass",
+      "result": "最高检原页403后，贺兰检察院同篇法治日报全文确认6/17两名不同伤者；6/22另1死。按日期2事件合计1死2伤无重复，series_id已记录。"
+    },
+    {
+      "event_id": "B41",
+      "group": "B",
+      "source_urls": [
+        "https://nx.jcy.gov.cn/hlxy/ajjj/202401/t20240105_821183.html",
+        "https://www.jiemian.com/article/11855265.html"
+      ],
+      "body_checked": true,
+      "status": "pass",
+      "result": "6/22只计1死，6/17两名伤者归B40；界面1死1伤的摘要与法院逐人事实不同，当前采司法细目正确。10/21执行为家属确认，需保持归因说明。"
+    },
+    {
+      "event_id": "B44",
+      "group": "B",
+      "source_urls": [
+        "https://www.peopleapp.com/column/30035479532-500000652831"
+      ],
+      "body_checked": true,
+      "status": "pass",
+      "result": "官方通报母亲1人+逃窜8人，共9名受害者，2死7伤；不得将刺伤8人再与7个伤者相加。expanded可保留。"
+    },
+    {
+      "event_id": "B50",
+      "group": "B",
+      "source_urls": [
+        "https://www.thepaper.cn/newsDetail_forward_11824989"
+      ],
+      "body_checked": true,
+      "status": "pass",
+      "result": "警方总死5明确包含嫌疑人；数据受害者4死5伤、嫌疑人1死正确；目标关系未知保持pending。"
+    }
+  ],
+  "context_cell_checks": [
+    {
+      "image": "evidence/nbs_2025_population.jpg",
+      "field": "population_10k",
+      "province": "北京",
+      "year": 2018,
+      "image_value": 2192,
+      "json_value": 2192,
+      "passed": true
+    },
+    {
+      "image": "evidence/nbs_2025_population.jpg",
+      "field": "population_10k",
+      "province": "湖北",
+      "year": 2020,
+      "image_value": 5745,
+      "json_value": 5745,
+      "passed": true
+    },
+    {
+      "image": "evidence/nbs_2025_population.jpg",
+      "field": "population_10k",
+      "province": "广东",
+      "year": 2024,
+      "image_value": 12780,
+      "json_value": 12780,
+      "passed": true
+    },
+    {
+      "image": "evidence/nbs_2025_population.jpg",
+      "field": "population_10k",
+      "province": "新疆",
+      "year": 2024,
+      "image_value": 2623,
+      "json_value": 2623,
+      "passed": true
+    },
+    {
+      "image": "evidence/nbs_2025_urbanization.jpg",
+      "field": "urbanization_pct",
+      "province": "北京",
+      "year": 2018,
+      "image_value": 87.09,
+      "json_value": 87.09,
+      "passed": true
+    },
+    {
+      "image": "evidence/nbs_2025_urbanization.jpg",
+      "field": "urbanization_pct",
+      "province": "广东",
+      "year": 2024,
+      "image_value": 75.91,
+      "json_value": 75.91,
+      "passed": true
+    },
+    {
+      "image": "evidence/nbs_2025_urbanization.jpg",
+      "field": "urbanization_pct",
+      "province": "西藏",
+      "year": 2024,
+      "image_value": 39.68,
+      "json_value": 39.68,
+      "passed": true
+    },
+    {
+      "image": "evidence/nbs_2025_urbanization.jpg",
+      "field": "urbanization_pct",
+      "province": "新疆",
+      "year": 2018,
+      "image_value": 54.01,
+      "json_value": 54.01,
+      "passed": true
+    },
+    {
+      "image": "evidence/nbs_2025_income.jpg",
+      "field": "income_yuan",
+      "province": "上海",
+      "year": 2024,
+      "image_value": 88366,
+      "json_value": 88366,
+      "passed": true
+    },
+    {
+      "image": "evidence/nbs_2025_income.jpg",
+      "field": "income_yuan",
+      "province": "湖北",
+      "year": 2020,
+      "image_value": 27881,
+      "json_value": 27881,
+      "passed": true
+    },
+    {
+      "image": "evidence/nbs_2025_income.jpg",
+      "field": "income_yuan",
+      "province": "西藏",
+      "year": 2018,
+      "image_value": 17286,
+      "json_value": 17286,
+      "passed": true
+    },
+    {
+      "image": "evidence/nbs_2025_income.jpg",
+      "field": "income_yuan",
+      "province": "新疆",
+      "year": 2024,
+      "image_value": 30899,
+      "json_value": 30899,
+      "passed": true
+    },
+    {
+      "image": "evidence/nbs_2025_employment.jpg",
+      "field": "employed_10k",
+      "province": "北京",
+      "year": 2024,
+      "image_value": 1118,
+      "json_value": 1118,
+      "passed": true
+    },
+    {
+      "image": "evidence/nbs_2025_employment.jpg",
+      "field": "tertiary_employed_10k",
+      "province": "北京",
+      "year": 2024,
+      "image_value": 917,
+      "json_value": 917,
+      "passed": true
+    },
+    {
+      "image": "evidence/nbs_2025_employment.jpg",
+      "field": "employed_10k",
+      "province": "广东",
+      "year": 2024,
+      "image_value": 7061,
+      "json_value": 7061,
+      "passed": true
+    },
+    {
+      "image": "evidence/nbs_2025_employment.jpg",
+      "field": "tertiary_employed_10k",
+      "province": "广东",
+      "year": 2024,
+      "image_value": 3816,
+      "json_value": 3816,
+      "passed": true
+    },
+    {
+      "image": "evidence/nbs_2025_employment.jpg",
+      "field": "employed_10k",
+      "province": "西藏",
+      "year": 2024,
+      "image_value": 195,
+      "json_value": 195,
+      "passed": true
+    },
+    {
+      "image": "evidence/nbs_2025_employment.jpg",
+      "field": "tertiary_employed_10k",
+      "province": "西藏",
+      "year": 2024,
+      "image_value": 99,
+      "json_value": 99,
+      "passed": true
+    },
+    {
+      "image": "evidence/nbs_2025_employment.jpg",
+      "field": "employed_10k",
+      "province": "新疆",
+      "year": 2024,
+      "image_value": 1391,
+      "json_value": 1391,
+      "passed": true
+    },
+    {
+      "image": "evidence/nbs_2025_employment.jpg",
+      "field": "tertiary_employed_10k",
+      "province": "新疆",
+      "year": 2024,
+      "image_value": 754,
+      "json_value": 754,
+      "passed": true
+    }
+  ],
+  "context_checks": {
+    "province_year_rows": 248,
+    "unique_province_year": true,
+    "years": {
+      "2018": 31,
+      "2019": 31,
+      "2020": 31,
+      "2021": 31,
+      "2022": 31,
+      "2023": 31,
+      "2024": 31,
+      "2025": 31
+    },
+    "tertiary_share_2024_all_31_correct": true,
+    "units": "人口/就业=万人；收入=元；城镇化/第三产业就业占比=百分比。每百万人分母population_10k/100正确。",
+    "limitations": "目视20单元格抽查不是四表全部单元格独立双录；2025媒体人口另列，本轮不将其冒充四张NBS表。失业率保持null，无口径混用。",
+    "script_to_json_cells_checked": 713,
+    "script_to_json_mismatches": []
+  },
+  "code_checks": {
+    "all_146_event_ids_unique": true,
+    "all_146_source_and_field_refs_exist": true,
+    "field_sources_subset_event_source_ids": true,
+    "source_supports_reciprocal": true,
+    "exact_ge_lower_bound": true,
+    "serious_le_exact_injured": true,
+    "duplicate_date_province_city": [],
+    "unknown_and_lower_bounds": "精确已知合计不含null；下限合计使用精确值或明确下限，完全未知贡献0作为数学下限，unknown_events仍计数。此算法可接受，但展示必须同时注明下限及未知事件数；不能把lower_total当精确真实总数。",
+    "series_grain": "B40/B41为同一作案人不同日期事件，合计伤亡不重复；series_id记录了刑事案件关联。",
+    "read_only_execution": "仅import analyze.py调用纯统计函数，未执行main；build_context.py仅AST读取常量，未导入运行。"
+  },
+  "source_tier_exceptions": {
+    "A010": {
+      "official_occurrence": true,
+      "official_classification": true,
+      "classification_evidence_basis": "警方通气会直接披露主动沿途袭击过路者"
+    },
+    "B04": {
+      "official_occurrence": true,
+      "official_classification": true,
+      "classification_evidence_basis": "记者核对法院判决并转述明确针对不特定多数人的认定"
+    },
+    "B30": {
+      "official_occurrence": true,
+      "official_classification": false,
+      "classification_evidence_basis": "官方确认事件和路人受伤，未明确随机性；待补证"
+    },
+    "B35": {
+      "official_occurrence": true,
+      "official_classification": false,
+      "classification_evidence_basis": "官方确认事件和路人受伤，未明确随机性；待补证"
+    },
+    "B11": {
+      "official_occurrence": true,
+      "official_classification": false,
+      "classification_evidence_basis": "公安通报确认伤亡；陌生人、沿街连续攻击来自齐鲁晚报商户采访，法院账号仅转载。"
+    },
+    "B23": {
+      "official_occurrence": true,
+      "official_classification": false,
+      "classification_evidence_basis": "公安通报确认原单位纠纷和持刀伤人；随机攻击进出员工来自财新独立了解。"
+    },
+    "C008": {
+      "official_occurrence": true,
+      "official_classification": false,
+      "classification_evidence_basis": "公安通报确认成人校园袭击及伤亡；低年级教室和学生群体的具体过程来自南风窗采访。"
+    },
+    "C015": {
+      "official_occurrence": true,
+      "official_classification": false,
+      "classification_evidence_basis": "警方确认路人受伤；两名不同学生和现场目标群体来自财新采访。"
+    },
+    "C016": {
+      "official_occurrence": true,
+      "official_classification": false,
+      "classification_evidence_basis": "公安通报确认5名路人含3名未成年人受伤；学生及劝阻者身份来自财新。"
+    },
+    "C017": {
+      "official_occurrence": true,
+      "official_classification": false,
+      "classification_evidence_basis": "警方确认持剪刀乱挥伤人；陌生人关系和向过路者刺击来自目击及受害者陈述。"
+    },
+    "C022": {
+      "official_occurrence": true,
+      "official_classification": false,
+      "classification_evidence_basis": "警方确认危害公共安全案件及伤亡；直冲等候人群的主动性依据来自财新现场视频核查。"
+    },
+    "C013": {
+      "official_occurrence": true,
+      "official_classification": false,
+      "classification_evidence_basis": "苏州法院动机认定通过日本官方向记者介绍的裁判内容转述，另有江苏官方救人事迹；不是本项目直接取得的中国法院裁判正文。"
+    },
+    "C014": {
+      "official_occurrence": true,
+      "official_classification": false,
+      "classification_evidence_basis": "深圳案件裁判的网络关注动机由日驻华大使向媒体介绍，外务省确认执行通知；与直接取得国内裁判正文分层。"
+    }
+  },
+  "source_metadata_suggested_overrides": {
+    "BS11": {
+      "type": "官方媒体",
+      "publisher": "巨野法院澎湃号转载齐鲁晚报（含浦东公安通报及商户采访）",
+      "provenance_note": "官方账号转载不等于法院判决；发生/伤亡来自警情，陌生人连续攻击来自现场采访。"
+    }
+  },
+  "boundary_searches": [
+    "2018 镇江 百盛家园 张某 持刀 5人 判决 随机",
+    "2023 重庆 江北 建新西路 淦某 4名 路人 判决 随机",
+    "2023 贵阳 云岩 百草巷 张某 剪刀 路过 随机 通报",
+    "贵阳警方 通报 剪刀 2023 5 15"
+  ],
+  "access_failures": [
+    "AS004澳门日报页本轮cache miss，改查香港商报完整转载",
+    "AS042搜狐页本轮cache miss，另核央视初报和搜救伤亡；后续警方15伤沿用原研究",
+    "BS43最高检本轮403，改查贺兰县检察院同稿全文",
+    "BS47深圳新闻网本轮超时，改查人民日报客户端同一警情",
+    "BS55每日经济新闻本轮超时，改查澎湃警方通报",
+    "BS38观察者/新浪镜像本轮open失败，搜索索引完整短警情可见；复核结果保守降级"
+  ],
+  "limitations": [
+    "抽查未覆盖A/B每案全部事实，不将结构校验当作对事实的逐案确认。",
+    "本次classification布尔字段只表达来源层级，不代表随机袭击概率；false的core案仍可有可靠媒体随机性证据。",
+    "官方分类为真应以材料明确描写对象选择、主动攻击不特定人群或与纠纷无关对象为准，不能只用危害公共安全罪名。",
+    "其他组核心学校/群体案件仍需统一公开解释纳入判断；未发现私人关系不等于关系不存在。"
+  ],
+  "artifacts": {
+    "new_sources": "work/review_sources.json（直接sources数组）",
+    "event_overrides": "work/review_overrides.json（按事件id键控，浅合并；field_sources为完整对象）"
+  },
+  "post_override_simulation": {
+    "categories": {
+      "core": 51,
+      "excluded": 12,
+      "pending": 71,
+      "expanded": 12
+    },
+    "valid_references": true,
+    "sources_unique": true,
+    "core_casualties": {
+      "events": 51,
+      "deaths_known_total": 162,
+      "deaths_lower_total": 162,
+      "deaths_unknown_events": 1,
+      "injured_known_total": 462,
+      "injured_lower_total": 518,
+      "injured_unknown_events": 6
+    }
+  },
+  "final_validation": {
+    "review_json_parse_passed": true,
+    "original_A_B_hashes_unchanged": true
+  }
+}

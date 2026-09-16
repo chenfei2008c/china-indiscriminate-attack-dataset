@@ -1,0 +1,125 @@
+{
+  "A010": {
+    "injured": 7,
+    "attacker_injured": 1,
+    "classification_reason": "后续警方通气会披露持双刀沿多路段伤人，逃跑中主动砍伤过路女子并抢其电动车，支持向无关过路者实施主动袭击；不再仅以初报5名路人推断。",
+    "casualty_asof": "2018-08-21",
+    "casualty_note": "8月21日警方通气会将初报5伤修订为7伤：另有2名伤势较轻者自行回家后被走访发现。7名受害者之外嫌疑人有伤并送医，另列attacker_injured=1；4人伤势较重不等于司法重伤。",
+    "last_source_date": "2018-08-22",
+    "source_ids": [
+      "AS012",
+      "RS001"
+    ],
+    "field_sources": {
+      "date": [
+        "AS012",
+        "RS001"
+      ],
+      "location": [
+        "AS012",
+        "RS001"
+      ],
+      "casualties": [
+        "RS001"
+      ],
+      "classification": [
+        "RS001"
+      ],
+      "motive": [],
+      "outcome": [
+        "RS001"
+      ]
+    },
+    "official_occurrence": true,
+    "official_classification": true,
+    "classification_evidence_basis": "警方通气会直接披露主动沿途袭击过路者"
+  },
+  "B04": {
+    "injured": null,
+    "injured_lower_bound": 25,
+    "injured_reported": "20余人；判决细目至少25人构成轻伤或轻微伤",
+    "casualty_note": "一审判决报道先单列6名死者（5名现场死亡，1名1月19日死亡），再列另有伤者：10名轻伤一级、2名轻伤二级、13名轻微伤，互斥伤情分级合计至少25人。其余3名不构成轻微伤、1名体表未见明显机械性损伤不加入精确伤者值；精确值仍留空。",
+    "field_sources": {
+      "date": [
+        "BS03"
+      ],
+      "location": [
+        "BS03"
+      ],
+      "casualties": [
+        "BS03"
+      ],
+      "classification": [
+        "BS03"
+      ],
+      "motive": [
+        "BS03"
+      ],
+      "outcome": [
+        "BS04"
+      ]
+    },
+    "official_occurrence": true,
+    "official_classification": true,
+    "classification_evidence_basis": "记者核对法院判决并转述明确针对不特定多数人的认定"
+  },
+  "B30": {
+    "category": "pending",
+    "classification_reason": "警方确认持刀行凶致4名路人受伤，但未披露起始对象关系及选择方式；补查现场采访仅能确认群众制止过程，尚不足排除定向纠纷或伴随伤害，保留待核。",
+    "official_occurrence": true,
+    "official_classification": false,
+    "classification_evidence_basis": "官方确认事件和路人受伤，未明确随机性；待补证"
+  },
+  "B35": {
+    "category": "pending",
+    "classification_reason": "警方确认剪刀伤及路过的几名行人，但未披露双方关系及选择目标过程；本轮补查未取得可靠随机性认定，不能仅凭多人或精神状态推定随机，保留待核。",
+    "official_occurrence": true,
+    "official_classification": false,
+    "classification_evidence_basis": "官方确认事件和路人受伤，未明确随机性；待补证"
+  },
+  "B11": {
+    "official_occurrence": true,
+    "official_classification": false,
+    "classification_evidence_basis": "公安通报确认伤亡；陌生人、沿街连续攻击来自齐鲁晚报商户采访，法院账号仅转载。"
+  },
+  "B23": {
+    "official_occurrence": true,
+    "official_classification": false,
+    "classification_evidence_basis": "公安通报确认原单位纠纷和持刀伤人；随机攻击进出员工来自财新独立了解。"
+  },
+  "C008": {
+    "official_occurrence": true,
+    "official_classification": false,
+    "classification_evidence_basis": "公安通报确认成人校园袭击及伤亡；低年级教室和学生群体的具体过程来自南风窗采访。"
+  },
+  "C015": {
+    "official_occurrence": true,
+    "official_classification": false,
+    "classification_evidence_basis": "警方确认路人受伤；两名不同学生和现场目标群体来自财新采访。"
+  },
+  "C016": {
+    "official_occurrence": true,
+    "official_classification": false,
+    "classification_evidence_basis": "公安通报确认5名路人含3名未成年人受伤；学生及劝阻者身份来自财新。"
+  },
+  "C017": {
+    "official_occurrence": true,
+    "official_classification": false,
+    "classification_evidence_basis": "警方确认持剪刀乱挥伤人；陌生人关系和向过路者刺击来自目击及受害者陈述。"
+  },
+  "C022": {
+    "official_occurrence": true,
+    "official_classification": false,
+    "classification_evidence_basis": "警方确认危害公共安全案件及伤亡；直冲等候人群的主动性依据来自财新现场视频核查。"
+  },
+  "C013": {
+    "official_occurrence": true,
+    "official_classification": false,
+    "classification_evidence_basis": "苏州法院动机认定通过日本官方向记者介绍的裁判内容转述，另有江苏官方救人事迹；不是本项目直接取得的中国法院裁判正文。"
+  },
+  "C014": {
+    "official_occurrence": true,
+    "official_classification": false,
+    "classification_evidence_basis": "深圳案件裁判的网络关注动机由日驻华大使向媒体介绍，外务省确认执行通知；与直接取得国内裁判正文分层。"
+  }
+}

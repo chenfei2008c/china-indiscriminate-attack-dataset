@@ -1,0 +1,5539 @@
+{
+  "events": [
+    {
+      "id": "A001",
+      "date": "2018-02-11",
+      "date_precision": "day",
+      "title": "北京西单大悦城持械袭击",
+      "province": "北京",
+      "city": "北京",
+      "district": "西城",
+      "urban_rural": null,
+      "scene": "商业场所",
+      "method": "持械",
+      "category": "core",
+      "classification_reason": "法院认定预谋到繁华公共场所杀害无辜群众，受害人为餐厅顾客、员工。",
+      "deaths": 1,
+      "injured": 14,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2019-06-13",
+      "casualty_note": null,
+      "involves_children": null,
+      "victim_relation": "无关顾客和员工",
+      "age": null,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": "法院认定为发泄个人不满情绪，具体不满事项未披露。",
+      "motive_tags": [
+        "泄愤"
+      ],
+      "motive_basis": "法院认定",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": "法院认定事前踩点并准备工具，未见事前被外界发现的证据。",
+      "intervention": "警方到场后对峙并将其制服。",
+      "outcome": "一审死刑；本轮未找到后续执行公告。",
+      "judgment_date": "2019-06-13",
+      "execution_date": null,
+      "last_source_date": "2019-06-13",
+      "evidence_level": "官方转载",
+      "source_ids": [
+        "AS001"
+      ],
+      "field_sources": {
+        "date": [
+          "AS001"
+        ],
+        "location": [
+          "AS001"
+        ],
+        "casualties": [
+          "AS001"
+        ],
+        "classification": [
+          "AS001"
+        ],
+        "motive": [
+          "AS001"
+        ],
+        "outcome": [
+          "AS001"
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "A043",
+      "date": "2018-03-20",
+      "date_precision": "day",
+      "title": "厦门王某定向袭击前女友及其姐姐（排除）",
+      "province": "福建",
+      "city": "厦门",
+      "district": null,
+      "urban_rural": null,
+      "scene": "社区住宅",
+      "method": "持械",
+      "category": "excluded",
+      "classification_reason": "预先选择前女友和其孪生姐姐报复，非现场随机选择；即使法院称被害人无辜，也不等于对象不特定。",
+      "deaths": 1,
+      "injured": 1,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2020-04-17",
+      "casualty_note": null,
+      "involves_children": null,
+      "victim_relation": "前女友及其孪生姐姐",
+      "age": null,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": "分手后预谋报复。",
+      "motive_tags": [
+        "感情纠纷"
+      ],
+      "motive_basis": "法院认定",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": null,
+      "outcome": "一审死刑。",
+      "judgment_date": "2020-04-10",
+      "execution_date": null,
+      "last_source_date": "2020-04-17",
+      "evidence_level": "官方转载",
+      "source_ids": [
+        "AS029"
+      ],
+      "field_sources": {
+        "date": [
+          "AS029"
+        ],
+        "location": [
+          "AS029"
+        ],
+        "casualties": [
+          "AS029"
+        ],
+        "classification": [
+          "AS029"
+        ],
+        "motive": [
+          "AS029"
+        ],
+        "outcome": [
+          "AS029"
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "A002",
+      "date": "2018-04-16",
+      "date_precision": "day",
+      "title": "南宁昆仑大道大乌村路口袭击",
+      "province": "广西",
+      "city": "南宁",
+      "district": "兴宁",
+      "urban_rural": null,
+      "scene": "街道交通",
+      "method": "持械",
+      "category": "pending",
+      "classification_reason": "警方证实事件和伤亡；无故袭击路过母婴的依据为广西新闻频道一次现场调查，两转载不作独立多源，待补裁判或第二独立报道。",
+      "deaths": 1,
+      "injured": 3,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2018-04-17",
+      "casualty_note": null,
+      "involves_children": true,
+      "victim_relation": "报道为路过母婴和两名劝阻群众",
+      "age": null,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "群众阻止；当日16时警方已控制嫌疑人。",
+      "outcome": "被控制；未找到判决。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2018-04-17",
+      "evidence_level": "单一媒体",
+      "source_ids": [
+        "AS002",
+        "AS003"
+      ],
+      "field_sources": {
+        "date": [
+          "AS002",
+          "AS003"
+        ],
+        "location": [
+          "AS002",
+          "AS003"
+        ],
+        "casualties": [
+          "AS002",
+          "AS003"
+        ],
+        "classification": [
+          "AS002",
+          "AS003"
+        ],
+        "motive": [],
+        "outcome": [
+          "AS002",
+          "AS003"
+        ]
+      },
+      "notes": "未将目击者估计年龄和初步精神异常推测当作确证。"
+    },
+    {
+      "id": "A003",
+      "date": "2018-04-24",
+      "date_precision": "day",
+      "title": "英德KTV纵火",
+      "province": "广东",
+      "city": "清远",
+      "district": "英德",
+      "urban_rural": null,
+      "scene": "商业场所",
+      "method": "纵火",
+      "category": "expanded",
+      "classification_reason": "KTV内个人交往和交易纠纷后放火，危及大量与原纠纷无关的场所人员。",
+      "deaths": 18,
+      "injured": null,
+      "serious_injuries": 1,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2019-12-25",
+      "casualty_note": "采用18名受害人死亡。伤者存在3名与4名的司法表述差异，精确值留空，最低已知3名；不直接沿用初报5伤。",
+      "involves_children": null,
+      "victim_relation": null,
+      "age": null,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": "最高法概述个人琐事不满；案情回顾指交往受拒、交易争执后愤怒。",
+      "motive_tags": [
+        "人际纠纷",
+        "泄愤"
+      ],
+      "motive_basis": "法院认定",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": "报道提到事前扬言烧毁KTV，同行朋友曾阻拦。",
+      "intervention": "朋友阻止未果；当日被抓获。",
+      "outcome": "死刑并已执行。",
+      "judgment_date": null,
+      "execution_date": "2019-12-24",
+      "last_source_date": "2019-12-25",
+      "evidence_level": "官方转载",
+      "source_ids": [
+        "AS004"
+      ],
+      "field_sources": {
+        "date": [
+          "AS004"
+        ],
+        "location": [
+          "AS004"
+        ],
+        "casualties": [
+          "AS004"
+        ],
+        "classification": [
+          "AS004"
+        ],
+        "motive": [
+          "AS004"
+        ],
+        "outcome": [
+          "AS004"
+        ]
+      },
+      "notes": null,
+      "injured_lower_bound": 3,
+      "injured_reported": "最高法复核列1重伤2轻伤；同篇前期案情另列1轻微伤。"
+    },
+    {
+      "id": "A004",
+      "date": "2018-04-27",
+      "date_precision": "day",
+      "title": "米脂三中周边持刀袭击学生",
+      "province": "陕西",
+      "city": "榆林",
+      "district": "米脂",
+      "urban_rural": null,
+      "scene": "校园及周边",
+      "method": "持械",
+      "category": "core",
+      "classification_reason": "法院明确原怨恨对象未找到，改为袭击与原纠纷无关的放学学生。",
+      "deaths": 9,
+      "injured": 12,
+      "serious_injuries": 4,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2018-09-27",
+      "casualty_note": "法院后续口径为9死12伤，取代初报9死10伤；部分汇编9死19伤不采。",
+      "involves_children": true,
+      "victim_relation": "无关在校学生",
+      "age": null,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": "工作生活挫折和对就读时被欺负的怨恨，转为报复无关学生。",
+      "motive_tags": [
+        "生活挫折",
+        "转移报复"
+      ],
+      "motive_basis": "法院认定",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "教师、保安及学生合力制止。",
+      "outcome": "死刑并已执行。",
+      "judgment_date": "2018-07-10",
+      "execution_date": "2018-09-27",
+      "last_source_date": "2018-09-27",
+      "evidence_level": "官方转载",
+      "source_ids": [
+        "AS005",
+        "AS006"
+      ],
+      "field_sources": {
+        "date": [
+          "AS005",
+          "AS006"
+        ],
+        "location": [
+          "AS005",
+          "AS006"
+        ],
+        "casualties": [
+          "AS005",
+          "AS006"
+        ],
+        "classification": [
+          "AS005",
+          "AS006"
+        ],
+        "motive": [
+          "AS005",
+          "AS006"
+        ],
+        "outcome": [
+          "AS005",
+          "AS006"
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "A005",
+      "date": "2018-05-13",
+      "date_precision": "day",
+      "title": "成都盐市口车辆冲撞",
+      "province": "四川",
+      "city": "成都",
+      "district": null,
+      "urban_rural": null,
+      "scene": "街道交通",
+      "method": "驾车",
+      "category": "pending",
+      "classification_reason": "已证实冲撞及涉嫌危害公共安全，但通报未明确主动以无关行人为攻击目标，不仅凭罪名纳入。",
+      "deaths": 0,
+      "injured": 3,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2018-05-14",
+      "casualty_note": "3名伤者在通报时伤情稳定。",
+      "involves_children": null,
+      "victim_relation": "参与阻止的群众、辅警、交通劝导员",
+      "age": 62,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": null,
+      "outcome": "被采取刑事强制措施；未检出裁判。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2018-05-14",
+      "evidence_level": "官方转载",
+      "source_ids": [
+        "AS007"
+      ],
+      "field_sources": {
+        "date": [
+          "AS007"
+        ],
+        "location": [
+          "AS007"
+        ],
+        "casualties": [
+          "AS007"
+        ],
+        "classification": [
+          "AS007"
+        ],
+        "motive": [],
+        "outcome": [
+          "AS007"
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "A006",
+      "date": "2018-06-06",
+      "date_precision": "day",
+      "title": "唐山煤医道等路段故意驾车撞人",
+      "province": "河北",
+      "city": "唐山",
+      "district": "路北",
+      "urban_rural": null,
+      "scene": "街道交通",
+      "method": "驾车",
+      "category": "core",
+      "classification_reason": "法院查明故意连续冲撞多名行人，非仅依据交通事故伤亡人数判断。",
+      "deaths": 7,
+      "injured": 10,
+      "serious_injuries": 2,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2019-06-12",
+      "casualty_note": null,
+      "involves_children": null,
+      "victim_relation": "道路行人",
+      "age": null,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": null,
+      "outcome": "死刑二审维持；未检出执行公告。",
+      "judgment_date": "2019-06-12",
+      "execution_date": null,
+      "last_source_date": "2019-06-12",
+      "evidence_level": "官方转载",
+      "source_ids": [
+        "AS008"
+      ],
+      "field_sources": {
+        "date": [
+          "AS008"
+        ],
+        "location": [
+          "AS008"
+        ],
+        "casualties": [
+          "AS008"
+        ],
+        "classification": [
+          "AS008"
+        ],
+        "motive": [],
+        "outcome": [
+          "AS008"
+        ]
+      },
+      "notes": "饮酒属于已报道状态，具体报复动机不明，留空。"
+    },
+    {
+      "id": "A007",
+      "date": "2018-06-22",
+      "date_precision": "day",
+      "title": "西安302路公交车及周边持刀袭击",
+      "province": "陕西",
+      "city": "西安",
+      "district": "未央",
+      "urban_rural": null,
+      "scene": "公共交通",
+      "method": "持械",
+      "category": "core",
+      "classification_reason": "法院认定报复社会，在公交车内及车外连续攻击乘客和路人。",
+      "deaths": 4,
+      "injured": 7,
+      "serious_injuries": 0,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2019-01-26",
+      "casualty_note": "采用法院4死7轻伤，初报口径已被替代。",
+      "involves_children": null,
+      "victim_relation": null,
+      "age": null,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": "自称在公交车遭恶意扎针染病，因而产生报复社会念头；所谓扎针染病不是已证实事实。",
+      "motive_tags": [
+        "报复社会",
+        "被害归因"
+      ],
+      "motive_basis": "法院认定",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": null,
+      "outcome": "一审死刑；本轮未核实后续执行。",
+      "judgment_date": "2019-01-25",
+      "execution_date": null,
+      "last_source_date": "2019-01-26",
+      "evidence_level": "官方原文",
+      "source_ids": [
+        "AS009"
+      ],
+      "field_sources": {
+        "date": [
+          "AS009"
+        ],
+        "location": [
+          "AS009"
+        ],
+        "casualties": [
+          "AS009"
+        ],
+        "classification": [
+          "AS009"
+        ],
+        "motive": [
+          "AS009"
+        ],
+        "outcome": [
+          "AS009"
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "A008",
+      "date": "2018-06-25",
+      "date_precision": "day",
+      "title": "烟台幸福中路叉车冲撞",
+      "province": "山东",
+      "city": "烟台",
+      "district": "芝罘",
+      "urban_rural": null,
+      "scene": "街道交通",
+      "method": "驾车",
+      "category": "core",
+      "classification_reason": "警方确认叉车冲撞道路行人，制止无效后仍持续危害。",
+      "deaths": 1,
+      "injured": null,
+      "serious_injuries": null,
+      "attacker_deaths": 1,
+      "attacker_injured": null,
+      "casualty_asof": "2018-06-25",
+      "casualty_note": "1名受害人死亡，另有嫌疑人1人死亡；10余伤保留原文及保守下限，不作精确数。",
+      "involves_children": null,
+      "victim_relation": "道路行人",
+      "age": 45,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "警方制止无效后开枪击毙。",
+      "outcome": "嫌疑人现场死亡。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2018-06-25",
+      "evidence_level": "官方原文",
+      "source_ids": [
+        "AS010"
+      ],
+      "field_sources": {
+        "date": [
+          "AS010"
+        ],
+        "location": [
+          "AS010"
+        ],
+        "casualties": [
+          "AS010"
+        ],
+        "classification": [
+          "AS010"
+        ],
+        "motive": [],
+        "outcome": [
+          "AS010"
+        ]
+      },
+      "notes": null,
+      "injured_reported": "10余人",
+      "injured_lower_bound": 10
+    },
+    {
+      "id": "A009",
+      "date": "2018-06-28",
+      "date_precision": "day",
+      "title": "上海浦北路小学周边袭击",
+      "province": "上海",
+      "city": "上海",
+      "district": "徐汇",
+      "urban_rural": null,
+      "scene": "校园及周边",
+      "method": "持械",
+      "category": "core",
+      "classification_reason": "法院明确因个人不满杀害无辜儿童及家长，事先选择学校周边。",
+      "deaths": 2,
+      "injured": 2,
+      "serious_injuries": 0,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2020-12-03",
+      "casualty_note": null,
+      "involves_children": true,
+      "victim_relation": "无关儿童及家长",
+      "age": null,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": "工作生活不顺而泄愤报复无辜者。",
+      "motive_tags": [
+        "生活挫折",
+        "泄愤"
+      ],
+      "motive_basis": "法院认定",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": null,
+      "outcome": "死刑并已执行。",
+      "judgment_date": null,
+      "execution_date": "2020-12-03",
+      "last_source_date": "2020-12-03",
+      "evidence_level": "官方转载",
+      "source_ids": [
+        "AS011"
+      ],
+      "field_sources": {
+        "date": [
+          "AS011"
+        ],
+        "location": [
+          "AS011"
+        ],
+        "casualties": [
+          "AS011"
+        ],
+        "classification": [
+          "AS011"
+        ],
+        "motive": [
+          "AS011"
+        ],
+        "outcome": [
+          "AS011"
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "A045",
+      "date": "2018-07-05",
+      "date_precision": "day",
+      "title": "隆回南松村持刀伤人",
+      "province": "湖南",
+      "city": "邵阳",
+      "district": "隆回",
+      "urban_rural": null,
+      "scene": "社区住宅",
+      "method": "持械",
+      "category": "pending",
+      "classification_reason": "官方通报多人伤亡但未明确动机及被害人与嫌疑人关系，不能仅以有儿童受害认定随机。",
+      "deaths": 1,
+      "injured": 6,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2018-07-05",
+      "casualty_note": "通报7名被砍者中1名死亡，因此幸存受伤6人；不将7伤再加1死。",
+      "involves_children": true,
+      "victim_relation": null,
+      "age": 40,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "mental_health": null,
+      "prior_violence": "警方通报有故意伤害前科。",
+      "warning_signals": null,
+      "intervention": null,
+      "outcome": "逃离后被抓获。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2018-07-05",
+      "evidence_level": "官方转载",
+      "source_ids": [
+        "AS049"
+      ],
+      "field_sources": {
+        "date": [
+          "AS049"
+        ],
+        "location": [
+          "AS049"
+        ],
+        "casualties": [
+          "AS049"
+        ],
+        "classification": [
+          "AS049"
+        ],
+        "motive": [],
+        "outcome": [
+          "AS049"
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "A010",
+      "date": "2018-08-20",
+      "date_precision": "day",
+      "title": "镇江百盛家园南门持刀伤害路人",
+      "province": "江苏",
+      "city": "镇江",
+      "district": "润州",
+      "urban_rural": null,
+      "scene": "街道交通",
+      "method": "持械",
+      "category": "core",
+      "classification_reason": "警方明确受害者为现场5名路人，非仅依据伤亡规模纳入。",
+      "deaths": 0,
+      "injured": 5,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2018-08-21",
+      "casualty_note": null,
+      "involves_children": null,
+      "victim_relation": "路人",
+      "age": 30,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "mental_health": "警方转述家属称有精神病史，未见司法鉴定。",
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": null,
+      "outcome": "现场被抓获。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2018-08-21",
+      "evidence_level": "官方转载",
+      "source_ids": [
+        "AS012"
+      ],
+      "field_sources": {
+        "date": [
+          "AS012"
+        ],
+        "location": [
+          "AS012"
+        ],
+        "casualties": [
+          "AS012"
+        ],
+        "classification": [
+          "AS012"
+        ],
+        "motive": [],
+        "outcome": [
+          "AS012"
+        ]
+      },
+      "notes": "案发日为8月20日，非报道日8月21日。"
+    },
+    {
+      "id": "A011",
+      "date": "2018-09-12",
+      "date_precision": "day",
+      "title": "衡东洣江广场驾车及持械袭击",
+      "province": "湖南",
+      "city": "衡阳",
+      "district": "衡东",
+      "urban_rural": null,
+      "scene": "公园广场",
+      "method": "复合",
+      "category": "core",
+      "classification_reason": "法院认定驾车及持械攻击广场公共人群，目标与其个人怨恨无关。",
+      "deaths": 15,
+      "injured": 43,
+      "serious_injuries": 6,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2019-01-29",
+      "casualty_note": "法院后续为43伤；不采用部分汇编44伤。",
+      "involves_children": null,
+      "victim_relation": "广场群众",
+      "age": null,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": "因个人经历及不满产生报复社会念头。",
+      "motive_tags": [
+        "报复社会"
+      ],
+      "motive_basis": "法院认定",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": null,
+      "outcome": "死刑并已执行。",
+      "judgment_date": "2018-12-12",
+      "execution_date": "2019-01-29",
+      "last_source_date": "2019-01-29",
+      "evidence_level": "官方转载",
+      "source_ids": [
+        "AS013"
+      ],
+      "field_sources": {
+        "date": [
+          "AS013"
+        ],
+        "location": [
+          "AS013"
+        ],
+        "casualties": [
+          "AS013"
+        ],
+        "classification": [
+          "AS013"
+        ],
+        "motive": [
+          "AS013"
+        ],
+        "outcome": [
+          "AS013"
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "A012",
+      "date": "2018-09-12",
+      "date_precision": "day",
+      "title": "北京海淀西山壹号院东门车辆冲撞",
+      "province": "北京",
+      "city": "北京",
+      "district": "海淀",
+      "urban_rural": null,
+      "scene": "街道交通",
+      "method": "驾车",
+      "category": "core",
+      "classification_reason": "法院认定为发泄家庭争执愤怒，肆意冲撞公共道路车辆；未发现先攻击丈夫的情节，按转移攻击无关人员归core。",
+      "deaths": 0,
+      "injured": 2,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2019-10-09",
+      "casualty_note": "1名全身软组织损伤、1名轻微伤。",
+      "involves_children": null,
+      "victim_relation": null,
+      "age": null,
+      "sex": "女",
+      "occupation": null,
+      "motive_summary": "家庭争执后的个人泄愤。",
+      "motive_tags": [
+        "家庭纠纷",
+        "转移报复"
+      ],
+      "motive_basis": "法院认定",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "群众报警，本人在现场等候。",
+      "outcome": "一审有期徒刑6年。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2019-10-09",
+      "evidence_level": "官方转载",
+      "source_ids": [
+        "AS014"
+      ],
+      "field_sources": {
+        "date": [
+          "AS014"
+        ],
+        "location": [
+          "AS014"
+        ],
+        "casualties": [
+          "AS014"
+        ],
+        "classification": [
+          "AS014"
+        ],
+        "motive": [
+          "AS014"
+        ],
+        "outcome": [
+          "AS014"
+        ]
+      },
+      "notes": "报道日为10月9日，实际宣判日只写近日，judgment_date留空。"
+    },
+    {
+      "id": "A049",
+      "date": "2018-10-10",
+      "date_precision": "day",
+      "title": "重庆锦龙路公交站及891路公交车持械袭击",
+      "province": "重庆",
+      "city": "重庆",
+      "district": "九龙坡",
+      "urban_rural": null,
+      "scene": "公共交通",
+      "method": "持械",
+      "category": "core",
+      "classification_reason": "警方确认家庭变故后向候车学生家长泄愤，进一步劫持车内陌生女孩并攻击司机。",
+      "deaths": 0,
+      "injured": 5,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2018-11-15",
+      "casualty_note": "3名候车学生、1名家长及1名司机共5伤；被劫持女孩未记受伤，不加数。",
+      "involves_children": true,
+      "victim_relation": "无关候车学生、家长、公交司机及被劫持女孩",
+      "age": 44,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": "警方认定家庭变故后酒后泄愤。",
+      "motive_tags": [
+        "家庭变故",
+        "泄愤"
+      ],
+      "motive_basis": "警方初步通报",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "司机营救女孩并阻止抢车；嫌疑人逃离后50分钟被警方抓获。",
+      "outcome": "刑事拘留；未检出后续裁判。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2018-11-15",
+      "evidence_level": "官方转载",
+      "source_ids": [
+        "AS053",
+        "AS054"
+      ],
+      "field_sources": {
+        "date": [
+          "AS053",
+          "AS054"
+        ],
+        "location": [
+          "AS053",
+          "AS054"
+        ],
+        "casualties": [
+          "AS053",
+          "AS054"
+        ],
+        "classification": [
+          "AS053",
+          "AS054"
+        ],
+        "motive": [
+          "AS053",
+          "AS054"
+        ],
+        "outcome": [
+          "AS053",
+          "AS054"
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "A013",
+      "date": "2018-10-26",
+      "date_precision": "day",
+      "title": "重庆鱼洞新世纪幼儿园袭击",
+      "province": "重庆",
+      "city": "重庆",
+      "district": "巴南",
+      "urban_rural": null,
+      "scene": "校园及周边",
+      "method": "持械",
+      "category": "core",
+      "classification_reason": "公安负责人明确突然冲入幼儿群体持刀行凶，非特定私人对象。",
+      "deaths": 0,
+      "injured": 14,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2018-10-27",
+      "casualty_note": "重症临床描述未转化为司法重伤数；无人员死亡的警方澄清优先。",
+      "involves_children": true,
+      "victim_relation": "幼儿园儿童",
+      "age": 39,
+      "sex": "女",
+      "occupation": null,
+      "motive_summary": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "现场被抓获。",
+      "outcome": "被控制；未检出公开终审。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2018-10-27",
+      "evidence_level": "官方转载",
+      "source_ids": [
+        "AS015",
+        "AS016"
+      ],
+      "field_sources": {
+        "date": [
+          "AS015",
+          "AS016"
+        ],
+        "location": [
+          "AS015",
+          "AS016"
+        ],
+        "casualties": [
+          "AS015",
+          "AS016"
+        ],
+        "classification": [
+          "AS015",
+          "AS016"
+        ],
+        "motive": [],
+        "outcome": [
+          "AS015",
+          "AS016"
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "A014",
+      "date": "2018-10-28",
+      "date_precision": "day",
+      "title": "重庆万州公交车坠江（排除）",
+      "province": "重庆",
+      "city": "重庆",
+      "district": "万州",
+      "urban_rural": null,
+      "scene": "公共交通",
+      "method": "驾车",
+      "category": "excluded",
+      "classification_reason": "官方查明由司机与乘客争执互殴导致车辆失控，缺少主动以无关乘客为攻击目标的证据。",
+      "deaths": null,
+      "injured": null,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2018-11-02",
+      "casualty_note": "通报明确15名驾乘人员、打捞13名遗体；与随机袭击统计隔离，不把失联直接转换为精确死亡。",
+      "involves_children": null,
+      "victim_relation": "司机与争执乘客、其他乘客",
+      "age": null,
+      "sex": null,
+      "occupation": null,
+      "motive_summary": "坐过站后的争执与互殴。",
+      "motive_tags": [
+        "乘车纠纷"
+      ],
+      "motive_basis": "警方初步通报",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": null,
+      "outcome": "双方均涉嫌危害公共安全；官方调查原因已公布。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2018-11-02",
+      "evidence_level": "官方转载",
+      "source_ids": [
+        "AS017"
+      ],
+      "field_sources": {
+        "date": [
+          "AS017"
+        ],
+        "location": [
+          "AS017"
+        ],
+        "casualties": [
+          "AS017"
+        ],
+        "classification": [
+          "AS017"
+        ],
+        "motive": [
+          "AS017"
+        ],
+        "outcome": [
+          "AS017"
+        ]
+      },
+      "notes": null,
+      "deaths_lower_bound": 13
+    },
+    {
+      "id": "A015",
+      "date": "2018-11-22",
+      "date_precision": "day",
+      "title": "建昌二小周边驾车撞学生",
+      "province": "辽宁",
+      "city": "葫芦岛",
+      "district": "建昌",
+      "urban_rural": null,
+      "scene": "校园及周边",
+      "method": "驾车",
+      "category": "core",
+      "classification_reason": "法院查明因个人生活问题蓄意冲撞无关学生队伍。",
+      "deaths": 6,
+      "injured": 20,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2019-07-09",
+      "casualty_note": "6名死者均为儿童。",
+      "involves_children": true,
+      "victim_relation": "学生及带队教师",
+      "age": null,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": "经济压力、婚姻及人际问题等不满。",
+      "motive_tags": [
+        "经济压力",
+        "婚姻矛盾",
+        "泄愤"
+      ],
+      "motive_basis": "法院认定",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": null,
+      "outcome": "一审死刑；未核实执行公告。",
+      "judgment_date": "2019-07-09",
+      "execution_date": null,
+      "last_source_date": "2019-07-09",
+      "evidence_level": "官方转载",
+      "source_ids": [
+        "AS018"
+      ],
+      "field_sources": {
+        "date": [
+          "AS018"
+        ],
+        "location": [
+          "AS018"
+        ],
+        "casualties": [
+          "AS018"
+        ],
+        "classification": [
+          "AS018"
+        ],
+        "motive": [
+          "AS018"
+        ],
+        "outcome": [
+          "AS018"
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "A016",
+      "date": "2018-12-05",
+      "date_precision": "day",
+      "title": "夹江3路公交车爆炸",
+      "province": "四川",
+      "city": "乐山",
+      "district": "夹江",
+      "urban_rural": null,
+      "scene": "公共交通",
+      "method": "爆炸",
+      "category": "core",
+      "classification_reason": "法院认定为报复社会而袭击公交车上的无关乘客。",
+      "deaths": 0,
+      "injured": null,
+      "serious_injuries": 1,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2020-10-18",
+      "casualty_note": "16名达到列明司法伤情，另有多人受伤；不把16当全体伤者，保守下限取17，精确值未知。",
+      "involves_children": null,
+      "victim_relation": "公交乘客",
+      "age": null,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": "土地补偿及家庭问题引发不满，转向报复社会。",
+      "motive_tags": [
+        "土地补偿纠纷",
+        "家庭纠纷",
+        "报复社会"
+      ],
+      "motive_basis": "法院认定",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": null,
+      "outcome": "死刑缓期二年执行、限制减刑，二审维持。",
+      "judgment_date": "2019-11-15",
+      "execution_date": null,
+      "last_source_date": "2020-10-18",
+      "evidence_level": "官方转载",
+      "source_ids": [
+        "AS019"
+      ],
+      "field_sources": {
+        "date": [
+          "AS019"
+        ],
+        "location": [
+          "AS019"
+        ],
+        "casualties": [
+          "AS019"
+        ],
+        "classification": [
+          "AS019"
+        ],
+        "motive": [
+          "AS019"
+        ],
+        "outcome": [
+          "AS019"
+        ]
+      },
+      "notes": null,
+      "injured_reported": "法院列16名受司法鉴定伤者及其他多人受伤；初报17人。",
+      "injured_lower_bound": 17
+    },
+    {
+      "id": "A017",
+      "date": "2018-12-25",
+      "date_precision": "day",
+      "title": "龙岩持刀袭击及劫持公交车冲撞",
+      "province": "福建",
+      "city": "龙岩",
+      "district": "新罗",
+      "urban_rural": null,
+      "scene": "公共交通",
+      "method": "复合",
+      "category": "expanded",
+      "classification_reason": "先攻击与本人相关的人员，继而劫车冲撞沿途无关群众，扩展到不特定人员。",
+      "deaths": 8,
+      "injured": 25,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2019-01-29",
+      "casualty_note": "采用法院后续8死25伤；不沿用初报5死或8死22伤。",
+      "involves_children": null,
+      "victim_relation": "原有特定对象及沿途无关群众",
+      "age": 48,
+      "sex": "男",
+      "occupation": "无业",
+      "motive_summary": "原有人际矛盾后袭击，继而劫持车辆危害公共安全。",
+      "motive_tags": [
+        "人际纠纷",
+        "扩大报复"
+      ],
+      "motive_basis": "警方初步通报",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": null,
+      "outcome": "一审死刑；部分汇编称2019年8月执行，本轮未打开可靠原文核实，不录入执行日。",
+      "judgment_date": "2019-01-28",
+      "execution_date": null,
+      "last_source_date": "2019-01-30",
+      "evidence_level": "官方转载",
+      "source_ids": [
+        "AS020",
+        "AS055"
+      ],
+      "field_sources": {
+        "date": [
+          "AS020"
+        ],
+        "location": [
+          "AS020"
+        ],
+        "casualties": [
+          "AS020"
+        ],
+        "classification": [
+          "AS055"
+        ],
+        "motive": [
+          "AS055"
+        ],
+        "outcome": [
+          "AS020"
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "A018",
+      "date": "2019-01-08",
+      "date_precision": "day",
+      "title": "北京宣师一附小持械伤害学生",
+      "province": "北京",
+      "city": "北京",
+      "district": "西城",
+      "urban_rural": null,
+      "scene": "校园及周边",
+      "method": "持械",
+      "category": "core",
+      "classification_reason": "为维修劳务合同问题不满而转向无关学生。",
+      "deaths": 0,
+      "injured": 20,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2019-01-08",
+      "casualty_note": "3人伤势较重属临床初报，未写入司法重伤字段。",
+      "involves_children": true,
+      "victim_relation": "无关小学生",
+      "age": 49,
+      "sex": "男",
+      "occupation": "学校维修劳务人员",
+      "motive_summary": "劳务合同到期续聘问题引发不满。",
+      "motive_tags": [
+        "工作纠纷",
+        "转移报复"
+      ],
+      "motive_basis": "警方初步通报",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "现场控制嫌疑人并救治学生。",
+      "outcome": "嫌疑人被控制；未找到裁判。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2019-01-08",
+      "evidence_level": "官方转载",
+      "source_ids": [
+        "AS021"
+      ],
+      "field_sources": {
+        "date": [
+          "AS021"
+        ],
+        "location": [
+          "AS021"
+        ],
+        "casualties": [
+          "AS021"
+        ],
+        "classification": [
+          "AS021"
+        ],
+        "motive": [
+          "AS021"
+        ],
+        "outcome": [
+          "AS021"
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "A019",
+      "date": "2019-01-14",
+      "date_precision": "day",
+      "title": "东莞虎门怀德社区持刀伤人",
+      "province": "广东",
+      "city": "东莞",
+      "district": "虎门镇",
+      "urban_rural": null,
+      "scene": "街道交通",
+      "method": "持械",
+      "category": "pending",
+      "classification_reason": "警方确认发生，但本轮可靠资料未明确受害者与嫌疑人关系及选择目标方式。",
+      "deaths": 1,
+      "injured": 8,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2019-01-15",
+      "casualty_note": "2人伤情较重、6人较轻为初报临床描述。",
+      "involves_children": null,
+      "victim_relation": null,
+      "age": null,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": null,
+      "outcome": "被抓获；具体原因在调查。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2019-01-15",
+      "evidence_level": "官方转载",
+      "source_ids": [
+        "AS022"
+      ],
+      "field_sources": {
+        "date": [
+          "AS022"
+        ],
+        "location": [
+          "AS022"
+        ],
+        "casualties": [
+          "AS022"
+        ],
+        "classification": [
+          "AS022"
+        ],
+        "motive": [],
+        "outcome": [
+          "AS022"
+        ]
+      },
+      "notes": "不因排除涉恐或多人受害自动认定随机。"
+    },
+    {
+      "id": "A020",
+      "date": "2019-01-14",
+      "date_precision": "day",
+      "title": "福州仓山红江路等处持刀伤人",
+      "province": "福建",
+      "city": "福州",
+      "district": "仓山",
+      "urban_rural": null,
+      "scene": "街道交通",
+      "method": "持械",
+      "category": "expanded",
+      "classification_reason": "从与前妻男友的纠纷转为逃跑途中伤害无关路人。",
+      "deaths": 1,
+      "injured": 19,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2019-01-15",
+      "casualty_note": "1名伤者危重为临床描述。",
+      "involves_children": null,
+      "victim_relation": "原纠纷对象及无关路人",
+      "age": 48,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": "与前妻及其男友的感情纠纷后，伤害扩大到无关路人。",
+      "motive_tags": [
+        "感情纠纷",
+        "扩大伤害"
+      ],
+      "motive_basis": "警方初步通报",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": null,
+      "outcome": "逃跑后跳河，通报时下落不明；未找到后续。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2019-01-15",
+      "evidence_level": "官方转载",
+      "source_ids": [
+        "AS023"
+      ],
+      "field_sources": {
+        "date": [
+          "AS023"
+        ],
+        "location": [
+          "AS023"
+        ],
+        "casualties": [
+          "AS023"
+        ],
+        "classification": [
+          "AS023"
+        ],
+        "motive": [
+          "AS023"
+        ],
+        "outcome": [
+          "AS023"
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "A046",
+      "date": "2019-02-05",
+      "date_precision": "day",
+      "title": "会宁多户村民住宅伤人",
+      "province": "甘肃",
+      "city": "白银",
+      "district": "会宁",
+      "urban_rural": null,
+      "scene": "社区住宅",
+      "method": "持械",
+      "category": "pending",
+      "classification_reason": "警方初报指婚姻猜疑下定向进入村民家报复；是否涉及无关对象未充分披露，不按多人伤亡认定随机，也不武断将全案排除。",
+      "deaths": 8,
+      "injured": 7,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2019-02-08",
+      "casualty_note": null,
+      "involves_children": true,
+      "victim_relation": "村民家庭，多户具体关系未完全核实",
+      "age": null,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": "警方转述供述：怀疑妻子与他人存在不正当关系而报复。",
+      "motive_tags": [
+        "婚姻纠纷"
+      ],
+      "motive_basis": "警方初步通报",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": null,
+      "outcome": "当日被抓获；未取得裁判。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2019-02-08",
+      "evidence_level": "官方转载",
+      "source_ids": [
+        "AS050"
+      ],
+      "field_sources": {
+        "date": [
+          "AS050"
+        ],
+        "location": [
+          "AS050"
+        ],
+        "casualties": [
+          "AS050"
+        ],
+        "classification": [
+          "AS050"
+        ],
+        "motive": [
+          "AS050"
+        ],
+        "outcome": [
+          "AS050"
+        ]
+      },
+      "notes": "媒体转述的邻里纠纷、家暴、纵火需裁判佐证；不将其直接扩展为已查明案情。"
+    },
+    {
+      "id": "A021",
+      "date": "2019-02-21",
+      "date_precision": "day",
+      "title": "吉安韶山西路学校周边持刀伤人",
+      "province": "江西",
+      "city": "吉安",
+      "district": "吉州",
+      "urban_rural": null,
+      "scene": "校园及周边",
+      "method": "持械",
+      "category": "pending",
+      "classification_reason": "警方确认事件及11伤；无关路人、随机选择方式主要见媒体叙述，尚未检出明确官方性质认定或两家独立原始调查。",
+      "deaths": 0,
+      "injured": 11,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2019-02-21",
+      "casualty_note": null,
+      "involves_children": true,
+      "victim_relation": "学生、辅警及路人，关系细节未披露",
+      "age": 33,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "mental_health": "警方转述家属称有精神病治疗史，未见司法鉴定。",
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "执勤民警和群众迅速控制。",
+      "outcome": "被控制；后续司法处置未核实。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2019-02-21",
+      "evidence_level": "官方转载",
+      "source_ids": [
+        "AS024",
+        "AS025"
+      ],
+      "field_sources": {
+        "date": [
+          "AS024",
+          "AS025"
+        ],
+        "location": [
+          "AS024",
+          "AS025"
+        ],
+        "casualties": [
+          "AS024",
+          "AS025"
+        ],
+        "classification": [
+          "AS024",
+          "AS025"
+        ],
+        "motive": [],
+        "outcome": [
+          "AS024",
+          "AS025"
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "A047",
+      "date": "2019-02-26",
+      "date_precision": "day",
+      "title": "平顶山财经学校同学纠纷伤人（排除）",
+      "province": "河南",
+      "city": "平顶山",
+      "district": null,
+      "urban_rural": null,
+      "scene": "校园及周边",
+      "method": "持械",
+      "category": "excluded",
+      "classification_reason": "警方及采访表明系与特定同学的既有矛盾，未见扩大到无关学生证据。",
+      "deaths": 1,
+      "injured": 3,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2019-03-01",
+      "casualty_note": null,
+      "involves_children": null,
+      "victim_relation": "有既往矛盾的同班同学",
+      "age": null,
+      "sex": "男",
+      "occupation": "学生",
+      "motive_summary": "同学间矛盾。",
+      "motive_tags": [
+        "同学纠纷"
+      ],
+      "motive_basis": "警方初步通报",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": null,
+      "outcome": "被抓获。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2019-03-01",
+      "evidence_level": "官方转载",
+      "source_ids": [
+        "AS051"
+      ],
+      "field_sources": {
+        "date": [
+          "AS051"
+        ],
+        "location": [
+          "AS051"
+        ],
+        "casualties": [
+          "AS051"
+        ],
+        "classification": [
+          "AS051"
+        ],
+        "motive": [
+          "AS051"
+        ],
+        "outcome": [
+          "AS051"
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "A022",
+      "date": "2019-03-14",
+      "date_precision": "day",
+      "title": "唐山丰润光华道小学周边伤害学生",
+      "province": "河北",
+      "city": "唐山",
+      "district": "丰润",
+      "urban_rural": null,
+      "scene": "校园及周边",
+      "method": "持械",
+      "category": "pending",
+      "classification_reason": "本轮仅获取媒体对通报的转述及网传人数，随机性和完整伤亡需再核，不把17人作为确数。",
+      "deaths": null,
+      "injured": null,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2019-03-14",
+      "casualty_note": null,
+      "involves_children": true,
+      "victim_relation": null,
+      "age": 54,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": null,
+      "outcome": "报道引述警方称嫌疑人已控制。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2019-03-14",
+      "evidence_level": "单一媒体",
+      "source_ids": [
+        "AS026"
+      ],
+      "field_sources": {
+        "date": [
+          "AS026"
+        ],
+        "location": [
+          "AS026"
+        ],
+        "casualties": [
+          "AS026"
+        ],
+        "classification": [
+          "AS026"
+        ],
+        "motive": [],
+        "outcome": [
+          "AS026"
+        ]
+      },
+      "notes": "12月开庭存在二手汇编线索，尚未取得原法院公告，未记录判决。",
+      "injured_reported": "受伤学生人数未由已核对官方材料明确；网传17人不采入精确字段。"
+    },
+    {
+      "id": "A023",
+      "date": "2019-03-22",
+      "date_precision": "day",
+      "title": "枣阳姚岗社区驾车冲撞行人",
+      "province": "湖北",
+      "city": "襄阳",
+      "district": "枣阳",
+      "urban_rural": null,
+      "scene": "街道交通",
+      "method": "复合",
+      "category": "expanded",
+      "classification_reason": "先伤害妻女，随后驾车攻击街道无关行人。",
+      "deaths": 6,
+      "injured": 8,
+      "serious_injuries": null,
+      "attacker_deaths": 1,
+      "attacker_injured": null,
+      "casualty_asof": "2019-03-22",
+      "casualty_note": "官方6名受害人死亡（5成人1未成年）、8伤（含妻女），另嫌疑人1死。部分转述7死7伤将嫌疑人或初报混入，不采。",
+      "involves_children": true,
+      "victim_relation": "妻女及无关行人",
+      "age": 44,
+      "sex": "男",
+      "occupation": "餐馆店主",
+      "motive_summary": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "mental_health": "邻居声称有精神病史，警方当时仍在调查；非鉴定结论。",
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "民警将持续行凶者击毙。",
+      "outcome": "嫌疑人现场死亡。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2019-03-22",
+      "evidence_level": "官方转载",
+      "source_ids": [
+        "AS027"
+      ],
+      "field_sources": {
+        "date": [
+          "AS027"
+        ],
+        "location": [
+          "AS027"
+        ],
+        "casualties": [
+          "AS027"
+        ],
+        "classification": [
+          "AS027"
+        ],
+        "motive": [],
+        "outcome": [
+          "AS027"
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "A024",
+      "date": "2019-04-03",
+      "date_precision": "day",
+      "title": "宁远柏家坪完小持刀袭击学生",
+      "province": "湖南",
+      "city": "永州",
+      "district": "宁远",
+      "urban_rural": null,
+      "scene": "校园及周边",
+      "method": "持械",
+      "category": "core",
+      "classification_reason": "司法材料描述袭击者产生杀害儿童想法后进入小学攻击无关学生。",
+      "deaths": 2,
+      "injured": 2,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2020-01-13",
+      "casualty_note": "另有检方资料细分1重伤1轻伤，但本记录仅保留已打开来源支持的2伤。",
+      "involves_children": true,
+      "victim_relation": "无关在校学生",
+      "age": 31,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "mental_health": "司法材料记载精神分裂症现症期，限制刑事责任能力；不将诊断自动编码为动机。",
+      "prior_violence": null,
+      "warning_signals": "此前多轮检查已指出门卫和出入管理问题，未有效整改。",
+      "intervention": null,
+      "outcome": "袭击者被捕；所检得判决为校长与门卫责任案，不能作为袭击者终审判决。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2020-01-13",
+      "evidence_level": "官方转载",
+      "source_ids": [
+        "AS028"
+      ],
+      "field_sources": {
+        "date": [
+          "AS028"
+        ],
+        "location": [
+          "AS028"
+        ],
+        "casualties": [
+          "AS028"
+        ],
+        "classification": [
+          "AS028"
+        ],
+        "motive": [],
+        "outcome": [
+          "AS028"
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "A025",
+      "date": "2019-04-30",
+      "date_precision": "day",
+      "title": "厦门彭某随机袭击女子及纵火",
+      "province": "福建",
+      "city": "厦门",
+      "district": null,
+      "urban_rural": null,
+      "scene": "街道交通",
+      "method": "复合",
+      "category": "core",
+      "classification_reason": "法院明确以杀人报复社会为目的，连续寻找独行女性袭击，与其经营及家庭问题无关。",
+      "deaths": 1,
+      "injured": 1,
+      "serious_injuries": 0,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2020-04-17",
+      "casualty_note": "1名受害人死亡、另1名轻微伤；行为人自焚伤情未给数值。",
+      "involves_children": null,
+      "victim_relation": "随机选择的独行女性",
+      "age": null,
+      "sex": "男",
+      "occupation": "馒头店经营者",
+      "motive_summary": "经营受查、赌博损失、婚姻破裂等个人挫折后报复社会。",
+      "motive_tags": [
+        "经济损失",
+        "婚姻矛盾",
+        "报复社会"
+      ],
+      "motive_basis": "法院认定",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "警方追捕并抓获。",
+      "outcome": "故意杀人罪死刑、放火罪4年，决定执行死刑；执行未核实。",
+      "judgment_date": "2020-04-10",
+      "execution_date": null,
+      "last_source_date": "2020-04-17",
+      "evidence_level": "官方转载",
+      "source_ids": [
+        "AS029"
+      ],
+      "field_sources": {
+        "date": [
+          "AS029"
+        ],
+        "location": [
+          "AS029"
+        ],
+        "casualties": [
+          "AS029"
+        ],
+        "classification": [
+          "AS029"
+        ],
+        "motive": [
+          "AS029"
+        ],
+        "outcome": [
+          "AS029"
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "A044",
+      "date": "2019-05-16",
+      "date_precision": "day",
+      "title": "深圳驾驶人癫痫发作车辆失控（排除）",
+      "province": "广东",
+      "city": "深圳",
+      "district": "南山",
+      "urban_rural": null,
+      "scene": "街道交通",
+      "method": "驾车",
+      "category": "excluded",
+      "classification_reason": "法院明确疾病发作导致失控，虽罪名为危害公共安全且属间接故意，仍无主动随机攻击意图。",
+      "deaths": 3,
+      "injured": 8,
+      "serious_injuries": 1,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2019-12-24",
+      "casualty_note": "1重伤5轻伤2轻微伤，法院精确8伤。",
+      "involves_children": null,
+      "victim_relation": null,
+      "age": null,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "mental_health": "确诊癫痫，属于神经系统疾病，不能作精神疾病动机。",
+      "prior_violence": null,
+      "warning_signals": "既往确诊及交通意外后仍驾驶。",
+      "intervention": null,
+      "outcome": "有期徒刑13年。",
+      "judgment_date": "2019-12-23",
+      "execution_date": null,
+      "last_source_date": "2019-12-24",
+      "evidence_level": "官方转载",
+      "source_ids": [
+        "AS048"
+      ],
+      "field_sources": {
+        "date": [
+          "AS048"
+        ],
+        "location": [
+          "AS048"
+        ],
+        "casualties": [
+          "AS048"
+        ],
+        "classification": [
+          "AS048"
+        ],
+        "motive": [],
+        "outcome": [
+          "AS048"
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "A026",
+      "date": "2019-05-24",
+      "date_precision": "day",
+      "title": "南昌红谷滩随机杀害行人",
+      "province": "江西",
+      "city": "南昌",
+      "district": "红谷滩",
+      "urban_rural": null,
+      "scene": "街道交通",
+      "method": "持械",
+      "category": "core",
+      "classification_reason": "法院查明尾随经过的陌生女性并选择一人袭击。",
+      "deaths": 1,
+      "injured": 0,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2020-06-04",
+      "casualty_note": null,
+      "involves_children": null,
+      "victim_relation": "陌生行人",
+      "age": null,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "mental_health": "双相情感障碍缓解期，完全刑事责任能力。",
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "警方寻找过程中主动投案。",
+      "outcome": "二审维持死刑；未检出执行公告。",
+      "judgment_date": "2020-06-04",
+      "execution_date": null,
+      "last_source_date": "2020-06-04",
+      "evidence_level": "官方转载",
+      "source_ids": [
+        "AS030"
+      ],
+      "field_sources": {
+        "date": [
+          "AS030"
+        ],
+        "location": [
+          "AS030"
+        ],
+        "casualties": [
+          "AS030"
+        ],
+        "classification": [
+          "AS030"
+        ],
+        "motive": [],
+        "outcome": [
+          "AS030"
+        ]
+      },
+      "notes": "不将未经本来源证实的赌博或就业传闻作为动机。"
+    },
+    {
+      "id": "A048",
+      "date": "2019-06-21",
+      "date_precision": "day",
+      "title": "天门华泰中学早自习持刀伤人",
+      "province": "湖北",
+      "city": "天门",
+      "district": null,
+      "urban_rural": null,
+      "scene": "校园及周边",
+      "method": "持械",
+      "category": "pending",
+      "classification_reason": "同班多人被伤且有劝阻者受伤，但未披露初始关系、纠纷或目标选择，随机性不明。",
+      "deaths": 0,
+      "injured": 8,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2019-06-21",
+      "casualty_note": "2人在ICU是临床观察，不自动记为2名司法重伤。",
+      "involves_children": true,
+      "victim_relation": "同班学生，含劝阻者",
+      "age": 16,
+      "sex": "男",
+      "occupation": "学生",
+      "motive_summary": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "mental_health": "教师称正在进行精神鉴定；结果未知，不记为确诊。",
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "警方与学校工作人员当场制服。",
+      "outcome": "被控制，后续司法结果未知。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2019-06-21",
+      "evidence_level": "官方转载",
+      "source_ids": [
+        "AS052"
+      ],
+      "field_sources": {
+        "date": [
+          "AS052"
+        ],
+        "location": [
+          "AS052"
+        ],
+        "casualties": [
+          "AS052"
+        ],
+        "classification": [
+          "AS052"
+        ],
+        "motive": [],
+        "outcome": [
+          "AS052"
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "A027",
+      "date": "2019-07-31",
+      "date_precision": "day",
+      "title": "重庆南岸小区车库杀害无辜路人",
+      "province": "重庆",
+      "city": "重庆",
+      "district": "南岸",
+      "urban_rural": null,
+      "scene": "社区住宅",
+      "method": "持械",
+      "category": "core",
+      "classification_reason": "未找到前女友后转向与纠纷无关的过路女子。",
+      "deaths": 1,
+      "injured": null,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2019-08-06",
+      "casualty_note": null,
+      "involves_children": null,
+      "victim_relation": "无关路人",
+      "age": 18,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": "寻找前女友未果后迁怒无关者，具体心理原因未披露。",
+      "motive_tags": [
+        "感情纠纷",
+        "转移报复"
+      ],
+      "motive_basis": "警方初步通报",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": null,
+      "outcome": "被抓获；未找到后续裁判。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2019-08-06",
+      "evidence_level": "官方转载",
+      "source_ids": [
+        "AS031"
+      ],
+      "field_sources": {
+        "date": [
+          "AS031"
+        ],
+        "location": [
+          "AS031"
+        ],
+        "casualties": [
+          "AS031"
+        ],
+        "classification": [
+          "AS031"
+        ],
+        "motive": [
+          "AS031"
+        ],
+        "outcome": [
+          "AS031"
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "A028",
+      "date": "2019-09-02",
+      "date_precision": "day",
+      "title": "恩施朝阳坡小学袭击",
+      "province": "湖北",
+      "city": "恩施州",
+      "district": "恩施市",
+      "urban_rural": null,
+      "scene": "校园及周边",
+      "method": "持械",
+      "category": "core",
+      "classification_reason": "法院确认对在校学生实施故意杀人，初始警方报道描述进入学校持刀攻击儿童群体；尚无针对既有私人纠纷对象的证据。",
+      "deaths": 8,
+      "injured": 2,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2019-12-27",
+      "casualty_note": null,
+      "involves_children": true,
+      "victim_relation": "在校学生",
+      "age": 40,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": null,
+      "outcome": "死刑并已执行。",
+      "judgment_date": "2019-11-04",
+      "execution_date": "2019-12-27",
+      "last_source_date": "2019-12-27",
+      "evidence_level": "官方转载",
+      "source_ids": [
+        "AS032",
+        "AS056"
+      ],
+      "field_sources": {
+        "date": [
+          "AS032"
+        ],
+        "location": [
+          "AS032"
+        ],
+        "casualties": [
+          "AS032"
+        ],
+        "classification": [
+          "AS032"
+        ],
+        "motive": [],
+        "outcome": [
+          "AS032"
+        ],
+        "method": [
+          "AS056"
+        ]
+      },
+      "notes": "动机、精神状态未在所用法院材料明确，留空。"
+    },
+    {
+      "id": "A029",
+      "date": "2019-11-11",
+      "date_precision": "day",
+      "title": "云南开远东城幼儿园腐蚀性液体袭击",
+      "province": "云南",
+      "city": "红河州",
+      "district": "开远",
+      "urban_rural": null,
+      "scene": "校园及周边",
+      "method": "其他",
+      "category": "core",
+      "classification_reason": "警方明确报复社会而向无关幼儿与教师喷洒腐蚀性液体。",
+      "deaths": 0,
+      "injured": 54,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2019-11-12",
+      "casualty_note": "51幼儿、3教师共54伤；2人重度症状为临床表述，司法重伤数留空。",
+      "involves_children": true,
+      "victim_relation": "幼儿及教师",
+      "age": 23,
+      "sex": "男",
+      "occupation": "无业",
+      "motive_summary": "警方转述嫌疑人供述：成长及工作生活不顺，产生悲观和报复社会心理。",
+      "motive_tags": [
+        "生活挫折",
+        "报复社会"
+      ],
+      "motive_basis": "警方初步通报",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "警方当日下午抓获。",
+      "outcome": "被控制；未检出判决。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2019-11-12",
+      "evidence_level": "官方转载",
+      "source_ids": [
+        "AS033"
+      ],
+      "field_sources": {
+        "date": [
+          "AS033"
+        ],
+        "location": [
+          "AS033"
+        ],
+        "casualties": [
+          "AS033"
+        ],
+        "classification": [
+          "AS033"
+        ],
+        "motive": [
+          "AS033"
+        ],
+        "outcome": [
+          "AS033"
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "A030",
+      "date": "2019-12-06",
+      "date_precision": "day",
+      "title": "北京马家堡被盗车辆冲撞",
+      "province": "北京",
+      "city": "北京",
+      "district": "丰台",
+      "urban_rural": null,
+      "scene": "街道交通",
+      "method": "驾车",
+      "category": "pending",
+      "classification_reason": "通报确认盗车及沿途碰撞，未明确撞人故意还是逃离中的肇事，随机主动袭击证据不足。",
+      "deaths": 2,
+      "injured": 7,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2019-12-06",
+      "casualty_note": null,
+      "involves_children": null,
+      "victim_relation": null,
+      "age": 57,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": null,
+      "outcome": "被警方拦截控制；未检出裁判。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2019-12-06",
+      "evidence_level": "官方转载",
+      "source_ids": [
+        "AS034"
+      ],
+      "field_sources": {
+        "date": [
+          "AS034"
+        ],
+        "location": [
+          "AS034"
+        ],
+        "casualties": [
+          "AS034"
+        ],
+        "classification": [
+          "AS034"
+        ],
+        "motive": [],
+        "outcome": [
+          "AS034"
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "A031",
+      "date": "2019-12-15",
+      "date_precision": "day",
+      "title": "上海静安持刀警情与警方开枪处置",
+      "province": "上海",
+      "city": "上海",
+      "district": "静安",
+      "urban_rural": null,
+      "scene": "街道交通",
+      "method": "持械",
+      "category": "pending",
+      "classification_reason": "有持刀逼近他人的报道，但2名路人伤情来自警方枪弹；不能把此数作为嫌疑人随机砍伤人数。",
+      "deaths": 0,
+      "injured": null,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": 1,
+      "casualty_asof": "2019-12-25",
+      "casualty_note": "枪伤处置受害者独列response_injured=2，injured留空；不得计作2名刀伤。",
+      "involves_children": null,
+      "victim_relation": null,
+      "age": null,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": "邻居称当日下午持物比划并报警；属于报道中的目击陈述。",
+      "intervention": "民警劝阻后开枪制服。",
+      "outcome": "持刀者和两名路人送医；其中一路人仍在ICU。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2019-12-25",
+      "evidence_level": "单一媒体",
+      "source_ids": [
+        "AS035"
+      ],
+      "field_sources": {
+        "date": [
+          "AS035"
+        ],
+        "location": [
+          "AS035"
+        ],
+        "casualties": [
+          "AS035"
+        ],
+        "classification": [
+          "AS035"
+        ],
+        "motive": [],
+        "outcome": [
+          "AS035"
+        ]
+      },
+      "notes": "部分汇编案发日写12月19日，本调查报道明确12月15日。",
+      "response_injured": 2,
+      "injured_reported": "2名路人为警方枪弹所伤；直接遭刀伤人数未获证实。"
+    },
+    {
+      "id": "A032",
+      "date": "2020-01-20",
+      "date_precision": "day",
+      "title": "北京朝阳医院伤医及伤害劝阻者",
+      "province": "北京",
+      "city": "北京",
+      "district": "朝阳",
+      "urban_rural": null,
+      "scene": "医疗机构",
+      "method": "持械",
+      "category": "expanded",
+      "classification_reason": "起始明确针对诊治医生，继而主动砍伤3名阻拦其行凶者；属于纠纷扩展而非核心随机选人。",
+      "deaths": 0,
+      "injured": 4,
+      "serious_injuries": 1,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2021-02-02",
+      "casualty_note": "1名重伤二级、1名轻伤二级、2名轻微伤。",
+      "involves_children": null,
+      "victim_relation": "诊治医生及3名阻拦者",
+      "age": null,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": "认为眼睛治疗效果未达个人预期，对诊治医生怨恨。",
+      "motive_tags": [
+        "医患纠纷",
+        "扩大伤害"
+      ],
+      "motive_basis": "法院认定",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "3名旁人阻止时被伤；作案后让人报警并在现场等候。",
+      "outcome": "一审死刑缓期二年执行。",
+      "judgment_date": "2021-02-02",
+      "execution_date": null,
+      "last_source_date": "2021-02-02",
+      "evidence_level": "官方转载",
+      "source_ids": [
+        "AS036"
+      ],
+      "field_sources": {
+        "date": [
+          "AS036"
+        ],
+        "location": [
+          "AS036"
+        ],
+        "casualties": [
+          "AS036"
+        ],
+        "classification": [
+          "AS036"
+        ],
+        "motive": [
+          "AS036"
+        ],
+        "outcome": [
+          "AS036"
+        ]
+      },
+      "notes": "被害医生姓名从事件标题及字段中省略。"
+    },
+    {
+      "id": "A033",
+      "date": "2020-04-15",
+      "date_precision": "day",
+      "title": "滦平沿省道驾车及持石袭击行人",
+      "province": "河北",
+      "city": "承德",
+      "district": "滦平",
+      "urban_rural": null,
+      "scene": "街道交通",
+      "method": "复合",
+      "category": "core",
+      "classification_reason": "检方明确报复社会而连续冲撞多名行人，并继续持石袭击，与具体私人对象无关。",
+      "deaths": 2,
+      "injured": 7,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2020-05-20",
+      "casualty_note": null,
+      "involves_children": null,
+      "victim_relation": "道路行人",
+      "age": 30,
+      "sex": "男",
+      "occupation": "曾从事法语翻译",
+      "motive_summary": "检方通报指厌世、自杀及报复社会念头；尚未取得终审认定。",
+      "motive_tags": [
+        "报复社会",
+        "自杀倾向"
+      ],
+      "motive_basis": "未知",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "现场群众控制。",
+      "outcome": "2020年5月14日获批逮捕；未检出裁判。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2020-05-20",
+      "evidence_level": "官方转载",
+      "source_ids": [
+        "AS037"
+      ],
+      "field_sources": {
+        "date": [
+          "AS037"
+        ],
+        "location": [
+          "AS037"
+        ],
+        "casualties": [
+          "AS037"
+        ],
+        "classification": [
+          "AS037"
+        ],
+        "motive": [
+          "AS037"
+        ],
+        "outcome": [
+          "AS037"
+        ]
+      },
+      "notes": "motive_basis枚举没有检方指控项，置未知并保留准确归属，不写为法院已认定。",
+      "motive_attribution": "检方批捕阶段通报"
+    },
+    {
+      "id": "A034",
+      "date": "2020-06-04",
+      "date_precision": "day",
+      "title": "苍梧旺甫镇中心小学持刀伤人",
+      "province": "广西",
+      "city": "梧州",
+      "district": "苍梧",
+      "urban_rural": null,
+      "scene": "校园及周边",
+      "method": "持械",
+      "category": "expanded",
+      "classification_reason": "先因工作纠纷袭击同事，随后攻击与该纠纷无关的学生等人员。",
+      "deaths": 0,
+      "injured": 41,
+      "serious_injuries": 1,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2020-12-30",
+      "casualty_note": "采用法院最终41伤，取代初报39伤。",
+      "involves_children": true,
+      "victim_relation": "同事、副校长及无关学生",
+      "age": null,
+      "sex": "男",
+      "occupation": "学校保安",
+      "motive_summary": "工作与请假等争执后行凶，扩大至学生群体。",
+      "motive_tags": [
+        "工作纠纷",
+        "扩大报复"
+      ],
+      "motive_basis": "法院认定",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": null,
+      "outcome": "二审维持死刑；未检出执行公告。",
+      "judgment_date": "2020-12-30",
+      "execution_date": null,
+      "last_source_date": "2020-12-30",
+      "evidence_level": "官方转载",
+      "source_ids": [
+        "AS038"
+      ],
+      "field_sources": {
+        "date": [
+          "AS038"
+        ],
+        "location": [
+          "AS038"
+        ],
+        "casualties": [
+          "AS038"
+        ],
+        "classification": [
+          "AS038"
+        ],
+        "motive": [
+          "AS038"
+        ],
+        "outcome": [
+          "AS038"
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "A035",
+      "date": "2020-06-04",
+      "date_precision": "day",
+      "title": "仙游枫亭镇和平村超市外持刀伤人",
+      "province": "福建",
+      "city": "莆田",
+      "district": "仙游",
+      "urban_rural": null,
+      "scene": "街道交通",
+      "method": "持械",
+      "category": "pending",
+      "classification_reason": "警方证实3死7伤；无差别行为主要来自一组红星新闻目击者采访，尚缺官方关系认定或第二独立调查。",
+      "deaths": 3,
+      "injured": 7,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2020-06-05",
+      "casualty_note": null,
+      "involves_children": null,
+      "victim_relation": "媒体称附近路人，官方未详述",
+      "age": 35,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": null,
+      "outcome": "案发当夜被抓获，未检出判决。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2020-06-05",
+      "evidence_level": "单一媒体",
+      "source_ids": [
+        "AS039"
+      ],
+      "field_sources": {
+        "date": [
+          "AS039"
+        ],
+        "location": [
+          "AS039"
+        ],
+        "casualties": [
+          "AS039"
+        ],
+        "classification": [
+          "AS039"
+        ],
+        "motive": [],
+        "outcome": [
+          "AS039"
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "A036",
+      "date": "2020-06-17",
+      "date_precision": "day",
+      "title": "上海徐汇建国西路持刀伤害路人",
+      "province": "上海",
+      "city": "上海",
+      "district": "徐汇",
+      "urban_rural": null,
+      "scene": "街道交通",
+      "method": "复合",
+      "category": "core",
+      "classification_reason": "警方明确下车后主动伤害5名持刀受害路人及1名拳击受害路人；其女友亦受伤，但未明确由私人纠纷引起。",
+      "deaths": 0,
+      "injured": 7,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2020-06-18",
+      "casualty_note": "主动持刀/拳击阶段7伤；另3名交通碰撞伤者，其故意性未查明，不并入injured；全事件送医10人。",
+      "involves_children": null,
+      "victim_relation": "同行女友及6名无关路人",
+      "age": 39,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "mental_health": "家属称近期出现异常言行，仅为家属描述，未见司法鉴定。",
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": null,
+      "outcome": "被警方控制，排除酒驾毒驾；未检出裁判。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2020-06-18",
+      "evidence_level": "官方转载",
+      "source_ids": [
+        "AS040"
+      ],
+      "field_sources": {
+        "date": [
+          "AS040"
+        ],
+        "location": [
+          "AS040"
+        ],
+        "casualties": [
+          "AS040"
+        ],
+        "classification": [
+          "AS040"
+        ],
+        "motive": [],
+        "outcome": [
+          "AS040"
+        ]
+      },
+      "notes": null,
+      "additional_collision_injured": 3,
+      "event_total_injured_reported": 10
+    },
+    {
+      "id": "A037",
+      "date": "2020-07-05",
+      "date_precision": "day",
+      "title": "凤翔随机伤害路人及杀害出租车司机",
+      "province": "陕西",
+      "city": "宝鸡",
+      "district": "凤翔",
+      "urban_rural": null,
+      "scene": "街道交通",
+      "method": "持械",
+      "category": "core",
+      "classification_reason": "先主动袭击两名无关路人，随后逃离途中另杀司机；核心随机阶段独立成立。",
+      "deaths": 2,
+      "injured": 1,
+      "serious_injuries": 0,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2021-05-10",
+      "casualty_note": "2死包含第二阶段出租车司机；1伤为轻伤二级。",
+      "involves_children": null,
+      "victim_relation": "无关路人及后续乘车纠纷中的司机",
+      "age": null,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": "法院认为受网络小说影响欲模仿砍人情节；第二阶段与司机车费争执。",
+      "motive_tags": [
+        "模仿犯罪",
+        "后续乘车纠纷"
+      ],
+      "motive_basis": "法院认定",
+      "mental_health": "精神分裂症缓解期，完全刑事责任能力。",
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "店主呵斥后逃离；7月8日被抓获。",
+      "outcome": "一审死刑；报道仅写近日宣判，具体宣判日未列。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2021-05-10",
+      "evidence_level": "官方转载",
+      "source_ids": [
+        "AS041"
+      ],
+      "field_sources": {
+        "date": [
+          "AS041"
+        ],
+        "location": [
+          "AS041"
+        ],
+        "casualties": [
+          "AS041"
+        ],
+        "classification": [
+          "AS041"
+        ],
+        "motive": [
+          "AS041"
+        ],
+        "outcome": [
+          "AS041"
+        ]
+      },
+      "notes": "不把法院描述提升为网络小说对暴力的普遍因果结论。"
+    },
+    {
+      "id": "A038",
+      "date": "2020-07-07",
+      "date_precision": "day",
+      "title": "安顺公交车蓄意冲入虹山水库",
+      "province": "贵州",
+      "city": "安顺",
+      "district": "西秀",
+      "urban_rural": null,
+      "scene": "公共交通",
+      "method": "驾车",
+      "category": "core",
+      "classification_reason": "警方直接认定针对不特定人群的个人极端犯罪，并排除车辆故障及驾驶中外部干扰。",
+      "deaths": 20,
+      "injured": 15,
+      "serious_injuries": null,
+      "attacker_deaths": 1,
+      "attacker_injured": null,
+      "casualty_asof": "2020-07-13",
+      "casualty_note": "警方总死亡21人明确含司机，本表受害人死亡20、袭击者死亡1；采用后续15伤。",
+      "involves_children": null,
+      "victim_relation": "无关公交乘客",
+      "age": 52,
+      "sex": "男",
+      "occupation": "公交车驾驶员",
+      "motive_summary": "生活不如意及对承租公房拆除不满，为制造影响实施袭击。",
+      "motive_tags": [
+        "住房纠纷",
+        "生活挫折",
+        "报复社会"
+      ],
+      "motive_basis": "警方初步通报",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": "当天向政务热线表达住房不满，并向女友流露厌世情绪。",
+      "intervention": "多部门搜救；未见事前有效干预证据。",
+      "outcome": "司机一并死亡，警方公布调查结论。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2020-07-13",
+      "evidence_level": "官方转载",
+      "source_ids": [
+        "AS042"
+      ],
+      "field_sources": {
+        "date": [
+          "AS042"
+        ],
+        "location": [
+          "AS042"
+        ],
+        "casualties": [
+          "AS042"
+        ],
+        "classification": [
+          "AS042"
+        ],
+        "motive": [
+          "AS042"
+        ],
+        "outcome": [
+          "AS042"
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "A039",
+      "date": "2020-08-12",
+      "date_precision": "day",
+      "title": "天津营口道等处随机袭击女性",
+      "province": "天津",
+      "city": "天津",
+      "district": "和平",
+      "urban_rural": null,
+      "scene": "街道交通",
+      "method": "持械",
+      "category": "core",
+      "classification_reason": "司法案情明确因门锁问题迁怒过路女性，持续寻找陌生目标。",
+      "deaths": 1,
+      "injured": null,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2021-03-31",
+      "casualty_note": "初报1死1轻微伤，后续司法案情记第二人尚未形成伤情；精确伤者数留空，不将1伤无条件带入。",
+      "involves_children": null,
+      "victim_relation": "陌生女性行人",
+      "age": null,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": "怀疑门锁被破坏，意图通过袭击闹市女性将事情闹大。",
+      "motive_tags": [
+        "疑似权益受损",
+        "制造影响"
+      ],
+      "motive_basis": "法院认定",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": "当日先报警到派出所，调查等待期间自行离开，后实施攻击。",
+      "intervention": "警方及群众抓获。",
+      "outcome": "死刑获核准的报道；执行日期未核实。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2021-03-31",
+      "evidence_level": "官方转载",
+      "source_ids": [
+        "AS043"
+      ],
+      "field_sources": {
+        "date": [
+          "AS043"
+        ],
+        "location": [
+          "AS043"
+        ],
+        "casualties": [
+          "AS043"
+        ],
+        "classification": [
+          "AS043"
+        ],
+        "motive": [
+          "AS043"
+        ],
+        "outcome": [
+          "AS043"
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "A040",
+      "date": "2020-09-07",
+      "date_precision": "day",
+      "title": "桑植文明路学校周边袭击学生",
+      "province": "湖南",
+      "city": "张家界",
+      "district": "桑植",
+      "urban_rural": null,
+      "scene": "校园及周边",
+      "method": "持械",
+      "category": "core",
+      "classification_reason": "检方明确蓄意攻击无关未成年学生以报复社会并引发关注。",
+      "deaths": 0,
+      "injured": 4,
+      "serious_injuries": 4,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2021-11-04",
+      "casualty_note": null,
+      "involves_children": true,
+      "victim_relation": "无关上学学生",
+      "age": null,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": "检方指控因家庭诉求未解决，对社会不满而袭击学生引关注。",
+      "motive_tags": [
+        "诉求受挫",
+        "报复社会",
+        "制造影响"
+      ],
+      "motive_basis": "未知",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "群众追赶，嫌疑人劫持学生后被警方抓获。",
+      "outcome": "一审开庭后已进入二审；最终刑罚未核实。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2021-11-04",
+      "evidence_level": "官方转载",
+      "source_ids": [
+        "AS044",
+        "AS045"
+      ],
+      "field_sources": {
+        "date": [
+          "AS044",
+          "AS045"
+        ],
+        "location": [
+          "AS044",
+          "AS045"
+        ],
+        "casualties": [
+          "AS044",
+          "AS045"
+        ],
+        "classification": [
+          "AS044",
+          "AS045"
+        ],
+        "motive": [
+          "AS044",
+          "AS045"
+        ],
+        "outcome": [
+          "AS044",
+          "AS045"
+        ]
+      },
+      "notes": "不开庭日替代判决日。",
+      "motive_attribution": "检方指控，未见公开终审动机认定"
+    },
+    {
+      "id": "A041",
+      "date": "2020-09-21",
+      "date_precision": "day",
+      "title": "广州番禺钟村骏兴路持刀伤人",
+      "province": "广东",
+      "city": "广州",
+      "district": "番禺",
+      "urban_rural": null,
+      "scene": "街道交通",
+      "method": "持械",
+      "category": "pending",
+      "classification_reason": "通报确认事件和伤亡，但未明确受害人关系及选择目标方式，随机性留待补核。",
+      "deaths": 2,
+      "injured": 3,
+      "serious_injuries": null,
+      "attacker_deaths": 1,
+      "attacker_injured": null,
+      "casualty_asof": "2020-09-21",
+      "casualty_note": "受害人2死3伤，嫌疑人死亡单列；不把5名最初受伤者与2名死亡重复相加。",
+      "involves_children": null,
+      "victim_relation": null,
+      "age": 47,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "mental_health": "警方称长期有抑郁病征，未披露司法鉴定或具体诊断。",
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "现场安保制服，增援警方控制，送医。",
+      "outcome": "嫌疑人自残后抢救无效死亡。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2020-09-21",
+      "evidence_level": "官方转载",
+      "source_ids": [
+        "AS046"
+      ],
+      "field_sources": {
+        "date": [
+          "AS046"
+        ],
+        "location": [
+          "AS046"
+        ],
+        "casualties": [
+          "AS046"
+        ],
+        "classification": [
+          "AS046"
+        ],
+        "motive": [],
+        "outcome": [
+          "AS046"
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "A042",
+      "date": "2020-12-27",
+      "date_precision": "day",
+      "title": "辽宁开原随机持刀袭击路人",
+      "province": "辽宁",
+      "city": "铁岭",
+      "district": "开原",
+      "urban_rural": null,
+      "scene": "街道交通",
+      "method": "持械",
+      "category": "core",
+      "classification_reason": "警方直接使用随机刺杀路人描述，受害人为道路无关群众及处置民警。",
+      "deaths": 7,
+      "injured": 7,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2020-12-28",
+      "casualty_note": "7伤包含处置民警1人。",
+      "involves_children": null,
+      "victim_relation": "路人和处置民警",
+      "age": 62,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": "警方称儿子离世、与妻子离异，对社会产生不满。",
+      "motive_tags": [
+        "家庭变故",
+        "报复社会"
+      ],
+      "motive_basis": "警方初步通报",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "民警现场抓获，1名民警在处置中受伤。",
+      "outcome": "嫌疑人被抓获；未检出后续判决。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2020-12-28",
+      "evidence_level": "官方转载",
+      "source_ids": [
+        "AS047"
+      ],
+      "field_sources": {
+        "date": [
+          "AS047"
+        ],
+        "location": [
+          "AS047"
+        ],
+        "casualties": [
+          "AS047"
+        ],
+        "classification": [
+          "AS047"
+        ],
+        "motive": [
+          "AS047"
+        ],
+        "outcome": [
+          "AS047"
+        ]
+      },
+      "notes": "网媒将既往判决与同名人相连的材料未作身份独立确认，未据此确定精神诊断及前科。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "AS001",
+      "url": "http://society.people.com.cn/n1/2019/0613/c1008-31135544.html",
+      "title": "北京西单大悦城命案被告人一审被判死刑",
+      "publisher": "新华社／人民网",
+      "published_date": "2019-06-13",
+      "accessed_date": "2026-09-16",
+      "type": "法院",
+      "independence_group": "AS001",
+      "supports": [
+        "A001"
+      ],
+      "key_facts": "北京二中院查明朱纪业因个人不满，预谋后在西单大悦城攻击顾客和员工，造成1死14伤；2019年6月13日一审判处死刑。",
+      "body_checked": true
+    },
+    {
+      "id": "AS002",
+      "url": "https://www.sohu.com/a/228431719_253235",
+      "title": "南宁一男子持刀砍人致1死3伤",
+      "publisher": "广西新闻频道／黄河新闻网吕梁搜狐号",
+      "published_date": "2018-04-16",
+      "accessed_date": "2026-09-16",
+      "type": "官方媒体",
+      "independence_group": "GXTV20180416",
+      "supports": [
+        "A002"
+      ],
+      "key_facts": "完整引述南宁兴宁警方通报1死3伤；记者及目击者称攻击路过母婴及两名阻止者。",
+      "body_checked": true
+    },
+    {
+      "id": "AS003",
+      "url": "https://www.jiemian.com/article/2059754.html",
+      "title": "广西南宁男子当街持刀行凶 砍杀无辜路人致一死三伤",
+      "publisher": "广西新闻频道／界面新闻",
+      "published_date": "2018-04-17",
+      "accessed_date": "2026-09-16",
+      "type": "官方媒体",
+      "independence_group": "GXTV20180416",
+      "supports": [
+        "A002"
+      ],
+      "key_facts": "记者现场核查陌生人袭击母婴及劝阻群众，1死3伤；警方下午4时通报嫌疑人已受控。页面原发4月16日、更新4月17日。",
+      "body_checked": true
+    },
+    {
+      "id": "AS004",
+      "url": "https://appimg.modaily.cn/app/szb/pc/content/201912/25/content_18298.html",
+      "title": "英德特大放火案罪犯伏法",
+      "publisher": "澳门日报（中新社、中通社）",
+      "published_date": "2019-12-25",
+      "accessed_date": "2026-09-16",
+      "type": "法院",
+      "independence_group": "AS004",
+      "supports": [
+        "A003"
+      ],
+      "key_facts": "最高法复核认定18死、1重伤2轻伤，2019年12月24日执行死刑；同篇回顾前期案件另列1轻微伤。由KTV内个人纠纷引发纵火。",
+      "body_checked": true
+    },
+    {
+      "id": "AS005",
+      "url": "https://www.guancha.cn/society/2018_09_27_473563.shtml",
+      "title": "陕西米脂砍杀学生案罪犯赵泽伟被执行死刑",
+      "publisher": "观察者网（陕西检察、榆林中院布告）",
+      "published_date": "2018-09-27",
+      "accessed_date": "2026-09-16",
+      "type": "法院",
+      "independence_group": "AS005",
+      "supports": [
+        "A004"
+      ],
+      "key_facts": "榆林中院布告确认2018年4月27日袭击三中学生，9死12伤；2018年7月10日一审死刑，9月27日执行。",
+      "body_checked": true
+    },
+    {
+      "id": "AS006",
+      "url": "https://www.thepaper.cn/newsDetail_forward_2252877?commTag=true",
+      "title": "陕西米脂致学生9死故意杀人案嫌犯赵泽伟一审被判死刑",
+      "publisher": "澎湃新闻（陕西高院）",
+      "published_date": "2018-07-10",
+      "accessed_date": "2026-09-16",
+      "type": "法院",
+      "independence_group": "AS006",
+      "supports": [
+        "A004"
+      ],
+      "key_facts": "法院认定工作生活不顺、怨恨旧同学，未找到旧同学后改为袭击放学学生；9死，4重伤7轻伤1轻微伤。",
+      "body_checked": true
+    },
+    {
+      "id": "AS007",
+      "url": "https://m.thepaper.cn/newsDetail_forward_2127886?commTag=true",
+      "title": "成都再次通报致3人伤闹市车祸：六旬男涉危害公共安全被刑拘",
+      "publisher": "封面新闻／澎湃新闻",
+      "published_date": "2018-05-14",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "AS007",
+      "supports": [
+        "A005"
+      ],
+      "key_facts": "成都警方通报5月13日人民东路事件，62岁姚某某涉嫌危险方法危害公共安全，3名阻止者受伤且稳定。",
+      "body_checked": true
+    },
+    {
+      "id": "AS008",
+      "url": "https://news.sina.com.cn/c/2019-06-12/doc-ihvhiews8424729.shtml",
+      "title": "致7死 河北唐山煤医道撞人案二审维持死刑原判",
+      "publisher": "新京报／新浪（唐山中院、唐山检察院）",
+      "published_date": "2019-06-12",
+      "accessed_date": "2026-09-16",
+      "type": "法院",
+      "independence_group": "AS008",
+      "supports": [
+        "A006"
+      ],
+      "key_facts": "刘某某2018年6月6日酒后驾车故意冲撞多名行人，7死10伤（2重3轻5轻微），2018年11月28日一审死刑，二审维持。",
+      "body_checked": true
+    },
+    {
+      "id": "AS009",
+      "url": "https://www.spp.gov.cn/spp/gxcxjxfdhmjcgzzwn/201901/t20190126_580457.shtml",
+      "title": "西安“6·22公交杀人案”凶犯被判死刑",
+      "publisher": "检察日报／最高人民检察院",
+      "published_date": "2019-01-26",
+      "accessed_date": "2026-09-16",
+      "type": "检察院",
+      "independence_group": "AS009",
+      "supports": [
+        "A007"
+      ],
+      "key_facts": "法院认定辛海平自称公交车上遭恶意扎针染病，报复乘客和路人，4死7轻伤；1月25日一审死刑。",
+      "body_checked": true
+    },
+    {
+      "id": "AS010",
+      "url": "https://www.yantai.gov.cn/art/2018/6/25/art_44443_2893743.html",
+      "title": "烟台市公安局“6.25”叉车伤人事件舆情处置情况",
+      "publisher": "烟台市政府（市公安局）",
+      "published_date": "2018-06-25",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "AS010",
+      "supports": [
+        "A008"
+      ],
+      "key_facts": "警方通报45岁王志华驾驶叉车在幸福中路冲撞行人，造成1死10余伤，制止无效后被开枪击毙。",
+      "body_checked": true
+    },
+    {
+      "id": "AS011",
+      "url": "https://www.fjdaily.com/app/content/2020-12/03/content_880973.html",
+      "title": "上海浦北路杀害小学生案罪犯黄一川被执行死刑",
+      "publisher": "福建日报（上海一中院）",
+      "published_date": "2020-12-03",
+      "accessed_date": "2026-09-16",
+      "type": "法院",
+      "independence_group": "AS011",
+      "supports": [
+        "A009"
+      ],
+      "key_facts": "黄一川因工作生活不顺，为泄私愤在上海浦北路袭击无辜儿童及家长，2死2轻伤；2020年12月3日执行死刑。",
+      "body_checked": true
+    },
+    {
+      "id": "AS012",
+      "url": "https://www.chinanews.com/m/sh/2018/08-21/8606061.shtml",
+      "title": "江苏镇江一男子持刀砍伤5人被抓获 伤者暂无生命危险",
+      "publisher": "中国新闻网",
+      "published_date": "2018-08-21",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "AS012",
+      "supports": [
+        "A010"
+      ],
+      "key_facts": "镇江润州警方：8月20日百盛家园南门附近，张某持菜刀伤害5名路人，被抓获；5人无生命危险。",
+      "body_checked": true
+    },
+    {
+      "id": "AS013",
+      "url": "https://www.jiemian.com/article/2834177.html",
+      "title": "“路虎撞人致15死案”罪犯阳赞云今日被执行死刑",
+      "publisher": "界面新闻（湖南高院）",
+      "published_date": "2019-01-29",
+      "accessed_date": "2026-09-16",
+      "type": "法院",
+      "independence_group": "AS013",
+      "supports": [
+        "A011"
+      ],
+      "key_facts": "法院认定阳赞云在衡东洣江广场驾车撞击、下车持械攻击人群，15死43伤，2018年12月12日一审死刑，2019年1月29日执行。",
+      "body_checked": true
+    },
+    {
+      "id": "AS014",
+      "url": "https://news.sina.com.cn/c/2019-10-09/doc-iicezuev1016640.shtml",
+      "title": "女子与丈夫吵架后为泄私愤连撞8车 一审获刑6年",
+      "publisher": "新京报／新浪（海淀法院）",
+      "published_date": "2019-10-09",
+      "accessed_date": "2026-09-16",
+      "type": "法院",
+      "independence_group": "AS014",
+      "supports": [
+        "A012"
+      ],
+      "key_facts": "2018年9月12日廖某因家庭争执，在海淀道路肆意冲撞停放及正常行驶车辆，2人受伤；一审有期徒刑6年。",
+      "body_checked": true
+    },
+    {
+      "id": "AS015",
+      "url": "https://m.thepaper.cn/newsDetail_forward_2567185",
+      "title": "重庆一幼儿园幼儿做完早操后遭砍伤，警方：暂无人员死亡",
+      "publisher": "澎湃新闻",
+      "published_date": "2018-10-26",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "AS015",
+      "supports": [
+        "A013"
+      ],
+      "key_facts": "巴南公安负责人确认39岁刘某突然冲入幼儿早操结束后的人群持刀行凶，现场抓获，无死亡。",
+      "body_checked": true
+    },
+    {
+      "id": "AS016",
+      "url": "https://www.zaobao.com.sg/znews/greater-china/story20181027-902405",
+      "title": "重庆幼儿园持刀伤人事件",
+      "publisher": "联合早报",
+      "published_date": "2018-10-27",
+      "accessed_date": "2026-09-16",
+      "type": "独立媒体",
+      "independence_group": "AS016",
+      "supports": [
+        "A013"
+      ],
+      "key_facts": "现场记者及官方信息报道14名幼儿受伤，部分伤势严重，袭击者39岁女性。",
+      "body_checked": true
+    },
+    {
+      "id": "AS017",
+      "url": "http://society.people.com.cn/n1/2018/1102/c1008-30378646.html",
+      "title": "重庆万州公交车坠江原因公布：乘客与司机激烈争执互殴致车辆失控",
+      "publisher": "人民日报客户端／人民网（调查通报）",
+      "published_date": "2018-11-02",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "AS017",
+      "supports": [
+        "A014"
+      ],
+      "key_facts": "调查确认乘客与司机互殴导致公交车失控坠江，15名驾乘人员，已打捞13具遗体；无证据表明主动随机袭击其他乘客。",
+      "body_checked": true
+    },
+    {
+      "id": "AS018",
+      "url": "https://www.sohu.com/a/325744303_428290",
+      "title": "辽宁葫芦岛“驾轿车撞学生致6死20伤”案一审宣判",
+      "publisher": "央视网／搜狐",
+      "published_date": "2019-07-09",
+      "accessed_date": "2026-09-16",
+      "type": "法院",
+      "independence_group": "AS018",
+      "supports": [
+        "A015"
+      ],
+      "key_facts": "葫芦岛中院对韩继华判死刑。2018年11月22日因经济、婚姻等不满，驾车冲撞学生队伍，6死20伤。",
+      "body_checked": true
+    },
+    {
+      "id": "AS019",
+      "url": "https://m.thepaper.cn/newsDetail_forward_9611626",
+      "title": "四川夹江公交车爆炸案被告人死缓，曾因认为判轻要求立即执行死刑",
+      "publisher": "环球时报／澎湃（川观新闻、裁判文书）",
+      "published_date": "2020-10-18",
+      "accessed_date": "2026-09-16",
+      "type": "法院",
+      "independence_group": "AS019",
+      "supports": [
+        "A016"
+      ],
+      "key_facts": "2018年12月5日卢仕兵在夹江公交车上引爆爆炸物；法院列1重伤、8轻伤、7轻微伤及其他多人受伤。一审2019年11月15日死缓限制减刑，二审维持。",
+      "body_checked": true
+    },
+    {
+      "id": "AS020",
+      "url": "https://mil.sina.cn/2019-01-29/detail-ihqfskcp1570856.d.html",
+      "title": "福建龙岩男子持刀杀人并劫持公交车撞人致8死25伤 一审获死刑",
+      "publisher": "环球时报／新浪",
+      "published_date": "2019-01-29",
+      "accessed_date": "2026-09-16",
+      "type": "法院",
+      "independence_group": "Longyan_court_20190128",
+      "supports": [
+        "A017"
+      ],
+      "key_facts": "龙岩中院2019年1月28日一审对邱日辉判死刑；2018年12月25日先持刀袭击，继而劫持公交车沿街冲撞，共8死25伤。",
+      "body_checked": true
+    },
+    {
+      "id": "AS021",
+      "url": "https://xinwen.bjd.com.cn/content/s5c34b096e4b03ea0f24ba7bf.html",
+      "title": "西城区宣师一附小伤害学生事件新闻发布会",
+      "publisher": "北京日报客户端（北京西城）",
+      "published_date": "2019-01-08",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "AS021",
+      "supports": [
+        "A018"
+      ],
+      "key_facts": "发布会说明49岁劳务人员贾某因维修合同问题不满，在学校伤害20名学生，3人伤势较重，均无生命危险，现场控制。",
+      "body_checked": true
+    },
+    {
+      "id": "AS022",
+      "url": "https://www.thepaper.cn/newsDetail_forward_2854233",
+      "title": "广东东莞虎门一男子持刀伤人致1死8伤，嫌疑人被抓获",
+      "publisher": "澎湃新闻",
+      "published_date": "2019-01-15",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "AS022",
+      "supports": [
+        "A019"
+      ],
+      "key_facts": "东莞虎门怀德社区1月14日覃某高持刀伤人，1死8伤；警方排除涉恐，嫌疑人被抓，动机在查。",
+      "body_checked": true
+    },
+    {
+      "id": "AS023",
+      "url": "https://m.cqcb.com/headline/2019-01-15/1381406.html",
+      "title": "福州持刀伤人事件续报：1人死亡19人受伤",
+      "publisher": "福州新闻网／上游新闻",
+      "published_date": "2019-01-15",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "AS023",
+      "supports": [
+        "A020"
+      ],
+      "key_facts": "警方续报48岁侯某锋因与前妻及其男友纠纷，行凶后逃跑中伤害路人并抢电动车，1死19伤；后跳河下落不明。",
+      "body_checked": true
+    },
+    {
+      "id": "AS024",
+      "url": "https://www.peopleapp.com/column/30036589131-500001627515",
+      "title": "江西吉安发生砍人案致11伤 嫌疑人已被控制",
+      "publisher": "人民日报客户端（吉安公安）",
+      "published_date": "2019-02-21",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "AS024",
+      "supports": [
+        "A021"
+      ],
+      "key_facts": "警方通报郭开滨33岁在韶山西路持刀伤人，11人受伤，包括学生及辅警，警方和群众控制嫌疑人。",
+      "body_checked": true
+    },
+    {
+      "id": "AS025",
+      "url": "https://www.rfa.org/cantonese/news/chop-02212019054320.html",
+      "title": "江西中學外斬人11傷 警員途人合力制服疑精神病男子",
+      "publisher": "自由亚洲电台",
+      "published_date": "2019-02-21",
+      "accessed_date": "2026-09-16",
+      "type": "独立媒体",
+      "independence_group": "AS025",
+      "supports": [
+        "A021"
+      ],
+      "key_facts": "据警方及现场商户、目击者材料报道在吉安八中外袭击学生及途人，群众追赶数百米并制服。",
+      "body_checked": true
+    },
+    {
+      "id": "AS026",
+      "url": "https://www.secretchina.com/news/gb/2019/03/14/887394.html",
+      "title": "唐山当街乱砍 疑犯双手染血 传17学童受伤",
+      "publisher": "看中国",
+      "published_date": "2019-03-14",
+      "accessed_date": "2026-09-16",
+      "type": "独立媒体",
+      "independence_group": "AS026",
+      "supports": [
+        "A022"
+      ],
+      "key_facts": "引述官方通报3月14日13时26分丰润光华道小学附近伤害学生、嫌疑人54岁崔振江被控制；17伤来自网传，非通报数字。",
+      "body_checked": true
+    },
+    {
+      "id": "AS027",
+      "url": "https://news.sina.com.cn/c/2019-03-22/doc-ihtxyzsk9594100.shtml",
+      "title": "男子驾车冲撞路人致6死8伤续：伤者全力抢救中",
+      "publisher": "新京报／新浪（枣阳市政府）",
+      "published_date": "2019-03-22",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "AS027",
+      "supports": [
+        "A023"
+      ],
+      "key_facts": "市政府通报44岁餐馆店主崔立冬伤害妻女后驾车冲撞行人，6名受害人死亡、8伤，嫌疑人被击毙。",
+      "body_checked": true
+    },
+    {
+      "id": "AS028",
+      "url": "https://www.jiemian.com/article/3870778.html",
+      "title": "裁判文书网公布湖南宁远一小学伤害案判决书，校长和门卫获刑",
+      "publisher": "界面新闻",
+      "published_date": "2020-01-13",
+      "accessed_date": "2026-09-16",
+      "type": "法院",
+      "independence_group": "AS028",
+      "supports": [
+        "A024"
+      ],
+      "key_facts": "援引校长门卫涉案裁判：2019年4月3日郑艳军袭击小学学生，2死2伤；精神分裂症现症期、限制刑事责任能力。多轮校园安防检查指出的问题未整改。",
+      "body_checked": true
+    },
+    {
+      "id": "AS029",
+      "url": "https://www.sdcourt.gov.cn/dykfqfy/397053/397093/6018718/index.html",
+      "title": "厦门中院一审宣判两起故意杀人案",
+      "publisher": "中国法院网／东营经济技术开发区法院",
+      "published_date": "2020-04-17",
+      "accessed_date": "2026-09-16",
+      "type": "法院",
+      "independence_group": "AS029",
+      "supports": [
+        "A025",
+        "A043"
+      ],
+      "key_facts": "厦门中院2020年4月10日分别判处彭某、王某死刑。彭某2019年4月30日随机袭击女子致1死1轻微伤；王某2018年3月20日袭击前女友和其姐姐致1死1轻伤。",
+      "body_checked": true
+    },
+    {
+      "id": "AS030",
+      "url": "https://jx.cnr.cn/2011jxfw/qysc/20200604/t20200604_525117107.shtml",
+      "title": "死刑！南昌红谷滩杀人案二审公开宣判",
+      "publisher": "央广网（江西高院）",
+      "published_date": "2020-06-04",
+      "accessed_date": "2026-09-16",
+      "type": "法院",
+      "independence_group": "AS030",
+      "supports": [
+        "A026"
+      ],
+      "key_facts": "2019年5月24日万某弟在凤凰中大道尾随陌生女性并杀害其中一人；精神鉴定双相障碍缓解期、完全刑责；2020年6月4日二审维持死刑。",
+      "body_checked": true
+    },
+    {
+      "id": "AS031",
+      "url": "https://www.sohu.com/a/331744741_120107970",
+      "title": "重庆18岁男子杀害无辜路人，受害者家属放弃民事赔偿望重判",
+      "publisher": "澎湃新闻／搜狐城市重庆",
+      "published_date": "2019-08-06",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "AS031",
+      "supports": [
+        "A027"
+      ],
+      "key_facts": "警方8月1日通报：7月31日18岁甘某找前女友未果，持刀刺死小区车库无关女子后逃跑，被抓获。",
+      "body_checked": true
+    },
+    {
+      "id": "AS032",
+      "url": "https://www.sohu.com/a/363216178_260616",
+      "title": "湖北恩施致8名学生死亡案罪犯于华被执行死刑",
+      "publisher": "澎湃新闻（中国硒都网）／搜狐",
+      "published_date": "2019-12-27",
+      "accessed_date": "2026-09-16",
+      "type": "法院",
+      "independence_group": "AS032",
+      "supports": [
+        "A028"
+      ],
+      "key_facts": "恩施中院布告：2019年9月2日朝阳坡小学袭击致8死2伤；于华2019年11月4日一审死刑，未上诉，12月27日执行。",
+      "body_checked": true
+    },
+    {
+      "id": "AS033",
+      "url": "https://www.jfdaily.com/wx/detail.do?id=188132",
+      "title": "云南开远一男子进入幼儿园喷洒腐蚀性液体，54名师生受伤",
+      "publisher": "上观新闻（开远市委宣传部通报）",
+      "published_date": "2019-11-12",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "AS033",
+      "supports": [
+        "A029"
+      ],
+      "key_facts": "2019年11月11日23岁孔某涵向东城幼儿园师生喷洒腐蚀性液体，51幼儿及3教师受伤；警方通报供述因成长及生活不顺报复社会。",
+      "body_checked": true
+    },
+    {
+      "id": "AS034",
+      "url": "https://www.guancha.cn/politics/2019_12_06_527626.shtml",
+      "title": "北京马家堡一男子盗开车辆肇事，致2死7伤",
+      "publisher": "观察者网（北京交警）",
+      "published_date": "2019-12-06",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "AS034",
+      "supports": [
+        "A030"
+      ],
+      "key_facts": "警方通报57岁何某盗开工程救险车，在马家堡等路段撞击车辆行人，2死7伤，后被拦截控制。",
+      "body_checked": true
+    },
+    {
+      "id": "AS035",
+      "url": "https://news.sina.com.cn/s/2019-12-25/doc-iihnzahi9757035.shtml",
+      "title": "疑上海警方开枪处置事件中误伤的路人 还在ICU",
+      "publisher": "津云／新浪",
+      "published_date": "2019-12-25",
+      "accessed_date": "2026-09-16",
+      "type": "独立媒体",
+      "independence_group": "AS035",
+      "supports": [
+        "A031"
+      ],
+      "key_facts": "津云现场调查12月15日静安持刀男子被警方开枪制服，2名路人受枪伤；未报道刀伤受害人，处置当晚无死亡。",
+      "body_checked": true
+    },
+    {
+      "id": "AS036",
+      "url": "https://www.sdcourt.gov.cn/ytmpqfy/389905/mtjj6355/6800127/index.html",
+      "title": "北京朝阳医院伤医案一审宣判",
+      "publisher": "山东法院网站（北京三中院判决报道）",
+      "published_date": "2021-02-02",
+      "accessed_date": "2026-09-16",
+      "type": "法院",
+      "independence_group": "AS036",
+      "supports": [
+        "A032"
+      ],
+      "key_facts": "2020年1月20日崔振国因眼病治疗未达预期袭击医生，又砍伤3名阻拦者；1重伤1轻伤2轻微伤，一审死缓。",
+      "body_checked": true
+    },
+    {
+      "id": "AS037",
+      "url": "https://news.sina.com.cn/s/2020-05-20/doc-iirczymk2557141.shtml",
+      "title": "河北滦平故意驾车伤人案嫌犯被批捕：厌世报复社会致2死7伤",
+      "publisher": "澎湃新闻／新浪（滦平检察院）",
+      "published_date": "2020-05-20",
+      "accessed_date": "2026-09-16",
+      "type": "检察院",
+      "independence_group": "AS037",
+      "supports": [
+        "A033"
+      ],
+      "key_facts": "检方指控30岁孙某甲2020年4月15日在滦平沿省道连续撞击行人，并下车持石攻击倒地者，2死7伤；5月14日批捕。",
+      "body_checked": true
+    },
+    {
+      "id": "AS038",
+      "url": "https://news.ifeng.com/c/82cRv8lrEUO",
+      "title": "广西苍梧小学砍人案二审维持原判：凶手李小文被判死刑",
+      "publisher": "凤凰网（广西高院）",
+      "published_date": "2020-12-30",
+      "accessed_date": "2026-09-16",
+      "type": "法院",
+      "independence_group": "AS038",
+      "supports": [
+        "A034"
+      ],
+      "key_facts": "李小文因工作纠纷袭击同事，继而砍击学生及副校长，41人受伤（1重伤7轻伤一级23轻伤二级10轻微伤），二审维持死刑。",
+      "body_checked": true
+    },
+    {
+      "id": "AS039",
+      "url": "https://www.hkcd.com.hk/hkcdweb/content/2020/06/05/content_1196315.html",
+      "title": "福建仙游发生持刀伤人案，造成3死7伤",
+      "publisher": "香港商报（红星新闻）",
+      "published_date": "2020-06-05",
+      "accessed_date": "2026-09-16",
+      "type": "独立媒体",
+      "independence_group": "AS039",
+      "supports": [
+        "A035"
+      ],
+      "key_facts": "仙游警方确认6月4日晚枫亭镇和平村伤人，3死7伤、35岁张某被抓；红星现场采访目击者称未争吵、见人即攻击。",
+      "body_checked": true
+    },
+    {
+      "id": "AS040",
+      "url": "https://news.sina.cn/gn/2020-06-18/detail-iirczymk7692553.d.html",
+      "title": "上海警方通报徐汇持刀伤人事件",
+      "publisher": "上观新闻／新浪（徐汇公安）",
+      "published_date": "2020-06-18",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "AS040",
+      "supports": [
+        "A036"
+      ],
+      "key_facts": "6月17日39岁沈某驾驶车辆碰撞致3人伤，随后刀伤同行女友及5名路人、拳击伤1名路人，共10人送医，被控制。",
+      "body_checked": true
+    },
+    {
+      "id": "AS041",
+      "url": "https://news.sina.cn/2021-05-10/detail-ikmyaawc4500554.d.html",
+      "title": "陕西凤翔致2死1伤重大刑事案件一审宣判：张涛被判处死刑",
+      "publisher": "新京报／新浪（宝鸡中院）",
+      "published_date": "2021-05-10",
+      "accessed_date": "2026-09-16",
+      "type": "法院",
+      "independence_group": "AS041",
+      "supports": [
+        "A037"
+      ],
+      "key_facts": "张涛2020年7月5日袭击无辜路人1死1轻伤，逃离后因车费争执杀害出租车司机；精神分裂症缓解期、完全刑责，一审死刑。",
+      "body_checked": true
+    },
+    {
+      "id": "AS042",
+      "url": "https://www.sohu.com/a/407393844_120121400",
+      "title": "公交坠湖案通报：司机蓄意报复社会",
+      "publisher": "搜狐转载观察者网及安顺公安",
+      "published_date": "2020-07-13",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "AS042",
+      "supports": [
+        "A038"
+      ],
+      "key_facts": "安顺警方完整通报：2020年7月7日张某钢不满生活及承租公房拆除，针对不特定人群驾公交坠湖；21人死亡含司机，15人受伤。",
+      "body_checked": true
+    },
+    {
+      "id": "AS043",
+      "url": "https://www.sohu.com/a/458414968_120078003",
+      "title": "在天津营口道持刀行凶男子被核准死刑！案情披露",
+      "publisher": "搜狐（人民法院报等案件报道）",
+      "published_date": "2021-03-31",
+      "accessed_date": "2026-09-16",
+      "type": "法院",
+      "independence_group": "AS043",
+      "supports": [
+        "A039"
+      ],
+      "key_facts": "刘某某因怀疑门锁被破坏，意图在闹市刺杀女性扩大影响，2020年8月12日先杀害一人后再次袭击另一人；后者法院案情称尚未形成伤情。",
+      "body_checked": true
+    },
+    {
+      "id": "AS044",
+      "url": "https://www.thepaper.cn/newsDetail_forward_12215761",
+      "title": "湖南桑植砍杀四名学生案一审开庭，将择期宣判",
+      "publisher": "澎湃新闻（张家界中院）",
+      "published_date": "2021-04-15",
+      "accessed_date": "2026-09-16",
+      "type": "法院",
+      "independence_group": "AS044",
+      "supports": [
+        "A040"
+      ],
+      "key_facts": "检方指控仇龙科因家庭诉求未解决，欲杀学生引关注，2020年9月7日连续袭击3名学生并劫持再伤1人，共4重伤，现场被捕。",
+      "body_checked": true
+    },
+    {
+      "id": "AS045",
+      "url": "https://pf.rednet.cn/content/2021/11/04/10364565.html",
+      "title": "湖南法院“我为群众办实事”典型案事例",
+      "publisher": "红网（湖南法院司法救助报道）",
+      "published_date": "2021-11-04",
+      "accessed_date": "2026-09-16",
+      "type": "法院",
+      "independence_group": "AS045",
+      "supports": [
+        "A040"
+      ],
+      "key_facts": "司法救助报道确认桑植案4名受害学生存活，2021年已进入二审阶段，未公布最终刑罚。",
+      "body_checked": true
+    },
+    {
+      "id": "AS046",
+      "url": "https://news.sina.cn/2020-09-21/detail-iivhvpwy8000320.d.html",
+      "title": "广州警方：持刀伤人案2人伤重不治 嫌疑人王某自残死亡",
+      "publisher": "澎湃新闻／新浪（广州番禺公安）",
+      "published_date": "2020-09-21",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "AS046",
+      "supports": [
+        "A041"
+      ],
+      "key_facts": "钟村街骏兴路7时35分持刀伤人，5名受害人中2人不治、3人稳定；47岁王某在制服过程中自残死亡。",
+      "body_checked": true
+    },
+    {
+      "id": "AS047",
+      "url": "https://www.thepaper.cn/newsDetail_forward_10565775",
+      "title": "辽宁男子持刀随机捅刺致7死7伤，官方通报来了",
+      "publisher": "澎湃新闻（央视、当地公安）",
+      "published_date": "2020-12-28",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "AS047",
+      "supports": [
+        "A042"
+      ],
+      "key_facts": "警方确认12月27日62岁杨某峰随机持刀刺伤路人，7死7伤（含1名民警）；称其家庭变故及长期独居引发怨恨。",
+      "body_checked": true
+    },
+    {
+      "id": "AS048",
+      "url": "https://news.sina.com.cn/o/2019-12-24/doc-iihnzahi9593615.shtml",
+      "title": "男子驾车时突发癫痫致3死8伤案宣判：获刑13年",
+      "publisher": "中国新闻网／新浪（深圳中院）",
+      "published_date": "2019-12-24",
+      "accessed_date": "2026-09-16",
+      "type": "法院",
+      "independence_group": "AS048",
+      "supports": [
+        "A044"
+      ],
+      "key_facts": "法院查明刘正楠2019年5月16日癫痫发作、车辆失控致3死8伤；明知患病仍开车属间接故意，以危险方法危害公共安全罪判13年。",
+      "body_checked": true
+    },
+    {
+      "id": "AS049",
+      "url": "https://www.chinanews.com/sh/2018/07-05/8557662.shtml",
+      "title": "湖南一男子砍伤7名民众致其中1名男童死亡 已被抓获",
+      "publisher": "中国新闻网（隆回公安）",
+      "published_date": "2018-07-05",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "AS049",
+      "supports": [
+        "A045"
+      ],
+      "key_facts": "警方通报罗某武40岁在南松村持刀伤害7人，1名男童死亡，其余6伤；有故意伤害前科，被抓获。",
+      "body_checked": true
+    },
+    {
+      "id": "AS050",
+      "url": "https://www.sohu.com/a/293707038_355158",
+      "title": "甘肃8死7伤刑事案：村民称嫌犯为人跋扈，妻子此前离家出走！",
+      "publisher": "北京青年报／半岛都市报搜狐号",
+      "published_date": "2019-02-08",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "AS050",
+      "supports": [
+        "A046"
+      ],
+      "key_facts": "白银警方称2月5日会宁郭某某因怀疑妻子与他人不正当关系，入村民家行凶8死7伤；采访提示多户与疑似婚姻纠纷有关，关系未完整查明。",
+      "body_checked": true
+    },
+    {
+      "id": "AS051",
+      "url": "https://m.bjnews.com.cn/detail/155142001114263.html",
+      "title": "河南一学生持刀致同学死伤 警方：因同学间矛盾",
+      "publisher": "新京报",
+      "published_date": "2019-03-01",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "AS051",
+      "supports": [
+        "A047"
+      ],
+      "key_facts": "平顶山警方称2月26日财经学校宋某因同学矛盾袭击特定同学，1死3伤；采访表明双方此前有冲突。",
+      "body_checked": true
+    },
+    {
+      "id": "AS052",
+      "url": "https://m.thepaper.cn/newsDetail_forward_3735899",
+      "title": "高一男生早自习刺伤8名同学，学校老师：正在做精神鉴定",
+      "publisher": "红星新闻／澎湃新闻",
+      "published_date": "2019-06-21",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "AS052",
+      "supports": [
+        "A048"
+      ],
+      "key_facts": "天门警方通报高一16岁陈某在早自习刺伤8名同班学生，全部无生命危险；动机在查，教师所说精神问题未经确认。",
+      "body_checked": true
+    },
+    {
+      "id": "AS053",
+      "url": "https://www.spp.gov.cn/spp/dfjcdt/201810/t20181017_395560.shtml",
+      "title": "重庆：提前介入一起恶性袭击学生案",
+      "publisher": "检察日报／最高人民检察院",
+      "published_date": "2018-10-17",
+      "accessed_date": "2026-09-16",
+      "type": "检察院",
+      "independence_group": "AS053",
+      "supports": [
+        "A049"
+      ],
+      "key_facts": "警方确认10月10日李某榔头伤害候车3名学生、1家长及制止的公交司机，共5伤无生命危险，50分钟后抓获。",
+      "body_checked": true
+    },
+    {
+      "id": "AS054",
+      "url": "https://www.thepaper.cn/newsDetail_forward_2636084",
+      "title": "暖闻｜重庆一公交司机勇斗行凶歹徒救女孩，获评“热心市民”",
+      "publisher": "澎湃新闻",
+      "published_date": "2018-11-15",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "AS054",
+      "supports": [
+        "A049"
+      ],
+      "key_facts": "警方称44岁李某因家庭变故酒后泄愤袭击候车群众；司机营救被劫持女孩并使车辆无法启动，自己受伤。",
+      "body_checked": true
+    },
+    {
+      "id": "AS055",
+      "url": "https://news.china.com/socialgd/10000169/20190130/35121335.html",
+      "title": "劫持公交案死刑：造成8人死25人伤 龙岩男子被判死刑",
+      "publisher": "燕赵晚报／中华网",
+      "published_date": "2019-01-30",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "Longyan_court_20190128",
+      "supports": [
+        "A017"
+      ],
+      "key_facts": "援引龙岩法院及公安调查：邱日辉与居委会干部有积怨，当日发生争执后杀人并劫持公交车撞人；一审死刑。",
+      "body_checked": true
+    },
+    {
+      "id": "AS056",
+      "url": "https://www.hk01.com/sns/article/370825",
+      "title": "【血腥開學日】持刀闖校園 小學生捱斬8死2傷 兇徒疑曾挖女友眼",
+      "publisher": "香港01",
+      "published_date": "2019-09-03",
+      "accessed_date": "2026-09-16",
+      "type": "独立媒体",
+      "independence_group": "AS056",
+      "supports": [
+        "A028"
+      ],
+      "key_facts": "报道引述警方称男子持刀进入朝阳坡小学袭击学生，8死2伤；另有未核实前科与精神状态传言，本数据不采后者。",
+      "body_checked": true
+    }
+  ],
+  "coverage": [
+    {
+      "query": "2018 中国 砍人 随机 伤人 事件；2019 中国 随机伤人 驾车 冲撞 事件；2020 中国 随机伤人 砍人 事件",
+      "scope_years": [
+        2018,
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "广义发现检索，维基/CDT仅作线索。CDT存在米脂日期、苍梧省份等明显错误，不作为事件事实依据。"
+    },
+    {
+      "query": "https://www.pincong.rocks/article/215",
+      "scope_years": [
+        2018
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "访问失败",
+      "candidate_count": null,
+      "notes": "搜索命中个人汇编，正文打开失败，不采用事实。"
+    },
+    {
+      "query": "赵泽伟 2018 9月27日 9人 11人 死刑",
+      "scope_years": [
+        2018
+      ],
+      "scope_regions": [
+        "陕西",
+        "上海",
+        "湖南",
+        "福建"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "重大候选案法院及最终伤亡核验"
+    },
+    {
+      "query": "黄一川 2020 12月3日 执行死刑 2人 2人",
+      "scope_years": [
+        2018
+      ],
+      "scope_regions": [
+        "陕西",
+        "上海",
+        "湖南",
+        "福建"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "重大候选案法院及最终伤亡核验"
+    },
+    {
+      "query": "阳赞云 2019 1月29日 15人 43人",
+      "scope_years": [
+        2018
+      ],
+      "scope_regions": [
+        "陕西",
+        "上海",
+        "湖南",
+        "福建"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "重大候选案法院及最终伤亡核验"
+    },
+    {
+      "query": "龙岩 卢某 2018 12月25日 死刑 8人 22人",
+      "scope_years": [
+        2018
+      ],
+      "scope_regions": [
+        "陕西",
+        "上海",
+        "湖南",
+        "福建"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "重大候选案法院及最终伤亡核验"
+    },
+    {
+      "query": "阳赞云 执行死刑 15人 43人",
+      "scope_years": [
+        2018
+      ],
+      "scope_regions": [
+        "湖南",
+        "福建",
+        "辽宁",
+        "北京"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "法院后续及最终伤亡"
+    },
+    {
+      "query": "邱日辉 执行死刑 2019",
+      "scope_years": [
+        2018
+      ],
+      "scope_regions": [
+        "湖南",
+        "福建",
+        "辽宁",
+        "北京"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "法院后续及最终伤亡"
+    },
+    {
+      "query": "葫芦岛 韩继华 2018 执行死刑",
+      "scope_years": [
+        2018
+      ],
+      "scope_regions": [
+        "湖南",
+        "福建",
+        "辽宁",
+        "北京"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "法院后续及最终伤亡"
+    },
+    {
+      "query": "北京 西单 大悦城 朱纪业 判决",
+      "scope_years": [
+        2018
+      ],
+      "scope_regions": [
+        "湖南",
+        "福建",
+        "辽宁",
+        "北京"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "法院后续及最终伤亡"
+    },
+    {
+      "query": "米脂 赵泽伟 9人 4人重伤 7人轻伤 1人轻微伤 法院 2018",
+      "scope_years": [
+        2018
+      ],
+      "scope_regions": [
+        "陕西",
+        "上海",
+        "福建",
+        "北京"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "补齐法院全文与结案状态"
+    },
+    {
+      "query": "黄一川 执行死刑 2020 12 3 新华网",
+      "scope_years": [
+        2018
+      ],
+      "scope_regions": [
+        "陕西",
+        "上海",
+        "福建",
+        "北京"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "补齐法院全文与结案状态"
+    },
+    {
+      "query": "邱日辉 2019 8月1日 26人",
+      "scope_years": [
+        2018
+      ],
+      "scope_regions": [
+        "陕西",
+        "上海",
+        "福建",
+        "北京"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "补齐法院全文与结案状态"
+    },
+    {
+      "query": "朱纪业 执行死刑 2020 2021",
+      "scope_years": [
+        2018
+      ],
+      "scope_regions": [
+        "陕西",
+        "上海",
+        "福建",
+        "北京"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "补齐法院全文与结案状态"
+    },
+    {
+      "query": "2018 西安 公交 持刀 6月22日 10人 判决",
+      "scope_years": [
+        2018
+      ],
+      "scope_regions": [
+        "陕西",
+        "重庆",
+        "广东",
+        "河北"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "公交、校园、纵火、驾车候选核验"
+    },
+    {
+      "query": "2018 重庆 幼儿园 刘小玲 14人 判决",
+      "scope_years": [
+        2018
+      ],
+      "scope_regions": [
+        "陕西",
+        "重庆",
+        "广东",
+        "河北"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "公交、校园、纵火、驾车候选核验"
+    },
+    {
+      "query": "2018 英德 刘纯露 执行死刑 动机",
+      "scope_years": [
+        2018
+      ],
+      "scope_regions": [
+        "陕西",
+        "重庆",
+        "广东",
+        "河北"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "公交、校园、纵火、驾车候选核验"
+    },
+    {
+      "query": "2018 唐山 六月六日 王志伟 7人 判决",
+      "scope_years": [
+        2018
+      ],
+      "scope_regions": [
+        "陕西",
+        "重庆",
+        "广东",
+        "河北"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "公交、校园、纵火、驾车候选核验"
+    },
+    {
+      "query": "2018 唐山 6月6日 开车 冲撞 7死 李",
+      "scope_years": [
+        2018
+      ],
+      "scope_regions": [
+        "河北",
+        "重庆",
+        "浙江",
+        "四川"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "线索逐案交叉核验"
+    },
+    {
+      "query": "2018 重庆 巴南 幼儿园 持刀 14名 学生 刘 39",
+      "scope_years": [
+        2018
+      ],
+      "scope_regions": [
+        "河北",
+        "重庆",
+        "浙江",
+        "四川"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "线索逐案交叉核验"
+    },
+    {
+      "query": "2018 杭州 11月 随机 砍人 39",
+      "scope_years": [
+        2018
+      ],
+      "scope_regions": [
+        "河北",
+        "重庆",
+        "浙江",
+        "四川"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "线索逐案交叉核验"
+    },
+    {
+      "query": "2018 成都 盐市口 越野车 冲撞 周 62岁",
+      "scope_years": [
+        2018
+      ],
+      "scope_regions": [
+        "河北",
+        "重庆",
+        "浙江",
+        "四川"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "线索逐案交叉核验"
+    },
+    {
+      "query": "2018 唐山 驾车 冲撞 7人 死亡",
+      "scope_years": [
+        2018,
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "补漏检索含中小规模事件及非持械方式"
+    },
+    {
+      "query": "2018 杭州 女子 随机 砍伤 路人",
+      "scope_years": [
+        2018,
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "补漏检索含中小规模事件及非持械方式"
+    },
+    {
+      "query": "2018 随机 伤人 郑州 深圳 武汉 合肥",
+      "scope_years": [
+        2018,
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "补漏检索含中小规模事件及非持械方式"
+    },
+    {
+      "query": "2019 2020 随机 伤人 纵火 爆炸",
+      "scope_years": [
+        2018,
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "补漏检索含中小规模事件及非持械方式"
+    },
+    {
+      "query": "2019 北京 宣师一附小 维修人员 手锤 通报",
+      "scope_years": [
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "北京",
+        "河北",
+        "云南",
+        "贵州"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "校园与公交候选；法院后续"
+    },
+    {
+      "query": "2019 唐山 崔振江 17人 判决",
+      "scope_years": [
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "北京",
+        "河北",
+        "云南",
+        "贵州"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "校园与公交候选；法院后续"
+    },
+    {
+      "query": "2019 开远 孔 氢氧化钠 54 判决",
+      "scope_years": [
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "北京",
+        "河北",
+        "云南",
+        "贵州"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "校园与公交候选；法院后续"
+    },
+    {
+      "query": "2020 安顺 公交 坠湖 21 15 张包钢",
+      "scope_years": [
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "北京",
+        "河北",
+        "云南",
+        "贵州"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "校园与公交候选；法院后续"
+    },
+    {
+      "query": "崔振江 2019 光华道 17 学生",
+      "scope_years": [
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "河北",
+        "江西",
+        "辽宁",
+        "广西"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "事件事实及司法后续"
+    },
+    {
+      "query": "2019 南昌 红谷滩 万小宝 执行死刑",
+      "scope_years": [
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "河北",
+        "江西",
+        "辽宁",
+        "广西"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "事件事实及司法后续"
+    },
+    {
+      "query": "2020 开原 杨某峰 7人 判决",
+      "scope_years": [
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "河北",
+        "江西",
+        "辽宁",
+        "广西"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "事件事实及司法后续"
+    },
+    {
+      "query": "2020 广西 苍梧 李小文 41人 死刑",
+      "scope_years": [
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "河北",
+        "江西",
+        "辽宁",
+        "广西"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "事件事实及司法后续"
+    },
+    {
+      "query": "2019 福州 红江路 侯某锋 1死19伤 通报",
+      "scope_years": [
+        2019
+      ],
+      "scope_regions": [
+        "福建",
+        "广东",
+        "广西",
+        "湖南"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "补漏候选事实、随机性、后续"
+    },
+    {
+      "query": "2019 东莞 虎门 怀德 持刀 1死8伤",
+      "scope_years": [
+        2019
+      ],
+      "scope_regions": [
+        "福建",
+        "广东",
+        "广西",
+        "湖南"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "补漏候选事实、随机性、后续"
+    },
+    {
+      "query": "2019 南宁 安吉大道 1月11日 持刀 5人",
+      "scope_years": [
+        2019
+      ],
+      "scope_regions": [
+        "福建",
+        "广东",
+        "广西",
+        "湖南"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "补漏候选事实、随机性、后续"
+    },
+    {
+      "query": "2019 湖南 宁远 郑艳军 2死2伤",
+      "scope_years": [
+        2019
+      ],
+      "scope_regions": [
+        "福建",
+        "广东",
+        "广西",
+        "湖南"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "补漏候选事实、随机性、后续"
+    },
+    {
+      "query": "\"2019\" \"南宁\" \"安吉大道\" \"持刀\"",
+      "scope_years": [
+        2018,
+        2019
+      ],
+      "scope_regions": [
+        "广西",
+        "浙江",
+        "江苏"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "中小规模案件定向补漏"
+    },
+    {
+      "query": "\"2018\" \"杭州\" \"11月12日\" \"持刀\"",
+      "scope_years": [
+        2018,
+        2019
+      ],
+      "scope_regions": [
+        "广西",
+        "浙江",
+        "江苏"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "中小规模案件定向补漏"
+    },
+    {
+      "query": "\"2018\" \"镇江\" \"8月21日\" \"伤人\"",
+      "scope_years": [
+        2018,
+        2019
+      ],
+      "scope_regions": [
+        "广西",
+        "浙江",
+        "江苏"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "中小规模案件定向补漏"
+    },
+    {
+      "query": "南宁 安吉大道 砍伤 5人 2019 1月",
+      "scope_years": [
+        2019
+      ],
+      "scope_regions": [
+        "广西",
+        "重庆",
+        "北京",
+        "上海"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "广义随机袭击线索核验"
+    },
+    {
+      "query": "2019 重庆 南岸 7月31日 随机 杀人",
+      "scope_years": [
+        2019
+      ],
+      "scope_regions": [
+        "广西",
+        "重庆",
+        "北京",
+        "上海"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "广义随机袭击线索核验"
+    },
+    {
+      "query": "2019 北京 马家堡 孙某 工程车 2死7伤",
+      "scope_years": [
+        2019
+      ],
+      "scope_regions": [
+        "广西",
+        "重庆",
+        "北京",
+        "上海"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "广义随机袭击线索核验"
+    },
+    {
+      "query": "2019 上海 新闸路 西康路 12月19日 持刀",
+      "scope_years": [
+        2019
+      ],
+      "scope_regions": [
+        "广西",
+        "重庆",
+        "北京",
+        "上海"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "广义随机袭击线索核验"
+    },
+    {
+      "query": "2019 番禺 地铁 8月28日 持刀 3人",
+      "scope_years": [
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "广东",
+        "天津",
+        "上海"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "街道与交通节点候选及后续核验"
+    },
+    {
+      "query": "2020 广州 番禺 王某 9月21日 2死3伤",
+      "scope_years": [
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "广东",
+        "天津",
+        "上海"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "街道与交通节点候选及后续核验"
+    },
+    {
+      "query": "2020 天津 8月12日 刘某某 路人 死刑",
+      "scope_years": [
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "广东",
+        "天津",
+        "上海"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "街道与交通节点候选及后续核验"
+    },
+    {
+      "query": "2020 上海 建国西路 沈某 10人 6月17日",
+      "scope_years": [
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "广东",
+        "天津",
+        "上海"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "街道与交通节点候选及后续核验"
+    },
+    {
+      "query": "2020 福建 仙游 枫亭 张某 3死7伤 6月4日",
+      "scope_years": [
+        2020
+      ],
+      "scope_regions": [
+        "福建",
+        "湖南",
+        "陕西",
+        "辽宁"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "候选后续核验"
+    },
+    {
+      "query": "2020 湖南 桑植 学生 9月7日 持刀",
+      "scope_years": [
+        2020
+      ],
+      "scope_regions": [
+        "福建",
+        "湖南",
+        "陕西",
+        "辽宁"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "候选后续核验"
+    },
+    {
+      "query": "2020 凤翔 张涛 判处 死刑 2死1伤",
+      "scope_years": [
+        2020
+      ],
+      "scope_regions": [
+        "福建",
+        "湖南",
+        "陕西",
+        "辽宁"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "候选后续核验"
+    },
+    {
+      "query": "2020 开原 杨峰 执行死刑 7死",
+      "scope_years": [
+        2020
+      ],
+      "scope_regions": [
+        "福建",
+        "湖南",
+        "陕西",
+        "辽宁"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "候选后续核验"
+    },
+    {
+      "query": "李小文 故意杀人 二审 2020 12月30日 41",
+      "scope_years": [
+        2018,
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "广西",
+        "辽宁",
+        "河北"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "仍缺官方正文之候选"
+    },
+    {
+      "query": "开原 2020 12月28日 杨某峰 随机 警方",
+      "scope_years": [
+        2018,
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "广西",
+        "辽宁",
+        "河北"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "仍缺官方正文之候选"
+    },
+    {
+      "query": "2019 唐山 光华道 小学 17人 中国新闻网",
+      "scope_years": [
+        2018,
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "广西",
+        "辽宁",
+        "河北"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "仍缺官方正文之候选"
+    },
+    {
+      "query": "2018 南宁 昆仑大道 4月16日 1死3伤",
+      "scope_years": [
+        2018,
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "广西",
+        "辽宁",
+        "河北"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "仍缺官方正文之候选"
+    },
+    {
+      "query": "\"河北唐山发生一起伤害学生案件\"",
+      "scope_years": [
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "河北",
+        "辽宁",
+        "广西",
+        "福建"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "最终口径/司法后续；同名结果不直接合并"
+    },
+    {
+      "query": "\"开原\" \"随机捅刺\"",
+      "scope_years": [
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "河北",
+        "辽宁",
+        "广西",
+        "福建"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "最终口径/司法后续；同名结果不直接合并"
+    },
+    {
+      "query": "\"广西李小文\" \"执行死刑\"",
+      "scope_years": [
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "河北",
+        "辽宁",
+        "广西",
+        "福建"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "最终口径/司法后续；同名结果不直接合并"
+    },
+    {
+      "query": "\"2019\" \"侯某锋\" \"死亡\"",
+      "scope_years": [
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "河北",
+        "辽宁",
+        "广西",
+        "福建"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "最终口径/司法后续；同名结果不直接合并"
+    },
+    {
+      "query": "\"2018\" \"随机\" \"伤人\" -site:reddit.com -site:laqingdan.org",
+      "scope_years": [
+        2018,
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "非预设名单再检索"
+    },
+    {
+      "query": "\"2019\" \"随机\" \"伤人\" -site:reddit.com -site:laqingdan.org",
+      "scope_years": [
+        2018,
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "非预设名单再检索"
+    },
+    {
+      "query": "\"2020\" \"随机\" \"伤人\" -site:reddit.com -site:laqingdan.org",
+      "scope_years": [
+        2018,
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "非预设名单再检索"
+    },
+    {
+      "query": "2018 报复社会 持刀 行人 法院",
+      "scope_years": [
+        2018,
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "司法判决措辞及多方式补漏"
+    },
+    {
+      "query": "2019 报复社会 持刀 行人 法院",
+      "scope_years": [
+        2018,
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "司法判决措辞及多方式补漏"
+    },
+    {
+      "query": "2020 报复社会 持刀 行人 法院",
+      "scope_years": [
+        2018,
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "司法判决措辞及多方式补漏"
+    },
+    {
+      "query": "2018 2019 2020 报复社会 纵火 公交 爆炸",
+      "scope_years": [
+        2018,
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "司法判决措辞及多方式补漏"
+    },
+    {
+      "query": "2019 枣阳 太平 崔立冬 7死 7伤 妻子 女儿",
+      "scope_years": [
+        2018,
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "补查地方案件与裁判后续。"
+    },
+    {
+      "query": "厦门中院 一审 两起 故意杀人 彭某 2020 4 10",
+      "scope_years": [
+        2018,
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "补查地方案件与裁判后续。"
+    },
+    {
+      "query": "2018 隆回 罗良武 1死6伤 通报",
+      "scope_years": [
+        2018,
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "补查地方案件与裁判后续。"
+    },
+    {
+      "query": "2019 唐山 丰润 崔振江 学生 判决 17",
+      "scope_years": [
+        2018,
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "补查地方案件与裁判后续。"
+    },
+    {
+      "query": "湖北枣阳 突发案件续报 查明嫌疑人身份 妥善处置善后 2019",
+      "scope_years": [
+        2018,
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "边界与后续核实。"
+    },
+    {
+      "query": "\"罗良武\" \"2018\"",
+      "scope_years": [
+        2018,
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "边界与后续核实。"
+    },
+    {
+      "query": "\"崔振江\" \"法院\"",
+      "scope_years": [
+        2018,
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "边界与后续核实。"
+    },
+    {
+      "query": "\"2019\" \"深圳\" \"癫痫\" \"3死\"",
+      "scope_years": [
+        2018,
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "边界与后续核实。"
+    },
+    {
+      "query": "北京 西单大悦城 朱纪业 2019 6 13 一审",
+      "scope_years": [
+        2018,
+        2020
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "寻找可访问正文或后续。"
+    },
+    {
+      "query": "安顺 7月12日 公安 通报 张某钢 21 15",
+      "scope_years": [
+        2018,
+        2020
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "寻找可访问正文或后续。"
+    },
+    {
+      "query": "成都 盐市口 姚某 2018 5月13日 3人",
+      "scope_years": [
+        2018,
+        2020
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "寻找可访问正文或后续。"
+    },
+    {
+      "query": "2018 隆回 桃洪 7月5日 持刀",
+      "scope_years": [
+        2018,
+        2020
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "寻找可访问正文或后续。"
+    },
+    {
+      "query": "2018 9 12 西山壹号院 廖某 两人 驾车 判决",
+      "scope_years": [
+        2018,
+        2019
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "检索已发现线索的官方来源。"
+    },
+    {
+      "query": "2018 11 12 上城 陌生女子 持刀 赵维达",
+      "scope_years": [
+        2018,
+        2019
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "检索已发现线索的官方来源。"
+    },
+    {
+      "query": "2019 3 14 唐山 伤害 学生 已被控制 光华道",
+      "scope_years": [
+        2018,
+        2019
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "检索已发现线索的官方来源。"
+    },
+    {
+      "query": "邱日辉 执行死刑 2019 8 1 法制网",
+      "scope_years": [
+        2018,
+        2019
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "检索已发现线索的官方来源。"
+    },
+    {
+      "query": "朝阳医院 崔振国 2021 2月2日 死缓 陶勇 三人",
+      "scope_years": [
+        2018,
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "补核来源与模糊线索。"
+    },
+    {
+      "query": "安顺 公安 7月12日 21 15 2020 site:cctv.com",
+      "scope_years": [
+        2018,
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "补核来源与模糊线索。"
+    },
+    {
+      "query": "南宁 2018 4 16 大乌村 韦 抓获",
+      "scope_years": [
+        2018,
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "补核来源与模糊线索。"
+    },
+    {
+      "query": "2019 2 21 吉安 八中 砍人 官方",
+      "scope_years": [
+        2018,
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "补核来源与模糊线索。"
+    },
+    {
+      "query": "2019 吉安 郭开滨 公安 11人",
+      "scope_years": [
+        2018,
+        2019
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "官方初报与排除事件检索。"
+    },
+    {
+      "query": "2019 唐山 丰润 伤害学生 案件 通报 3月14日",
+      "scope_years": [
+        2018,
+        2019
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "官方初报与排除事件检索。"
+    },
+    {
+      "query": "2018 11月12日 赵维达 陌生女子",
+      "scope_years": [
+        2018,
+        2019
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "官方初报与排除事件检索。"
+    },
+    {
+      "query": "重庆 万州 公交 坠江 15人 调查 2018 11月2日",
+      "scope_years": [
+        2018,
+        2019
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "官方初报与排除事件检索。"
+    },
+    {
+      "query": "2019 2月5日 白银 郭某 8死7伤 警方",
+      "scope_years": [
+        2018,
+        2019
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "补漏和排除核实。"
+    },
+    {
+      "query": "2018 隆回 7月5日 一死 六伤 警方",
+      "scope_years": [
+        2018,
+        2019
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "补漏和排除核实。"
+    },
+    {
+      "query": "2018 11 12 杭州 女子 商务楼 持刀",
+      "scope_years": [
+        2018,
+        2019
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "补漏和排除核实。"
+    },
+    {
+      "query": "2019 南宁 安吉大道 1月11日 5人 伤",
+      "scope_years": [
+        2018,
+        2019
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "补漏和排除核实。"
+    },
+    {
+      "query": "龙岩 邱日辉 居委会 干部 2018 12月26日 公安",
+      "scope_years": [
+        2018,
+        2019
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "核对随机性及工具细节。"
+    },
+    {
+      "query": "恩施 于华 2019 持刀 学生 杀害",
+      "scope_years": [
+        2018,
+        2019
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "核对随机性及工具细节。"
+    },
+    {
+      "query": "唐山 丰润 光华道 2019 3 14 site:guancha.cn",
+      "scope_years": [
+        2018,
+        2019
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "核对随机性及工具细节。"
+    },
+    {
+      "query": "2018 10月10日 891路 公交 榔头 女孩 劫持 樊",
+      "scope_years": [
+        2018,
+        2019
+      ],
+      "scope_regions": [
+        "重庆",
+        "湖北"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "跟进交叉检索发现的边界候选。"
+    },
+    {
+      "query": "2019 天门 华泰中学 陈某 捅伤 8名 同学 判决",
+      "scope_years": [
+        2018,
+        2019
+      ],
+      "scope_regions": [
+        "重庆",
+        "湖北"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "跟进交叉检索发现的边界候选。"
+    },
+    {
+      "query": "重庆一公交司机勇斗行凶歹徒救女孩 2018；李某 锦龙路 2018 警方",
+      "scope_years": [
+        2018
+      ],
+      "scope_regions": [
+        "重庆"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "澎湃搜索索引误配到2020年历史文章；弃用错配URL，另核警方通报转载及重庆晨报记者现场稿。"
+    },
+    {
+      "query": "上城年鉴2019 2018年11月12日 赵维达 持刀 陌生女子",
+      "scope_years": [
+        2018
+      ],
+      "scope_regions": [
+        "浙江"
+      ],
+      "status": "待核",
+      "candidate_count": 1,
+      "notes": "搜索命中杭州上城区政府年鉴PDF；URL https://www.hzsc.gov.cn/module/download/downfile.jsp?classid=0&filename=905f346d19c8469a9a991640e703ac05.pdf 多次正文下载超时，未作为已核实事件入表。"
+    },
+    {
+      "query": "2019-01-11 南宁 高新区 安吉大道 持刀 5人",
+      "scope_years": [
+        2019
+      ],
+      "scope_regions": [
+        "广西"
+      ],
+      "status": "待核",
+      "candidate_count": 1,
+      "notes": "汇编有条目，独立检索未找到足以核实的可靠正文，不纳入已核实事件。"
+    },
+    {
+      "query": "2019-08-28 广州番禺 持刀 三人 郑某",
+      "scope_years": [
+        2019
+      ],
+      "scope_regions": [
+        "广东"
+      ],
+      "status": "已检索",
+      "candidate_count": 1,
+      "notes": "汇编错置案发年份；原事件为2021-08-28，已交B组核对，不在本组重复。"
+    },
+    {
+      "query": "公开来源HTTP正文访问恢复",
+      "scope_years": [
+        2018,
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "人民网部分HTTPS域名证书失配，改公开HTTP读取；最高检、山东法院、澎湃、搜狐和新浪部分web打开失败，使用公开HTML读取成功。"
+    },
+    {
+      "query": "官方通报之外的来源发现：CDT无差别杀人、拉清单恶性伤害案件、维基校园袭击案列表",
+      "scope_years": [
+        2018,
+        2019,
+        2020
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "仅用为候选发现入口；事件逐案回查正文。检出汇编伤亡、日期、省份等错误，未把汇编等同事实来源。"
+    }
+  ],
+  "notes": [
+    "时间范围2018—2020；检索截至2026-09-16。事件纳入取决于公开可核证据，不是全国总体发生率或完整普查。",
+    "核心与扩展记录分开：定向袭击后伤害无关路人或劝阻者归expanded；仅因受害人多、被告患精神疾病、或罪名为危害公共安全，不足以认定随机。",
+    "伤亡以受害人计；嫌疑人现场死亡或受伤另列，执行死刑不计入attacker_deaths。公安处置造成的路人枪伤单列response_injured，不并入直接袭击伤者。",
+    "法院列明伤情与初报受伤口径可能不一致：英德KTV、夹江公交爆炸、天津营口道保留模糊数或冲突，不将司法鉴定人数当然视作全部伤者。",
+    "单源媒体在事件/随机性验证不足时降为pending；官方完整转载可建立已披露事实；同源转载使用相同independence_group。",
+    "实际通过网页正文或公开网页HTML读取核对；部分web打开失败后改用原URL公开HTTP/HTML读取。未使用付费墙或登录后资料。",
+    "少量法院报道写近日宣判，日期留空；检方指控与法院认定分开。未取得后续执行公告不代表未执行。",
+    "汇编线索曾含日期、行政区和伤亡错误：米脂案被误写4月17日或9死19伤；苍梧被误置浙江；广州番禺2021年8月28日案例被误置2019；上海2019年12月15日被误写12月19日。",
+    "本轮未完成证据闭环的线索：2018年11月12日杭州商务楼袭击（上城年鉴PDF检出但正文访问失败）、2019年1月11日南宁安吉大道5伤（汇编线索，未检出可靠正文）。保留查询缺口，不以缺乏报道推断没有发生。",
+    "姓名只用于必要来源检索和少量司法结果描述，未保存受害者姓名、私人住址或血腥影像。",
+    "2018年重庆锦龙路事件的澎湃搜索结果曾错误对应历史文章URL；已找到真正原文newsDetail_forward_2636084并核读。说明仅搜索摘要不能代替正文。"
+  ]
+}

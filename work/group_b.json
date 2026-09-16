@@ -1,0 +1,4776 @@
+{
+  "events": [
+    {
+      "date": "2021-01-22",
+      "date_precision": "day",
+      "title": "昆明云南师大实验中学门口持刀及劫持案",
+      "province": "云南",
+      "city": "昆明",
+      "district": "五华区",
+      "urban_rural": "城市",
+      "scene": "校园及周边",
+      "method": "持械",
+      "category": "pending",
+      "classification_reason": "警方证实校门口连续伤人及劫持学生，但本轮可靠正文未披露受害者与嫌疑人关系或随机选择的明确事实。",
+      "deaths": 1,
+      "injured": 7,
+      "serious_injuries": null,
+      "attacker_deaths": 1,
+      "attacker_injured": null,
+      "casualty_asof": "2021-01-23",
+      "casualty_note": "采用警方1死7伤口径；未采信未经后续通报或双独立采集核实的更高死亡数字。",
+      "involves_children": true,
+      "victim_relation": "学生及校门口人员；具体关系未明。",
+      "age": 56,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "警方谈判疏导并调集特警，18时40分许击毙嫌疑人、解救人质。",
+      "outcome": "嫌疑人被警方现场击毙。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2021-01-23",
+      "evidence_level": "官方转载",
+      "notes": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "source_ids": [
+        "BS06"
+      ],
+      "field_sources": {
+        "date": [
+          "BS06"
+        ],
+        "location": [
+          "BS06"
+        ],
+        "casualties": [
+          "BS06"
+        ],
+        "classification": [
+          "BS06"
+        ],
+        "motive": [
+          "BS06"
+        ],
+        "outcome": [
+          "BS06"
+        ]
+      },
+      "id": "B05"
+    },
+    {
+      "date": "2021-01-22",
+      "date_precision": "day",
+      "title": "杭州浙医一院爆燃及持刀伤人案",
+      "province": "浙江",
+      "city": "杭州",
+      "district": "上城区",
+      "urban_rural": "城市",
+      "scene": "医疗机构",
+      "method": "复合",
+      "category": "core",
+      "classification_reason": "警方披露因对多家医院诊疗不满预谋攻击医院，实际袭击医护和无关患者，未指向某一纠纷医生。",
+      "deaths": 0,
+      "injured": 4,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": 1,
+      "casualty_asof": "2021-01-23",
+      "casualty_note": "警方逐人描述医护3人、患者1人受伤，另有嫌疑人本人烧伤；均生命体征平稳。",
+      "involves_children": null,
+      "victim_relation": null,
+      "age": 39,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": "警方初查：长期肾病就医后认为医护迫害自己而实施报复。",
+      "mental_health": "2014年既往案件鉴定为偏执性精神障碍、限定刑事责任能力；本案刑责鉴定未获核实。",
+      "prior_violence": "2014年放火案获刑三年。",
+      "warning_signals": "2020年12月开始准备致爆燃物。",
+      "intervention": "医护扑灭六楼引燃物；警方控制嫌疑人。",
+      "outcome": "侦办；本次检索未找到本案裁判。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2021-01-23",
+      "evidence_level": "官方转载",
+      "notes": null,
+      "motive_tags": [
+        "医疗不满",
+        "泄愤报复"
+      ],
+      "motive_basis": "警方初步通报",
+      "source_ids": [
+        "BS13"
+      ],
+      "field_sources": {
+        "date": [
+          "BS13"
+        ],
+        "location": [
+          "BS13"
+        ],
+        "casualties": [
+          "BS13"
+        ],
+        "classification": [
+          "BS13"
+        ],
+        "motive": [
+          "BS13"
+        ],
+        "outcome": [
+          "BS13"
+        ]
+      },
+      "id": "B12"
+    },
+    {
+      "date": "2021-03-22",
+      "date_precision": "day",
+      "title": "广州番禺明经村建筑内爆炸案",
+      "province": "广东",
+      "city": "广州",
+      "district": "番禺区",
+      "urban_rural": "村庄",
+      "scene": "机关单位",
+      "method": "爆炸",
+      "category": "pending",
+      "classification_reason": "官方确认人为引燃爆炸，但被害人与嫌疑人关系不明；媒体称村委会及土地纠纷，不足据此判断随机或定向。",
+      "deaths": 4,
+      "injured": 5,
+      "serious_injuries": null,
+      "attacker_deaths": 1,
+      "attacker_injured": null,
+      "casualty_asof": "2021-03-22",
+      "casualty_note": "警方5死含嫌疑人，受害者死亡应为4人。",
+      "involves_children": null,
+      "victim_relation": null,
+      "age": 59,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "公安、消防及医疗救援。",
+      "outcome": "嫌疑人现场死亡，案件调查中。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2021-03-26",
+      "evidence_level": "官方转载",
+      "notes": "官方只称建筑内；村委会场景按多家媒体一致报道归类，具体动机留空。",
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "source_ids": [
+        "BS55",
+        "BS58"
+      ],
+      "field_sources": {
+        "date": [
+          "BS55"
+        ],
+        "location": [
+          "BS55",
+          "BS58"
+        ],
+        "casualties": [
+          "BS55"
+        ],
+        "classification": [
+          "BS55"
+        ],
+        "motive": [],
+        "outcome": [
+          "BS55"
+        ]
+      },
+      "id": "B50"
+    },
+    {
+      "date": "2021-04-17",
+      "date_precision": "day",
+      "title": "成都华阳伏龙小区持刀伤人案",
+      "province": "四川",
+      "city": "成都",
+      "district": "天府新区",
+      "urban_rural": "城市",
+      "scene": "社区住宅",
+      "method": "持械",
+      "category": "pending",
+      "classification_reason": "警方确认母子争吵后伤害他人，但未交代4名伤者与嫌疑人关系，不能据人数认定随机。",
+      "deaths": 0,
+      "injured": 4,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2021-04-18",
+      "casualty_note": "4名伤者均暂无生命危险。",
+      "involves_children": null,
+      "victim_relation": null,
+      "age": 31,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": "警方称先与母亲因生活琐事争吵。",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "警方现场抓获。",
+      "outcome": "进一步调查中。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2021-04-18",
+      "evidence_level": "官方转载",
+      "notes": null,
+      "motive_tags": [
+        "家庭争执"
+      ],
+      "motive_basis": "警方初步通报",
+      "source_ids": [
+        "BS14"
+      ],
+      "field_sources": {
+        "date": [
+          "BS14"
+        ],
+        "location": [
+          "BS14"
+        ],
+        "casualties": [
+          "BS14"
+        ],
+        "classification": [
+          "BS14"
+        ],
+        "motive": [
+          "BS14"
+        ],
+        "outcome": [
+          "BS14"
+        ]
+      },
+      "id": "B13"
+    },
+    {
+      "date": "2021-04-28",
+      "date_precision": "day",
+      "title": "广西北流新丰镇幼儿园持刀伤人案",
+      "province": "广西",
+      "city": "玉林",
+      "district": "北流市",
+      "urban_rural": "镇区",
+      "scene": "校园及周边",
+      "method": "持械",
+      "category": "pending",
+      "classification_reason": "幼儿园师生遭袭已获官方证实；公开通报未交代具体对象选择及嫌疑人与园方关系，严格口径暂不直接认定随机。",
+      "deaths": 2,
+      "injured": 16,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2021-04-30",
+      "casualty_note": null,
+      "involves_children": true,
+      "victim_relation": "幼儿园师生，关系未明。",
+      "age": null,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": "警方通报司法鉴定机构初步认定精神分裂症；未检出最终刑事责任能力结论。",
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "当场抓获；救治伤者，公安与教育部门开展校园安全隐患排查。",
+      "outcome": "截至所见通报在侦办中；未检出可核验后续裁判。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2021-04-30",
+      "evidence_level": "官方转载",
+      "notes": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "source_ids": [
+        "BS05"
+      ],
+      "field_sources": {
+        "date": [
+          "BS05"
+        ],
+        "location": [
+          "BS05"
+        ],
+        "casualties": [
+          "BS05"
+        ],
+        "classification": [
+          "BS05"
+        ],
+        "motive": [
+          "BS05"
+        ],
+        "outcome": [
+          "BS05"
+        ]
+      },
+      "id": "B06"
+    },
+    {
+      "date": "2021-05-22",
+      "date_precision": "day",
+      "title": "大连五惠路驾车冲撞行人案",
+      "province": "辽宁",
+      "city": "大连",
+      "district": "中山区",
+      "urban_rural": "城市",
+      "scene": "街道交通",
+      "method": "驾车",
+      "category": "core",
+      "classification_reason": "法院认定因投资失败泄愤，故意加速冲撞正在斑马线过街的不特定行人。",
+      "deaths": 5,
+      "injured": 8,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2023-04-07",
+      "casualty_note": "以法院审理及执行报道的5死8伤修订早期5死5伤。",
+      "involves_children": null,
+      "victim_relation": "过街行人，与投资纠纷无关。",
+      "age": null,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": "法院认定无法接受投资失败，驾车冲撞行人。",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "警方调查后控制嫌疑人；送医救治伤者。",
+      "outcome": "一审死刑、二审维持，最高法核准后执行。",
+      "judgment_date": "2021-10-29",
+      "execution_date": "2023-04-07",
+      "last_source_date": "2023-04-07",
+      "evidence_level": "官方转载",
+      "notes": null,
+      "motive_tags": [
+        "经济受挫",
+        "泄愤报复"
+      ],
+      "motive_basis": "法院认定",
+      "source_ids": [
+        "BS01"
+      ],
+      "field_sources": {
+        "date": [
+          "BS01"
+        ],
+        "location": [
+          "BS01"
+        ],
+        "casualties": [
+          "BS01"
+        ],
+        "classification": [
+          "BS01"
+        ],
+        "motive": [
+          "BS01"
+        ],
+        "outcome": [
+          "BS01"
+        ]
+      },
+      "id": "B01"
+    },
+    {
+      "date": "2021-05-24",
+      "date_precision": "day",
+      "title": "任丘华北油田采一中学伤人事件",
+      "province": "河北",
+      "city": "沧州",
+      "district": "任丘市",
+      "urban_rural": null,
+      "scene": "校园及周边",
+      "method": "持械",
+      "category": "pending",
+      "classification_reason": "教育部门及医院向记者确认事件和学生受伤；未公开行凶对象关系、人数及动机，不能据网络汇编定为随机。",
+      "deaths": null,
+      "injured": null,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": null,
+      "casualty_note": null,
+      "involves_children": true,
+      "victim_relation": null,
+      "age": null,
+      "sex": null,
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": null,
+      "outcome": "媒体称警方已处置；细节待核。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2021-05-24",
+      "evidence_level": "单一媒体",
+      "notes": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "source_ids": [
+        "BS09"
+      ],
+      "field_sources": {
+        "date": [
+          "BS09"
+        ],
+        "location": [
+          "BS09"
+        ],
+        "casualties": [
+          "BS09"
+        ],
+        "classification": [
+          "BS09"
+        ],
+        "motive": [
+          "BS09"
+        ],
+        "outcome": [
+          "BS09"
+        ]
+      },
+      "id": "B09"
+    },
+    {
+      "date": "2021-05-25",
+      "date_precision": "day",
+      "title": "南阳第六十八小学附近持棍袭击案",
+      "province": "河南",
+      "city": "南阳",
+      "district": null,
+      "urban_rural": "城市",
+      "scene": "校园及周边",
+      "method": "持械",
+      "category": "core",
+      "classification_reason": "警方明确认定为报复社会，袭击12名学生和2名群众。",
+      "deaths": 0,
+      "injured": 14,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2021-05-26",
+      "casualty_note": "截至通报14人受伤、均无生命危险，未检出后续伤亡修订。",
+      "involves_children": true,
+      "victim_relation": "学生和现场群众。",
+      "age": 66,
+      "sex": "男",
+      "occupation": "退休人员",
+      "motive_summary": "警方初步认定因生活失意离家独居，为报复社会持棍行凶。",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "群众配合警方控制嫌疑人并送医。",
+      "outcome": "嫌疑人已控制；未检出可核验后续裁判。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2021-05-26",
+      "evidence_level": "官方转载",
+      "notes": null,
+      "motive_tags": [
+        "生活失意",
+        "泄愤报复"
+      ],
+      "motive_basis": "警方初步通报",
+      "source_ids": [
+        "BS07"
+      ],
+      "field_sources": {
+        "date": [
+          "BS07"
+        ],
+        "location": [
+          "BS07"
+        ],
+        "casualties": [
+          "BS07"
+        ],
+        "classification": [
+          "BS07"
+        ],
+        "motive": [
+          "BS07"
+        ],
+        "outcome": [
+          "BS07"
+        ]
+      },
+      "id": "B07"
+    },
+    {
+      "date": "2021-05-28",
+      "date_precision": "day",
+      "title": "郴州白露塘地下通道学生遇袭案",
+      "province": "湖南",
+      "city": "郴州",
+      "district": "苏仙区",
+      "urban_rural": "镇区",
+      "scene": "校园及周边",
+      "method": "持械",
+      "category": "pending",
+      "classification_reason": "单一独立媒体采访确认学生遇袭，未检出官方完整通报或第二独立采集资料，随机性与最终伤亡未充分核实。",
+      "deaths": null,
+      "injured": null,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2021-05-28",
+      "casualty_note": "生活报称5名学生受袭，医院受访人员称至少1死；报道同时称伤亡不明，故不填写精确最终死伤。",
+      "involves_children": true,
+      "victim_relation": "返校学生；与嫌疑人关系不明。",
+      "age": null,
+      "sex": "男",
+      "occupation": "媒体采访商户称在当地务工，未官方证实。",
+      "motive_summary": null,
+      "mental_health": "商户说法不一致，未见专业鉴定，不据此认定。",
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": null,
+      "outcome": "媒体称已被警方控制；未检出后续通报。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2021-05-28",
+      "evidence_level": "单一媒体",
+      "notes": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "source_ids": [
+        "BS08"
+      ],
+      "field_sources": {
+        "date": [
+          "BS08"
+        ],
+        "location": [
+          "BS08"
+        ],
+        "casualties": [
+          "BS08"
+        ],
+        "classification": [
+          "BS08"
+        ],
+        "motive": [
+          "BS08"
+        ],
+        "outcome": [
+          "BS08"
+        ]
+      },
+      "id": "B08"
+    },
+    {
+      "date": "2021-05-29",
+      "date_precision": "day",
+      "title": "南京新街口驾车撞人及持刀伤人案",
+      "province": "江苏",
+      "city": "南京",
+      "district": "秦淮区",
+      "urban_rural": "城市",
+      "scene": "街道交通",
+      "method": "复合",
+      "category": "expanded",
+      "classification_reason": "原针对前妻及其朋友的感情纠纷，后伤及无关路人、劝阻群众和出租车驾驶员。",
+      "deaths": 0,
+      "injured": 7,
+      "serious_injuries": 3,
+      "attacker_deaths": null,
+      "attacker_injured": 1,
+      "casualty_asof": "2025-08-19",
+      "casualty_note": "最高法复核确认7名受害者受伤、3重伤二级；初报送医8人含嫌疑人本人。",
+      "involves_children": null,
+      "victim_relation": "前妻、前妻朋友、路人及制止者。",
+      "age": 40,
+      "sex": "男",
+      "occupation": "无业",
+      "motive_summary": "法院认定复合遭拒后跟候前妻，看到她与同学同行而起杀念；逃亡期间持续冲撞不特定车辆行人。",
+      "mental_health": null,
+      "prior_violence": "最高法复核确认此前多次酒后殴打前妻。",
+      "warning_signals": "法院确认复合遭拒后多次到前妻工作地点等候。",
+      "intervention": "群众阻止、出租车司机及警方控制；组织多学科救治。",
+      "outcome": "一审决定执行死刑，2024-05-08二审维持，2024-12-21最高法核准；2025-08-15公开文书，未检出执行确认。",
+      "judgment_date": "2022-11-18",
+      "execution_date": null,
+      "last_source_date": "2025-08-19",
+      "evidence_level": "官方转载",
+      "notes": "法院出生日期1980-07-07，对应案发40岁；初报41岁保留为差异，不混用。",
+      "motive_tags": [
+        "婚恋家庭纠纷",
+        "纠纷外溢"
+      ],
+      "motive_basis": "法院认定",
+      "source_ids": [
+        "BS10",
+        "BS56"
+      ],
+      "field_sources": {
+        "date": [
+          "BS10"
+        ],
+        "location": [
+          "BS10"
+        ],
+        "casualties": [
+          "BS10",
+          "BS56"
+        ],
+        "classification": [
+          "BS10",
+          "BS56"
+        ],
+        "motive": [
+          "BS10",
+          "BS56"
+        ],
+        "outcome": [
+          "BS10",
+          "BS56"
+        ]
+      },
+      "id": "B10"
+    },
+    {
+      "date": "2021-06-05",
+      "date_precision": "day",
+      "title": "安庆人民路持刀袭击路人案",
+      "province": "安徽",
+      "city": "安庆",
+      "district": "迎江区",
+      "urban_rural": "城市",
+      "scene": "街道交通",
+      "method": "持械",
+      "category": "core",
+      "classification_reason": "法院明确认定为杀害无辜群众泄愤报复，连续捅刺过往群众20人。",
+      "deaths": 7,
+      "injured": 13,
+      "serious_injuries": 5,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2022-02-17",
+      "casualty_note": "法院布告最终7死13伤，13伤中5重伤、3轻伤、5轻微伤。",
+      "involves_children": false,
+      "victim_relation": "随机过往群众。",
+      "age": 25,
+      "sex": "男",
+      "occupation": "无业",
+      "motive_summary": "对家庭和社会不满，产生报复杀害无辜群众之念。",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": "判决布告披露此前数月购买凶器并多次观察现场；未证实案发前曾被有关部门识别。",
+      "intervention": "接警后警方赶赴现场，当日16时36分抓获。",
+      "outcome": "故意杀人罪死刑，经最高法核准后执行。",
+      "judgment_date": "2021-11-15",
+      "execution_date": "2022-02-15",
+      "last_source_date": "2022-02-17",
+      "evidence_level": "官方转载",
+      "notes": "布告列20名被害人年龄均为成年人，未采信网络关于儿童遇难的说法。",
+      "motive_tags": [
+        "家庭问题",
+        "泄愤报复"
+      ],
+      "motive_basis": "法院认定",
+      "source_ids": [
+        "BS02",
+        "BS52"
+      ],
+      "field_sources": {
+        "date": [
+          "BS02"
+        ],
+        "location": [
+          "BS02"
+        ],
+        "casualties": [
+          "BS02"
+        ],
+        "classification": [
+          "BS02"
+        ],
+        "motive": [
+          "BS02"
+        ],
+        "outcome": [
+          "BS02",
+          "BS52"
+        ]
+      },
+      "id": "B02"
+    },
+    {
+      "date": "2021-07-15",
+      "date_precision": "day",
+      "title": "东莞清溪镇持刀伤人案",
+      "province": "广东",
+      "city": "东莞",
+      "district": "清溪镇",
+      "urban_rural": "镇区",
+      "scene": "街道交通",
+      "method": "持械",
+      "category": "pending",
+      "classification_reason": "通报未披露选择受害者方式、关系和起因。",
+      "deaths": null,
+      "injured": 6,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2021-07-15",
+      "casualty_note": null,
+      "involves_children": null,
+      "victim_relation": null,
+      "age": 31,
+      "sex": "男",
+      "occupation": "无业",
+      "motive_summary": null,
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "民警到场抓获。",
+      "outcome": "已抓获。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2021-07-15",
+      "evidence_level": "官方转载",
+      "notes": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "source_ids": [
+        "BS15"
+      ],
+      "field_sources": {
+        "date": [
+          "BS15"
+        ],
+        "location": [
+          "BS15"
+        ],
+        "casualties": [
+          "BS15"
+        ],
+        "classification": [
+          "BS15"
+        ],
+        "motive": [],
+        "outcome": [
+          "BS15"
+        ]
+      },
+      "id": "B14"
+    },
+    {
+      "date": "2021-08-16",
+      "date_precision": "day",
+      "title": "甘肃临洮洮阳镇未成年女孩遭袭案",
+      "province": "甘肃",
+      "city": "定西",
+      "district": "临洮县",
+      "urban_rural": "镇区",
+      "scene": "社区住宅",
+      "method": "持械",
+      "category": "pending",
+      "classification_reason": "已证实刑案及伤亡，受害者为出门女孩；未查明双方是否相识或特定纠纷，保守待核。",
+      "deaths": 2,
+      "injured": 1,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2021-08-18",
+      "casualty_note": null,
+      "involves_children": true,
+      "victim_relation": null,
+      "age": null,
+      "sex": "男",
+      "occupation": "洮阳镇政府工作人员（财新采访确认）",
+      "motive_summary": null,
+      "mental_health": "镇政府人士向财新称患抑郁症；不是司法鉴定。",
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "警方抓获刑拘。",
+      "outcome": "侦办中；未检出公开后续判决。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2021-08-18",
+      "evidence_level": "官方转载",
+      "notes": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "source_ids": [
+        "BS16",
+        "BS17"
+      ],
+      "field_sources": {
+        "date": [
+          "BS16",
+          "BS17"
+        ],
+        "location": [
+          "BS16",
+          "BS17"
+        ],
+        "casualties": [
+          "BS16",
+          "BS17"
+        ],
+        "classification": [
+          "BS16",
+          "BS17"
+        ],
+        "motive": [],
+        "outcome": [
+          "BS16",
+          "BS17"
+        ]
+      },
+      "id": "B15"
+    },
+    {
+      "date": "2021-08-28",
+      "date_precision": "day",
+      "title": "广州番禺清河中路持刀伤人案",
+      "province": "广东",
+      "city": "广州",
+      "district": "番禺区",
+      "urban_rural": "城市",
+      "scene": "街道交通",
+      "method": "持械",
+      "category": "pending",
+      "classification_reason": "官方确认伤人，未披露目标关系，随机性不足。",
+      "deaths": null,
+      "injured": 3,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": 1,
+      "casualty_asof": "2021-08-29",
+      "casualty_note": null,
+      "involves_children": null,
+      "victim_relation": null,
+      "age": 43,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "警方开枪击伤嫌疑人并控制。",
+      "outcome": "侦办中。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2021-08-29",
+      "evidence_level": "官方转载",
+      "notes": "部分汇编将此案误标2019年；按当年警方通报纠正为2021年。",
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "source_ids": [
+        "BS18"
+      ],
+      "field_sources": {
+        "date": [
+          "BS18"
+        ],
+        "location": [
+          "BS18"
+        ],
+        "casualties": [
+          "BS18"
+        ],
+        "classification": [
+          "BS18"
+        ],
+        "motive": [],
+        "outcome": [
+          "BS18"
+        ]
+      },
+      "id": "B16"
+    },
+    {
+      "date": "2021-11-04",
+      "date_precision": "day",
+      "title": "河津东关持刀伤害劝阻群众案",
+      "province": "山西",
+      "city": "运城",
+      "district": "河津市",
+      "urban_rural": "城市",
+      "scene": "街道交通",
+      "method": "持械",
+      "category": "expanded",
+      "classification_reason": "原本务工口角扩展至现场三名劝阻群众，警方明确其旁观介入身份。",
+      "deaths": 0,
+      "injured": 3,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2021-11-04",
+      "casualty_note": "3人包扎治疗后伤势平稳。",
+      "involves_children": null,
+      "victim_relation": "现场劝阻群众",
+      "age": 36,
+      "sex": "男",
+      "occupation": "务工人员",
+      "motive_summary": "警方初查因务工期间口角行凶。",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "司机驾车阻止；民警与群众控制。",
+      "outcome": "嫌疑人被控制。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2021-11-04",
+      "evidence_level": "官方转载",
+      "notes": null,
+      "motive_tags": [
+        "工作冲突"
+      ],
+      "motive_basis": "警方初步通报",
+      "source_ids": [
+        "BS19"
+      ],
+      "field_sources": {
+        "date": [
+          "BS19"
+        ],
+        "location": [
+          "BS19"
+        ],
+        "casualties": [
+          "BS19"
+        ],
+        "classification": [
+          "BS19"
+        ],
+        "motive": [
+          "BS19"
+        ],
+        "outcome": [
+          "BS19"
+        ]
+      },
+      "id": "B17"
+    },
+    {
+      "date": "2021-12-06",
+      "date_precision": "day",
+      "title": "上海浦东博山路持剪刀伤人案",
+      "province": "上海",
+      "city": "上海",
+      "district": "浦东新区",
+      "urban_rural": "城市",
+      "scene": "街道交通",
+      "method": "持械",
+      "category": "core",
+      "classification_reason": "警方确认7名群众及2名警察受伤，现场采访明确称对不认识的人从花店到沿街连续行凶。",
+      "deaths": null,
+      "injured": 9,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2021-12-07",
+      "casualty_note": "含2名处置民警；报道未给后续死亡结果，死亡留空。",
+      "involves_children": null,
+      "victim_relation": "陌生店内人员、路人及处置民警。",
+      "age": 26,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": "警方初步调查为外省市在册精神病人；不等同于司法刑责结论或作案动机。",
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "民警接报2分钟内赶到并搏斗制服，送医救治。",
+      "outcome": "嫌疑人被控制，未检出后续裁判。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2021-12-07",
+      "evidence_level": "官方转载",
+      "notes": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "source_ids": [
+        "BS11"
+      ],
+      "field_sources": {
+        "date": [
+          "BS11"
+        ],
+        "location": [
+          "BS11"
+        ],
+        "casualties": [
+          "BS11"
+        ],
+        "classification": [
+          "BS11"
+        ],
+        "motive": [
+          "BS11"
+        ],
+        "outcome": [
+          "BS11"
+        ]
+      },
+      "id": "B11"
+    },
+    {
+      "date": "2021-12-29",
+      "date_precision": "day",
+      "title": "长沙望城企业工友持刀伤害案",
+      "province": "湖南",
+      "city": "长沙",
+      "district": "望城区",
+      "urban_rural": "城市",
+      "scene": "其他",
+      "method": "持械",
+      "category": "excluded",
+      "classification_reason": "警方明确系与工友争执后刺伤工友，未发现攻击无关人的证据，按定向工作纠纷排除。",
+      "deaths": 3,
+      "injured": 2,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2021-12-29",
+      "casualty_note": "两人伤势较重但无生命危险，不直接填司法重伤2人。",
+      "involves_children": null,
+      "victim_relation": "工友",
+      "age": 23,
+      "sex": "男",
+      "occupation": "企业员工",
+      "motive_summary": "警方称因与工友琐事争执心生怨恨。",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "民警现场控制。",
+      "outcome": "侦办中。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2021-12-29",
+      "evidence_level": "官方转载",
+      "notes": null,
+      "motive_tags": [
+        "工作冲突"
+      ],
+      "motive_basis": "警方初步通报",
+      "source_ids": [
+        "BS51"
+      ],
+      "field_sources": {
+        "date": [
+          "BS51"
+        ],
+        "location": [
+          "BS51"
+        ],
+        "casualties": [
+          "BS51"
+        ],
+        "classification": [
+          "BS51"
+        ],
+        "motive": [
+          "BS51"
+        ],
+        "outcome": [
+          "BS51"
+        ]
+      },
+      "id": "B48"
+    },
+    {
+      "date": "2022-02-12",
+      "date_precision": "day",
+      "title": "沈阳232路公交爆炸事件",
+      "province": "辽宁",
+      "city": "沈阳",
+      "district": "皇姑区",
+      "urban_rural": "城市",
+      "scene": "公共交通",
+      "method": "爆炸",
+      "category": "pending",
+      "classification_reason": "爆炸原因未公开核实，不能确认犯罪或故意袭击。",
+      "deaths": 1,
+      "injured": 42,
+      "serious_injuries": 2,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2022-02-12",
+      "casualty_note": "警方初报1死2重伤40轻伤。",
+      "involves_children": null,
+      "victim_relation": null,
+      "age": null,
+      "sex": null,
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "应急救援、伤者送医。",
+      "outcome": "原因调查中。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2022-02-12",
+      "evidence_level": "官方转载",
+      "notes": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "source_ids": [
+        "BS20"
+      ],
+      "field_sources": {
+        "date": [
+          "BS20"
+        ],
+        "location": [
+          "BS20"
+        ],
+        "casualties": [
+          "BS20"
+        ],
+        "classification": [
+          "BS20"
+        ],
+        "motive": [],
+        "outcome": [
+          "BS20"
+        ]
+      },
+      "id": "B18"
+    },
+    {
+      "date": "2022-02-14",
+      "date_precision": "day",
+      "title": "福建南靖山城镇货车撞人事件",
+      "province": "福建",
+      "city": "漳州",
+      "district": "南靖县",
+      "urban_rural": "镇区",
+      "scene": "街道交通",
+      "method": "驾车",
+      "category": "pending",
+      "classification_reason": "警方仅通报货车碰撞及调查，故意性和随机选择未证实。",
+      "deaths": 3,
+      "injured": 9,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2022-02-14",
+      "casualty_note": null,
+      "involves_children": null,
+      "victim_relation": null,
+      "age": null,
+      "sex": null,
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "司机被警方控制。",
+      "outcome": "原因调查中。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2022-02-14",
+      "evidence_level": "官方转载",
+      "notes": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "source_ids": [
+        "BS21"
+      ],
+      "field_sources": {
+        "date": [
+          "BS21"
+        ],
+        "location": [
+          "BS21"
+        ],
+        "casualties": [
+          "BS21"
+        ],
+        "classification": [
+          "BS21"
+        ],
+        "motive": [],
+        "outcome": [
+          "BS21"
+        ]
+      },
+      "id": "B19"
+    },
+    {
+      "date": "2022-03-20",
+      "date_precision": "day",
+      "title": "邯郸人民路车辆碰撞非机动车事件",
+      "province": "河北",
+      "city": "邯郸",
+      "district": "丛台区",
+      "urban_rural": "城市",
+      "scene": "街道交通",
+      "method": "驾车",
+      "category": "pending",
+      "classification_reason": "以危险方法危害公共安全罪刑拘不能单独证明随机袭击；警方初步归因超量服药，未检出后续故意性认定。",
+      "deaths": 4,
+      "injured": 10,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2022-03-22",
+      "casualty_note": "初报14人受伤中4人死亡，幸存伤者10人。",
+      "involves_children": null,
+      "victim_relation": null,
+      "age": 31,
+      "sex": "男",
+      "occupation": "某单位职工",
+      "motive_summary": null,
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "司机当场被控制。",
+      "outcome": "涉嫌以危险方法危害公共安全罪刑拘。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2022-03-22",
+      "evidence_level": "官方转载",
+      "notes": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "source_ids": [
+        "BS22"
+      ],
+      "field_sources": {
+        "date": [
+          "BS22"
+        ],
+        "location": [
+          "BS22"
+        ],
+        "casualties": [
+          "BS22"
+        ],
+        "classification": [
+          "BS22"
+        ],
+        "motive": [],
+        "outcome": [
+          "BS22"
+        ]
+      },
+      "id": "B20"
+    },
+    {
+      "date": "2022-04-14",
+      "date_precision": "day",
+      "title": "甘肃岷县同院住户伤害案",
+      "province": "甘肃",
+      "city": "定西",
+      "district": "岷县",
+      "urban_rural": "村庄",
+      "scene": "社区住宅",
+      "method": "其他",
+      "category": "pending",
+      "classification_reason": "同院邻里纠纷；未交代伤者是否属于纠纷对方家庭，不能仅因有儿童就认定扩大伤害无关人员。",
+      "deaths": 0,
+      "injured": 7,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2022-04-16",
+      "casualty_note": "1人出院，其余6人病情平稳。",
+      "involves_children": true,
+      "victim_relation": "同院居住的2名成人和5名儿童",
+      "age": 59,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": "警方初查误认邻居谩骂自己发生争吵。",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "警方当场抓获。",
+      "outcome": "刑事拘留。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2022-04-16",
+      "evidence_level": "官方转载",
+      "notes": "汇编所称4月1日幼儿园案不符官方日期与地点；通报未写凶器，方法暂列其他。",
+      "motive_tags": [
+        "邻里纠纷"
+      ],
+      "motive_basis": "警方初步通报",
+      "source_ids": [
+        "BS23"
+      ],
+      "field_sources": {
+        "date": [
+          "BS23"
+        ],
+        "location": [
+          "BS23"
+        ],
+        "casualties": [
+          "BS23"
+        ],
+        "classification": [
+          "BS23"
+        ],
+        "motive": [
+          "BS23"
+        ],
+        "outcome": [
+          "BS23"
+        ]
+      },
+      "id": "B21"
+    },
+    {
+      "date": "2022-06-02",
+      "date_precision": "day",
+      "title": "东莞东城万达广场附近持刀伤人案",
+      "province": "广东",
+      "city": "东莞",
+      "district": "东城街道",
+      "urban_rural": "城市",
+      "scene": "商业场所",
+      "method": "持械",
+      "category": "pending",
+      "classification_reason": "官方证实6人受伤，但随机细节只有未独立核实视频和网述，保守待核。",
+      "deaths": null,
+      "injured": 6,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2022-06-02",
+      "casualty_note": null,
+      "involves_children": null,
+      "victim_relation": null,
+      "age": 25,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "警方控制嫌疑人。",
+      "outcome": "侦查中。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2022-06-02",
+      "evidence_level": "官方转载",
+      "notes": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "source_ids": [
+        "BS24"
+      ],
+      "field_sources": {
+        "date": [
+          "BS24"
+        ],
+        "location": [
+          "BS24"
+        ],
+        "casualties": [
+          "BS24"
+        ],
+        "classification": [
+          "BS24"
+        ],
+        "motive": [],
+        "outcome": [
+          "BS24"
+        ]
+      },
+      "id": "B22"
+    },
+    {
+      "date": "2022-07-04",
+      "date_precision": "day",
+      "title": "上海威海路原单位门前持刀伤人案",
+      "province": "上海",
+      "city": "上海",
+      "district": "静安区",
+      "urban_rural": "城市",
+      "scene": "机关单位",
+      "method": "持械",
+      "category": "core",
+      "classification_reason": "警方证实与原单位纠纷，财新独立调查明确随机袭击进出员工；目标是单位群体中非特定个体。",
+      "deaths": 0,
+      "injured": 6,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2022-07-05",
+      "casualty_note": "6人送医，2人入ICU不等同司法重伤人数。",
+      "involves_children": null,
+      "victim_relation": "原单位进出员工及保安，未证实均系原纠纷参与者",
+      "age": 59,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": "警方称与原单位纠纷交涉未果。",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "警方现场控制。",
+      "outcome": "侦查中。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2022-07-05",
+      "evidence_level": "官方转载",
+      "notes": null,
+      "motive_tags": [
+        "工作冲突"
+      ],
+      "motive_basis": "警方初步通报",
+      "source_ids": [
+        "BS25"
+      ],
+      "field_sources": {
+        "date": [
+          "BS25"
+        ],
+        "location": [
+          "BS25"
+        ],
+        "casualties": [
+          "BS25"
+        ],
+        "classification": [
+          "BS25"
+        ],
+        "motive": [
+          "BS25"
+        ],
+        "outcome": [
+          "BS25"
+        ]
+      },
+      "id": "B23"
+    },
+    {
+      "date": "2022-07-09",
+      "date_precision": "day",
+      "title": "上海瑞金医院持刀袭击案",
+      "province": "上海",
+      "city": "上海",
+      "district": "黄浦区",
+      "urban_rural": "城市",
+      "scene": "医疗机构",
+      "method": "持械",
+      "category": "core",
+      "classification_reason": "法院明确认定预谋在公共场所持刀报复社会，袭击无关病患、家属及医护人员。",
+      "deaths": 0,
+      "injured": 15,
+      "serious_injuries": 6,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2023-10-27",
+      "casualty_note": "使用判决6重伤加9轻伤轻微伤，替代初报4伤；法院认定杀人未遂。",
+      "involves_children": true,
+      "victim_relation": "无关患者、陪同家属、医护人员",
+      "age": null,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": "法院认定因投资失败和无力偿还巨额债务怨恨社会。",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "现场警方制服嫌疑人。",
+      "outcome": "一审故意杀人罪死刑；本次检索未找到进一步裁判执行材料。",
+      "judgment_date": "2023-10-27",
+      "execution_date": null,
+      "last_source_date": "2023-10-27",
+      "evidence_level": "官方转载",
+      "notes": null,
+      "motive_tags": [
+        "经济受挫",
+        "债务",
+        "泄愤报复"
+      ],
+      "motive_basis": "法院认定",
+      "source_ids": [
+        "BS12"
+      ],
+      "field_sources": {
+        "date": [
+          "BS12"
+        ],
+        "location": [
+          "BS12"
+        ],
+        "casualties": [
+          "BS12"
+        ],
+        "classification": [
+          "BS12"
+        ],
+        "motive": [
+          "BS12"
+        ],
+        "outcome": [
+          "BS12"
+        ]
+      },
+      "id": "B03"
+    },
+    {
+      "date": "2022-07-26",
+      "date_precision": "day",
+      "title": "四川沐川警察枪击及杀人纵火案",
+      "province": "四川",
+      "city": "乐山",
+      "district": "沐川县",
+      "urban_rural": "城乡跨场景",
+      "scene": "社区住宅",
+      "method": "复合",
+      "category": "excluded",
+      "classification_reason": "可靠报道确认伤亡对象为同一家庭及亲属，没有随机袭击陌生人的证据，排除核心。",
+      "deaths": 3,
+      "injured": 2,
+      "serious_injuries": null,
+      "attacker_deaths": 1,
+      "attacker_injured": null,
+      "casualty_asof": "2022-07-30",
+      "casualty_note": "嫌疑人逃匿后高坠死亡单列。",
+      "involves_children": true,
+      "victim_relation": "一名女性及其堂弟、两名子女、公公",
+      "age": 36,
+      "sex": "男",
+      "occupation": "警察",
+      "motive_summary": null,
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "警方搜捕4日后发现嫌疑人尸体。",
+      "outcome": "嫌疑人死亡，警方宣布复盘队伍教育管理。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2022-07-30",
+      "evidence_level": "官方转载",
+      "notes": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "source_ids": [
+        "BS26"
+      ],
+      "field_sources": {
+        "date": [
+          "BS26"
+        ],
+        "location": [
+          "BS26"
+        ],
+        "casualties": [
+          "BS26"
+        ],
+        "classification": [
+          "BS26"
+        ],
+        "motive": [],
+        "outcome": [
+          "BS26"
+        ]
+      },
+      "id": "B24"
+    },
+    {
+      "date": "2022-07-28",
+      "date_precision": "day",
+      "title": "河南舞阳张家港路连续碰撞事件",
+      "province": "河南",
+      "city": "漯河",
+      "district": "舞阳县",
+      "urban_rural": "镇区",
+      "scene": "街道交通",
+      "method": "驾车",
+      "category": "pending",
+      "classification_reason": "连续碰撞和媒体所称刑事案件不能替代主观故意与随机性的证据；官方当时称交通肇事逃逸。",
+      "deaths": 1,
+      "injured": 28,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2022-07-28",
+      "casualty_note": "2人伤势较重，不将临床描述直接等同司法重伤。",
+      "involves_children": null,
+      "victim_relation": null,
+      "age": 33,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "警方控制司机。",
+      "outcome": "调查中。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2022-07-28",
+      "evidence_level": "官方转载",
+      "notes": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "source_ids": [
+        "BS27"
+      ],
+      "field_sources": {
+        "date": [
+          "BS27"
+        ],
+        "location": [
+          "BS27"
+        ],
+        "casualties": [
+          "BS27"
+        ],
+        "classification": [
+          "BS27"
+        ],
+        "motive": [],
+        "outcome": [
+          "BS27"
+        ]
+      },
+      "id": "B25"
+    },
+    {
+      "date": "2022-08-02",
+      "date_precision": "day",
+      "title": "莆田饭店附近少年遭随机持刀袭击案",
+      "province": "福建",
+      "city": "莆田",
+      "district": "涵江区",
+      "urban_rural": "城市",
+      "scene": "街道交通",
+      "method": "持械",
+      "category": "core",
+      "classification_reason": "报道引用法院判决明确有预谋地准备刀具、随意选取对象；检方认定当街随机物色对象，双方生活工作无交集。",
+      "deaths": 1,
+      "injured": 0,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2026-04-07",
+      "casualty_note": "仅一名被害人死亡；无其他受害者受伤报道，按本案判决所列人员计。",
+      "involves_children": true,
+      "victim_relation": "与嫌疑人素不相识的饭店后厨帮工",
+      "age": 17,
+      "sex": "男",
+      "occupation": "油漆装修学徒",
+      "motive_summary": "检方指控对生活失望，想通过犯罪入狱脱离社会；本人不同阶段对动机供述反复，不能把其个别说法视为已核定心理事实。",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": "哥哥证言称曾说想去坐牢；案发前网购刀具。",
+      "intervention": "受害人自行返回饭店求助，顾客救援、警方和急救到场；嫌疑人持刀到派出所。",
+      "outcome": "2023年原判死刑；最高法2025-01-24发回重审；2025-09-09改无期。2026-02-02市检不支持家属申诉，4月省检接收审核。",
+      "judgment_date": "2025-09-09",
+      "execution_date": null,
+      "last_source_date": "2026-04-07",
+      "evidence_level": "官方转载",
+      "notes": "年龄按再审查明案发时17岁。报道有判决图及逐项内容，保留为法院材料媒体转述，非官网原文。 动机部分属媒体核对的检方指控，法院明确认定预谋并随意选择对象。",
+      "motive_tags": [
+        "社会疏离",
+        "谋求入狱"
+      ],
+      "motive_basis": "媒体调查",
+      "source_ids": [
+        "BS29"
+      ],
+      "field_sources": {
+        "date": [
+          "BS29"
+        ],
+        "location": [
+          "BS29"
+        ],
+        "casualties": [
+          "BS29"
+        ],
+        "classification": [
+          "BS29"
+        ],
+        "motive": [
+          "BS29"
+        ],
+        "outcome": [
+          "BS29"
+        ]
+      },
+      "id": "B27"
+    },
+    {
+      "date": "2022-08-03",
+      "date_precision": "day",
+      "title": "江西安福幼儿园持刀伤人案",
+      "province": "江西",
+      "city": "吉安",
+      "district": "安福县",
+      "urban_rural": "镇区",
+      "scene": "校园及周边",
+      "method": "持械",
+      "category": "pending",
+      "classification_reason": "已核实校园伤害及伤亡，但缺乏目标关系和选择方式的可靠说明，不仅因师生多人受害就认定随机。",
+      "deaths": 4,
+      "injured": 5,
+      "serious_injuries": null,
+      "attacker_deaths": 1,
+      "attacker_injured": null,
+      "casualty_asof": "2022-08-05",
+      "casualty_note": "初报3死6伤，后续截至8月5日4死5伤；嫌疑人逃跑交通事故身亡单列。",
+      "involves_children": true,
+      "victim_relation": "幼儿园教师及幼儿",
+      "age": 48,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "警方搜捕、伤者送医。",
+      "outcome": "8月3日逃亡横穿高速遭车祸，8月4日抢救无效死亡，DNA确认（警方通报）。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2022-08-10",
+      "evidence_level": "官方转载",
+      "notes": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "source_ids": [
+        "BS28",
+        "BS57"
+      ],
+      "field_sources": {
+        "date": [
+          "BS28"
+        ],
+        "location": [
+          "BS28"
+        ],
+        "casualties": [
+          "BS28",
+          "BS57"
+        ],
+        "classification": [
+          "BS28"
+        ],
+        "motive": [],
+        "outcome": [
+          "BS28",
+          "BS57"
+        ]
+      },
+      "id": "B26"
+    },
+    {
+      "date": "2022-08-08",
+      "date_precision": "day",
+      "title": "河南郸城世纪广场持刀伤人案",
+      "province": "河南",
+      "city": "周口",
+      "district": "郸城县",
+      "urban_rural": "镇区",
+      "scene": "公园广场",
+      "method": "持械",
+      "category": "pending",
+      "classification_reason": "官方未说明双方关系或随机作案；不能采用网络汇编的无差别标签。",
+      "deaths": 0,
+      "injured": 2,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2022-08-09",
+      "casualty_note": null,
+      "involves_children": null,
+      "victim_relation": null,
+      "age": 21,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "接警3分钟后巡逻民警到场与群众控制。",
+      "outcome": "刑事拘留。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2022-08-09",
+      "evidence_level": "官方转载",
+      "notes": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "source_ids": [
+        "BS54"
+      ],
+      "field_sources": {
+        "date": [
+          "BS54"
+        ],
+        "location": [
+          "BS54"
+        ],
+        "casualties": [
+          "BS54"
+        ],
+        "classification": [
+          "BS54"
+        ],
+        "motive": [],
+        "outcome": [
+          "BS54"
+        ]
+      },
+      "id": "B49"
+    },
+    {
+      "date": "2023-01-11",
+      "date_precision": "day",
+      "title": "广州天河连续驾车冲撞行人案",
+      "province": "广东",
+      "city": "广州",
+      "district": "天河区",
+      "urban_rural": "城市",
+      "scene": "街道交通",
+      "method": "驾车",
+      "category": "core",
+      "classification_reason": "法院认定为发泄个人情绪，故意连续驾车冲撞人群；无特定被害人。",
+      "deaths": 6,
+      "injured": null,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2023-05-12",
+      "casualty_note": "一审判决报道：5人当场死亡、1人1月19日死亡；29份伤情描述含25名轻伤或轻微伤、3名不构成轻微伤、1名未见明显机械性损伤，不将29直接当作精确伤者数。保守下限20仅用于下限统计。",
+      "involves_children": null,
+      "victim_relation": "过往行人及道路使用者。",
+      "age": 22,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": "法院认定为发泄个人情绪。判决记录的社交受挫、家人责骂为被告人供述，不能据此推定一般社会原因。",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": null,
+      "outcome": "2023年4月18日一审死刑，2023年6月28日二审维持；2024年4月19日执行。",
+      "judgment_date": "2023-04-18",
+      "execution_date": "2024-04-19",
+      "last_source_date": "2024-04-19",
+      "evidence_level": "官方转载",
+      "notes": null,
+      "motive_tags": [
+        "泄愤报复"
+      ],
+      "motive_basis": "法院认定",
+      "source_ids": [
+        "BS03",
+        "BS04"
+      ],
+      "field_sources": {
+        "date": [
+          "BS03"
+        ],
+        "location": [
+          "BS03"
+        ],
+        "casualties": [
+          "BS03"
+        ],
+        "classification": [
+          "BS03"
+        ],
+        "motive": [
+          "BS03"
+        ],
+        "outcome": [
+          "BS04"
+        ]
+      },
+      "id": "B04",
+      "injured_reported": "20余人",
+      "injured_lower_bound": 20
+    },
+    {
+      "date": "2023-03-19",
+      "date_precision": "day",
+      "title": "重庆轨道一号线邻座乘客遭随机持刀袭击案",
+      "province": "重庆",
+      "city": "重庆",
+      "district": "沙坪坝区",
+      "urban_rural": "城市",
+      "scene": "公共交通",
+      "method": "持械",
+      "category": "core",
+      "classification_reason": "警方向记者披露带刀上车意图随机伤害，重庆日报后续亦明确事后查明随机性。",
+      "deaths": 0,
+      "injured": 1,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2023-07-13",
+      "casualty_note": "一名女乘客严重受伤后及时获救出院；未见司法伤情等级，serious_injuries留空。",
+      "involves_children": null,
+      "victim_relation": "邻座陌生乘客",
+      "age": null,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": "警方称患中度抑郁、重度焦虑；刑事责任鉴定未检出。",
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "乘客吴英杰压制嫌疑人，其他乘客保护伤者，到站后安保移交警方、急救救治。",
+      "outcome": "警方按涉嫌故意杀人立案；后续判决未检出。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2023-12-14",
+      "evidence_level": "多源媒体",
+      "notes": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "source_ids": [
+        "BS30",
+        "BS31"
+      ],
+      "field_sources": {
+        "date": [
+          "BS30",
+          "BS31"
+        ],
+        "location": [
+          "BS30",
+          "BS31"
+        ],
+        "casualties": [
+          "BS30",
+          "BS31"
+        ],
+        "classification": [
+          "BS30",
+          "BS31"
+        ],
+        "motive": [],
+        "outcome": [
+          "BS30",
+          "BS31"
+        ]
+      },
+      "id": "B28"
+    },
+    {
+      "date": "2023-03-31",
+      "date_precision": "day",
+      "title": "邯郸中华北大街连续车辆碰撞事件",
+      "province": "河北",
+      "city": "邯郸",
+      "district": "丛台区",
+      "urban_rural": "城市",
+      "scene": "街道交通",
+      "method": "驾车",
+      "category": "pending",
+      "classification_reason": "部门确认事件存在，但伤亡和动机仍调查；网传爆炸物被否认，缺乏故意随机袭击正式认定。",
+      "deaths": null,
+      "injured": null,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2023-04-02",
+      "casualty_note": "不能使用网传十余伤、一死等数值。",
+      "involves_children": null,
+      "victim_relation": null,
+      "age": null,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "涉事人员当日被警方抓获。",
+      "outcome": "调查中。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2023-04-02",
+      "evidence_level": "单一媒体",
+      "notes": "不采用视频汇编中的手雷/爆炸定性。",
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "source_ids": [
+        "BS32"
+      ],
+      "field_sources": {
+        "date": [
+          "BS32"
+        ],
+        "location": [
+          "BS32"
+        ],
+        "casualties": [
+          "BS32"
+        ],
+        "classification": [
+          "BS32"
+        ],
+        "motive": [],
+        "outcome": [
+          "BS32"
+        ]
+      },
+      "id": "B29"
+    },
+    {
+      "date": "2023-04-02",
+      "date_precision": "day",
+      "title": "重庆江北建新西路持刀袭击路人案",
+      "province": "重庆",
+      "city": "重庆",
+      "district": "江北区",
+      "urban_rural": "城市",
+      "scene": "街道交通",
+      "method": "持械",
+      "category": "core",
+      "classification_reason": "警方明确描述突然持刀袭击4名路人，支持不特定路人目标。",
+      "deaths": 0,
+      "injured": 4,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2023-04-03",
+      "casualty_note": null,
+      "involves_children": null,
+      "victim_relation": "路人",
+      "age": 46,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": "警方通报“突发躁狂”，属于初步状态描述，不等同精神病诊断或刑责鉴定。",
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "群众制服，民警到场送医并控制嫌疑人。",
+      "outcome": "侦办中。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2023-04-03",
+      "evidence_level": "官方转载",
+      "notes": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "source_ids": [
+        "BS33"
+      ],
+      "field_sources": {
+        "date": [
+          "BS33"
+        ],
+        "location": [
+          "BS33"
+        ],
+        "casualties": [
+          "BS33"
+        ],
+        "classification": [
+          "BS33"
+        ],
+        "motive": [],
+        "outcome": [
+          "BS33"
+        ]
+      },
+      "id": "B30"
+    },
+    {
+      "date": "2023-04-08",
+      "date_precision": "day",
+      "title": "平顶山新兴路感情纠纷驾车冲撞案",
+      "province": "河南",
+      "city": "平顶山",
+      "district": "城乡一体化示范区",
+      "urban_rural": "城市",
+      "scene": "街道交通",
+      "method": "驾车",
+      "category": "pending",
+      "classification_reason": "确认定向驾车冲撞女子后多人受害，但其余人的关系未说明，不能仅据人数认定无关者卷入。",
+      "deaths": 3,
+      "injured": null,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2023-04-09",
+      "casualty_note": "官方句式未明确7伤是否包含后续死亡3人，幸存伤者数不直接填7或4。",
+      "involves_children": null,
+      "victim_relation": null,
+      "age": 47,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": "警方称因感情纠纷争执后驾车冲撞特定女性。",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "警方抓获。",
+      "outcome": "侦办中。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2023-04-09",
+      "evidence_level": "官方转载",
+      "notes": null,
+      "motive_tags": [
+        "感情纠纷"
+      ],
+      "motive_basis": "警方初步通报",
+      "source_ids": [
+        "BS34"
+      ],
+      "field_sources": {
+        "date": [
+          "BS34"
+        ],
+        "location": [
+          "BS34"
+        ],
+        "casualties": [
+          "BS34"
+        ],
+        "classification": [
+          "BS34"
+        ],
+        "motive": [
+          "BS34"
+        ],
+        "outcome": [
+          "BS34"
+        ]
+      },
+      "id": "B31",
+      "injured_reported": "7人受伤、3人经抢救无效死亡"
+    },
+    {
+      "date": "2023-04-19",
+      "date_precision": "day",
+      "title": "青岛山东科技大学北公交站及周边袭击案",
+      "province": "山东",
+      "city": "青岛",
+      "district": "黄岛区",
+      "urban_rural": "城市",
+      "scene": "校园及周边",
+      "method": "持械",
+      "category": "core",
+      "classification_reason": "起诉书明确预谋报复学校，在站台和车内连续攻击排队上车人员及无关乘客。",
+      "deaths": 1,
+      "injured": 6,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2023-12-26",
+      "casualty_note": null,
+      "involves_children": null,
+      "victim_relation": "公交乘客、排队人员及学生",
+      "age": 23,
+      "sex": "男",
+      "occupation": "休学大学生",
+      "motive_summary": "法院认定为报复学校，刺伤学校周边无辜学生群众。起诉书具体称盗窃休学后复学未果而生不满。",
+      "mental_health": "司法鉴定为人格障碍，完全刑事责任能力。",
+      "prior_violence": null,
+      "warning_signals": "案前购买凶器、向媒体发预告邮件；判决还记载此前就谅解书、复学沟通多次发表威胁言论。",
+      "intervention": "在附近洗浴中心门口被抓获。",
+      "outcome": "2023年12月26日一审故意杀人罪死刑；被告人当庭提出上诉，未检出二审或执行公开材料。",
+      "judgment_date": "2023-12-26",
+      "execution_date": null,
+      "last_source_date": "2023-12-26",
+      "evidence_level": "官方转载",
+      "notes": "已读取紫牛新闻一审判决跟踪全文；此前搜索的搜狐转载访问失败，改从新浪全文核对。",
+      "motive_tags": [
+        "学业受挫",
+        "泄愤报复"
+      ],
+      "motive_basis": "法院认定",
+      "source_ids": [
+        "BS35",
+        "BS53"
+      ],
+      "field_sources": {
+        "date": [
+          "BS35"
+        ],
+        "location": [
+          "BS35"
+        ],
+        "casualties": [
+          "BS35"
+        ],
+        "classification": [
+          "BS35",
+          "BS53"
+        ],
+        "motive": [
+          "BS35",
+          "BS53"
+        ],
+        "outcome": [
+          "BS35",
+          "BS53"
+        ]
+      },
+      "id": "B32"
+    },
+    {
+      "date": "2023-05-12",
+      "date_precision": "day",
+      "title": "中山大涌镇装载作业车连续碰撞事件",
+      "province": "广东",
+      "city": "中山",
+      "district": "大涌镇",
+      "urban_rural": "镇区",
+      "scene": "街道交通",
+      "method": "驾车",
+      "category": "pending",
+      "classification_reason": "通报没有确认故意冲撞或随机选择对象；仅凭连续碰撞无法定性。",
+      "deaths": 0,
+      "injured": 4,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2023-05-12",
+      "casualty_note": null,
+      "involves_children": null,
+      "victim_relation": null,
+      "age": 48,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "警方控制司机带所调查。",
+      "outcome": "调查中。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2023-05-12",
+      "evidence_level": "官方转载",
+      "notes": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "source_ids": [
+        "BS36"
+      ],
+      "field_sources": {
+        "date": [
+          "BS36"
+        ],
+        "location": [
+          "BS36"
+        ],
+        "casualties": [
+          "BS36"
+        ],
+        "classification": [
+          "BS36"
+        ],
+        "motive": [],
+        "outcome": [
+          "BS36"
+        ]
+      },
+      "id": "B33"
+    },
+    {
+      "date": "2023-05-13",
+      "date_precision": "day",
+      "title": "山西兴县定向杀伤后驾车冲撞行人案",
+      "province": "山西",
+      "city": "吕梁",
+      "district": "兴县",
+      "urban_rural": "城乡跨场景",
+      "scene": "街道交通",
+      "method": "复合",
+      "category": "expanded",
+      "classification_reason": "原本针对感情纠纷对象及家属，随后逃窜驾车撞警务人员和行人，明确扩展至无关路人。",
+      "deaths": 7,
+      "injured": 11,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2023-05-14",
+      "casualty_note": "包含最初家庭内3死1伤及后续撞人4死10伤，勿重复相加。",
+      "involves_children": true,
+      "victim_relation": "感情纠纷女子及家属；另有出警人员与行人",
+      "age": 27,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": "警方初查源于感情纠纷。",
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "警方抓获；省市县联合处置。",
+      "outcome": "侦查中；公开判决未检出。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2023-05-14",
+      "evidence_level": "官方转载",
+      "notes": null,
+      "motive_tags": [
+        "感情纠纷"
+      ],
+      "motive_basis": "警方初步通报",
+      "source_ids": [
+        "BS37"
+      ],
+      "field_sources": {
+        "date": [
+          "BS37"
+        ],
+        "location": [
+          "BS37"
+        ],
+        "casualties": [
+          "BS37"
+        ],
+        "classification": [
+          "BS37"
+        ],
+        "motive": [
+          "BS37"
+        ],
+        "outcome": [
+          "BS37"
+        ]
+      },
+      "id": "B34"
+    },
+    {
+      "date": "2023-05-14",
+      "date_precision": "day",
+      "title": "贵阳云岩百草巷剪刀袭击行人案",
+      "province": "贵州",
+      "city": "贵阳",
+      "district": "云岩区",
+      "urban_rural": "城市",
+      "scene": "街道交通",
+      "method": "持械",
+      "category": "core",
+      "classification_reason": "警方明确被伤害者为当时路过的数名行人。",
+      "deaths": 0,
+      "injured": null,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2023-05-15",
+      "casualty_note": "未发布确切受伤人数，不能用汇编数字替代。",
+      "involves_children": null,
+      "victim_relation": "路过行人",
+      "age": 40,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": "警方称精神障碍患者；刑责鉴定未知。",
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "警方迅速控制嫌疑人，伤者送医。",
+      "outcome": "进一步办理。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2023-05-15",
+      "evidence_level": "官方转载",
+      "notes": "案发为5月14日，5月15日系报道日。",
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "source_ids": [
+        "BS38"
+      ],
+      "field_sources": {
+        "date": [
+          "BS38"
+        ],
+        "location": [
+          "BS38"
+        ],
+        "casualties": [
+          "BS38"
+        ],
+        "classification": [
+          "BS38"
+        ],
+        "motive": [],
+        "outcome": [
+          "BS38"
+        ]
+      },
+      "id": "B35",
+      "injured_reported": "几名行人"
+    },
+    {
+      "date": "2023-05-18",
+      "date_precision": "day",
+      "title": "四川南部桂博路持刀伤人案",
+      "province": "四川",
+      "city": "南充",
+      "district": "南部县",
+      "urban_rural": "镇区",
+      "scene": "街道交通",
+      "method": "持械",
+      "category": "pending",
+      "classification_reason": "通报未说明受害者关系或随机选择，无充分独立材料证明随机性。",
+      "deaths": 0,
+      "injured": 8,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2023-05-18",
+      "casualty_note": null,
+      "involves_children": null,
+      "victim_relation": null,
+      "age": 21,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "警方抓获。",
+      "outcome": "侦查中。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2023-05-18",
+      "evidence_level": "官方转载",
+      "notes": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "source_ids": [
+        "BS39"
+      ],
+      "field_sources": {
+        "date": [
+          "BS39"
+        ],
+        "location": [
+          "BS39"
+        ],
+        "casualties": [
+          "BS39"
+        ],
+        "classification": [
+          "BS39"
+        ],
+        "motive": [],
+        "outcome": [
+          "BS39"
+        ]
+      },
+      "id": "B36"
+    },
+    {
+      "date": "2023-05-23",
+      "date_precision": "day",
+      "title": "天津和平山西路剪刀伤害路人案",
+      "province": "天津",
+      "city": "天津",
+      "district": "和平区",
+      "urban_rural": "城市",
+      "scene": "街道交通",
+      "method": "持械",
+      "category": "pending",
+      "classification_reason": "虽称路人，单一目标双方关系与选择原因未明，保守等待随机性证据。",
+      "deaths": 0,
+      "injured": 1,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2023-05-24",
+      "casualty_note": null,
+      "involves_children": null,
+      "victim_relation": null,
+      "age": 53,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "围观群众当场控制；警方确认见义勇为行为。",
+      "outcome": "刑事拘留。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2023-05-24",
+      "evidence_level": "官方转载",
+      "notes": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "source_ids": [
+        "BS40"
+      ],
+      "field_sources": {
+        "date": [
+          "BS40"
+        ],
+        "location": [
+          "BS40"
+        ],
+        "casualties": [
+          "BS40"
+        ],
+        "classification": [
+          "BS40"
+        ],
+        "motive": [],
+        "outcome": [
+          "BS40"
+        ]
+      },
+      "id": "B37"
+    },
+    {
+      "date": "2023-06-06",
+      "date_precision": "day",
+      "title": "长沙开福滨河路面包车撞人事件",
+      "province": "湖南",
+      "city": "长沙",
+      "district": "开福区",
+      "urban_rural": "城市",
+      "scene": "街道交通",
+      "method": "驾车",
+      "category": "pending",
+      "classification_reason": "仅有撞人逃逸事实，未确立故意性和无差别袭击动机。",
+      "deaths": 0,
+      "injured": 9,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2023-06-06",
+      "casualty_note": "一人伤势较重，8人稳定无生命危险；未给司法重伤等级。",
+      "involves_children": null,
+      "victim_relation": null,
+      "age": 39,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "警方抓获逃跑中的司机。",
+      "outcome": "侦办中。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2023-06-06",
+      "evidence_level": "官方转载",
+      "notes": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "source_ids": [
+        "BS41"
+      ],
+      "field_sources": {
+        "date": [
+          "BS41"
+        ],
+        "location": [
+          "BS41"
+        ],
+        "casualties": [
+          "BS41"
+        ],
+        "classification": [
+          "BS41"
+        ],
+        "motive": [],
+        "outcome": [
+          "BS41"
+        ]
+      },
+      "id": "B38"
+    },
+    {
+      "date": "2023-06-16",
+      "date_precision": "day",
+      "title": "秦皇岛建国路持刀伤人事件",
+      "province": "河北",
+      "city": "秦皇岛",
+      "district": "海港区",
+      "urban_rural": "城市",
+      "scene": "街道交通",
+      "method": "持械",
+      "category": "pending",
+      "classification_reason": "已采访警方确认事件，但人数、对象关系与随机性未明确。",
+      "deaths": null,
+      "injured": null,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2023-06-17",
+      "casualty_note": "网传十余人受伤没有官方确认，死亡和受伤人数均留空。",
+      "involves_children": null,
+      "victim_relation": null,
+      "age": null,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "警方控制。",
+      "outcome": "调查中。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2023-06-17",
+      "evidence_level": "单一媒体",
+      "notes": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "source_ids": [
+        "BS42"
+      ],
+      "field_sources": {
+        "date": [
+          "BS42"
+        ],
+        "location": [
+          "BS42"
+        ],
+        "casualties": [
+          "BS42"
+        ],
+        "classification": [
+          "BS42"
+        ],
+        "motive": [],
+        "outcome": [
+          "BS42"
+        ]
+      },
+      "id": "B39"
+    },
+    {
+      "date": "2023-06-17",
+      "date_precision": "day",
+      "title": "长春红旗街高空投掷水桶及可乐伤人案",
+      "province": "吉林",
+      "city": "长春",
+      "district": "朝阳区",
+      "urban_rural": "城市",
+      "scene": "商业场所",
+      "method": "其他",
+      "category": "core",
+      "classification_reason": "法院认定观察楼下行人后刻意向不特定人群投掷重物，以杀人求获死刑。",
+      "deaths": 0,
+      "injured": 2,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2023-12-16",
+      "casualty_note": "当日水桶砸伤1人、可乐砸伤另1人，共2伤；刑事案件总1死2伤，分日期计数。",
+      "involves_children": null,
+      "victim_relation": "无关食客、摊主和路人",
+      "age": 23,
+      "sex": "男",
+      "occupation": "无固定职业",
+      "motive_summary": "法院认定生活窘迫、认为社会不公，欲自杀但没有勇气，预谋杀人以求死刑。",
+      "mental_health": "公安司法鉴定涉案时无精神疾病，完全刑事责任能力（界面核对鉴定意见）。",
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "后续6月22日自行投案。",
+      "outcome": "12月13日一审死刑；当庭不上诉，2024年10月21日核准后执行（家属确认）。",
+      "judgment_date": "2023-12-13",
+      "execution_date": "2024-10-21",
+      "last_source_date": "2024-10-21",
+      "evidence_level": "官方转载",
+      "notes": "两个非连续日期分为两事件；6月17日同日两次投物合并一日期记录。",
+      "motive_tags": [
+        "经济受挫",
+        "社会不满",
+        "借刑求死"
+      ],
+      "motive_basis": "法院认定",
+      "source_ids": [
+        "BS43",
+        "BS44"
+      ],
+      "field_sources": {
+        "date": [
+          "BS43",
+          "BS44"
+        ],
+        "location": [
+          "BS43",
+          "BS44"
+        ],
+        "casualties": [
+          "BS43",
+          "BS44"
+        ],
+        "classification": [
+          "BS43",
+          "BS44"
+        ],
+        "motive": [
+          "BS43",
+          "BS44"
+        ],
+        "outcome": [
+          "BS43",
+          "BS44"
+        ]
+      },
+      "id": "B40",
+      "series_id": "B-SERIES-CHANGCHUN-202306"
+    },
+    {
+      "date": "2023-06-22",
+      "date_precision": "day",
+      "title": "长春红旗街高空投砖致死案",
+      "province": "吉林",
+      "city": "长春",
+      "district": "朝阳区",
+      "urban_rural": "城市",
+      "scene": "商业场所",
+      "method": "其他",
+      "category": "core",
+      "classification_reason": "法院认定观察楼下行人后刻意向不特定人群投掷重物，以杀人求获死刑。",
+      "deaths": 1,
+      "injured": 0,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2023-12-16",
+      "casualty_note": "本日期1死；其他两名伤者属6月17日，不重复计数。",
+      "involves_children": null,
+      "victim_relation": "无关食客、摊主和路人",
+      "age": 23,
+      "sex": "男",
+      "occupation": "无固定职业",
+      "motive_summary": "法院认定生活窘迫、认为社会不公，欲自杀但没有勇气，预谋杀人以求死刑。",
+      "mental_health": "公安司法鉴定涉案时无精神疾病，完全刑事责任能力（界面核对鉴定意见）。",
+      "prior_violence": null,
+      "warning_signals": "同楼此前多次高空抛物已伤人；家属及摊主称有过报警但未找到人，属媒体转述。",
+      "intervention": "23时30分嫌疑人主动到派出所投案。",
+      "outcome": "12月13日一审死刑；当庭不上诉，2024年10月21日核准后执行（家属确认）。",
+      "judgment_date": "2023-12-13",
+      "execution_date": "2024-10-21",
+      "last_source_date": "2024-10-21",
+      "evidence_level": "官方转载",
+      "notes": "两个非连续日期分为两事件；6月17日同日两次投物合并一日期记录。",
+      "motive_tags": [
+        "经济受挫",
+        "社会不满",
+        "借刑求死"
+      ],
+      "motive_basis": "法院认定",
+      "source_ids": [
+        "BS43",
+        "BS44"
+      ],
+      "field_sources": {
+        "date": [
+          "BS43",
+          "BS44"
+        ],
+        "location": [
+          "BS43",
+          "BS44"
+        ],
+        "casualties": [
+          "BS43",
+          "BS44"
+        ],
+        "classification": [
+          "BS43",
+          "BS44"
+        ],
+        "motive": [
+          "BS43",
+          "BS44"
+        ],
+        "outcome": [
+          "BS43",
+          "BS44"
+        ]
+      },
+      "id": "B41",
+      "series_id": "B-SERIES-CHANGCHUN-202306"
+    },
+    {
+      "date": "2023-06-30",
+      "date_precision": "day",
+      "title": "海南临高临城镇二环路持刀伤人案",
+      "province": "海南",
+      "city": "临高县",
+      "district": "临城镇",
+      "urban_rural": "镇区",
+      "scene": "街道交通",
+      "method": "持械",
+      "category": "pending",
+      "classification_reason": "官方证实伤人，未披露人数、目标关系或选择方式。",
+      "deaths": 0,
+      "injured": null,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2023-07-01",
+      "casualty_note": "通报称伤者均无生命危险，网传具体人数不采用。",
+      "involves_children": null,
+      "victim_relation": null,
+      "age": null,
+      "sex": null,
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "警方控制嫌疑人、伤者送医。",
+      "outcome": "侦办中。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2023-07-01",
+      "evidence_level": "官方转载",
+      "notes": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "source_ids": [
+        "BS45"
+      ],
+      "field_sources": {
+        "date": [
+          "BS45"
+        ],
+        "location": [
+          "BS45"
+        ],
+        "casualties": [
+          "BS45"
+        ],
+        "classification": [
+          "BS45"
+        ],
+        "motive": [],
+        "outcome": [
+          "BS45"
+        ]
+      },
+      "id": "B42"
+    },
+    {
+      "date": "2023-07-10",
+      "date_precision": "day",
+      "title": "广东廉江横山镇幼儿园持刀伤人案",
+      "province": "广东",
+      "city": "湛江",
+      "district": "廉江市",
+      "urban_rural": "镇区",
+      "scene": "校园及周边",
+      "method": "持械",
+      "category": "pending",
+      "classification_reason": "案件伤亡已获警方证实，尚无可靠材料确认对象选择与关系；不采信网传私人报复起因，也不直接称随机。",
+      "deaths": 6,
+      "injured": 1,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2023-07-10",
+      "casualty_note": null,
+      "involves_children": true,
+      "victim_relation": "幼儿园内人员，包含幼儿",
+      "age": 25,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "7时40分发案，8时许警方抓获。",
+      "outcome": "侦办中；裁判未检出。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2023-07-10",
+      "evidence_level": "官方转载",
+      "notes": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "source_ids": [
+        "BS46"
+      ],
+      "field_sources": {
+        "date": [
+          "BS46"
+        ],
+        "location": [
+          "BS46"
+        ],
+        "casualties": [
+          "BS46"
+        ],
+        "classification": [
+          "BS46"
+        ],
+        "motive": [],
+        "outcome": [
+          "BS46"
+        ]
+      },
+      "id": "B43"
+    },
+    {
+      "date": "2023-08-08",
+      "date_precision": "day",
+      "title": "云南罗平伤母后逃窜持刀伤人案",
+      "province": "云南",
+      "city": "曲靖",
+      "district": "罗平县",
+      "urban_rural": "镇区",
+      "scene": "街道交通",
+      "method": "持械",
+      "category": "expanded",
+      "classification_reason": "先刺母亲后在逃窜过程中继续刺伤8人，攻击范围从家庭扩展到街面他人。",
+      "deaths": 2,
+      "injured": 7,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2023-08-08",
+      "casualty_note": "总计9名受害者；母亲和逃窜阶段受伤者均在2死7伤内。",
+      "involves_children": null,
+      "victim_relation": null,
+      "age": 20,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": "警方称有精神病史，未披露司法责任能力鉴定。",
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "警方抓获，伤者送医。",
+      "outcome": "侦办中。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2023-08-08",
+      "evidence_level": "官方转载",
+      "notes": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "source_ids": [
+        "BS47"
+      ],
+      "field_sources": {
+        "date": [
+          "BS47"
+        ],
+        "location": [
+          "BS47"
+        ],
+        "casualties": [
+          "BS47"
+        ],
+        "classification": [
+          "BS47"
+        ],
+        "motive": [],
+        "outcome": [
+          "BS47"
+        ]
+      },
+      "id": "B44"
+    },
+    {
+      "date": "2023-08-17",
+      "date_precision": "day",
+      "title": "湖北枣阳万象城附近沿街持刀伤人事件",
+      "province": "湖北",
+      "city": "襄阳",
+      "district": "枣阳市",
+      "urban_rural": "城市",
+      "scene": "街道交通",
+      "method": "持械",
+      "category": "pending",
+      "classification_reason": "目击采访支持沿街攻击路人，但目前只有同一电视报道转载，未满足独立多源或官方证据标准。",
+      "deaths": null,
+      "injured": 4,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2023-08-17",
+      "casualty_note": "4伤来自目击者，非官方最终数字；是否死亡未见可靠说明。",
+      "involves_children": null,
+      "victim_relation": "报道称老年人及女性路人",
+      "age": null,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "商户泼水阻止，群众报警。",
+      "outcome": null,
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2023-08-17",
+      "evidence_level": "单一媒体",
+      "notes": "不采信目击者关于精神病的猜测。",
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "source_ids": [
+        "BS48"
+      ],
+      "field_sources": {
+        "date": [
+          "BS48"
+        ],
+        "location": [
+          "BS48"
+        ],
+        "casualties": [
+          "BS48"
+        ],
+        "classification": [
+          "BS48"
+        ],
+        "motive": [],
+        "outcome": [
+          "BS48"
+        ]
+      },
+      "id": "B45"
+    },
+    {
+      "date": "2023-11-09",
+      "date_precision": "day",
+      "title": "深圳龙华大浪广场附近持刀伤人案",
+      "province": "广东",
+      "city": "深圳",
+      "district": "龙华区",
+      "urban_rural": "城市",
+      "scene": "公园广场",
+      "method": "持械",
+      "category": "pending",
+      "classification_reason": "事件伤亡获警方确认，但起因和对象关系未披露。",
+      "deaths": 1,
+      "injured": 3,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2023-11-09",
+      "casualty_note": null,
+      "involves_children": null,
+      "victim_relation": null,
+      "age": 37,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": null,
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "警方现场抓获，伤者送医。",
+      "outcome": "侦办中。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2023-11-09",
+      "evidence_level": "官方转载",
+      "notes": "部分汇编称20时，按警方通报18时。",
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "source_ids": [
+        "BS50"
+      ],
+      "field_sources": {
+        "date": [
+          "BS50"
+        ],
+        "location": [
+          "BS50"
+        ],
+        "casualties": [
+          "BS50"
+        ],
+        "classification": [
+          "BS50"
+        ],
+        "motive": [],
+        "outcome": [
+          "BS50"
+        ]
+      },
+      "id": "B47"
+    },
+    {
+      "date": "2023-12-24",
+      "date_precision": "day",
+      "title": "成都新都同福路持刀伤人案",
+      "province": "四川",
+      "city": "成都",
+      "district": "新都区",
+      "urban_rural": "城市",
+      "scene": "街道交通",
+      "method": "持械",
+      "category": "pending",
+      "classification_reason": "官方确认事件但未披露确切人数或受害者关系，不能仅凭地点和精神病史推断随机。",
+      "deaths": 0,
+      "injured": null,
+      "serious_injuries": null,
+      "attacker_deaths": null,
+      "attacker_injured": null,
+      "casualty_asof": "2023-12-24",
+      "casualty_note": "通报未给伤者数，不采用汇编的5伤。",
+      "involves_children": null,
+      "victim_relation": null,
+      "age": 21,
+      "sex": "男",
+      "occupation": null,
+      "motive_summary": null,
+      "mental_health": "警方称有精神病史；无刑责鉴定。",
+      "prior_violence": null,
+      "warning_signals": null,
+      "intervention": "现场群众制服后警方控制。",
+      "outcome": "侦办中。",
+      "judgment_date": null,
+      "execution_date": null,
+      "last_source_date": "2023-12-24",
+      "evidence_level": "官方转载",
+      "notes": null,
+      "motive_tags": [],
+      "motive_basis": "未知",
+      "source_ids": [
+        "BS49"
+      ],
+      "field_sources": {
+        "date": [
+          "BS49"
+        ],
+        "location": [
+          "BS49"
+        ],
+        "casualties": [
+          "BS49"
+        ],
+        "classification": [
+          "BS49"
+        ],
+        "motive": [],
+        "outcome": [
+          "BS49"
+        ]
+      },
+      "id": "B46"
+    }
+  ],
+  "sources": [
+    {
+      "id": "BS01",
+      "url": "https://www.sohu.com/a/664013979_161795",
+      "title": "已伏法的大连开宝马撞人致5死男子：因投资失败故意冲撞行人",
+      "publisher": "南方都市报（搜狐转载）",
+      "published_date": "2023-04-07",
+      "accessed_date": "2026-09-16",
+      "type": "官方媒体",
+      "independence_group": "大连中院刘东审理及执行通报",
+      "supports": [
+        "B01"
+      ],
+      "key_facts": "法院查明2021年5月22日因投资失败故意冲撞斑马线行人，5死8伤；2021年10月29日一审死刑，2023年4月7日执行。正文已打开。"
+    },
+    {
+      "id": "BS02",
+      "url": "https://www.peopleapp.com/rmharticle/30026816059",
+      "title": "安庆步行街持刀行凶致7死13伤 罪犯吴亮15日被执行死刑",
+      "publisher": "央视新闻（环球时报人民号转载）",
+      "published_date": "2022-02-17",
+      "accessed_date": "2026-09-16",
+      "type": "官方媒体",
+      "independence_group": "安庆中院吴亮执行布告",
+      "supports": [
+        "B02"
+      ],
+      "key_facts": "法院布告记载2021年6月5日连续捅刺20名无辜群众，7死13伤（5重伤）；25岁、无业。2022年2月15日执行死刑。正文已打开。"
+    },
+    {
+      "id": "BS03",
+      "url": "https://www.thepaper.cn/newsDetail_forward_23055693",
+      "title": "广州宝马撞人案判决书披露作案动机，被告人称案发前多次高速冲卡逃费",
+      "publisher": "澎湃新闻",
+      "published_date": "2023-05-12",
+      "accessed_date": "2026-09-16",
+      "type": "官方媒体",
+      "independence_group": "澎湃广州判决书独立采集",
+      "supports": [
+        "B04"
+      ],
+      "key_facts": "记者读取一审判决书并采访家属：2023年1月11日温庆运在天河连续驾车撞人，为发泄个人情绪；最终6死、20余人受伤。29份伤情描述含25名轻伤或轻微伤、3名不构成轻微伤、1名体表未见明显机械性损伤。正文已打开。"
+    },
+    {
+      "id": "BS04",
+      "url": "https://www.thepaper.cn/newsDetail_forward_27088401",
+      "title": "广州天河“1·11”驾车撞人案罪犯温庆运被执行死刑",
+      "publisher": "澎湃新闻",
+      "published_date": "2024-04-19",
+      "accessed_date": "2026-09-16",
+      "type": "官方媒体",
+      "independence_group": "广州中院温庆运执行通报",
+      "supports": [
+        "B04"
+      ],
+      "key_facts": "广州中院通报：温庆运于2024年4月19日执行死刑。正文已打开。"
+    },
+    {
+      "id": "BS05",
+      "url": "https://www.xinhuanet.com/2021-04/30/c_1127394396.htm",
+      "title": "广西北流通报幼儿园持刀行凶案：初步认定犯罪嫌疑人为精神分裂症患者",
+      "publisher": "新华社",
+      "published_date": "2021-04-30",
+      "accessed_date": "2026-09-16",
+      "type": "官方媒体",
+      "independence_group": "北流公安20210429",
+      "supports": [
+        "B06"
+      ],
+      "key_facts": "北流警方通报：4月28日新丰镇幼儿园持刀案，2死16伤；曾某被当场控制，司法鉴定初步认定精神分裂症。正文已打开。"
+    },
+    {
+      "id": "BS06",
+      "url": "https://www.thepaper.cn/newsDetail_forward_10911592",
+      "title": "1人死亡7人受伤，昆明通报劫持人质事件",
+      "publisher": "澎湃号媒体（云南发布等通报转载）",
+      "published_date": "2021-01-23",
+      "accessed_date": "2026-09-16",
+      "type": "官方媒体",
+      "independence_group": "昆明五华政府警方20210122",
+      "supports": [
+        "B05"
+      ],
+      "key_facts": "2021年1月22日云南师大实验中学门口持刀伤人及劫持案，王某侠男56岁，1死7伤；警方击毙嫌疑人、解救人质。正文已打开。"
+    },
+    {
+      "id": "BS07",
+      "url": "https://www.guancha.cn/politics/2021_05_26_592016.shtml",
+      "title": "南阳警方：66岁男子持棍行凶，致12名学生2名群众受伤",
+      "publisher": "观察者网",
+      "published_date": "2021-05-26",
+      "accessed_date": "2026-09-16",
+      "type": "独立媒体",
+      "independence_group": "南阳公安20210525",
+      "supports": [
+        "B07"
+      ],
+      "key_facts": "完整转载警方通报：5月25日68小学附近退休男子吴某某因生活失意报复社会持棍，12名学生及2名群众受伤、均无生命危险。正文已打开。"
+    },
+    {
+      "id": "BS08",
+      "url": "https://news.sina.cn/sh/2021-05-28/detail-ikmxzfmm5247323.d.html",
+      "title": "5名小学生上学途中被砍伤！行凶男被指精神有问题",
+      "publisher": "生活报（新浪转载）",
+      "published_date": "2021-05-28",
+      "accessed_date": "2026-09-16",
+      "type": "官方媒体",
+      "independence_group": "生活报郴州独立采访",
+      "supports": [
+        "B08"
+      ],
+      "key_facts": "记者采访医院、商户与宣传部门：5月28日白露塘镇地下通道5名返校学生被持刀袭击，伤亡仍不明；医护称至少1死，尚无正式确认。正文已打开。"
+    },
+    {
+      "id": "BS09",
+      "url": "https://www.sohu.com/a/468254554_172952",
+      "title": "河北一中学发生伤人事件，有学生受伤，嫌疑人被控制",
+      "publisher": "极目新闻（搜狐转载）",
+      "published_date": "2021-05-24",
+      "accessed_date": "2026-09-16",
+      "type": "官方媒体",
+      "independence_group": "极目任丘独立采访",
+      "supports": [
+        "B09"
+      ],
+      "key_facts": "记者向教育部门和医院核实华北油田采一中学校内发生伤人案、有学生受伤；人数和关系不明。正文已打开。"
+    },
+    {
+      "id": "BS10",
+      "url": "https://news.sina.com.cn/o/2021-05-30/doc-ikmxzfmm5536260.shtml",
+      "title": "警方通报南京驾车撞人并持刀捅人案细节",
+      "publisher": "中国新闻社（新浪转载）",
+      "published_date": "2021-05-30",
+      "accessed_date": "2026-09-16",
+      "type": "官方媒体",
+      "independence_group": "南京公安20210530",
+      "supports": [
+        "B10"
+      ],
+      "key_facts": "5月29日晚吉某某因感情纠纷撞伤前妻和其友人，同时撞伤路人，逃逸途中伤及路人和劝阻者；7名被害人、嫌疑人亦伤。正文已打开。"
+    },
+    {
+      "id": "BS11",
+      "url": "https://m.thepaper.cn/newsDetail_forward_15729518",
+      "title": "男子街头持刀伤人，9人送医！目击者：不认识的人，他拿刀就捅",
+      "publisher": "菏泽巨野县法院澎湃号",
+      "published_date": "2021-12-07",
+      "accessed_date": "2026-09-16",
+      "type": "法院",
+      "independence_group": "浦东公安20211206及上海媒体采访汇编",
+      "supports": [
+        "B11"
+      ],
+      "key_facts": "警方通报刘某26岁持剪刀伤7名群众和2名警察，为外省市在册精神病人；目击者称从店内至沿街对陌生人连续行凶。正文已打开。"
+    },
+    {
+      "id": "BS12",
+      "url": "https://mil.sina.cn/2023-10-27/detail-imzsptxq7188490.d.html",
+      "title": "侯晓飞，死刑",
+      "publisher": "环球时报转载上海二中院",
+      "published_date": "2023-10-27",
+      "accessed_date": "2026-09-16",
+      "type": "法院",
+      "independence_group": "上海二中院20231027",
+      "supports": [
+        "B03"
+      ],
+      "key_facts": "法院认定投资失败、无力偿债后预谋报复社会；瑞金医院袭击致6人重伤、9人轻伤轻微伤，一审死刑。"
+    },
+    {
+      "id": "BS13",
+      "url": "https://china.caixin.com/2021-01-23/101654861.html",
+      "title": "警方通报“杭州爆燃事件”：嫌疑人曾患有偏执性精神障碍",
+      "publisher": "财新",
+      "published_date": "2021-01-23",
+      "accessed_date": "2026-09-16",
+      "type": "独立媒体",
+      "independence_group": "杭州公安20210123",
+      "supports": [
+        "B12"
+      ],
+      "key_facts": "警方披露39岁卢某因诊疗不满预谋，在医院引燃爆炸物并持刀伤害患者医护，四名他人和嫌疑人受伤。"
+    },
+    {
+      "id": "BS14",
+      "url": "https://www.chinanews.com/sh/2021/04-18/9457400.shtml",
+      "title": "四川天府新区通报持刀伤人事件：4名伤者暂无生命危险",
+      "publisher": "中国新闻网",
+      "published_date": "2021-04-18",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "天府新区公安20210417",
+      "supports": [
+        "B13"
+      ],
+      "key_facts": "警方称杨某与母亲争吵后持刀伤害4名他人。"
+    },
+    {
+      "id": "BS15",
+      "url": "https://news.ifeng.com/c/87u97pdHf1d",
+      "title": "广东东莞发生持刀伤人案，6人受伤",
+      "publisher": "凤凰网转载平安清溪",
+      "published_date": "2021-07-15",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "清溪公安20210715",
+      "supports": [
+        "B14"
+      ],
+      "key_facts": "警方确认清溪镇李某持刀致6名群众受伤，31岁无业，已抓获。"
+    },
+    {
+      "id": "BS16",
+      "url": "https://m.bjnews.com.cn/detail/162927093314206.html",
+      "title": "甘肃临洮县洮阳镇发生2死1伤刑事案件 犯罪嫌疑人已被刑拘",
+      "publisher": "新京报转载临洮县政府",
+      "published_date": "2021-08-18",
+      "accessed_date": "2026-09-16",
+      "type": "官方媒体",
+      "independence_group": "临洮政府20210818",
+      "supports": [
+        "B15"
+      ],
+      "key_facts": "县政府确认8月16日13时30分发生2死1伤刑案，张某某被刑拘。"
+    },
+    {
+      "id": "BS17",
+      "url": "https://china.caixin.com/2021-08-18/101756899.html",
+      "title": "甘肃临洮发生凶案致2死1伤 嫌疑人系镇政府工作人员",
+      "publisher": "财新",
+      "published_date": "2021-08-18",
+      "accessed_date": "2026-09-16",
+      "type": "独立媒体",
+      "independence_group": "财新临洮20210818",
+      "supports": [
+        "B15"
+      ],
+      "key_facts": "采访镇政府确认嫌疑人职员身份及抑郁说法，三名受害者为7、13、16岁女孩；引述家属去图书馆途中被袭。"
+    },
+    {
+      "id": "BS18",
+      "url": "http://henan.china.com.cn/m/2021-08/29/content_41658061.html",
+      "title": "广州番禺一男子持刀伤人致3人受伤，嫌疑人被警方开枪击伤",
+      "publisher": "中国网转载新京报",
+      "published_date": "2021-08-29",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "番禺公安20210828",
+      "supports": [
+        "B16"
+      ],
+      "key_facts": "番禺公安通报8月28日清河中路郑某43岁持水果刀伤3人，被警方开枪击伤控制。"
+    },
+    {
+      "id": "BS19",
+      "url": "https://news.sina.cn/sh/2021-11-04/detail-iktzscyy3587157.d.html",
+      "title": "山西河津一男子当街持刀伤3人被警方控制 有司机驾车撞击持刀者",
+      "publisher": "北京青年报",
+      "published_date": "2021-11-04",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "河津公安20211104",
+      "supports": [
+        "B17"
+      ],
+      "key_facts": "警方称赵某务工中争执，持菜刀致现场3名劝阻群众受伤。"
+    },
+    {
+      "id": "BS20",
+      "url": "https://www.chinanews.com.cn/sh/2022/02-12/9674807.shtml",
+      "title": "沈阳一公交车发生爆炸 已致1人死亡、2人重伤、40人轻伤",
+      "publisher": "中国新闻网",
+      "published_date": "2022-02-12",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "沈阳公安20220212",
+      "supports": [
+        "B18"
+      ],
+      "key_facts": "警方确认232路公交爆炸1死42伤，原因在查。"
+    },
+    {
+      "id": "BS21",
+      "url": "https://m.thepaper.cn/newsDetail_forward_16694089",
+      "title": "福建漳州一货车撞倒行人致3死9伤，司机已被控制",
+      "publisher": "澎湃转载警方",
+      "published_date": "2022-02-14",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "南靖公安20220214",
+      "supports": [
+        "B19"
+      ],
+      "key_facts": "南靖山城镇货车撞行人3死9伤，具体原因调查中。"
+    },
+    {
+      "id": "BS22",
+      "url": "https://www.hunantoday.cn/news/xhn/202203/13900814.html",
+      "title": "邯郸一男子驾车冲撞人群致4人死亡被刑拘，涉嫌超量服药",
+      "publisher": "新湖南转载中央政法委长安剑",
+      "published_date": "2022-03-22",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "邯郸公安20220321",
+      "supports": [
+        "B20"
+      ],
+      "key_facts": "警方称刘某北31岁长期服镇痛处方药，案发日超量服药；14名初始伤者中4人死亡。"
+    },
+    {
+      "id": "BS23",
+      "url": "https://m.bjnews.com.cn/detail/165006491014284.html",
+      "title": "甘肃岷县发生一起故意伤害案致7伤，其中5名为孩子",
+      "publisher": "新京报转载岷县发布",
+      "published_date": "2022-04-16",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "岷县发布20220416",
+      "supports": [
+        "B21"
+      ],
+      "key_facts": "59岁赵某因院门上锁误认邻居谩骂自己，争吵后伤害同院7人含5儿童。"
+    },
+    {
+      "id": "BS24",
+      "url": "https://www.cna.com.tw/news/acn/202206020351.aspx",
+      "title": "廣東東莞發生持刀傷人事件 釀6人受傷",
+      "publisher": "中央社",
+      "published_date": "2022-06-02",
+      "accessed_date": "2026-09-16",
+      "type": "独立媒体",
+      "independence_group": "东莞东城公安20220602",
+      "supports": [
+        "B22"
+      ],
+      "key_facts": "东城警方确认万达广场附近25岁湛某伤6人；随机伤人细节主要来自社媒视频描述。"
+    },
+    {
+      "id": "BS25",
+      "url": "https://china.caixin.com/2022-07-05/101908062.html",
+      "title": "上海男子持刀伤人致6人受伤 因与原单位纠纷",
+      "publisher": "财新",
+      "published_date": "2022-07-05",
+      "accessed_date": "2026-09-16",
+      "type": "独立媒体",
+      "independence_group": "财新上海20220705",
+      "supports": [
+        "B23"
+      ],
+      "key_facts": "警方称59岁高某与原单位纠纷交涉未果；财新获悉其在SMG办公地点随机攻击进出员工，6伤。"
+    },
+    {
+      "id": "BS26",
+      "url": "https://china.caixin.com/2022-07-30/101920197.html",
+      "title": "四川沐川涉嫌杀人警察尸体在山中被发现",
+      "publisher": "财新",
+      "published_date": "2022-07-30",
+      "accessed_date": "2026-09-16",
+      "type": "独立媒体",
+      "independence_group": "财新沐川20220730",
+      "supports": [
+        "B24"
+      ],
+      "key_facts": "警方确认36岁涉案警察尸体；财新家属与村民采访确认5名受害者为同一家庭及亲属。"
+    },
+    {
+      "id": "BS27",
+      "url": "https://www.thepaper.cn/newsDetail_forward_19218504",
+      "title": "河南舞阳交通事故致1死28伤，肇事司机已被控制",
+      "publisher": "澎湃新闻",
+      "published_date": "2022-07-28",
+      "accessed_date": "2026-09-16",
+      "type": "官方媒体",
+      "independence_group": "舞阳政府20220728",
+      "supports": [
+        "B25"
+      ],
+      "key_facts": "官方称张家港路交通肇事逃逸，1死28伤，司机刘某33岁被控制。"
+    },
+    {
+      "id": "BS28",
+      "url": "https://jx.ifeng.com/c/8IJMUtHuk4x",
+      "title": "江西安福幼儿园行凶嫌疑人逃跑途中因车祸身亡，另有两位教师遇害",
+      "publisher": "凤凰网转载封面新闻",
+      "published_date": "2022-08-10",
+      "accessed_date": "2026-09-16",
+      "type": "独立媒体",
+      "independence_group": "封面安福20220810",
+      "supports": [
+        "B26"
+      ],
+      "key_facts": "截至8月5日4死5伤，伤者无生命危险；嫌疑人逃跑时交通事故死亡。"
+    },
+    {
+      "id": "BS29",
+      "url": "https://www.sohu.com/a/1006507291_338398",
+      "title": "持刀随机杀害17岁少年，罪犯死刑改判无期，遇害者父亲：彼此无仇",
+      "publisher": "新晚报",
+      "published_date": "2026-04-07",
+      "accessed_date": "2026-09-16",
+      "type": "法院",
+      "independence_group": "莆田曾某彬判决报道20260407",
+      "supports": [
+        "B27"
+      ],
+      "key_facts": "报道逐项引用判决和鉴定：2022年8月2日莆田街头随意选择对象杀害1人；重审以未满18岁改判无期。"
+    },
+    {
+      "id": "BS30",
+      "url": "https://www.sohu.com/a/699423212_120952561",
+      "title": "Z世代 正青春｜吴英杰，英雄豪杰！徒手制伏持刀行凶者",
+      "publisher": "封面新闻",
+      "published_date": "2023-07-13",
+      "accessed_date": "2026-09-16",
+      "type": "独立媒体",
+      "independence_group": "封面吴英杰20230713",
+      "supports": [
+        "B28"
+      ],
+      "key_facts": "2023年3月19日重庆轨道一号线何某刺伤邻座女乘客；警方向记者称目的为随机伤害，伤者出院。"
+    },
+    {
+      "id": "BS31",
+      "url": "https://epaper.cqrb.cn/cqrb/2023-12/14/009/cqrb20231214009.pdf",
+      "title": "见义勇为青年吴英杰",
+      "publisher": "重庆日报",
+      "published_date": "2023-12-14",
+      "accessed_date": "2026-09-16",
+      "type": "官方媒体",
+      "independence_group": "重庆日报吴英杰20231214",
+      "supports": [
+        "B28"
+      ],
+      "key_facts": "人物事迹确认3月19日地铁持刀案，事后经查系发病随机伤害，吴英杰与乘客安保协力制止。"
+    },
+    {
+      "id": "BS32",
+      "url": "https://www.ctdsb.net/c1476_202304/1704661.html",
+      "title": "邯郸交通事故中肇事者向警方投掷爆炸物？应急管理局回应：不实",
+      "publisher": "顶端新闻/极目新闻转载",
+      "published_date": "2023-04-02",
+      "accessed_date": "2026-09-16",
+      "type": "独立媒体",
+      "independence_group": "顶端邯郸20230402",
+      "supports": [
+        "B29"
+      ],
+      "key_facts": "应急部门确认3月31日车辆碰撞事件和抓获，伤亡动机仍查，否认网传爆炸物。"
+    },
+    {
+      "id": "BS33",
+      "url": "https://mil.news.sina.com.cn/2023-04-03/doc-imypaaar3376321.shtml",
+      "title": "重庆警方通报男子持菜刀行凶致4名路人受伤",
+      "publisher": "环球网转载江北公安",
+      "published_date": "2023-04-03",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "重庆江北公安20230403",
+      "supports": [
+        "B30"
+      ],
+      "key_facts": "4月2日20:40，46岁淦某江北建新西路持菜刀伤4路人，群众制服；无生命危险。"
+    },
+    {
+      "id": "BS34",
+      "url": "https://www.thepaper.cn/newsDetail_forward_22632762",
+      "title": "平顶山一男子驾车冲撞女子，致7人受伤、3人经抢救无效死亡",
+      "publisher": "澎湃转载平安平顶山",
+      "published_date": "2023-04-09",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "平顶山公安20230409",
+      "supports": [
+        "B31"
+      ],
+      "key_facts": "47岁梁某与48岁女子因感情争执驾车冲撞，造成多人伤亡；关系及伤亡口径未进一步列明。"
+    },
+    {
+      "id": "BS35",
+      "url": "https://news.sina.cn/sh/2023-11-30/detail-imzwmafq5131352.d.html?vt=4",
+      "title": "山东科技大学学生行凶致1死6伤案开庭：凶手当庭翻供并拒绝赔偿受害者",
+      "publisher": "紫牛新闻（上游/新浪转载）",
+      "published_date": "2023-11-30",
+      "accessed_date": "2026-09-16",
+      "type": "检察院",
+      "independence_group": "紫牛山东科大20231130",
+      "supports": [
+        "B32"
+      ],
+      "key_facts": "记者获取起诉书：复学未果后预谋在校园周边袭击；向媒体预告，连续刺伤等车乘客、车内乘客与街边学生，1死6伤。"
+    },
+    {
+      "id": "BS36",
+      "url": "https://news.southcn.com/node_cde6f9580c/ec0e0475f2.shtml",
+      "title": "中山警方通报“男子开铲车在马路上连撞多人”：伤者均无生命危险",
+      "publisher": "南方网",
+      "published_date": "2023-05-12",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "中山大涌公安20230512",
+      "supports": [
+        "B33"
+      ],
+      "key_facts": "大涌警方称48岁惠某驾驶装载作业车碰撞多车，4伤，无生命危险，调查中。"
+    },
+    {
+      "id": "BS37",
+      "url": "https://www.thepaper.cn/newsDetail_forward_23077557?commTag=true",
+      "title": "山西兴县发生一起重大刑案致7死11伤，嫌疑人被抓获",
+      "publisher": "央视新闻/澎湃转载",
+      "published_date": "2023-05-14",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "兴县政府20230514",
+      "supports": [
+        "B34"
+      ],
+      "key_facts": "兴县政府披露：27岁郭某亮感情纠纷先伤害女方及家人，后驾车撞倒1名出警人员和13名行人，总7死11伤。"
+    },
+    {
+      "id": "BS38",
+      "url": "https://www.guancha.cn/politics/2023_05_15_692336.shtml",
+      "title": "贵阳警方通报男子持剪刀伤人：系精神障碍患者",
+      "publisher": "观察者网转载云岩公安",
+      "published_date": "2023-05-15",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "贵阳云岩公安20230515",
+      "supports": [
+        "B35"
+      ],
+      "key_facts": "5月14日40岁张某在盐务街百草巷刺伤路过数名行人，均无生命危险。"
+    },
+    {
+      "id": "BS39",
+      "url": "https://www.thepaper.cn/newsDetail_forward_23132077",
+      "title": "四川南部县公安通报一起持刀伤人事件：8人受伤，抓获嫌疑人",
+      "publisher": "澎湃新闻",
+      "published_date": "2023-05-18",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "南部公安20230518",
+      "supports": [
+        "B36"
+      ],
+      "key_facts": "21岁雍某桂博路持刀伤8人，均无生命危险，被抓获。"
+    },
+    {
+      "id": "BS40",
+      "url": "https://www.jfdaily.com/wx/detail.do?id=615630",
+      "title": "“男子当街持剪刀伤人”，天津警方通报",
+      "publisher": "上观新闻转载平安和平",
+      "published_date": "2023-05-24",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "天津和平公安20230523",
+      "supports": [
+        "B37"
+      ],
+      "key_facts": "5月23日53岁孙某在和平区山西路剪刀划伤一女性路人颈、手，群众控制，伤者无生命危险。"
+    },
+    {
+      "id": "BS41",
+      "url": "https://news.sina.com.cn/s/2023-06-06/doc-imywkaxc4458009.shtml",
+      "title": "长沙警方通报一面包车撞伤9人：驾驶人已被抓获",
+      "publisher": "新浪转载警方及上游新闻",
+      "published_date": "2023-06-06",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "长沙开福公安20230606",
+      "supports": [
+        "B38"
+      ],
+      "key_facts": "39岁兰某滨河路面包车撞9人后弃车逃逸，警方抓获，1人伤势较重。"
+    },
+    {
+      "id": "BS42",
+      "url": "https://finance.sina.com.cn/tech/roll/2023-06-17/doc-imyxqzei8183571.shtml",
+      "title": "秦皇岛街头男子持刀伤人，警方称嫌疑人已被控制",
+      "publisher": "红星新闻",
+      "published_date": "2023-06-17",
+      "accessed_date": "2026-09-16",
+      "type": "独立媒体",
+      "independence_group": "红星秦皇岛20230617",
+      "supports": [
+        "B39"
+      ],
+      "key_facts": "6月16日海港区建国路护城河附近伤人，民警向记者证实控制；网传人数未经核实。"
+    },
+    {
+      "id": "BS43",
+      "url": "https://www.spp.gov.cn/zdgz/202312/t20231216_637049.shtml",
+      "title": "办案检察官解析长春高空抛物致死案：被告人虽自首但不足以对其从轻处罚",
+      "publisher": "最高检转载法治日报",
+      "published_date": "2023-12-16",
+      "accessed_date": "2026-09-16",
+      "type": "检察院",
+      "independence_group": "法治日报长春20231216",
+      "supports": [
+        "B40",
+        "B41"
+      ],
+      "key_facts": "法院认定6月17日向不特定行人投掷水桶与可乐致2人伤，6月22日投砖致1死；12月13日一审死刑。"
+    },
+    {
+      "id": "BS44",
+      "url": "https://www.jiemian.com/article/11855265.html",
+      "title": "长春高空抛物致死案被告人被核准死刑，受害人家属称要追究物业和警方责任",
+      "publisher": "界面新闻",
+      "published_date": "2024-10-21",
+      "accessed_date": "2026-09-16",
+      "type": "独立媒体",
+      "independence_group": "界面长春20241021",
+      "supports": [
+        "B40",
+        "B41"
+      ],
+      "key_facts": "采访家属确认10月21日核准死刑并执行；披露司法鉴定无精神疾病、完全刑责。伤亡总数简写与法院逐人事实有差异，以后者为准。"
+    },
+    {
+      "id": "BS45",
+      "url": "https://news.hainan.net/hainan/shixian/qx/lingao/2023/07/01/4750679.shtml",
+      "title": "临高警方通报“持刀伤人案”：嫌疑人已被控制",
+      "publisher": "海南在线转载临高警方",
+      "published_date": "2023-07-01",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "临高公安20230630",
+      "supports": [
+        "B42"
+      ],
+      "key_facts": "6月30日20时临城镇二环路伤人，嫌疑人控制，伤者均无生命危险，人数未公布。"
+    },
+    {
+      "id": "BS46",
+      "url": "https://china.caixin.com/2023-07-10/102074089.html",
+      "title": "广东廉江一幼儿园发生伤害事件 已致6死1伤",
+      "publisher": "财新",
+      "published_date": "2023-07-10",
+      "accessed_date": "2026-09-16",
+      "type": "独立媒体",
+      "independence_group": "财新廉江20230710",
+      "supports": [
+        "B43"
+      ],
+      "key_facts": "警方通报25岁吴某杰横山镇6死1伤，财新采访教育部门确认发生幼儿园且有幼儿遇害。"
+    },
+    {
+      "id": "BS47",
+      "url": "https://www.sznews.com/news/content/2023-08/08/content_30391821.htm",
+      "title": "云南罗平发生持刀伤人案致2死7伤，嫌疑人被抓获",
+      "publisher": "深圳新闻网转载警方",
+      "published_date": "2023-08-08",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "罗平公安20230808",
+      "supports": [
+        "B44"
+      ],
+      "key_facts": "20岁陈某先在家刺母亲，再逃窜刺伤8人，共2死7伤。"
+    },
+    {
+      "id": "BS48",
+      "url": "https://k.sina.com.cn/article_1644948230_m620beb06033010mso.html",
+      "title": "男子沿街砍人被市民扔水桶阻止 目击者：有4人受伤，均为老人和女性",
+      "publisher": "湖北经视/北京头条转载",
+      "published_date": "2023-08-17",
+      "accessed_date": "2026-09-16",
+      "type": "独立媒体",
+      "independence_group": "湖北经视枣阳20230817",
+      "supports": [
+        "B45"
+      ],
+      "key_facts": "目击者称枣阳万象城附近男子沿街砍伤4人；商户泼水阻止；未检出独立官方后续。"
+    },
+    {
+      "id": "BS49",
+      "url": "https://m.cnhubei.com/content/2023-12/24/content_17160212.html",
+      "title": "成都新都警方通报一男子持刀伤人",
+      "publisher": "荆楚网转载警方",
+      "published_date": "2023-12-24",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "成都新都公安20231224",
+      "supports": [
+        "B46"
+      ],
+      "key_facts": "新都同福路21岁刘某持刀伤人，群众控制，伤者无生命危险；有精神病史。"
+    },
+    {
+      "id": "BS50",
+      "url": "https://tt.jxnews.com.cn/news/2337118",
+      "title": "“一男子在某广场附近持刀伤人”，深圳警方通报",
+      "publisher": "大江网转载深圳龙华公安",
+      "published_date": "2023-11-09",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "深圳龙华公安20231109",
+      "supports": [
+        "B47"
+      ],
+      "key_facts": "11月9日18时大浪广场附近37岁唐某持刀，1死3伤。"
+    },
+    {
+      "id": "BS51",
+      "url": "https://www.hkcd.com/content_app/2021-12/29/content_1315025.html",
+      "title": "湖南長沙望城區發生持刀砍人事件 致3死2傷",
+      "publisher": "香港商报转载望城公安",
+      "published_date": "2021-12-29",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "长沙望城公安20211229",
+      "supports": [
+        "B48"
+      ],
+      "key_facts": "23岁赵某与工友因琐事争执，后在车间出入口持刀刺工友，3死2伤。"
+    },
+    {
+      "id": "BS52",
+      "url": "https://www.thepaper.cn/newsDetail_forward_15385084",
+      "title": "死刑！安庆男子步行街持刀行凶致7死13伤案宣判",
+      "publisher": "澎湃新闻",
+      "published_date": "2021-11-15",
+      "accessed_date": "2026-09-16",
+      "type": "法院",
+      "independence_group": "安庆中院20211115",
+      "supports": [
+        "B02"
+      ],
+      "key_facts": "明确一审宣判日11月15日，吴亮当庭服判，7死13伤。"
+    },
+    {
+      "id": "BS53",
+      "url": "https://news.sina.cn/sh/2023-12-26/detail-imzzkcmr9504467.d.html",
+      "title": "山科大休学学生行凶案一审宣判 凶手获死刑当庭上诉：不会赔偿受害者家属",
+      "publisher": "紫牛新闻/新浪转载",
+      "published_date": "2023-12-26",
+      "accessed_date": "2026-09-16",
+      "type": "法院",
+      "independence_group": "紫牛山科大20231226",
+      "supports": [
+        "B32"
+      ],
+      "key_facts": "记者读取判决，法院认定报复学校、捅刺无辜群众1死6伤，判死刑；判决提及之前多次威胁学校。"
+    },
+    {
+      "id": "BS54",
+      "url": "http://society.people.com.cn/n1/2022/0809/c1008-32498307.html",
+      "title": "警方通报：郸城一男子持刀砍伤2人，已被刑拘",
+      "publisher": "人民网",
+      "published_date": "2022-08-09",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "郸城公安20220809",
+      "supports": [
+        "B49"
+      ],
+      "key_facts": "8月8日22:05世纪广场南21岁张某伤2人，22:08警方与群众控制，伤者稳定。"
+    },
+    {
+      "id": "BS55",
+      "url": "https://www.nbd.com.cn/articles/2021-03-22/1665963.html",
+      "title": "广州警方通报番禺爆炸案：5人当场死亡，包括嫌疑人，另有5人受伤",
+      "publisher": "每日经济新闻转载番禺公安",
+      "published_date": "2021-03-22",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "番禺公安20210322",
+      "supports": [
+        "B50"
+      ],
+      "key_facts": "59岁胡某携可燃爆物到明经村建筑内引燃；4名他人死亡、5伤，嫌疑人死亡。"
+    },
+    {
+      "id": "BS56",
+      "url": "https://finance.sina.com.cn/wm/2025-08-19/doc-infmpuqz5930493.shtml?froms=ggmp",
+      "title": "吉某（1980年生），被核准死刑！",
+      "publisher": "南京晨报/新浪转载",
+      "published_date": "2025-08-19",
+      "accessed_date": "2026-09-16",
+      "type": "法院",
+      "independence_group": "南京吉某最高法裁定",
+      "supports": [
+        "B10"
+      ],
+      "key_facts": "完整转述最高法裁定：7名受害人受伤，3重伤二级；2022-11-18一审、2024-05-08二审、2024-12-21核准死刑，2025-08-15文书公开。"
+    },
+    {
+      "id": "BS57",
+      "url": "https://www.zaobao.com.sg/realtime/china/story20220806-1300335",
+      "title": "江西幼儿园砍人案嫌疑人刘小辉车祸死亡",
+      "publisher": "联合早报转载央视及安福公安",
+      "published_date": "2022-08-06",
+      "accessed_date": "2026-09-16",
+      "type": "公安",
+      "independence_group": "安福公安20220805",
+      "supports": [
+        "B26"
+      ],
+      "key_facts": "警方确认刘小辉8月3日横穿高速逃亡遭车祸，8月4日伤重死亡；受害者两人现场死亡、另两人送医死亡。"
+    },
+    {
+      "id": "BS58",
+      "url": "https://www.voachinese.com/a/suicide-bombing-in-Guangzhou-village-government-office-sets-off-concerns-for-social-disturbance-20210326/5829459.html",
+      "title": "广州番禺一村委会遭自杀性爆炸 分析：社会矛盾激化的产物",
+      "publisher": "美国之音",
+      "published_date": "2021-03-26",
+      "accessed_date": "2026-09-16",
+      "type": "独立媒体",
+      "independence_group": "VOA番禺20210326",
+      "supports": [
+        "B50"
+      ],
+      "key_facts": "采访村委会附近人士确认爆炸；报道地点为明经村村委会，与警方4名受害者死亡、5伤相符；土地纠纷说法不作已证实动机。"
+    }
+  ],
+  "coverage": [
+    {
+      "query": "2021 中国 随机伤人 无差别 持刀 事件",
+      "scope_years": [
+        2021
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "发现大连、安庆、昆明、北流、南阳、郴州、任丘等线索后逐案回查；不能据汇编标题直接纳入。"
+    },
+    {
+      "query": "2022 中国 随机伤人 持刀 驾车 事件",
+      "scope_years": [
+        2022
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "发现瑞金、安福、上海威海路、东莞、舞阳等并核实。"
+    },
+    {
+      "query": "2023 中国 无差别 随机伤人 事件",
+      "scope_years": [
+        2023
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "发现广州、山科大、兴县、长春、罗平等，逐案区分核心和待核。"
+    },
+    {
+      "query": "2021 2022 2023 中国 校园 袭击 案件",
+      "scope_years": [
+        2021,
+        2022,
+        2023
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "校园袭击汇编只用作线索，回查昆明、北流、安福、廉江等官方和媒体。"
+    },
+    {
+      "query": "2021 2022 2023 持刀 驾车 纵火 爆炸 公交 报复社会",
+      "scope_years": [
+        2021,
+        2022,
+        2023
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "多轮场景补漏；多名伤亡与随机性的证据门槛分别判断。"
+    },
+    {
+      "query": "大连 2021 5月22日 刘东 判决 执行死刑",
+      "scope_years": [
+        2021
+      ],
+      "scope_regions": [
+        "辽宁"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "法院执行报道确认5死8伤，替代初报；2023-04-07执行。"
+    },
+    {
+      "query": "安庆 7死13伤 吴亮 2021 11月15日 宣判",
+      "scope_years": [
+        2021
+      ],
+      "scope_regions": [
+        "安徽"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "宣判日及最终伤亡核实，2022-02-15执行。"
+    },
+    {
+      "query": "广州 2023 温庆运 二审 执行死刑 伤亡",
+      "scope_years": [
+        2023
+      ],
+      "scope_regions": [
+        "广东"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "判决采访与执行通报明确6死，伤者称20余；司法伤情评估29人不等同精确受伤者数。"
+    },
+    {
+      "query": "上海 瑞金 侯晓飞 判决 2023",
+      "scope_years": [
+        2022
+      ],
+      "scope_regions": [
+        "上海"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "完整一审通报核实15伤，其中6重伤；0死亡。"
+    },
+    {
+      "query": "\"侯晓飞\" \"执行死刑\"",
+      "scope_years": [
+        2022
+      ],
+      "scope_regions": [
+        "上海"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "未检出可核实执行或二审结果；不可将死刑判决写成执行。"
+    },
+    {
+      "query": "\"浙医一院\" \"卢某\" \"判\" \"2021\"",
+      "scope_years": [
+        2021
+      ],
+      "scope_regions": [
+        "浙江"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "检出警方情况和既往2014年案件，未检出2021本案公开裁判。"
+    },
+    {
+      "query": "南京 2021 5月29日 吉某 判决 死刑 胖哥",
+      "scope_years": [
+        2021
+      ],
+      "scope_regions": [
+        "江苏"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "2025媒体公布最高法裁定，确认7名受害者、3司法重伤；修正年龄并补一审二审核准。"
+    },
+    {
+      "query": "\"吉某\" \"2025\" \"执行死刑\" \"南京\"",
+      "scope_years": [
+        2021
+      ],
+      "scope_regions": [
+        "江苏"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "仅找到核准死刑，尚未找到执行证明。"
+    },
+    {
+      "query": "北流 2021 幼儿园 曾某 判决",
+      "scope_years": [
+        2021
+      ],
+      "scope_regions": [
+        "广西"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "仅检出官方初步司法精神鉴定与2死16伤通报，无可核实后续裁判。"
+    },
+    {
+      "query": "昆明 2021 1月22日 王某 劫持 伤亡",
+      "scope_years": [
+        2021
+      ],
+      "scope_regions": [
+        "云南"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "警方1死7伤、嫌疑人击毙；汇编2死说法没有可靠后续来源。"
+    },
+    {
+      "query": "\"昆明\" \"1月22日\" \"7人\" \"6人\"；\"昆明\" \"2021\" \"2人死亡\" \"劫持\"",
+      "scope_years": [
+        2021
+      ],
+      "scope_regions": [
+        "云南"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "对照官网转载，2名受害者死亡仅见网传，不采纳。"
+    },
+    {
+      "query": "2021 南阳 杨某禄 66 棍棒 判决",
+      "scope_years": [
+        2021
+      ],
+      "scope_regions": [
+        "河南"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "警方确认因生活失意报复社会14伤；未检出裁判。"
+    },
+    {
+      "query": "2021 郴州 白露塘 学生 5人 伤人",
+      "scope_years": [
+        2021
+      ],
+      "scope_regions": [
+        "湖南"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "生活报现场采访确认事件；确切最终伤亡未获得官方材料，留空。"
+    },
+    {
+      "query": "2021 任丘 华北油田 采一中学 持刀",
+      "scope_years": [
+        2021
+      ],
+      "scope_regions": [
+        "河北"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "极目采访教育部门及医院确认事件，伤亡人数和随机性不足。"
+    },
+    {
+      "query": "2021 成都 华阳 伏龙小区 持刀 4伤",
+      "scope_years": [
+        2021
+      ],
+      "scope_regions": [
+        "四川"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "警方称与母亲争吵后伤害他人，关系未明，pending。"
+    },
+    {
+      "query": "2021 东莞 清溪 李某 持刀 6伤",
+      "scope_years": [
+        2021
+      ],
+      "scope_regions": [
+        "广东"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "找到平安清溪通报，动机关系未披露。"
+    },
+    {
+      "query": "2021 临洮 洮阳镇 2死1伤 张某某",
+      "scope_years": [
+        2021
+      ],
+      "scope_regions": [
+        "甘肃"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "县政府通报加财新采访；三名女孩遇袭，随机性仍不能充分确认。"
+    },
+    {
+      "query": "广州 番禺 清河中路 郑某 43 8月28日",
+      "scope_years": [
+        2021
+      ],
+      "scope_regions": [
+        "广东"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "核实案发2021-08-28；部分2019汇编错年。"
+    },
+    {
+      "query": "2021 河津 东关 商务酒店 持刀 3人",
+      "scope_years": [
+        2021
+      ],
+      "scope_regions": [
+        "山西"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "警方明确三名劝阻群众受伤，expanded。"
+    },
+    {
+      "query": "2021 上海 博山路 刘某 26岁 判决",
+      "scope_years": [
+        2021
+      ],
+      "scope_regions": [
+        "上海"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "官方通报和现场采访，未检出后续裁判；死者数量无最终确认。"
+    },
+    {
+      "query": "2021 长沙 望城 工厂 持刀 3人死亡 警方 通报",
+      "scope_years": [
+        2021
+      ],
+      "scope_regions": [
+        "湖南"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "工友争执后的定向伤害，排除随机核心。"
+    },
+    {
+      "query": "广州 番禺 爆炸案 5死5伤 新华网 2021-03-23",
+      "scope_years": [
+        2021
+      ],
+      "scope_regions": [
+        "广东"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "回查警方完整转载，5死亡含嫌疑人，受害者死亡4人；随机性待核。"
+    },
+    {
+      "query": "2022 沈阳 232 公交 爆炸 原因",
+      "scope_years": [
+        2022
+      ],
+      "scope_regions": [
+        "辽宁"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "原因未确认，1死42伤保留pending。"
+    },
+    {
+      "query": "2022 福建 南靖 货车 撞人 3死9伤",
+      "scope_years": [
+        2022
+      ],
+      "scope_regions": [
+        "福建"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "警方通报未确认故意性，pending。"
+    },
+    {
+      "query": "\"2022\" \"邯郸\" \"超量\" \"4人\"",
+      "scope_years": [
+        2022
+      ],
+      "scope_regions": [
+        "河北"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "官方称超量服药，4死10伤；刑拘罪名不能直接作为随机袭击证据。"
+    },
+    {
+      "query": "2022 岷县 4月 7人 孩子 伤害",
+      "scope_years": [
+        2022
+      ],
+      "scope_regions": [
+        "甘肃"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "官方日期4/14、同院住户争吵；非4/1幼儿园案，关系不足保守待核。"
+    },
+    {
+      "query": "2022 东莞 东城 万达 6月2日 持刀",
+      "scope_years": [
+        2022
+      ],
+      "scope_regions": [
+        "广东"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "警方证实6伤，随机说法主要网述，pending。"
+    },
+    {
+      "query": "2022 上海 7月4日 威海路 持刀 6人",
+      "scope_years": [
+        2022
+      ],
+      "scope_regions": [
+        "上海"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "警方确认与原单位纠纷，财新独立调查称随机攻击进出员工；core群体中的不特定个体。"
+    },
+    {
+      "query": "2022 沐川 李强 持枪 3死2伤",
+      "scope_years": [
+        2022
+      ],
+      "scope_regions": [
+        "四川"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "警方及财新亲属采访确认受害者为同一家族，excluded。"
+    },
+    {
+      "query": "2022 舞阳 7月28日 撞人 28伤 刑事",
+      "scope_years": [
+        2022
+      ],
+      "scope_regions": [
+        "河南"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "官方为交通肇事逃逸，未找到足以证实故意随机袭击的裁判。"
+    },
+    {
+      "query": "安福 幼儿园 刘小辉 2022 车祸 死亡",
+      "scope_years": [
+        2022
+      ],
+      "scope_regions": [
+        "江西"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "警方后续确认逃亡车祸死亡，受害者修订4死5伤。"
+    },
+    {
+      "query": "\"林伊豪\" \"记者\" \"2026\"；\"曾某彬\" \"法院\" \"2026\"",
+      "scope_years": [
+        2022
+      ],
+      "scope_regions": [
+        "福建"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "找到新晚报完整判决报道，随意选择对象、1死亡；2025按案发17岁重审无期。"
+    },
+    {
+      "query": "\"2022年8月8日\" \"郸城\" \"伤\"",
+      "scope_years": [
+        2022
+      ],
+      "scope_regions": [
+        "河南"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "人民网完整警方通报，2伤，关系不明。"
+    },
+    {
+      "query": "\"吴英杰\" \"何某\" \"2023\"",
+      "scope_years": [
+        2023
+      ],
+      "scope_regions": [
+        "重庆"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "找到封面采访与重庆日报人物报道，明确警方认定地铁随机伤害，1伤。"
+    },
+    {
+      "query": "\"2023\" \"邯郸\" \"3月31日\" \"撞人\" \"爆炸\"",
+      "scope_years": [
+        2023
+      ],
+      "scope_regions": [
+        "河北"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "顶端采访应急部门确认事件，否认爆炸物，伤亡动机未核实。"
+    },
+    {
+      "query": "2023 重庆 建新西路 淦某 菜刀 4路人",
+      "scope_years": [
+        2023
+      ],
+      "scope_regions": [
+        "重庆"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "完整警方通报，4路人伤，core。"
+    },
+    {
+      "query": "2023 平顶山 4月8日 梁某 7人 3人",
+      "scope_years": [
+        2023
+      ],
+      "scope_regions": [
+        "河南"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "伤亡重叠口径和目标关系皆存在空白，pending、伤者数留空。"
+    },
+    {
+      "query": "\"山东科技大学\" \"付某\" \"12月26日\" \"死刑\"",
+      "scope_years": [
+        2023
+      ],
+      "scope_regions": [
+        "山东"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "获取紫牛新闻起诉与判决内容；1死6伤，一审死刑，未检出上诉结果。"
+    },
+    {
+      "query": "\"付圣峰\" \"2023\" \"死刑\"",
+      "scope_years": [
+        2023
+      ],
+      "scope_regions": [
+        "山东"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "找到一审转载；未发现额外二审或执行结果。"
+    },
+    {
+      "query": "\"2023\" \"中山\" \"铲车\" \"5月12\"",
+      "scope_years": [
+        2023
+      ],
+      "scope_regions": [
+        "广东"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "警方4伤，没有故意袭击结论，pending。"
+    },
+    {
+      "query": "2023 兴县 郭某亮 7死11伤 判决",
+      "scope_years": [
+        2023
+      ],
+      "scope_regions": [
+        "山西"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "找到县政府与央视事实，未检出后续判决。"
+    },
+    {
+      "query": "2023 贵阳 盐务街 百草巷 剪刀",
+      "scope_years": [
+        2023
+      ],
+      "scope_regions": [
+        "贵州"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "官方确认数名路过行人受伤，未给确切数。"
+    },
+    {
+      "query": "2023 南部 桂博路 雍某 8人 持刀",
+      "scope_years": [
+        2023
+      ],
+      "scope_regions": [
+        "四川"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "警方8伤，关系未明；木棒阻止报道不足确认所有伤者身份。"
+    },
+    {
+      "query": "2023 天津 山西路 孙某 剪刀",
+      "scope_years": [
+        2023
+      ],
+      "scope_regions": [
+        "天津"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "警方单人受害事件，随机性不足，pending。"
+    },
+    {
+      "query": "2023 长沙 6月6日 兰某 滨河路 9人",
+      "scope_years": [
+        2023
+      ],
+      "scope_regions": [
+        "湖南"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "警方撞人逃逸确认，故意随机袭击结论未找到。"
+    },
+    {
+      "query": "2023 秦皇岛 建国路 持刀 6月16日",
+      "scope_years": [
+        2023
+      ],
+      "scope_regions": [
+        "河北"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "警方采访确认控制嫌疑人，人数及起因未知。"
+    },
+    {
+      "query": "长春 2023 高空抛物 6月17 6月22 判决 执行",
+      "scope_years": [
+        2023
+      ],
+      "scope_regions": [
+        "吉林"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "最高检转载法治日报逐人事实1死2伤，按两个日期拆分；界面执行报道简写1死1伤不用于覆盖法院逐人事实。"
+    },
+    {
+      "query": "\"临高\" \"6月30日\" \"2023\" \"持刀\"",
+      "scope_years": [
+        2023
+      ],
+      "scope_regions": [
+        "海南"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "警方只称伤者均无生命危险，人数随机性未知。"
+    },
+    {
+      "query": "廉江 2023 吴某杰 幼儿园 判决 死刑",
+      "scope_years": [
+        2023
+      ],
+      "scope_regions": [
+        "广东"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "仅找到警方及教育部门确认6死1伤，随机性及后续裁判未核实。"
+    },
+    {
+      "query": "罗平 2023 陈某赢 判决",
+      "scope_years": [
+        2023
+      ],
+      "scope_regions": [
+        "云南"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "警方先伤母后逃窜伤8人，总2死7伤；未检出后续裁判。"
+    },
+    {
+      "query": "\"枣阳\" \"8月17日\" \"2023\" \"4人\"",
+      "scope_years": [
+        2023
+      ],
+      "scope_regions": [
+        "湖北"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "湖北经视目击采访4伤；独立官方或第二采访来源未检出。"
+    },
+    {
+      "query": "\"深圳\" \"2023年11月9日\" \"唐某\" \"18时\"",
+      "scope_years": [
+        2023
+      ],
+      "scope_regions": [
+        "广东"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "官方明确18时而非汇编20时；1死3伤，未披露随机性。"
+    },
+    {
+      "query": "2023 成都 新都 同福路 12月24日 持刀",
+      "scope_years": [
+        2023
+      ],
+      "scope_regions": [
+        "四川"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "官方没给伤者人数，未采信汇编5伤。"
+    },
+    {
+      "query": "\"2023\" \"青岛\" \"李沧\" \"9月23日\" \"持刀\"",
+      "scope_years": [
+        2023
+      ],
+      "scope_regions": [
+        "山东"
+      ],
+      "status": "待核",
+      "candidate_count": null,
+      "notes": "只命中无来源汇编的2伤说法，未形成事件入库。"
+    },
+    {
+      "query": "2023 重庆 4月8日 公园 持刀 1死3伤",
+      "scope_years": [
+        2023
+      ],
+      "scope_regions": [
+        "重庆"
+      ],
+      "status": "待核",
+      "candidate_count": null,
+      "notes": "汇编线索未找到可靠原始通报；可能日期混淆，未入事件表。"
+    },
+    {
+      "query": "2023 长沙 5月6日 幼儿园 2死14伤",
+      "scope_years": [
+        2023
+      ],
+      "scope_regions": [
+        "湖南"
+      ],
+      "status": "待核",
+      "candidate_count": null,
+      "notes": "汇编线索未找到可靠原始报道，不与另一个母女交通事故合并。"
+    },
+    {
+      "query": "\"2021\" \"福州\" \"随机\" \"伤人\"",
+      "scope_years": [
+        2021
+      ],
+      "scope_regions": [
+        "福建"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "未检出可新增可靠事件，检索主要噪声为随机试验等。"
+    },
+    {
+      "query": "\"2022\" \"公交\" \"纵火\" \"刑\"；\"2021\" \"2022\" \"2023\" \"公交车纵火\"",
+      "scope_years": [
+        2021,
+        2022,
+        2023
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "检出旧年公交纵火和小说，不以网页更新时间当案发年份。"
+    },
+    {
+      "query": "\"2021\" \"随机伤人\" \"法院\"；\"2022\" \"随机伤人\" \"法院\"；\"2023\" \"随机伤人\" \"法院\"",
+      "scope_years": [
+        2021,
+        2022,
+        2023
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "已检索",
+      "candidate_count": null,
+      "notes": "多数结果为境外案件或不相关判决；不纳入中国大陆样本。"
+    },
+    {
+      "query": "正文访问：搜狐青岛判决转载、人民日报若干HTTPS、最高检长春转载、凤凰清溪等",
+      "scope_years": [
+        2021,
+        2022,
+        2023
+      ],
+      "scope_regions": [
+        "全国"
+      ],
+      "status": "访问失败",
+      "candidate_count": null,
+      "notes": "web.open多次Cache miss或SSL错误；随后对同一公开页面用普通HTTP读取并解析正文，成功者用于核实；青岛改用新浪紫牛全文。"
+    },
+    {
+      "query": "星岛2026福建案 https://www.stheadline.com/zh-hans/realtime-china/3560896/",
+      "scope_years": [
+        2022
+      ],
+      "scope_regions": [
+        "福建"
+      ],
+      "status": "访问失败",
+      "candidate_count": null,
+      "notes": "该入口访问失败；找到新晚报2026-04-07完整判决报道，已核实替代来源。"
+    }
+  ],
+  "notes": [
+    "检索截至2026-09-16；来源等级和随机性分类分开判断。伤者人数不包括已列入死亡人数者；行凶者伤亡单列，判决执行死刑不记入案发伤亡。",
+    "仅保存简述，不保留伤情图像、受害者姓名、具体住址。若来源仅称伤者无生命危险，可将截至该报道时死亡记为0；未说明则为null。",
+    "2021—2023公开检索不等同穷尽实际案件；数据库区分事件发生证据与随机性证据。未检出后续不代表没有后续。",
+    "所有已入来源已打开正文或以普通公开HTTP读取核对。付某一审的搜狐页面失败后改用新浪同稿；未保存血腥图像。",
+    "精神健康栏保留信息层级，躁狂表现、家属/同事说法与司法鉴定分开；未知动机为null，不从精神健康或经济环境推断动机。",
+    "伤亡数字优先判决和后续通报。事件执行死刑不算案发攻击者死亡。多个日期的同一被告人案件用series_id关联，避免重复计数。"
+  ]
+}

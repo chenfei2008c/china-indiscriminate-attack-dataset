@@ -1,0 +1,72 @@
+[
+  {
+    "id": "R_NBS_POP",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C02-05.jpg",
+    "title": "中国统计年鉴2025：分地区年末人口数",
+    "publisher": "国家统计局",
+    "published_date": "2025",
+    "accessed_date": "2026-09-16",
+    "type": "统计",
+    "independence_group": "NBS2025",
+    "supports": [
+      "provincial_context"
+    ],
+    "key_facts": "31省2018—2024逐年数据，原表图片逐行转录；人口为年末常住人口，分省不含现役军人。"
+  },
+  {
+    "id": "R_NBS_URBAN",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C02-06.jpg",
+    "title": "中国统计年鉴2025：分地区年末城镇人口比重",
+    "publisher": "国家统计局",
+    "published_date": "2025",
+    "accessed_date": "2026-09-16",
+    "type": "统计",
+    "independence_group": "NBS2025",
+    "supports": [
+      "provincial_context"
+    ],
+    "key_facts": "31省2018—2024逐年数据，原表图片逐行转录；人口为年末常住人口，分省不含现役军人。"
+  },
+  {
+    "id": "R_NBS_INCOME",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C06-18.jpg",
+    "title": "中国统计年鉴2025：分地区居民人均可支配收入",
+    "publisher": "国家统计局",
+    "published_date": "2025",
+    "accessed_date": "2026-09-16",
+    "type": "统计",
+    "independence_group": "NBS2025",
+    "supports": [
+      "provincial_context"
+    ],
+    "key_facts": "31省2018—2024逐年数据，原表图片逐行转录；人口为年末常住人口，分省不含现役军人。"
+  },
+  {
+    "id": "R_NBS_EMPLOYMENT",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-03.jpg",
+    "title": "中国统计年鉴2025：4-3分地区就业人员构成（2024年底数）",
+    "publisher": "国家统计局",
+    "published_date": "2025",
+    "accessed_date": "2026-09-16",
+    "type": "统计",
+    "independence_group": "NBS2025",
+    "supports": [
+      "provincial_context"
+    ],
+    "key_facts": "31省2024就业人员与第三产业就业人数，单位万人；就业结构不可当作失业率。"
+  },
+  {
+    "id": "R_POP2025_MEDIA",
+    "url": "https://m.yicai.com/news/103157557.html",
+    "title": "31省份去年常住人口数据公布（附31省2025年末人口表）",
+    "publisher": "第一财经",
+    "published_date": "2026-04-28",
+    "accessed_date": "2026-09-16",
+    "type": "媒体统计整理",
+    "independence_group": "YICAI20260428",
+    "supports": [
+      "provincial_context"
+    ],
+    "key_facts": "据各省披露汇总31省2025年末人口；图表仅转录数值。与NBS年鉴口径分列，并保留原始统计公报追溯缺口。"
+  }
+]

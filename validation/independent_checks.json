@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "independent_annual_checks": 36,
+  "province_year_checks": 248,
+  "xlsx_formula_count": 586,
+  "xlsx_formula_errors": 0,
+  "core_events": 51,
+  "expanded_events": 63,
+  "core_deaths_min": 162,
+  "core_injured_min": 511,
+  "event_source_integrity": "passed",
+  "date_range": "passed",
+  "note": "这些检查验证计算与结构一致性；不能证明公开来源无误或检索穷尽。浏览器与逐案抽核另有记录。"
+}

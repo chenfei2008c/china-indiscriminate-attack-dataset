@@ -1,0 +1,1221 @@
+[
+  {
+    "event_id": "A001",
+    "category": "core",
+    "tag": "泄愤",
+    "theme": "泄愤／转移报复",
+    "basis": "法院认定",
+    "summary": "法院认定为发泄个人不满情绪，具体不满事项未披露。",
+    "source_ids": [
+      "AS001"
+    ]
+  },
+  {
+    "event_id": "A043",
+    "category": "excluded",
+    "tag": "感情纠纷",
+    "theme": "婚姻／家庭／感情问题",
+    "basis": "法院认定",
+    "summary": "分手后预谋报复。",
+    "source_ids": [
+      "AS029"
+    ]
+  },
+  {
+    "event_id": "A003",
+    "category": "expanded",
+    "tag": "人际纠纷",
+    "theme": "其他已披露背景",
+    "basis": "法院认定",
+    "summary": "最高法概述个人琐事不满；案情回顾指交往受拒、交易争执后愤怒。",
+    "source_ids": [
+      "AS004"
+    ]
+  },
+  {
+    "event_id": "A003",
+    "category": "expanded",
+    "tag": "泄愤",
+    "theme": "泄愤／转移报复",
+    "basis": "法院认定",
+    "summary": "最高法概述个人琐事不满；案情回顾指交往受拒、交易争执后愤怒。",
+    "source_ids": [
+      "AS004"
+    ]
+  },
+  {
+    "event_id": "A004",
+    "category": "core",
+    "tag": "生活挫折",
+    "theme": "生活受挫／疏离／厌世",
+    "basis": "法院认定",
+    "summary": "工作生活挫折和对就读时被欺负的怨恨，转为报复无关学生。",
+    "source_ids": [
+      "AS005",
+      "AS006"
+    ]
+  },
+  {
+    "event_id": "A004",
+    "category": "core",
+    "tag": "转移报复",
+    "theme": "泄愤／转移报复",
+    "basis": "法院认定",
+    "summary": "工作生活挫折和对就读时被欺负的怨恨，转为报复无关学生。",
+    "source_ids": [
+      "AS005",
+      "AS006"
+    ]
+  },
+  {
+    "event_id": "A007",
+    "category": "core",
+    "tag": "报复社会",
+    "theme": "泄愤／转移报复",
+    "basis": "法院认定",
+    "summary": "自称在公交车遭恶意扎针染病，因而产生报复社会念头；所谓扎针染病不是已证实事实。",
+    "source_ids": [
+      "AS009"
+    ]
+  },
+  {
+    "event_id": "A007",
+    "category": "core",
+    "tag": "被害归因",
+    "theme": "其他已披露背景",
+    "basis": "法院认定",
+    "summary": "自称在公交车遭恶意扎针染病，因而产生报复社会念头；所谓扎针染病不是已证实事实。",
+    "source_ids": [
+      "AS009"
+    ]
+  },
+  {
+    "event_id": "A009",
+    "category": "core",
+    "tag": "生活挫折",
+    "theme": "生活受挫／疏离／厌世",
+    "basis": "法院认定",
+    "summary": "工作生活不顺而泄愤报复无辜者。",
+    "source_ids": [
+      "AS011"
+    ]
+  },
+  {
+    "event_id": "A009",
+    "category": "core",
+    "tag": "泄愤",
+    "theme": "泄愤／转移报复",
+    "basis": "法院认定",
+    "summary": "工作生活不顺而泄愤报复无辜者。",
+    "source_ids": [
+      "AS011"
+    ]
+  },
+  {
+    "event_id": "A011",
+    "category": "core",
+    "tag": "报复社会",
+    "theme": "泄愤／转移报复",
+    "basis": "法院认定",
+    "summary": "因个人经历及不满产生报复社会念头。",
+    "source_ids": [
+      "AS013"
+    ]
+  },
+  {
+    "event_id": "A012",
+    "category": "core",
+    "tag": "家庭纠纷",
+    "theme": "婚姻／家庭／感情问题",
+    "basis": "法院认定",
+    "summary": "家庭争执后的个人泄愤。",
+    "source_ids": [
+      "AS014"
+    ]
+  },
+  {
+    "event_id": "A012",
+    "category": "core",
+    "tag": "转移报复",
+    "theme": "泄愤／转移报复",
+    "basis": "法院认定",
+    "summary": "家庭争执后的个人泄愤。",
+    "source_ids": [
+      "AS014"
+    ]
+  },
+  {
+    "event_id": "A049",
+    "category": "core",
+    "tag": "家庭变故",
+    "theme": "婚姻／家庭／感情问题",
+    "basis": "警方初步通报",
+    "summary": "警方认定家庭变故后酒后泄愤。",
+    "source_ids": [
+      "AS053",
+      "AS054"
+    ]
+  },
+  {
+    "event_id": "A049",
+    "category": "core",
+    "tag": "泄愤",
+    "theme": "泄愤／转移报复",
+    "basis": "警方初步通报",
+    "summary": "警方认定家庭变故后酒后泄愤。",
+    "source_ids": [
+      "AS053",
+      "AS054"
+    ]
+  },
+  {
+    "event_id": "A014",
+    "category": "excluded",
+    "tag": "乘车纠纷",
+    "theme": "其他已披露背景",
+    "basis": "警方初步通报",
+    "summary": "坐过站后的争执与互殴。",
+    "source_ids": [
+      "AS017"
+    ]
+  },
+  {
+    "event_id": "A015",
+    "category": "core",
+    "tag": "经济压力",
+    "theme": "经济／工作／财产纠纷",
+    "basis": "法院认定",
+    "summary": "经济压力、婚姻及人际问题等不满。",
+    "source_ids": [
+      "AS018"
+    ]
+  },
+  {
+    "event_id": "A015",
+    "category": "core",
+    "tag": "婚姻矛盾",
+    "theme": "婚姻／家庭／感情问题",
+    "basis": "法院认定",
+    "summary": "经济压力、婚姻及人际问题等不满。",
+    "source_ids": [
+      "AS018"
+    ]
+  },
+  {
+    "event_id": "A015",
+    "category": "core",
+    "tag": "泄愤",
+    "theme": "泄愤／转移报复",
+    "basis": "法院认定",
+    "summary": "经济压力、婚姻及人际问题等不满。",
+    "source_ids": [
+      "AS018"
+    ]
+  },
+  {
+    "event_id": "A016",
+    "category": "core",
+    "tag": "土地补偿纠纷",
+    "theme": "经济／工作／财产纠纷",
+    "basis": "法院认定",
+    "summary": "土地补偿及家庭问题引发不满，转向报复社会。",
+    "source_ids": [
+      "AS019"
+    ]
+  },
+  {
+    "event_id": "A016",
+    "category": "core",
+    "tag": "家庭纠纷",
+    "theme": "婚姻／家庭／感情问题",
+    "basis": "法院认定",
+    "summary": "土地补偿及家庭问题引发不满，转向报复社会。",
+    "source_ids": [
+      "AS019"
+    ]
+  },
+  {
+    "event_id": "A016",
+    "category": "core",
+    "tag": "报复社会",
+    "theme": "泄愤／转移报复",
+    "basis": "法院认定",
+    "summary": "土地补偿及家庭问题引发不满，转向报复社会。",
+    "source_ids": [
+      "AS019"
+    ]
+  },
+  {
+    "event_id": "A017",
+    "category": "expanded",
+    "tag": "人际纠纷",
+    "theme": "其他已披露背景",
+    "basis": "警方初步通报",
+    "summary": "原有人际矛盾后袭击，继而劫持车辆危害公共安全。",
+    "source_ids": [
+      "AS055"
+    ]
+  },
+  {
+    "event_id": "A017",
+    "category": "expanded",
+    "tag": "扩大报复",
+    "theme": "其他已披露背景",
+    "basis": "警方初步通报",
+    "summary": "原有人际矛盾后袭击，继而劫持车辆危害公共安全。",
+    "source_ids": [
+      "AS055"
+    ]
+  },
+  {
+    "event_id": "A018",
+    "category": "core",
+    "tag": "工作纠纷",
+    "theme": "经济／工作／财产纠纷",
+    "basis": "警方初步通报",
+    "summary": "劳务合同到期续聘问题引发不满。",
+    "source_ids": [
+      "AS021"
+    ]
+  },
+  {
+    "event_id": "A018",
+    "category": "core",
+    "tag": "转移报复",
+    "theme": "泄愤／转移报复",
+    "basis": "警方初步通报",
+    "summary": "劳务合同到期续聘问题引发不满。",
+    "source_ids": [
+      "AS021"
+    ]
+  },
+  {
+    "event_id": "A020",
+    "category": "expanded",
+    "tag": "感情纠纷",
+    "theme": "婚姻／家庭／感情问题",
+    "basis": "警方初步通报",
+    "summary": "与前妻及其男友的感情纠纷后，伤害扩大到无关路人。",
+    "source_ids": [
+      "AS023"
+    ]
+  },
+  {
+    "event_id": "A020",
+    "category": "expanded",
+    "tag": "扩大伤害",
+    "theme": "其他已披露背景",
+    "basis": "警方初步通报",
+    "summary": "与前妻及其男友的感情纠纷后，伤害扩大到无关路人。",
+    "source_ids": [
+      "AS023"
+    ]
+  },
+  {
+    "event_id": "A046",
+    "category": "pending",
+    "tag": "婚姻纠纷",
+    "theme": "其他已披露背景",
+    "basis": "警方初步通报",
+    "summary": "警方转述供述：怀疑妻子与他人存在不正当关系而报复。",
+    "source_ids": [
+      "AS050"
+    ]
+  },
+  {
+    "event_id": "A047",
+    "category": "excluded",
+    "tag": "同学纠纷",
+    "theme": "其他已披露背景",
+    "basis": "警方初步通报",
+    "summary": "同学间矛盾。",
+    "source_ids": [
+      "AS051"
+    ]
+  },
+  {
+    "event_id": "A025",
+    "category": "core",
+    "tag": "经济损失",
+    "theme": "经济／工作／财产纠纷",
+    "basis": "法院认定",
+    "summary": "经营受查、赌博损失、婚姻破裂等个人挫折后报复社会。",
+    "source_ids": [
+      "AS029"
+    ]
+  },
+  {
+    "event_id": "A025",
+    "category": "core",
+    "tag": "婚姻矛盾",
+    "theme": "婚姻／家庭／感情问题",
+    "basis": "法院认定",
+    "summary": "经营受查、赌博损失、婚姻破裂等个人挫折后报复社会。",
+    "source_ids": [
+      "AS029"
+    ]
+  },
+  {
+    "event_id": "A025",
+    "category": "core",
+    "tag": "报复社会",
+    "theme": "泄愤／转移报复",
+    "basis": "法院认定",
+    "summary": "经营受查、赌博损失、婚姻破裂等个人挫折后报复社会。",
+    "source_ids": [
+      "AS029"
+    ]
+  },
+  {
+    "event_id": "A027",
+    "category": "core",
+    "tag": "感情纠纷",
+    "theme": "婚姻／家庭／感情问题",
+    "basis": "警方初步通报",
+    "summary": "寻找前女友未果后迁怒无关者，具体心理原因未披露。",
+    "source_ids": [
+      "AS031"
+    ]
+  },
+  {
+    "event_id": "A027",
+    "category": "core",
+    "tag": "转移报复",
+    "theme": "泄愤／转移报复",
+    "basis": "警方初步通报",
+    "summary": "寻找前女友未果后迁怒无关者，具体心理原因未披露。",
+    "source_ids": [
+      "AS031"
+    ]
+  },
+  {
+    "event_id": "A029",
+    "category": "core",
+    "tag": "生活挫折",
+    "theme": "生活受挫／疏离／厌世",
+    "basis": "警方初步通报",
+    "summary": "警方转述嫌疑人供述：成长及工作生活不顺，产生悲观和报复社会心理。",
+    "source_ids": [
+      "AS033"
+    ]
+  },
+  {
+    "event_id": "A029",
+    "category": "core",
+    "tag": "报复社会",
+    "theme": "泄愤／转移报复",
+    "basis": "警方初步通报",
+    "summary": "警方转述嫌疑人供述：成长及工作生活不顺，产生悲观和报复社会心理。",
+    "source_ids": [
+      "AS033"
+    ]
+  },
+  {
+    "event_id": "A032",
+    "category": "expanded",
+    "tag": "医患纠纷",
+    "theme": "其他已披露背景",
+    "basis": "法院认定",
+    "summary": "认为眼睛治疗效果未达个人预期，对诊治医生怨恨。",
+    "source_ids": [
+      "AS036"
+    ]
+  },
+  {
+    "event_id": "A032",
+    "category": "expanded",
+    "tag": "扩大伤害",
+    "theme": "其他已披露背景",
+    "basis": "法院认定",
+    "summary": "认为眼睛治疗效果未达个人预期，对诊治医生怨恨。",
+    "source_ids": [
+      "AS036"
+    ]
+  },
+  {
+    "event_id": "A033",
+    "category": "core",
+    "tag": "报复社会",
+    "theme": "泄愤／转移报复",
+    "basis": "检方指控",
+    "summary": "检方通报指厌世、自杀及报复社会念头；尚未取得终审认定。",
+    "source_ids": [
+      "AS037"
+    ]
+  },
+  {
+    "event_id": "A033",
+    "category": "core",
+    "tag": "自杀倾向",
+    "theme": "求死／求入狱",
+    "basis": "检方指控",
+    "summary": "检方通报指厌世、自杀及报复社会念头；尚未取得终审认定。",
+    "source_ids": [
+      "AS037"
+    ]
+  },
+  {
+    "event_id": "A034",
+    "category": "expanded",
+    "tag": "工作纠纷",
+    "theme": "经济／工作／财产纠纷",
+    "basis": "法院认定",
+    "summary": "工作与请假等争执后行凶，扩大至学生群体。",
+    "source_ids": [
+      "AS038"
+    ]
+  },
+  {
+    "event_id": "A034",
+    "category": "expanded",
+    "tag": "扩大报复",
+    "theme": "其他已披露背景",
+    "basis": "法院认定",
+    "summary": "工作与请假等争执后行凶，扩大至学生群体。",
+    "source_ids": [
+      "AS038"
+    ]
+  },
+  {
+    "event_id": "A037",
+    "category": "core",
+    "tag": "模仿犯罪",
+    "theme": "其他已披露背景",
+    "basis": "法院认定",
+    "summary": "法院认为受网络小说影响欲模仿砍人情节；第二阶段与司机车费争执。",
+    "source_ids": [
+      "AS041"
+    ]
+  },
+  {
+    "event_id": "A037",
+    "category": "core",
+    "tag": "后续乘车纠纷",
+    "theme": "其他已披露背景",
+    "basis": "法院认定",
+    "summary": "法院认为受网络小说影响欲模仿砍人情节；第二阶段与司机车费争执。",
+    "source_ids": [
+      "AS041"
+    ]
+  },
+  {
+    "event_id": "A038",
+    "category": "core",
+    "tag": "住房纠纷",
+    "theme": "经济／工作／财产纠纷",
+    "basis": "警方初步通报",
+    "summary": "生活不如意及对承租公房拆除不满，为制造影响实施袭击。",
+    "source_ids": [
+      "AS042"
+    ]
+  },
+  {
+    "event_id": "A038",
+    "category": "core",
+    "tag": "生活挫折",
+    "theme": "生活受挫／疏离／厌世",
+    "basis": "警方初步通报",
+    "summary": "生活不如意及对承租公房拆除不满，为制造影响实施袭击。",
+    "source_ids": [
+      "AS042"
+    ]
+  },
+  {
+    "event_id": "A038",
+    "category": "core",
+    "tag": "报复社会",
+    "theme": "泄愤／转移报复",
+    "basis": "警方初步通报",
+    "summary": "生活不如意及对承租公房拆除不满，为制造影响实施袭击。",
+    "source_ids": [
+      "AS042"
+    ]
+  },
+  {
+    "event_id": "A039",
+    "category": "core",
+    "tag": "疑似权益受损",
+    "theme": "寻求关注／表达诉求",
+    "basis": "法院认定",
+    "summary": "怀疑门锁被破坏，意图通过袭击闹市女性将事情闹大。",
+    "source_ids": [
+      "AS043"
+    ]
+  },
+  {
+    "event_id": "A039",
+    "category": "core",
+    "tag": "制造影响",
+    "theme": "寻求关注／表达诉求",
+    "basis": "法院认定",
+    "summary": "怀疑门锁被破坏，意图通过袭击闹市女性将事情闹大。",
+    "source_ids": [
+      "AS043"
+    ]
+  },
+  {
+    "event_id": "A040",
+    "category": "core",
+    "tag": "诉求受挫",
+    "theme": "寻求关注／表达诉求",
+    "basis": "检方指控",
+    "summary": "检方指控因家庭诉求未解决，对社会不满而袭击学生引关注。",
+    "source_ids": [
+      "AS044",
+      "AS045"
+    ]
+  },
+  {
+    "event_id": "A040",
+    "category": "core",
+    "tag": "报复社会",
+    "theme": "泄愤／转移报复",
+    "basis": "检方指控",
+    "summary": "检方指控因家庭诉求未解决，对社会不满而袭击学生引关注。",
+    "source_ids": [
+      "AS044",
+      "AS045"
+    ]
+  },
+  {
+    "event_id": "A040",
+    "category": "core",
+    "tag": "制造影响",
+    "theme": "寻求关注／表达诉求",
+    "basis": "检方指控",
+    "summary": "检方指控因家庭诉求未解决，对社会不满而袭击学生引关注。",
+    "source_ids": [
+      "AS044",
+      "AS045"
+    ]
+  },
+  {
+    "event_id": "A042",
+    "category": "core",
+    "tag": "家庭变故",
+    "theme": "婚姻／家庭／感情问题",
+    "basis": "警方初步通报",
+    "summary": "警方称儿子离世、与妻子离异，对社会产生不满。",
+    "source_ids": [
+      "AS047"
+    ]
+  },
+  {
+    "event_id": "A042",
+    "category": "core",
+    "tag": "报复社会",
+    "theme": "泄愤／转移报复",
+    "basis": "警方初步通报",
+    "summary": "警方称儿子离世、与妻子离异，对社会产生不满。",
+    "source_ids": [
+      "AS047"
+    ]
+  },
+  {
+    "event_id": "B12",
+    "category": "core",
+    "tag": "医疗不满",
+    "theme": "医疗不满",
+    "basis": "警方初步通报",
+    "summary": "警方初查：长期肾病就医后认为医护迫害自己而实施报复。",
+    "source_ids": [
+      "BS13"
+    ]
+  },
+  {
+    "event_id": "B12",
+    "category": "core",
+    "tag": "泄愤报复",
+    "theme": "泄愤／转移报复",
+    "basis": "警方初步通报",
+    "summary": "警方初查：长期肾病就医后认为医护迫害自己而实施报复。",
+    "source_ids": [
+      "BS13"
+    ]
+  },
+  {
+    "event_id": "B13",
+    "category": "pending",
+    "tag": "家庭争执",
+    "theme": "其他已披露背景",
+    "basis": "警方初步通报",
+    "summary": "警方称先与母亲因生活琐事争吵。",
+    "source_ids": [
+      "BS14"
+    ]
+  },
+  {
+    "event_id": "B01",
+    "category": "core",
+    "tag": "经济受挫",
+    "theme": "经济／工作／财产纠纷",
+    "basis": "法院认定",
+    "summary": "法院认定无法接受投资失败，驾车冲撞行人。",
+    "source_ids": [
+      "BS01"
+    ]
+  },
+  {
+    "event_id": "B01",
+    "category": "core",
+    "tag": "泄愤报复",
+    "theme": "泄愤／转移报复",
+    "basis": "法院认定",
+    "summary": "法院认定无法接受投资失败，驾车冲撞行人。",
+    "source_ids": [
+      "BS01"
+    ]
+  },
+  {
+    "event_id": "B07",
+    "category": "core",
+    "tag": "生活失意",
+    "theme": "生活受挫／疏离／厌世",
+    "basis": "警方初步通报",
+    "summary": "警方初步认定因生活失意离家独居，为报复社会持棍行凶。",
+    "source_ids": [
+      "BS07"
+    ]
+  },
+  {
+    "event_id": "B07",
+    "category": "core",
+    "tag": "泄愤报复",
+    "theme": "泄愤／转移报复",
+    "basis": "警方初步通报",
+    "summary": "警方初步认定因生活失意离家独居，为报复社会持棍行凶。",
+    "source_ids": [
+      "BS07"
+    ]
+  },
+  {
+    "event_id": "B10",
+    "category": "expanded",
+    "tag": "婚恋家庭纠纷",
+    "theme": "其他已披露背景",
+    "basis": "法院认定",
+    "summary": "法院认定复合遭拒后跟候前妻，看到她与同学同行而起杀念；逃亡期间持续冲撞不特定车辆行人。",
+    "source_ids": [
+      "BS10",
+      "BS56"
+    ]
+  },
+  {
+    "event_id": "B10",
+    "category": "expanded",
+    "tag": "纠纷外溢",
+    "theme": "其他已披露背景",
+    "basis": "法院认定",
+    "summary": "法院认定复合遭拒后跟候前妻，看到她与同学同行而起杀念；逃亡期间持续冲撞不特定车辆行人。",
+    "source_ids": [
+      "BS10",
+      "BS56"
+    ]
+  },
+  {
+    "event_id": "B02",
+    "category": "core",
+    "tag": "家庭问题",
+    "theme": "婚姻／家庭／感情问题",
+    "basis": "法院认定",
+    "summary": "对家庭和社会不满，产生报复杀害无辜群众之念。",
+    "source_ids": [
+      "BS02"
+    ]
+  },
+  {
+    "event_id": "B02",
+    "category": "core",
+    "tag": "泄愤报复",
+    "theme": "泄愤／转移报复",
+    "basis": "法院认定",
+    "summary": "对家庭和社会不满，产生报复杀害无辜群众之念。",
+    "source_ids": [
+      "BS02"
+    ]
+  },
+  {
+    "event_id": "B17",
+    "category": "expanded",
+    "tag": "工作冲突",
+    "theme": "经济／工作／财产纠纷",
+    "basis": "警方初步通报",
+    "summary": "警方初查因务工期间口角行凶。",
+    "source_ids": [
+      "BS19"
+    ]
+  },
+  {
+    "event_id": "B48",
+    "category": "excluded",
+    "tag": "工作冲突",
+    "theme": "经济／工作／财产纠纷",
+    "basis": "警方初步通报",
+    "summary": "警方称因与工友琐事争执心生怨恨。",
+    "source_ids": [
+      "BS51"
+    ]
+  },
+  {
+    "event_id": "B21",
+    "category": "pending",
+    "tag": "邻里纠纷",
+    "theme": "其他已披露背景",
+    "basis": "警方初步通报",
+    "summary": "警方初查误认邻居谩骂自己发生争吵。",
+    "source_ids": [
+      "BS23"
+    ]
+  },
+  {
+    "event_id": "B23",
+    "category": "core",
+    "tag": "工作冲突",
+    "theme": "经济／工作／财产纠纷",
+    "basis": "警方初步通报",
+    "summary": "警方称与原单位纠纷交涉未果。",
+    "source_ids": [
+      "BS25"
+    ]
+  },
+  {
+    "event_id": "B03",
+    "category": "core",
+    "tag": "经济受挫",
+    "theme": "经济／工作／财产纠纷",
+    "basis": "法院认定",
+    "summary": "法院认定因投资失败和无力偿还巨额债务怨恨社会。",
+    "source_ids": [
+      "BS12"
+    ]
+  },
+  {
+    "event_id": "B03",
+    "category": "core",
+    "tag": "债务",
+    "theme": "经济／工作／财产纠纷",
+    "basis": "法院认定",
+    "summary": "法院认定因投资失败和无力偿还巨额债务怨恨社会。",
+    "source_ids": [
+      "BS12"
+    ]
+  },
+  {
+    "event_id": "B03",
+    "category": "core",
+    "tag": "泄愤报复",
+    "theme": "泄愤／转移报复",
+    "basis": "法院认定",
+    "summary": "法院认定因投资失败和无力偿还巨额债务怨恨社会。",
+    "source_ids": [
+      "BS12"
+    ]
+  },
+  {
+    "event_id": "B27",
+    "category": "core",
+    "tag": "社会疏离",
+    "theme": "生活受挫／疏离／厌世",
+    "basis": "媒体调查",
+    "summary": "检方指控对生活失望，想通过犯罪入狱脱离社会；本人不同阶段对动机供述反复，不能把其个别说法视为已核定心理事实。",
+    "source_ids": [
+      "BS29"
+    ]
+  },
+  {
+    "event_id": "B27",
+    "category": "core",
+    "tag": "谋求入狱",
+    "theme": "求死／求入狱",
+    "basis": "媒体调查",
+    "summary": "检方指控对生活失望，想通过犯罪入狱脱离社会；本人不同阶段对动机供述反复，不能把其个别说法视为已核定心理事实。",
+    "source_ids": [
+      "BS29"
+    ]
+  },
+  {
+    "event_id": "B04",
+    "category": "core",
+    "tag": "泄愤报复",
+    "theme": "泄愤／转移报复",
+    "basis": "法院认定",
+    "summary": "法院认定为发泄个人情绪。判决记录的社交受挫、家人责骂为被告人供述，不能据此推定一般社会原因。",
+    "source_ids": [
+      "BS03"
+    ]
+  },
+  {
+    "event_id": "B31",
+    "category": "pending",
+    "tag": "感情纠纷",
+    "theme": "婚姻／家庭／感情问题",
+    "basis": "警方初步通报",
+    "summary": "警方称因感情纠纷争执后驾车冲撞特定女性。",
+    "source_ids": [
+      "BS34"
+    ]
+  },
+  {
+    "event_id": "B32",
+    "category": "core",
+    "tag": "学业受挫",
+    "theme": "学业问题",
+    "basis": "法院认定",
+    "summary": "法院认定为报复学校，刺伤学校周边无辜学生群众。起诉书具体称盗窃休学后复学未果而生不满。",
+    "source_ids": [
+      "BS35",
+      "BS53"
+    ]
+  },
+  {
+    "event_id": "B32",
+    "category": "core",
+    "tag": "泄愤报复",
+    "theme": "泄愤／转移报复",
+    "basis": "法院认定",
+    "summary": "法院认定为报复学校，刺伤学校周边无辜学生群众。起诉书具体称盗窃休学后复学未果而生不满。",
+    "source_ids": [
+      "BS35",
+      "BS53"
+    ]
+  },
+  {
+    "event_id": "B34",
+    "category": "expanded",
+    "tag": "感情纠纷",
+    "theme": "婚姻／家庭／感情问题",
+    "basis": "警方初步通报",
+    "summary": "警方初查源于感情纠纷。",
+    "source_ids": [
+      "BS37"
+    ]
+  },
+  {
+    "event_id": "B40a",
+    "category": "core",
+    "tag": "经济受挫",
+    "theme": "经济／工作／财产纠纷",
+    "basis": "法院认定",
+    "summary": "法院认定生活窘迫、认为社会不公，欲自杀但没有勇气，预谋杀人以求死刑。",
+    "source_ids": [
+      "BS43",
+      "BS44"
+    ]
+  },
+  {
+    "event_id": "B40a",
+    "category": "core",
+    "tag": "社会不满",
+    "theme": "泄愤／转移报复",
+    "basis": "法院认定",
+    "summary": "法院认定生活窘迫、认为社会不公，欲自杀但没有勇气，预谋杀人以求死刑。",
+    "source_ids": [
+      "BS43",
+      "BS44"
+    ]
+  },
+  {
+    "event_id": "B40a",
+    "category": "core",
+    "tag": "借刑求死",
+    "theme": "求死／求入狱",
+    "basis": "法院认定",
+    "summary": "法院认定生活窘迫、认为社会不公，欲自杀但没有勇气，预谋杀人以求死刑。",
+    "source_ids": [
+      "BS43",
+      "BS44"
+    ]
+  },
+  {
+    "event_id": "B40b",
+    "category": "core",
+    "tag": "经济受挫",
+    "theme": "经济／工作／财产纠纷",
+    "basis": "法院认定",
+    "summary": "法院认定生活窘迫、认为社会不公，欲自杀但没有勇气，预谋杀人以求死刑。",
+    "source_ids": [
+      "BS43",
+      "BS44"
+    ]
+  },
+  {
+    "event_id": "B40b",
+    "category": "core",
+    "tag": "社会不满",
+    "theme": "泄愤／转移报复",
+    "basis": "法院认定",
+    "summary": "法院认定生活窘迫、认为社会不公，欲自杀但没有勇气，预谋杀人以求死刑。",
+    "source_ids": [
+      "BS43",
+      "BS44"
+    ]
+  },
+  {
+    "event_id": "B40b",
+    "category": "core",
+    "tag": "借刑求死",
+    "theme": "求死／求入狱",
+    "basis": "法院认定",
+    "summary": "法院认定生活窘迫、认为社会不公，欲自杀但没有勇气，预谋杀人以求死刑。",
+    "source_ids": [
+      "BS43",
+      "BS44"
+    ]
+  },
+  {
+    "event_id": "B41",
+    "category": "core",
+    "tag": "经济受挫",
+    "theme": "经济／工作／财产纠纷",
+    "basis": "法院认定",
+    "summary": "法院认定生活窘迫、认为社会不公，欲自杀但没有勇气，预谋杀人以求死刑。",
+    "source_ids": [
+      "BS43",
+      "BS44"
+    ]
+  },
+  {
+    "event_id": "B41",
+    "category": "core",
+    "tag": "社会不满",
+    "theme": "泄愤／转移报复",
+    "basis": "法院认定",
+    "summary": "法院认定生活窘迫、认为社会不公，欲自杀但没有勇气，预谋杀人以求死刑。",
+    "source_ids": [
+      "BS43",
+      "BS44"
+    ]
+  },
+  {
+    "event_id": "B41",
+    "category": "core",
+    "tag": "借刑求死",
+    "theme": "求死／求入狱",
+    "basis": "法院认定",
+    "summary": "法院认定生活窘迫、认为社会不公，欲自杀但没有勇气，预谋杀人以求死刑。",
+    "source_ids": [
+      "BS43",
+      "BS44"
+    ]
+  },
+  {
+    "event_id": "C011",
+    "category": "expanded",
+    "tag": "临时纠纷",
+    "theme": "其他已披露背景",
+    "basis": "警方初步通报",
+    "summary": "警方初查走路碰撞后持刀行凶。",
+    "source_ids": [
+      "CS017"
+    ]
+  },
+  {
+    "event_id": "C013",
+    "category": "core",
+    "tag": "债务压力",
+    "theme": "经济／工作／财产纠纷",
+    "basis": "法院认定",
+    "summary": "据富士电视台援引日本外务省的判决说明，被告因债务产生厌世心理并杀伤3人；未取得中国法院裁判全文。",
+    "source_ids": [
+      "CS059"
+    ]
+  },
+  {
+    "event_id": "C013",
+    "category": "core",
+    "tag": "厌世",
+    "theme": "生活受挫／疏离／厌世",
+    "basis": "法院认定",
+    "summary": "据富士电视台援引日本外务省的判决说明，被告因债务产生厌世心理并杀伤3人；未取得中国法院裁判全文。",
+    "source_ids": [
+      "CS059"
+    ]
+  },
+  {
+    "event_id": "C014",
+    "category": "core",
+    "tag": "寻求关注",
+    "theme": "寻求关注／表达诉求",
+    "basis": "法院认定",
+    "summary": "联合早报转述日本驻华大使的判决说明：为在网上博取关注而购买刀具、袭击儿童，案发后曾打电话给媒体；未取得中国裁判全文。",
+    "source_ids": [
+      "CS060"
+    ]
+  },
+  {
+    "event_id": "C004",
+    "category": "core",
+    "tag": "经济纠纷",
+    "theme": "经济／工作／财产纠纷",
+    "basis": "警方初步通报",
+    "summary": "警方初查个人经济纠纷后来沪泄愤。",
+    "source_ids": [
+      "CS007"
+    ]
+  },
+  {
+    "event_id": "C004",
+    "category": "core",
+    "tag": "泄愤",
+    "theme": "泄愤／转移报复",
+    "basis": "警方初步通报",
+    "summary": "警方初查个人经济纠纷后来沪泄愤。",
+    "source_ids": [
+      "CS007"
+    ]
+  },
+  {
+    "event_id": "C001",
+    "category": "core",
+    "tag": "婚姻家庭",
+    "theme": "婚姻／家庭／感情问题",
+    "basis": "法院认定",
+    "summary": "法院认定婚姻破裂、生活失意且不满离婚财产分割，决意撞人泄愤。",
+    "source_ids": [
+      "CS001"
+    ]
+  },
+  {
+    "event_id": "C001",
+    "category": "core",
+    "tag": "财产纠纷",
+    "theme": "经济／工作／财产纠纷",
+    "basis": "法院认定",
+    "summary": "法院认定婚姻破裂、生活失意且不满离婚财产分割，决意撞人泄愤。",
+    "source_ids": [
+      "CS001"
+    ]
+  },
+  {
+    "event_id": "C001",
+    "category": "core",
+    "tag": "泄愤",
+    "theme": "泄愤／转移报复",
+    "basis": "法院认定",
+    "summary": "法院认定婚姻破裂、生活失意且不满离婚财产分割，决意撞人泄愤。",
+    "source_ids": [
+      "CS001"
+    ]
+  },
+  {
+    "event_id": "C002",
+    "category": "core",
+    "tag": "学业受挫",
+    "theme": "学业问题",
+    "basis": "警方初步通报",
+    "summary": "警方初查称考试不合格未获毕业证及不满实习报酬，返校行凶。",
+    "source_ids": [
+      "CS005"
+    ]
+  },
+  {
+    "event_id": "C002",
+    "category": "core",
+    "tag": "劳动报酬",
+    "theme": "经济／工作／财产纠纷",
+    "basis": "警方初步通报",
+    "summary": "警方初查称考试不合格未获毕业证及不满实习报酬，返校行凶。",
+    "source_ids": [
+      "CS005"
+    ]
+  },
+  {
+    "event_id": "C002",
+    "category": "core",
+    "tag": "泄愤",
+    "theme": "泄愤／转移报复",
+    "basis": "警方初步通报",
+    "summary": "警方初查称考试不合格未获毕业证及不满实习报酬，返校行凶。",
+    "source_ids": [
+      "CS005"
+    ]
+  },
+  {
+    "event_id": "C003",
+    "category": "core",
+    "tag": "投资亏损",
+    "theme": "经济／工作／财产纠纷",
+    "basis": "法院认定",
+    "summary": "法院认定投资亏损及家庭矛盾，借袭击发泄个人情绪。",
+    "source_ids": [
+      "CS006"
+    ]
+  },
+  {
+    "event_id": "C003",
+    "category": "core",
+    "tag": "婚姻家庭",
+    "theme": "婚姻／家庭／感情问题",
+    "basis": "法院认定",
+    "summary": "法院认定投资亏损及家庭矛盾，借袭击发泄个人情绪。",
+    "source_ids": [
+      "CS006"
+    ]
+  },
+  {
+    "event_id": "C003",
+    "category": "core",
+    "tag": "泄愤",
+    "theme": "泄愤／转移报复",
+    "basis": "法院认定",
+    "summary": "法院认定投资亏损及家庭矛盾，借袭击发泄个人情绪。",
+    "source_ids": [
+      "CS006"
+    ]
+  },
+  {
+    "event_id": "C043",
+    "category": "excluded",
+    "tag": "不满处罚",
+    "theme": "其他已披露背景",
+    "basis": "法院认定",
+    "summary": "因盗窃被行政拘留后，认为生活不公，放火泄愤。",
+    "source_ids": [
+      "CS054"
+    ]
+  },
+  {
+    "event_id": "C043",
+    "category": "excluded",
+    "tag": "泄愤",
+    "theme": "泄愤／转移报复",
+    "basis": "法院认定",
+    "summary": "因盗窃被行政拘留后，认为生活不公，放火泄愤。",
+    "source_ids": [
+      "CS054"
+    ]
+  },
+  {
+    "event_id": "C023",
+    "category": "expanded",
+    "tag": "感情纠纷",
+    "theme": "婚姻／家庭／感情问题",
+    "basis": "警方初步通报",
+    "summary": "与前女友感情纠纷、到其工作单位发生口角。",
+    "source_ids": [
+      "CS033"
+    ]
+  },
+  {
+    "event_id": "C019",
+    "category": "pending",
+    "tag": "学业受挫",
+    "theme": "学业问题",
+    "basis": "警方初步通报",
+    "summary": "警方称因学业不顺行凶。",
+    "source_ids": [
+      "CS028"
+    ]
+  },
+  {
+    "event_id": "C025",
+    "category": "excluded",
+    "tag": "现场纠纷",
+    "theme": "其他已披露背景",
+    "basis": "警方初步通报",
+    "summary": "前车卸货挡道持续鸣笛，与围车群众争执后强行驶离。",
+    "source_ids": [
+      "CS035"
+    ]
+  }
+]

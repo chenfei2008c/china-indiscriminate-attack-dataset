@@ -1,0 +1,326 @@
+{
+  "A001": {
+    "official_classification": true,
+    "classification_evidence": "官方事实直接支持",
+    "basis": "法院查明预谋到繁华公共场所杀害无辜群众，实际攻击顾客和员工，官方描述直接支持针对无关公众。",
+    "source_ids": [
+      "AS001"
+    ],
+    "category_unchanged": "core",
+    "review_scope": "仅复核官方分类敏感性标签，不重分类；未新增搜索"
+  },
+  "A003": {
+    "official_classification": false,
+    "classification_evidence": "官方确认发生；随机性／扩大关系含研究解释",
+    "basis": "法院材料明确个人纠纷后在KTV纵火及群体伤亡，但现有摘录未明确原始攻击对象、受害关系及扩大过程；归为纠纷扩大包含研究者根据场景的解释。只降低官方分类敏感性标签，不否定纵火事实。",
+    "source_ids": [
+      "AS004"
+    ],
+    "category_unchanged": "expanded",
+    "review_scope": "仅复核官方分类敏感性标签，不重分类；未新增搜索"
+  },
+  "A004": {
+    "official_classification": true,
+    "classification_evidence": "官方事实直接支持",
+    "basis": "法院明确未找到旧同学后改为袭击放学学生，原怨恨对象与实际受害者分离。",
+    "source_ids": [
+      "AS005",
+      "AS006"
+    ],
+    "category_unchanged": "core",
+    "review_scope": "仅复核官方分类敏感性标签，不重分类；未新增搜索"
+  },
+  "A006": {
+    "official_classification": false,
+    "classification_evidence": "官方确认发生；随机性／扩大关系含研究解释",
+    "basis": "法院明确故意、连续冲撞多名行人，足以确认攻击发生与故意性；现有材料未明确随机选择或受害人与嫌犯的关系。核心主分析保留，严格官方分类敏感性按研究解释处理。",
+    "source_ids": [
+      "AS008"
+    ],
+    "category_unchanged": "core",
+    "review_scope": "仅复核官方分类敏感性标签，不重分类；未新增搜索"
+  },
+  "A007": {
+    "official_classification": true,
+    "classification_evidence": "官方事实直接支持",
+    "basis": "法院认定报复社会，连续攻击公交乘客及车外路人，官方披露的对象与行为过程支持公众目标。",
+    "source_ids": [
+      "AS009"
+    ],
+    "category_unchanged": "core",
+    "review_scope": "仅复核官方分类敏感性标签，不重分类；未新增搜索"
+  },
+  "A008": {
+    "official_classification": false,
+    "classification_evidence": "官方确认发生；随机性／扩大关系含研究解释",
+    "basis": "警方确认驾驶叉车撞击行人、制止无效后继续危害，但未明确目标选择及被害关系；不以道路场景和人数直接充当官方随机性认定。",
+    "source_ids": [
+      "AS010"
+    ],
+    "category_unchanged": "core",
+    "review_scope": "仅复核官方分类敏感性标签，不重分类；未新增搜索"
+  },
+  "A009": {
+    "official_classification": true,
+    "classification_evidence": "官方事实直接支持",
+    "basis": "法院明确工作生活不顺后为泄愤事先选择学校附近，杀害无辜儿童和家长。",
+    "source_ids": [
+      "AS011"
+    ],
+    "category_unchanged": "core",
+    "review_scope": "仅复核官方分类敏感性标签，不重分类；未新增搜索"
+  },
+  "A010": {
+    "official_classification": true,
+    "classification_evidence": "官方事实直接支持",
+    "basis": "后续警方通气会披露持双刀沿多路段行凶，逃离中主动砍伤过路女子并抢夺其电动车；该官方具体攻击过程支持原纠纷之外的过路者目标，证据强于仅初报多名路人受伤。",
+    "source_ids": [
+      "RS001"
+    ],
+    "category_unchanged": "core",
+    "review_scope": "仅复核官方分类敏感性标签，不重分类；未新增搜索"
+  },
+  "A011": {
+    "official_classification": true,
+    "classification_evidence": "官方事实直接支持",
+    "basis": "法院认定个人怨恨后驾车冲撞广场公共人群并下车继续持械袭击，行为指向与原怨恨无关的在场公众。",
+    "source_ids": [
+      "AS013"
+    ],
+    "category_unchanged": "core",
+    "review_scope": "仅复核官方分类敏感性标签，不重分类；未新增搜索"
+  },
+  "A012": {
+    "official_classification": false,
+    "classification_evidence": "官方确认发生；随机性／扩大关系含研究解释",
+    "basis": "法院认定家庭争执后泄愤冲撞停放及正常行驶车辆，但现有记载未明确各被害人与原争执的关系；核心而非纠纷扩大的区分仍含研究解释，原理由中的未发现先攻击丈夫不构成正面证据。",
+    "source_ids": [
+      "AS014"
+    ],
+    "category_unchanged": "core",
+    "review_scope": "仅复核官方分类敏感性标签，不重分类；未新增搜索"
+  },
+  "A049": {
+    "official_classification": true,
+    "classification_evidence": "官方事实直接支持",
+    "basis": "警方明确家庭变故后酒后泄愤，攻击候车学生家长并劫持车内女孩、伤害司机，官方过程直接支持无关公众目标。",
+    "source_ids": [
+      "AS053",
+      "AS054"
+    ],
+    "category_unchanged": "core",
+    "review_scope": "仅复核官方分类敏感性标签，不重分类；未新增搜索"
+  },
+  "A013": {
+    "official_classification": false,
+    "classification_evidence": "官方确认发生；随机性／扩大关系含研究解释",
+    "basis": "公安负责人确认突然冲入幼儿群体持刀行凶，官方事实支持校园群体袭击；被害关系、原始目标及无关性没有明确披露，非特定私人对象为研究者依据场景作出的分类解释。",
+    "source_ids": [
+      "AS015",
+      "AS016"
+    ],
+    "category_unchanged": "core",
+    "review_scope": "仅复核官方分类敏感性标签，不重分类；未新增搜索"
+  },
+  "A015": {
+    "official_classification": true,
+    "classification_evidence": "官方事实直接支持",
+    "basis": "法院认定经济、婚姻等个人不满后蓄意冲撞学生队伍，官方行为事实支持将个人不满转向无关学生。",
+    "source_ids": [
+      "AS018"
+    ],
+    "category_unchanged": "core",
+    "review_scope": "仅复核官方分类敏感性标签，不重分类；未新增搜索"
+  },
+  "A016": {
+    "official_classification": true,
+    "classification_evidence": "官方事实直接支持",
+    "basis": "法院认定为报复社会在公交车引爆爆炸物，攻击目标为公共交通乘客。",
+    "source_ids": [
+      "AS019"
+    ],
+    "category_unchanged": "core",
+    "review_scope": "仅复核官方分类敏感性标签，不重分类；未新增搜索"
+  },
+  "A017": {
+    "official_classification": true,
+    "classification_evidence": "官方事实直接支持",
+    "basis": "法院和公安调查明确先因积怨攻击居委会等相关人员，随后劫持公交冲撞沿途群众，原目标到无关公众的扩大过程直接可见。",
+    "source_ids": [
+      "AS055"
+    ],
+    "category_unchanged": "expanded",
+    "review_scope": "仅复核官方分类敏感性标签，不重分类；未新增搜索"
+  },
+  "A018": {
+    "official_classification": true,
+    "classification_evidence": "官方事实直接支持",
+    "basis": "官方发布会明确维修劳务合同纠纷后转而伤害20名小学生，原纠纷是劳动聘用问题，实际受害者是学生群体。",
+    "source_ids": [
+      "AS021"
+    ],
+    "category_unchanged": "core",
+    "review_scope": "仅复核官方分类敏感性标签，不重分类；未新增搜索"
+  },
+  "A020": {
+    "official_classification": true,
+    "classification_evidence": "官方事实直接支持",
+    "basis": "警方续报明确起因为与前妻及其男友纠纷，逃跑途中继续伤害路人并抢车，扩大过程直接披露。",
+    "source_ids": [
+      "AS023"
+    ],
+    "category_unchanged": "expanded",
+    "review_scope": "仅复核官方分类敏感性标签，不重分类；未新增搜索"
+  },
+  "A023": {
+    "official_classification": true,
+    "classification_evidence": "官方事实直接支持",
+    "basis": "市政府通报明确先伤害妻女，随后驾车冲撞街道行人，特定家属目标到其他公众的过程明确。",
+    "source_ids": [
+      "AS027"
+    ],
+    "category_unchanged": "expanded",
+    "review_scope": "仅复核官方分类敏感性标签，不重分类；未新增搜索"
+  },
+  "A024": {
+    "official_classification": true,
+    "classification_evidence": "官方事实直接支持",
+    "basis": "司法材料披露产生杀害儿童想法后进入小学持续攻击学生，支持面向儿童群体的主动袭击；依据为法院描述的目标形成和行为过程，不只依据死伤人数。",
+    "source_ids": [
+      "AS028"
+    ],
+    "category_unchanged": "core",
+    "review_scope": "仅复核官方分类敏感性标签，不重分类；未新增搜索"
+  },
+  "A025": {
+    "official_classification": true,
+    "classification_evidence": "官方事实直接支持",
+    "basis": "法院明确为报复社会连续寻找独行女性袭击，实际被害人与个人经营及婚姻问题无关。",
+    "source_ids": [
+      "AS029"
+    ],
+    "category_unchanged": "core",
+    "review_scope": "仅复核官方分类敏感性标签，不重分类；未新增搜索"
+  },
+  "A026": {
+    "official_classification": true,
+    "classification_evidence": "官方事实直接支持",
+    "basis": "法院查明尾随陌生女性后选择一人袭击，陌生目标关系直接披露。",
+    "source_ids": [
+      "AS030"
+    ],
+    "category_unchanged": "core",
+    "review_scope": "仅复核官方分类敏感性标签，不重分类；未新增搜索"
+  },
+  "A027": {
+    "official_classification": true,
+    "classification_evidence": "官方事实直接支持",
+    "basis": "警方通报明确寻找前女友未果后刺死小区车库无关女子，原纠纷对象与实际受害者不同。",
+    "source_ids": [
+      "AS031"
+    ],
+    "category_unchanged": "core",
+    "review_scope": "仅复核官方分类敏感性标签，不重分类；未新增搜索"
+  },
+  "A028": {
+    "official_classification": false,
+    "classification_evidence": "官方确认发生；随机性／扩大关系含研究解释",
+    "basis": "法院布告确认故意杀人及8名学生死亡、2人受伤，但未披露被害关系和选择机制；初报中的校园群体袭击及未发现私人纠纷不能单独算官方明确支持随机性。",
+    "source_ids": [
+      "AS032"
+    ],
+    "category_unchanged": "core",
+    "review_scope": "仅复核官方分类敏感性标签，不重分类；未新增搜索"
+  },
+  "A029": {
+    "official_classification": true,
+    "classification_evidence": "官方事实直接支持",
+    "basis": "警方通报供述生活不顺后报复社会，向幼儿园师生喷洒腐蚀性液体，公开目标和行为明确。",
+    "source_ids": [
+      "AS033"
+    ],
+    "category_unchanged": "core",
+    "review_scope": "仅复核官方分类敏感性标签，不重分类；未新增搜索"
+  },
+  "A032": {
+    "official_classification": true,
+    "classification_evidence": "官方事实直接支持",
+    "basis": "法院明确因诊疗不满攻击医生，随后砍伤3名阻拦者，原医患纠纷之外人员被主动攻击的过程明确；阻拦者参与现场制止不等同原纠纷当事人。",
+    "source_ids": [
+      "AS036"
+    ],
+    "category_unchanged": "expanded",
+    "review_scope": "仅复核官方分类敏感性标签，不重分类；未新增搜索"
+  },
+  "A033": {
+    "official_classification": true,
+    "classification_evidence": "官方事实直接支持",
+    "basis": "检方通报明确厌世、报复社会后沿省道连续撞击行人并持石继续攻击，直接支持公众目标；证据层级为检方指控，不能写成法院最终认定。",
+    "source_ids": [
+      "AS037"
+    ],
+    "category_unchanged": "core",
+    "review_scope": "仅复核官方分类敏感性标签，不重分类；未新增搜索"
+  },
+  "A034": {
+    "official_classification": true,
+    "classification_evidence": "官方事实直接支持",
+    "basis": "法院明确工作纠纷先袭击同事，再砍击无关学生等人员，纠纷扩大过程直接可见。",
+    "source_ids": [
+      "AS038"
+    ],
+    "category_unchanged": "expanded",
+    "review_scope": "仅复核官方分类敏感性标签，不重分类；未新增搜索"
+  },
+  "A037": {
+    "official_classification": true,
+    "classification_evidence": "官方事实直接支持",
+    "basis": "法院案情明确先袭击无辜路人，后因乘车费用纠纷另杀司机；最初对无关路人的主动袭击已独立符合核心定义。",
+    "source_ids": [
+      "AS041"
+    ],
+    "category_unchanged": "core",
+    "review_scope": "仅复核官方分类敏感性标签，不重分类；未新增搜索"
+  },
+  "A038": {
+    "official_classification": true,
+    "classification_evidence": "官方事实直接支持",
+    "basis": "警方直接认定针对不特定人群的个人极端犯罪，并调查排除车辆故障与驾驶中外部干扰。",
+    "source_ids": [
+      "AS042"
+    ],
+    "category_unchanged": "core",
+    "review_scope": "仅复核官方分类敏感性标签，不重分类；未新增搜索"
+  },
+  "A039": {
+    "official_classification": true,
+    "classification_evidence": "官方事实直接支持",
+    "basis": "司法材料披露因门锁问题欲在闹市刺杀女性扩大影响，持续寻找陌生女性目标，关系及选择机制明确。",
+    "source_ids": [
+      "AS043"
+    ],
+    "category_unchanged": "core",
+    "review_scope": "仅复核官方分类敏感性标签，不重分类；未新增搜索"
+  },
+  "A040": {
+    "official_classification": true,
+    "classification_evidence": "官方事实直接支持",
+    "basis": "法院庭审报道转述检方指控欲杀害无关学生以引起关注，继而连续袭击上学学生；保留指控层级，不把已披露当作终审确认。",
+    "source_ids": [
+      "AS044",
+      "AS045"
+    ],
+    "category_unchanged": "core",
+    "review_scope": "仅复核官方分类敏感性标签，不重分类；未新增搜索"
+  },
+  "A042": {
+    "official_classification": true,
+    "classification_evidence": "官方事实直接支持",
+    "basis": "警方直接使用随机刺伤路人的行为描述，官方通报支持对道路公众的随机袭击。",
+    "source_ids": [
+      "AS047"
+    ],
+    "category_unchanged": "core",
+    "review_scope": "仅复核官方分类敏感性标签，不重分类；未新增搜索"
+  }
+}

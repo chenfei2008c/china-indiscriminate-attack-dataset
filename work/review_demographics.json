@@ -1,0 +1,484 @@
+{
+  "C001": {
+    "age": 62,
+    "sex": "男",
+    "occupation": null,
+    "source_ids": [
+      "CS001",
+      "CS002",
+      "CS003",
+      "RSD001"
+    ],
+    "field_sources": {
+      "date": [
+        "CS001",
+        "CS003"
+      ],
+      "location": [
+        "CS001",
+        "CS003"
+      ],
+      "casualties": [
+        "CS003"
+      ],
+      "classification": [
+        "CS001"
+      ],
+      "motive": [
+        "CS001"
+      ],
+      "outcome": [
+        "CS001",
+        "CS002"
+      ],
+      "demographics": [
+        "RSD001"
+      ]
+    },
+    "notes": "人口特征复核：年龄性别据11月12日警方通报完整文字；驾驶车辆为行为描述，职业仍未知。",
+    "demographics_asof": "2024-11-11",
+    "demographics_basis": "案发时警方披露年龄/性别；职业按逐项来源归因"
+  },
+  "C002": {
+    "age": 21,
+    "sex": "男",
+    "occupation": "该校2024届毕业生（警方披露身份；就业状态未明）",
+    "source_ids": [
+      "CS004",
+      "CS005"
+    ],
+    "field_sources": {
+      "date": [
+        "CS004",
+        "CS005"
+      ],
+      "location": [
+        "CS004",
+        "CS005"
+      ],
+      "casualties": [
+        "CS004",
+        "CS005"
+      ],
+      "classification": [
+        "CS004",
+        "CS005"
+      ],
+      "motive": [
+        "CS005"
+      ],
+      "outcome": [
+        "CS004",
+        "CS005"
+      ],
+      "demographics": [
+        "CS005"
+      ]
+    },
+    "notes": "不采用网传遗书及欠薪细节作为确定事实。 人口特征复核：警方披露年龄性别及该校2024届毕业生身份；未拿到毕业证与实习报酬不满不等于已证实无业。",
+    "demographics_asof": "2024-11-16",
+    "demographics_basis": "案发时警方披露年龄/性别；职业按逐项来源归因"
+  },
+  "C003": {
+    "age": 39,
+    "sex": "男",
+    "occupation": null,
+    "source_ids": [
+      "CS006",
+      "RSD002"
+    ],
+    "field_sources": {
+      "date": [
+        "CS006"
+      ],
+      "location": [
+        "CS006"
+      ],
+      "casualties": [
+        "CS006"
+      ],
+      "classification": [
+        "CS006"
+      ],
+      "motive": [
+        "CS006"
+      ],
+      "outcome": [
+        "CS006"
+      ],
+      "demographics": [
+        "RSD002"
+      ]
+    },
+    "notes": "人口特征复核：财新转述案发当日鼎城警方通报，男39岁；所用法院正文未列年龄，增补警方通报转述；职业未知。",
+    "demographics_asof": "2024-11-19",
+    "demographics_basis": "案发时警方披露年龄/性别；职业按逐项来源归因"
+  },
+  "C004": {
+    "age": 37,
+    "sex": "男",
+    "occupation": null,
+    "source_ids": [
+      "CS007"
+    ],
+    "field_sources": {
+      "date": [
+        "CS007"
+      ],
+      "location": [
+        "CS007"
+      ],
+      "casualties": [
+        "CS007"
+      ],
+      "classification": [
+        "CS007"
+      ],
+      "motive": [
+        "CS007"
+      ],
+      "outcome": [
+        "CS007"
+      ],
+      "demographics": [
+        "CS007"
+      ]
+    },
+    "notes": "网传内部材料、欠薪原因及全名不采信。 人口特征复核：松江警方通报明确男37岁，未披露职业。",
+    "demographics_asof": "2024-09-30",
+    "demographics_basis": "案发时警方披露年龄/性别；职业按逐项来源归因"
+  },
+  "C008": {
+    "age": 45,
+    "sex": "女",
+    "occupation": "当地医护人员（居民接受南风窗采访所述，警方未确认）",
+    "source_ids": [
+      "CS013",
+      "CS014"
+    ],
+    "field_sources": {
+      "date": [
+        "CS013",
+        "CS014"
+      ],
+      "location": [
+        "CS013",
+        "CS014"
+      ],
+      "casualties": [
+        "CS013",
+        "CS014"
+      ],
+      "classification": [
+        "CS013",
+        "CS014"
+      ],
+      "motive": [],
+      "outcome": [],
+      "demographics": [
+        "CS013",
+        "CS014"
+      ]
+    },
+    "notes": "动机未披露；不把性格描述当精神医学诊断。 人口特征复核：年龄性别为警方通报；职业仅为多名居民接受南风窗采访的陈述，警方回应以通报为准，须保留此证据层级。",
+    "demographics_asof": "2024-05-20",
+    "demographics_basis": "案发时警方披露年龄/性别；职业按逐项来源归因"
+  },
+  "C011": {
+    "age": 55,
+    "sex": "男",
+    "occupation": null,
+    "source_ids": [
+      "CS017"
+    ],
+    "field_sources": {
+      "date": [
+        "CS017"
+      ],
+      "location": [
+        "CS017"
+      ],
+      "casualties": [
+        "CS017"
+      ],
+      "classification": [
+        "CS017"
+      ],
+      "motive": [
+        "CS017"
+      ],
+      "outcome": [],
+      "demographics": [
+        "CS017"
+      ]
+    },
+    "notes": "不据外籍身份推定仇外动机。 人口特征复核：船营警方通报明确男55岁，未披露职业；授课人员为受害者，不是嫌疑人职业。",
+    "demographics_asof": "2024-06-10",
+    "demographics_basis": "案发时警方披露年龄/性别；职业按逐项来源归因"
+  },
+  "C013": {
+    "age": 52,
+    "sex": "男",
+    "occupation": "无业（警方通报）",
+    "source_ids": [
+      "CS019",
+      "CS022",
+      "CS059",
+      "CS060",
+      "RSD003"
+    ],
+    "field_sources": {
+      "date": [
+        "CS019",
+        "CS022",
+        "CS059",
+        "CS060"
+      ],
+      "location": [
+        "CS019",
+        "CS022",
+        "CS059",
+        "CS060"
+      ],
+      "casualties": [
+        "CS019",
+        "CS022",
+        "CS059",
+        "CS060"
+      ],
+      "classification": [
+        "CS019",
+        "CS022",
+        "CS059",
+        "CS060"
+      ],
+      "motive": [
+        "CS059"
+      ],
+      "outcome": [
+        "CS022",
+        "CS059",
+        "CS060"
+      ],
+      "demographics": [
+        "RSD003",
+        "CS059"
+      ]
+    },
+    "notes": "法院认定内容由日方对判决的说明转述；执行通知日期不得当作实际执行日。 人口特征复核：采用案发次日警方通报男52岁、无业，避免将2025年报道年龄当作精确案发年龄；FNN判决报道亦称无职。",
+    "demographics_asof": "2024-06-24",
+    "demographics_basis": "案发时警方披露年龄/性别；职业按逐项来源归因"
+  },
+  "C014": {
+    "age": 44,
+    "sex": "男",
+    "occupation": "无固定职业",
+    "source_ids": [
+      "CS020",
+      "CS021",
+      "CS060"
+    ],
+    "field_sources": {
+      "date": [
+        "CS020",
+        "CS021",
+        "CS060"
+      ],
+      "location": [
+        "CS020",
+        "CS021",
+        "CS060"
+      ],
+      "casualties": [
+        "CS020",
+        "CS021",
+        "CS060"
+      ],
+      "classification": [
+        "CS020",
+        "CS021",
+        "CS060"
+      ],
+      "motive": [
+        "CS060"
+      ],
+      "outcome": [
+        "CS021",
+        "CS060"
+      ],
+      "demographics": [
+        "CS020"
+      ]
+    },
+    "notes": "涉嫌旧违法经历非既往暴力定罪；不得因日期或国籍推定仇外动机。 人口特征复核：深圳特区报记者向警方核实男44岁、无固定职业。",
+    "demographics_asof": "2024-09-18",
+    "demographics_basis": "案发时警方披露年龄/性别；职业按逐项来源归因"
+  },
+  "C015": {
+    "age": 60,
+    "sex": "男",
+    "occupation": null,
+    "source_ids": [
+      "CS023"
+    ],
+    "field_sources": {
+      "date": [
+        "CS023"
+      ],
+      "location": [
+        "CS023"
+      ],
+      "casualties": [
+        "CS023"
+      ],
+      "classification": [
+        "CS023"
+      ],
+      "motive": [],
+      "outcome": [],
+      "demographics": [
+        "CS023"
+      ]
+    },
+    "notes": "本案动机未知，不能将旧情感纠纷当作本次动机。 人口特征复核：财新转述天河警方为60岁男子；刑释及初中文化不等于职业信息，仍未知。",
+    "demographics_asof": "2024-10-08",
+    "demographics_basis": "案发时警方披露年龄/性别；职业按逐项来源归因"
+  },
+  "C016": {
+    "age": 50,
+    "sex": "男",
+    "occupation": null,
+    "source_ids": [
+      "CS024",
+      "CS025"
+    ],
+    "field_sources": {
+      "date": [
+        "CS024",
+        "CS025"
+      ],
+      "location": [
+        "CS024",
+        "CS025"
+      ],
+      "casualties": [
+        "CS024",
+        "CS025"
+      ],
+      "classification": [
+        "CS024",
+        "CS025"
+      ],
+      "motive": [],
+      "outcome": [],
+      "demographics": [
+        "CS024"
+      ]
+    },
+    "notes": "不采用网传被辞退保安等身份与动机。 人口特征复核：海淀警方通报明确男50岁；未采网传被辞退保安身份。",
+    "demographics_asof": "2024-10-28",
+    "demographics_basis": "案发时警方披露年龄/性别；职业按逐项来源归因"
+  },
+  "C017": {
+    "age": 29,
+    "sex": "男",
+    "occupation": null,
+    "source_ids": [
+      "CS026"
+    ],
+    "field_sources": {
+      "date": [
+        "CS026"
+      ],
+      "location": [
+        "CS026"
+      ],
+      "casualties": [
+        "CS026"
+      ],
+      "classification": [
+        "CS026"
+      ],
+      "motive": [],
+      "outcome": [],
+      "demographics": [
+        "CS026"
+      ]
+    },
+    "notes": "街道袭击，虽邻地铁站仍归街道交通场景。 人口特征复核：南国早报完整引用新都警方通报男29岁；职业未披露。",
+    "demographics_asof": "2024-12-10",
+    "demographics_basis": "案发时警方披露年龄/性别；职业按逐项来源归因"
+  },
+  "C022": {
+    "age": 48,
+    "sex": "男",
+    "occupation": null,
+    "source_ids": [
+      "CS031",
+      "CS032"
+    ],
+    "field_sources": {
+      "date": [
+        "CS031",
+        "CS032"
+      ],
+      "location": [
+        "CS031",
+        "CS032"
+      ],
+      "casualties": [
+        "CS031",
+        "CS032"
+      ],
+      "classification": [
+        "CS031",
+        "CS032"
+      ],
+      "motive": [],
+      "outcome": [
+        "CS031",
+        "CS032"
+      ],
+      "demographics": [
+        "CS032"
+      ]
+    },
+    "notes": "人口特征复核：平安茅箭完整通报明确男48岁；车辆驾驶员是案中角色，职业未披露。",
+    "demographics_asof": "2025-10-22",
+    "demographics_basis": "案发时警方披露年龄/性别；职业按逐项来源归因"
+  },
+  "C023": {
+    "age": 26,
+    "sex": "男",
+    "occupation": null,
+    "source_ids": [
+      "CS033"
+    ],
+    "field_sources": {
+      "date": [
+        "CS033"
+      ],
+      "location": [
+        "CS033"
+      ],
+      "casualties": [
+        "CS033"
+      ],
+      "classification": [
+        "CS033"
+      ],
+      "motive": [
+        "CS033"
+      ],
+      "outcome": [
+        "CS033"
+      ],
+      "demographics": [
+        "CS033"
+      ]
+    },
+    "notes": "人口特征复核：锦江警方明确男26岁；工作单位和同事指向受害者，不能套用为嫌疑人职业。",
+    "demographics_asof": "2025-05-30",
+    "demographics_basis": "案发时警方披露年龄/性别；职业按逐项来源归因"
+  }
+}

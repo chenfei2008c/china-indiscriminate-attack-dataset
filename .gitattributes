@@ -1,0 +1,3 @@
+# Keep spreadsheet-friendly CRLF in CSV working copies; store normalized text in Git.
+*.csv text eol=crlf
+*.xlsx binary
